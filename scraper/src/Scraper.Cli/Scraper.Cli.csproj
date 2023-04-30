@@ -1,0 +1,5 @@
+<Project Sdk="Microsoft.NET.Sdk">
+    <ItemGroup>
+        <ProjectReference Include="..\Scraper.Lib\Scraper.Lib.csproj" />
+    </ItemGroup>
+</Project>

@@ -1,0 +1,52 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = ".solutionItems", ".solutionItems", "{082622AE-71E8-4517-855D-27859AE7070B}"
+	ProjectSection(SolutionItems) = preProject
+		.editorconfig = .editorconfig
+		Directory.Build.props = Directory.Build.props
+		Directory.Build.targets = Directory.Build.targets
+		..\LICENSE = ..\LICENSE
+		..\README.md = ..\README.md
+		README.md = README.md
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "src", "src", "{F4578FDF-C795-47D2-8291-04B94F8DF01A}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "tests", "tests", "{C2B5E888-B408-455E-8FE2-034DED8AA0ED}"
+	ProjectSection(SolutionItems) = preProject
+		tests\Directory.Build.props = tests\Directory.Build.props
+		tests\Directory.Build.targets = tests\Directory.Build.targets
+		tests\Usings.cs = tests\Usings.cs
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Scraper.Cli", "src\Scraper.Cli\Scraper.Cli.csproj", "{01DD0DAD-0F2E-477A-955A-30047CA1CFB4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Scraper.Lib", "src\Scraper.Lib\Scraper.Lib.csproj", "{9FC60FEC-FA0F-4575-82DB-7FF064CF1A84}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Scraper.Lib.Tests", "tests\Scraper.Lib.Tests\Scraper.Lib.Tests.csproj", "{C51BB82D-8150-4BA0-B74B-4A40513245CA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{01DD0DAD-0F2E-477A-955A-30047CA1CFB4} = {F4578FDF-C795-47D2-8291-04B94F8DF01A}
+		{9FC60FEC-FA0F-4575-82DB-7FF064CF1A84} = {F4578FDF-C795-47D2-8291-04B94F8DF01A}
+		{C51BB82D-8150-4BA0-B74B-4A40513245CA} = {C2B5E888-B408-455E-8FE2-034DED8AA0ED}
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{01DD0DAD-0F2E-477A-955A-30047CA1CFB4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{01DD0DAD-0F2E-477A-955A-30047CA1CFB4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{01DD0DAD-0F2E-477A-955A-30047CA1CFB4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{01DD0DAD-0F2E-477A-955A-30047CA1CFB4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9FC60FEC-FA0F-4575-82DB-7FF064CF1A84}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9FC60FEC-FA0F-4575-82DB-7FF064CF1A84}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9FC60FEC-FA0F-4575-82DB-7FF064CF1A84}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9FC60FEC-FA0F-4575-82DB-7FF064CF1A84}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C51BB82D-8150-4BA0-B74B-4A40513245CA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C51BB82D-8150-4BA0-B74B-4A40513245CA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C51BB82D-8150-4BA0-B74B-4A40513245CA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C51BB82D-8150-4BA0-B74B-4A40513245CA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

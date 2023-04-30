@@ -1,0 +1,13 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+    <ItemGroup>
+        <PackageReference Include="OneOf" Version="3.0.243" />
+        <PackageReference Include="System.Threading.RateLimiting" Version="7.0.0" />
+        <PackageReference Include="Vogen" Version="3.0.15" />
+    </ItemGroup>
+
+    <ItemGroup>
+        <InternalsVisibleTo Include="Scraper.Lib.Tests" />
+    </ItemGroup>
+    
+</Project>
