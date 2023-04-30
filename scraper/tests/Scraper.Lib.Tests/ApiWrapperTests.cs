@@ -73,7 +73,7 @@ public class ApiWrapperTests
 
         var fixture = new Fixture().AddValueObjects();
         var expectedElements = fixture
-            .CreateMany<CatalogNamespaceEnumerationResult.Element>(count:totalElements)
+            .CreateMany<CatalogNamespaceEnumerationResult.Element>(count: totalElements)
             .ToList();
 
         var httpMessageHandler = new Mock<HttpMessageHandler>(MockBehavior.Strict);

@@ -117,7 +117,7 @@ public class ApiWrapper
 
             responseMessage.EnsureSuccessStatusCode();
             var result = await responseMessage.Content
-                .ReadFromJsonAsync<CatalogNamespaceEnumerationResult>(cancellationToken:cancellationToken)
+                .ReadFromJsonAsync<CatalogNamespaceEnumerationResult>(cancellationToken: cancellationToken)
                 .ConfigureAwait(false);
 
             if (result is null)

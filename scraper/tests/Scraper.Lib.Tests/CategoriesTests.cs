@@ -6,7 +6,7 @@ namespace Scraper.Lib.Tests;
 
 public class CategoriesTests
 {
-    public record DummyObject([property:JsonPropertyName("categories")]Categories Categories);
+    public record DummyObject([property: JsonPropertyName("categories")] Categories Categories);
 
     [Fact]
     public void Test_Converter_ReadOriginal()

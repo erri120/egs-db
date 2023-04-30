@@ -8,7 +8,7 @@ namespace Scraper.Lib.ValueObjects;
 /// Represents an api token.
 /// </summary>
 [PublicAPI]
-[ValueObject<string>(conversions:Conversions.SystemTextJson)]
+[ValueObject<string>(conversions: Conversions.SystemTextJson)]
 [SuppressMessage(
     "Usage",
     "AddValidationMethod:Value Objects can have validation",
