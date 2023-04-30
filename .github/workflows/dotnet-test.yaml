@@ -1,0 +1,32 @@
+name: dotnet test
+
+on:
+  push:
+    branches: [ main ]
+  pull_request:
+    branches: [ main ]
+
+env:
+  SOLUTION: "scraper/egs-db.sln"
+
+jobs:
+  test:
+    runs-on: ubuntu-latest
+
+    steps:
+    - uses: actions/checkout@v3
+
+    - name: Print Debug Info
+      run: dotnet restore ${{ env.SOLUTION }}
+
+    - name: Restore dependencies
+      run: dotnet restore ${{ env.SOLUTION }}
+
+    - name: Check formatting
+      run: dotnet format --no-restore --verify-no-changes --severity error ${{ env.SOLUTION }}
+
+    - name: Build
+      run: dotnet build --no-restore ${{ env.SOLUTION }}
+
+    - name: Test
+      run: dotnet test --no-restore --no-build ${{ env.SOLUTION }}
