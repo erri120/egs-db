@@ -2,6 +2,7 @@ using System.Text;
 using System.Web;
 using Moq.Contrib.HttpClient;
 using Scraper.Lib.Models;
+using Scraper.Lib.Services;
 using Scraper.Lib.Tests.Setup;
 using Scraper.Lib.ValueObjects;
 

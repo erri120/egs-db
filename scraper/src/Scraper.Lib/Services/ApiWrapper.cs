@@ -13,7 +13,7 @@ using OneOf;
 using Scraper.Lib.Models;
 using Scraper.Lib.ValueObjects;
 
-namespace Scraper.Lib;
+namespace Scraper.Lib.Services;
 
 /// <summary>
 /// Wrapper for the public Api of the Epic Games Store

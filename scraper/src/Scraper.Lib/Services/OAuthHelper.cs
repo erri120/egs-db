@@ -12,7 +12,7 @@ using OneOf;
 using Scraper.Lib.Models;
 using Scraper.Lib.ValueObjects;
 
-namespace Scraper.Lib;
+namespace Scraper.Lib.Services;
 
 [PublicAPI]
 public class OAuthHelper
