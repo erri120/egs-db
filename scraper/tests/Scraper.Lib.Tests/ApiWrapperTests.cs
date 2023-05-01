@@ -3,6 +3,7 @@ using System.Net;
 using System.Web;
 using Moq.Contrib.HttpClient;
 using Scraper.Lib.Models;
+using Scraper.Lib.Tests.Setup;
 using Scraper.Lib.ValueObjects;
 
 namespace Scraper.Lib.Tests;

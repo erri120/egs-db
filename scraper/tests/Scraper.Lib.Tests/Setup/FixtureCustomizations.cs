@@ -1,6 +1,6 @@
 using Scraper.Lib.ValueObjects;
 
-namespace Scraper.Lib.Tests;
+namespace Scraper.Lib.Tests.Setup;
 
 public static class FixtureCustomizations
 {

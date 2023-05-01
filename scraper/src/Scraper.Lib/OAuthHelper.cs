@@ -63,11 +63,11 @@ public class OAuthHelper
     /// <summary>
     /// Uses the provided authorization code or refresh token to get an OAuth token.
     /// </summary>
-    /// <param name="authorizationCode"></param>
+    /// <param name="token"></param>
     /// <param name="cancellationToken"></param>
     /// <returns></returns>
     public async ValueTask<OneOf<OAuthResponse, OAuthError>> GetOAuthTokenAsync(
-        AuthorizationCode authorizationCode,
+        OneOf<AuthorizationCode, OAuthRefreshToken> token,
         CancellationToken cancellationToken = default)
     {
         try
@@ -78,12 +78,25 @@ public class OAuthHelper
                 ClientIdAndSecretToBase64(_clientId, _clientSecret)
             );
 
-            requestMessage.Content = new FormUrlEncodedContent(new[]
-            {
-                new KeyValuePair<string, string>("grant_type", "authorization_code"),
-                new KeyValuePair<string, string>("code", authorizationCode.Value),
-                new KeyValuePair<string, string>("token_type", "eg1"),
-            });
+            requestMessage.Content = token.Match(
+                authorizationCode =>
+                {
+                    return new FormUrlEncodedContent(new[]
+                    {
+                        new KeyValuePair<string, string>("grant_type", "authorization_code"),
+                        new KeyValuePair<string, string>("code", authorizationCode.Value),
+                        new KeyValuePair<string, string>("token_type", "eg1"),
+                    });
+                },
+                refreshToken =>
+                {
+                    return new FormUrlEncodedContent(new[]
+                    {
+                        new KeyValuePair<string, string>("grant_type", "refresh_token"),
+                        new KeyValuePair<string, string>("refresh_token", refreshToken.Value),
+                        new KeyValuePair<string, string>("token_type", "eg1"),
+                    });
+                });
 
             using var responseMessage = await _httpClient
                 .SendAsync(requestMessage, cancellationToken: cancellationToken)

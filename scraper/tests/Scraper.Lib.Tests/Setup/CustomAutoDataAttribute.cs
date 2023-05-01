@@ -1,4 +1,4 @@
-namespace Scraper.Lib.Tests;
+namespace Scraper.Lib.Tests.Setup;
 
 public class CustomAutoDataAttribute : AutoDataAttribute
 {
