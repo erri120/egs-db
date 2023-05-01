@@ -61,13 +61,13 @@ public class OAuthHelper
     }
 
     /// <summary>
-    /// Uses the provided authorization code to get an OAuth token.
+    /// Uses the provided authorization code or refresh token to get an OAuth token.
     /// </summary>
     /// <param name="authorizationCode"></param>
     /// <param name="cancellationToken"></param>
     /// <returns></returns>
     public async ValueTask<OneOf<OAuthResponse, OAuthError>> GetOAuthTokenAsync(
-        string authorizationCode,
+        AuthorizationCode authorizationCode,
         CancellationToken cancellationToken = default)
     {
         try
@@ -81,7 +81,7 @@ public class OAuthHelper
             requestMessage.Content = new FormUrlEncodedContent(new[]
             {
                 new KeyValuePair<string, string>("grant_type", "authorization_code"),
-                new KeyValuePair<string, string>("code", authorizationCode),
+                new KeyValuePair<string, string>("code", authorizationCode.Value),
                 new KeyValuePair<string, string>("token_type", "eg1"),
             });
 

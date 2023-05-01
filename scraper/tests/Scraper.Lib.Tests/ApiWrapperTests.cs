@@ -12,8 +12,8 @@ public class ApiWrapperTests
     // alien isolation namespace
     private const string DummyNamespace = "df37f065c3f14eadbf011177396e2966";
 
-    [Fact]
-    public async Task Test_GetCatalogNamespaceItems()
+    [Theory, CustomAutoData]
+    public async Task Test_GetCatalogNamespaceItems(Fixture fixture, OAuthToken oAuthToken)
     {
         var url = string.Format(
             CultureInfo.InvariantCulture,
@@ -21,7 +21,6 @@ public class ApiWrapperTests
             DummyNamespace
         );
 
-        var fixture = new Fixture().AddValueObjects();
         var expectedElements = fixture
             .CreateMany<CatalogNamespaceEnumerationResult.Element>()
             .ToList();
@@ -42,7 +41,7 @@ public class ApiWrapperTests
 
         var res = await wrapper.GetCatalogNamespaceItems(
             url,
-            OAuthToken.From(string.Empty),
+            oAuthToken,
             0,
             expectedElements.Count,
             "US",
@@ -114,7 +113,7 @@ public class ApiWrapperTests
         var wrapper = new ApiWrapper(httpMessageHandler.Object, new EmptyRateLimiter());
 
         var res = wrapper.EnumerateCatalogNamespaceAsync(
-            OAuthToken.From(string.Empty),
+            fixture.Create<OAuthToken>(),
             CatalogNamespace.From(DummyNamespace),
             itemsPerPage: itemsPerPage
         );

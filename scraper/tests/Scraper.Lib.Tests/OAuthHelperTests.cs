@@ -7,12 +7,9 @@ namespace Scraper.Lib.Tests;
 
 public class OAuthHelperTests
 {
-    [Theory, AutoData]
-    public void Test_ToBase64(Guid guid1, Guid guid2)
+    [Theory, CustomAutoData]
+    public void Test_ToBase64(OAuthClientId clientId, OAuthClientSecret clientSecret)
     {
-        var clientId = OAuthClientId.From(guid1.ToString("N"));
-        var clientSecret = OAuthClientSecret.From(guid2.ToString("N"));
-
         var sb = new StringBuilder(clientId.Value.Length + 1 + clientSecret.Value.Length);
         sb.Append(clientId.Value);
         sb.Append(':');
@@ -26,19 +23,23 @@ public class OAuthHelperTests
         result.Should().Be(expectedResult);
     }
 
-    [Theory, AutoData]
-    public async Task Test_GetOAuthTokenAsync(Guid guid1, Guid guid2)
+    [Theory, CustomAutoData]
+    public async Task Test_GetOAuthTokenAsync(
+        OAuthClientId clientId,
+        OAuthClientSecret clientSecret,
+        OAuthToken accessToken,
+        DateTime expiresAt,
+        OAuthRefreshToken refreshToken,
+        DateTime refreshExpiresAt,
+        AuthorizationCode authorizationCode)
     {
-        var clientId = OAuthClientId.From(guid1.ToString("N"));
-        var clientSecret = OAuthClientSecret.From(guid2.ToString("N"));
-
         var base64 = OAuthHelper.ClientIdAndSecretToBase64(clientId, clientSecret);
 
         var expectedResponse = new OAuthResponse(
-            OAuthToken.From("foo"),
-            DateTime.Now,
-            OAuthRefreshToken.From("foo"),
-            DateTime.Now,
+            accessToken,
+            expiresAt,
+            refreshToken,
+            refreshExpiresAt,
             clientId
         );
 
@@ -53,7 +54,7 @@ public class OAuthHelperTests
 
         var oauthHelper = new OAuthHelper(httpMessageHandler.Object, clientId, clientSecret);
 
-        var res = await oauthHelper.GetOAuthTokenAsync("foo");
+        var res = await oauthHelper.GetOAuthTokenAsync(authorizationCode);
         res.IsT0.Should().BeTrue(res.IsT1 ? res.AsT1.Value : string.Empty);
 
         var actualResponse = res.AsT0;
