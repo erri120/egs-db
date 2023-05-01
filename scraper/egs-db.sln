@@ -8,6 +8,8 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = ".solutionItems", ".solution
 		..\LICENSE = ..\LICENSE
 		..\README.md = ..\README.md
 		README.md = README.md
+		..\.gitattributes = ..\.gitattributes
+		..\.gitignore = ..\.gitignore
 	EndProjectSection
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "src", "src", "{F4578FDF-C795-47D2-8291-04B94F8DF01A}"

@@ -13,6 +13,7 @@ public static class FixtureCustomizations
         fixture.GuidCustomization<OAuthClientSecret>(OAuthClientSecret.From);
         fixture.GuidCustomization<OAuthRefreshToken>(OAuthRefreshToken.From);
         fixture.GuidCustomization<OAuthToken>(OAuthToken.From);
+        fixture.GuidCustomization<UrlSlug>(UrlSlug.From);
 
         return fixture;
     }
