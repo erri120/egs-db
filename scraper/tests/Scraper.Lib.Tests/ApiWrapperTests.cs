@@ -1,8 +1,6 @@
 using System.Globalization;
 using System.Net;
-using System.Threading.RateLimiting;
 using System.Web;
-using Moq;
 using Moq.Contrib.HttpClient;
 using Scraper.Lib.Models;
 using Scraper.Lib.ValueObjects;
@@ -44,7 +42,7 @@ public class ApiWrapperTests
 
         var res = await wrapper.GetCatalogNamespaceItems(
             url,
-            ApiToken.From(string.Empty),
+            OAuthToken.From(string.Empty),
             0,
             expectedElements.Count,
             "US",
@@ -116,7 +114,7 @@ public class ApiWrapperTests
         var wrapper = new ApiWrapper(httpMessageHandler.Object, new EmptyRateLimiter());
 
         var res = wrapper.EnumerateCatalogNamespaceAsync(
-            ApiToken.From(string.Empty),
+            OAuthToken.From(string.Empty),
             CatalogNamespace.From(DummyNamespace),
             itemsPerPage: itemsPerPage
         );

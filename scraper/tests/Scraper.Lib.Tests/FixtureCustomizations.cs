@@ -6,8 +6,8 @@ public static class FixtureCustomizations
 {
     public static Fixture AddValueObjects(this Fixture fixture)
     {
-        fixture.Customize<ApiToken>(composer =>
-            composer.FromFactory<Guid>(guid => ApiToken.From(guid.ToString("N"))));
+        fixture.Customize<OAuthToken>(composer =>
+            composer.FromFactory<Guid>(guid => OAuthToken.From(guid.ToString("N"))));
 
         fixture.Customize<CatalogId>(composer =>
             composer.FromFactory<Guid>(guid => CatalogId.From(guid.ToString("N"))));

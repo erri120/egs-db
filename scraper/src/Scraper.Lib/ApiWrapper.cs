@@ -36,7 +36,7 @@ public class ApiWrapper
     /// Asynchronously enumerates all items in a catalog namespace.
     /// </summary>
     public async IAsyncEnumerable<OneOf<CatalogNamespaceEnumerationResult.Element, ApiError>> EnumerateCatalogNamespaceAsync(
-        ApiToken apiToken,
+        OAuthToken oAuthToken,
         CatalogNamespace catalogNamespace,
         int itemsPerPage = 50,
         string countryCode = "US",
@@ -59,7 +59,7 @@ public class ApiWrapper
 
             var res = await GetCatalogNamespaceItems(
                     url,
-                    apiToken,
+                    oAuthToken,
                     current,
                     itemsPerPage,
                     countryCode,
@@ -87,7 +87,7 @@ public class ApiWrapper
 
     internal async Task<OneOf<CatalogNamespaceEnumerationResult, ApiError>> GetCatalogNamespaceItems(
         string url,
-        ApiToken apiToken,
+        OAuthToken oAuthToken,
         int start,
         int count,
         string countryCode,
@@ -99,7 +99,7 @@ public class ApiWrapper
         try
         {
             using var requestMessage = new HttpRequestMessage(HttpMethod.Get, url);
-            requestMessage.Headers.Authorization = new AuthenticationHeaderValue("bearer", apiToken.Value);
+            requestMessage.Headers.Authorization = new AuthenticationHeaderValue("bearer", oAuthToken.Value);
 
             requestMessage.Content = new FormUrlEncodedContent(new[]
             {
