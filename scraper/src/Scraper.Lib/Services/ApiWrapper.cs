@@ -85,7 +85,7 @@ public class ApiWrapper
         }
     }
 
-    internal async Task<OneOf<CatalogNamespaceEnumerationResult, ApiError>> GetCatalogNamespaceItems(
+    internal async ValueTask<OneOf<CatalogNamespaceEnumerationResult, ApiError>> GetCatalogNamespaceItems(
         string url,
         OAuthToken oAuthToken,
         int start,
