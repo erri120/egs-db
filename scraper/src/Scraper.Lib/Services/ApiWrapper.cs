@@ -9,6 +9,7 @@ using System.Threading;
 using System.Threading.RateLimiting;
 using System.Threading.Tasks;
 using JetBrains.Annotations;
+using Microsoft.Extensions.Logging;
 using OneOf;
 using Scraper.Lib.Models;
 using Scraper.Lib.ValueObjects;
@@ -23,11 +24,13 @@ public class ApiWrapper
 {
     public const string CatalogFormatUrl = "https://catalog-public-service-prod.ol.epicgames.com/catalog/api/shared/namespace/{0}/items";
 
+    private readonly ILogger<ApiWrapper> _logger;
     private readonly HttpClient _client;
     private readonly RateLimiter _rateLimiter;
 
-    public ApiWrapper(HttpMessageHandler httpMessageHandler, RateLimiter rateLimiter)
+    public ApiWrapper(ILogger<ApiWrapper> logger, HttpMessageHandler httpMessageHandler, RateLimiter rateLimiter)
     {
+        _logger = logger;
         _client = new HttpClient(httpMessageHandler);
         _rateLimiter = rateLimiter;
     }
@@ -82,6 +85,8 @@ public class ApiWrapper
             {
                 yield return enumerationResultElement;
             }
+
+            _logger.LogInformation("Status for \"{Namespace}\": {Current}/{Total}", catalogNamespace, current, total);
         }
     }
 
@@ -96,6 +101,16 @@ public class ApiWrapper
         bool includeMainGameDetails,
         CancellationToken cancellationToken = default)
     {
+        _logger.GetCatalogNamespaceItems(
+            url,
+            start,
+            count,
+            countryCode,
+            locale,
+            includeDLCDetails,
+            includeMainGameDetails
+        );
+
         try
         {
             using var requestMessage = new HttpRequestMessage(HttpMethod.Get, url);
@@ -115,7 +130,9 @@ public class ApiWrapper
                 .SendAsync(requestMessage, cancellationToken)
                 .ConfigureAwait(false);
 
+            _logger.LogDebug("Response code for \"{Url}\" is {Code}", url, responseMessage.StatusCode);
             responseMessage.EnsureSuccessStatusCode();
+
             var result = await responseMessage.Content
                 .ReadFromJsonAsync<CatalogNamespaceEnumerationResult>(cancellationToken: cancellationToken)
                 .ConfigureAwait(false);

@@ -1,6 +1,7 @@
 using System.Globalization;
 using System.Net;
 using System.Web;
+using Microsoft.Extensions.Logging;
 using Moq.Contrib.HttpClient;
 using Scraper.Lib.Models;
 using Scraper.Lib.Services;
@@ -39,7 +40,11 @@ public class ApiWrapperTests
             .SetupRequest(HttpMethod.Get, url)
             .ReturnsJsonResponse(HttpStatusCode.OK, expectedResult);
 
-        var wrapper = new ApiWrapper(httpMessageHandler.Object, new EmptyRateLimiter());
+        var wrapper = new ApiWrapper(
+            Mock.Of<ILogger<ApiWrapper>>(),
+            httpMessageHandler.Object,
+            new EmptyRateLimiter()
+        );
 
         var res = await wrapper.GetCatalogNamespaceItems(
             url,
@@ -112,7 +117,11 @@ public class ApiWrapperTests
                 .ReturnsJsonResponse(CreateResult(i));
         }
 
-        var wrapper = new ApiWrapper(httpMessageHandler.Object, new EmptyRateLimiter());
+        var wrapper = new ApiWrapper(
+            Mock.Of<ILogger<ApiWrapper>>(),
+            httpMessageHandler.Object,
+            new EmptyRateLimiter()
+        );
 
         var res = wrapper.EnumerateCatalogNamespaceAsync(
             fixture.Create<OAuthToken>(),
