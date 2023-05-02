@@ -1,4 +1,7 @@
+using System.IO.Abstractions;
 using System.IO.Abstractions.TestingHelpers;
+using System.Text;
+using System.Text.Json;
 using Microsoft.Extensions.Logging.Abstractions;
 using Moq.Contrib.HttpClient;
 using Scraper.Lib.Models;
@@ -53,6 +56,7 @@ public class ScraperTests
             new NullLogger<Scraper>(),
             fs,
             Mock.Of<HttpMessageHandler>(),
+            Mock.Of<IScraperDelegates>(),
             expectedState
         );
 
@@ -95,6 +99,7 @@ public class ScraperTests
             new NullLogger<Scraper>(),
             fs,
             httpMessageHandlerMock.Object,
+            Mock.Of<IScraperDelegates>(),
             startState
         );
 
@@ -142,6 +147,7 @@ public class ScraperTests
             new NullLogger<Scraper>(),
             fs,
             httpMessageHandlerMock.Object,
+            Mock.Of<IScraperDelegates>(),
             startState
         );
 
@@ -162,5 +168,40 @@ public class ScraperTests
         );
 
         actualState.Should().Be(expectedState);
+    }
+
+    [Theory, CustomAutoData]
+    public async Task Test_ScrapNamespaces(
+        ScraperState scraperState,
+        IDictionary<CatalogNamespace, UrlSlug> expectedMappings)
+    {
+        var delegatesMock = new Mock<IScraperDelegates>(MockBehavior.Strict);
+
+        var json = JsonSerializer.Serialize(expectedMappings);
+        var sb = new StringBuilder();
+
+        sb.Append("window.__epic_client_state = {");
+        sb.Append("productInstall = {");
+        sb.Append("latestValue = \n");
+        sb.Append(json);
+        sb.Append('}');
+        sb.Append("};");
+
+        delegatesMock
+            .Setup(x => x.RenderHtmlPage(
+                It.IsAny<string>(),
+                It.IsAny<CancellationToken>()))
+            .ReturnsAsync((string _, CancellationToken _) => sb.ToString());
+
+        var scraper = new Scraper(
+            new NullLogger<Scraper>(),
+            Mock.Of<IFileSystem>(),
+            Mock.Of<HttpMessageHandler>(),
+            delegatesMock.Object,
+            scraperState
+        );
+
+        var res = await scraper.ScrapNamespaces(default);
+        res.Should().Equal(expectedMappings);
     }
 }

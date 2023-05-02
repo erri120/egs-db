@@ -1,4 +1,5 @@
 using System;
+using System.Collections.Generic;
 using System.IO;
 using System.IO.Abstractions;
 using System.Net.Http;
@@ -17,10 +18,12 @@ namespace Scraper.Lib;
 public class Scraper
 {
     public const string StateFileName = "scraper.state.json";
+    public const string NamespacesFileName = "namespaces.json";
 
     private readonly ILogger<Scraper> _logger;
     private readonly IFileSystem _fileSystem;
     private readonly HttpMessageHandler _httpMessageHandler;
+    private readonly IScraperDelegates _scraperDelegates;
     private readonly OAuthHelper _oAuthHelper;
 
     private ScraperState _scraperState;
@@ -29,11 +32,13 @@ public class Scraper
         ILogger<Scraper> logger,
         IFileSystem fileSystem,
         HttpMessageHandler httpMessageHandler,
+        IScraperDelegates scraperDelegates,
         ScraperState scraperState)
     {
         _logger = logger;
         _fileSystem = fileSystem;
         _httpMessageHandler = httpMessageHandler;
+        _scraperDelegates = scraperDelegates;
 
         _oAuthHelper = new OAuthHelper(
             httpMessageHandler,
@@ -42,6 +47,18 @@ public class Scraper
         );
 
         _scraperState = scraperState;
+    }
+
+    public async ValueTask<IDictionary<CatalogNamespace, UrlSlug>> ScrapNamespaces(CancellationToken cancellationToken)
+    {
+        const string defaultUrl = "https://store.epicgames.com/en-US/p/fortnite";
+
+        var html = await _scraperDelegates
+            .RenderHtmlPage(defaultUrl, cancellationToken)
+            .ConfigureAwait(false);
+
+        var res = NamespaceScraper.GetNamespacesFromHtmlText(html);
+        return res.AsT0;
     }
 
     internal async ValueTask<OAuthToken> GetOrRefreshToken(CancellationToken cancellationToken)
@@ -88,62 +105,33 @@ public class Scraper
             return null;
         }
 
-        try
+        var res = await fileSystem
+            .ReadFromJsonAsync<ScraperState>(StateFileName, logger: logger, cancellationToken: cancellationToken)
+            .ConfigureAwait(false);
+
+        if (res.TryPickT0(out var state, out var error))
         {
-            var stream = fileSystem.File.Open(
-                StateFileName,
-                FileMode.Open,
-                FileAccess.Read,
-                FileShare.Read
-            );
-
-            await using (stream.ConfigureAwait(false))
-            {
-                var state = await JsonSerializer.DeserializeAsync<ScraperState>(
-                    stream,
-                    cancellationToken: cancellationToken
-                ).ConfigureAwait(false);
-
-                if (state is null)
-                {
-                    logger.LogError("Unable to deserialize file \"{FileName}\", result is null", StateFileName);
-                    return null;
-                }
-
-                logger.LogInformation("Imported state from file \"{FileName}\"", StateFileName);
-                return state;
-            }
+            logger.LogInformation("Imported state from file \"{FileName}\"", StateFileName);
+            return state;
         }
-        catch (Exception e)
-        {
-            logger.LogError(e, "Exception while importing state from file \"{FileName}\"", StateFileName);
-            return null;
-        }
+
+        logger.LogError("{Error}", error.Value);
+        return null;
     }
 
     public async ValueTask ExportState(CancellationToken cancellationToken)
     {
-        try
+        var error = await _fileSystem
+            .WriteToJsonAsync(_scraperState, StateFileName, logger: _logger, cancellationToken: cancellationToken)
+            .ConfigureAwait(false);
+
+        if (error is null)
         {
-            var stream = _fileSystem.File.Open(
-                StateFileName,
-                FileMode.OpenOrCreate,
-                FileAccess.ReadWrite,
-                FileShare.Read
-            );
-
-            await using (stream.ConfigureAwait(false))
-            {
-                await JsonSerializer
-                    .SerializeAsync(stream, _scraperState, cancellationToken: cancellationToken)
-                    .ConfigureAwait(false);
-
-                _logger.LogInformation("Exported state to file \"{FileName}\"", StateFileName);
-            }
+            _logger.LogInformation("Exported state to file \"{FileName}\"", StateFileName);
         }
-        catch (Exception e)
+        else
         {
-            _logger.LogError(e, "Exception while exporting state to file \"{FileName}\"", StateFileName);
+            _logger.LogError("{Error}", error.Value.Value);
         }
     }
 }
