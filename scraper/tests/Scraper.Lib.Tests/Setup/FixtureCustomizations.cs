@@ -1,3 +1,5 @@
+using System.IO.Abstractions;
+using System.IO.Abstractions.TestingHelpers;
 using Scraper.Lib.ValueObjects;
 
 namespace Scraper.Lib.Tests.Setup;
@@ -6,15 +8,24 @@ public static class FixtureCustomizations
 {
     public static Fixture AddValueObjects(this Fixture fixture)
     {
-        fixture.GuidCustomization<AuthorizationCode>(AuthorizationCode.From);
-        fixture.GuidCustomization<CatalogId>(CatalogId.From);
-        fixture.GuidCustomization<CatalogNamespace>(CatalogNamespace.From);
-        fixture.GuidCustomization<OAuthClientId>(OAuthClientId.From);
-        fixture.GuidCustomization<OAuthClientSecret>(OAuthClientSecret.From);
-        fixture.GuidCustomization<OAuthRefreshToken>(OAuthRefreshToken.From);
-        fixture.GuidCustomization<OAuthToken>(OAuthToken.From);
-        fixture.GuidCustomization<UrlSlug>(UrlSlug.From);
+        fixture.GuidCustomization(AuthorizationCode.From);
+        fixture.GuidCustomization(CatalogId.From);
+        fixture.GuidCustomization(CatalogNamespace.From);
+        fixture.GuidCustomization(OAuthClientId.From);
+        fixture.GuidCustomization(OAuthClientSecret.From);
+        fixture.GuidCustomization(OAuthRefreshToken.From);
+        fixture.GuidCustomization(OAuthToken.From);
+        fixture.GuidCustomization(UrlSlug.From);
 
+        return fixture;
+    }
+
+    public static Fixture AddFileSystem(this Fixture fixture)
+    {
+        fixture.Customize<MockFileSystem>(composer =>
+            composer.FromFactory(() => new MockFileSystem()));
+        fixture.Customize<IFileSystem>(composer =>
+            composer.FromFactory(() => new MockFileSystem()));
         return fixture;
     }
 

@@ -27,8 +27,8 @@ public record CatalogNamespaceEnumerationResult(
         [property: JsonPropertyName("namespace")] CatalogNamespace CatalogNamespace,
         [property: JsonPropertyName("categories")] Categories? Categories,
         [property: JsonPropertyName("keyImages")] IReadOnlyList<KeyImage>? Images,
-        [property: JsonPropertyName("creationDate")] DateTime CreationDate,
-        [property: JsonPropertyName("lastModifiedDate")] DateTime LastModifiedDate,
+        [property: JsonPropertyName("creationDate")] DateTimeOffset CreationDate,
+        [property: JsonPropertyName("lastModifiedDate")] DateTimeOffset LastModifiedDate,
         [property: JsonPropertyName("developer")] string? Developer,
         [property: JsonPropertyName("developerId")] string? DeveloperId,
         [property: JsonPropertyName("applicationId")] string? ApplicationId

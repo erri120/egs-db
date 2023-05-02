@@ -2,4 +2,13 @@
     <ItemGroup>
         <ProjectReference Include="..\..\src\Scraper.Lib\Scraper.Lib.csproj" />
     </ItemGroup>
+
+    <ItemGroup>
+        <PackageReference Include="Roslyn.System.IO.Abstractions.Analyzers" Version="12.2.19">
+            <PrivateAssets>all</PrivateAssets>
+            <IncludeAssets>runtime; build; native; contentfiles; analyzers; buildtransitive</IncludeAssets>
+        </PackageReference>
+
+        <PackageReference Include="System.IO.Abstractions.TestingHelpers" Version="19.2.18" />
+    </ItemGroup>
 </Project>

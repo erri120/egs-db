@@ -11,14 +11,11 @@ public record OAuthResponse(
     OAuthToken AccessToken,
 
     [property: JsonPropertyName("expires_at")]
-    DateTime ExpiresAt,
+    DateTimeOffset ExpiresAt,
 
     [property: JsonPropertyName("refresh_token")]
     OAuthRefreshToken RefreshToken,
 
     [property: JsonPropertyName("refresh_expires_at")]
-    DateTime RefreshExpiresAt,
-
-    [property: JsonPropertyName("client_id")]
-    OAuthClientId ClientId
+    DateTimeOffset RefreshExpiresAt
 );

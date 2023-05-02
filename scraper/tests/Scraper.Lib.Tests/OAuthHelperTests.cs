@@ -34,9 +34,9 @@ public class OAuthHelperTests
         OAuthClientId clientId,
         OAuthClientSecret clientSecret,
         OAuthToken accessToken,
-        DateTime expiresAt,
+        DateTimeOffset expiresAt,
         OAuthRefreshToken refreshToken,
-        DateTime refreshExpiresAt,
+        DateTimeOffset refreshExpiresAt,
         AuthorizationCode authorizationCode)
     {
         var base64 = OAuthHelper.ClientIdAndSecretToBase64(clientId, clientSecret);
@@ -45,8 +45,7 @@ public class OAuthHelperTests
             accessToken,
             expiresAt,
             refreshToken,
-            refreshExpiresAt,
-            clientId
+            refreshExpiresAt
         );
 
         var httpMessageHandler = new Mock<HttpMessageHandler>(MockBehavior.Strict);
