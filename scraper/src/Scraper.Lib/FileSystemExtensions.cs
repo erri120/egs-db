@@ -58,6 +58,20 @@ public static class FileSystemExtensions
         ILogger? logger = null,
         CancellationToken cancellationToken = default)
     {
+        var directoryName = fileSystem.Path.GetDirectoryName(path);
+        if (!string.IsNullOrEmpty(directoryName))
+        {
+            try
+            {
+                fileSystem.Directory.CreateDirectory(directoryName);
+            }
+            catch (Exception e)
+            {
+                logger?.LogError(e, "Unable to create parent directory \"{Directory}\"", directoryName);
+                return GenericError.From($"Unable to create parent directory \"{directoryName}\":\n{e}");
+            }
+        }
+
         try
         {
             var stream = fileSystem.File.Open(

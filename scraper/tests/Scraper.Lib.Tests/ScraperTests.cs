@@ -172,6 +172,7 @@ public class ScraperTests
 
     [Theory, CustomAutoData]
     public async Task Test_ScrapNamespaces(
+        MockFileSystem fs,
         ScraperState scraperState,
         IDictionary<CatalogNamespace, UrlSlug> expectedMappings)
     {
@@ -195,13 +196,21 @@ public class ScraperTests
 
         var scraper = new Scraper(
             new NullLogger<Scraper>(),
-            Mock.Of<IFileSystem>(),
+            fs,
             Mock.Of<HttpMessageHandler>(),
             delegatesMock.Object,
             scraperState
         );
 
-        var res = await scraper.ScrapNamespaces(default);
-        res.Should().Equal(expectedMappings);
+        await scraper.ScrapNamespaces(default);
+
+        var outputPath = fs.Path.Combine(scraperState.OutputFolder, Scraper.NamespacesFileName);
+        fs.File.Exists(outputPath).Should().BeTrue();
+
+        var res = await fs.ReadFromJsonAsync<IDictionary<CatalogNamespace, UrlSlug>>(outputPath);
+        res.IsT0.Should().BeTrue(res.IsT1 ? res.AsT1.Value : string.Empty);
+
+        var actualMappings = res.AsT0;
+        actualMappings.Should().Equal(expectedMappings);
     }
 }

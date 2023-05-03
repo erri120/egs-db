@@ -27,6 +27,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Scraper.Lib", "src\Scraper.
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Scraper.Lib.Tests", "tests\Scraper.Lib.Tests\Scraper.Lib.Tests.csproj", "{C51BB82D-8150-4BA0-B74B-4A40513245CA}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Scraper.Benchmarks", "src\Scraper.Benchmarks\Scraper.Benchmarks.csproj", "{1F625A33-D4B8-4591-AF20-B86CA100FB0B}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -36,6 +38,7 @@ Global
 		{01DD0DAD-0F2E-477A-955A-30047CA1CFB4} = {F4578FDF-C795-47D2-8291-04B94F8DF01A}
 		{9FC60FEC-FA0F-4575-82DB-7FF064CF1A84} = {F4578FDF-C795-47D2-8291-04B94F8DF01A}
 		{C51BB82D-8150-4BA0-B74B-4A40513245CA} = {C2B5E888-B408-455E-8FE2-034DED8AA0ED}
+		{1F625A33-D4B8-4591-AF20-B86CA100FB0B} = {F4578FDF-C795-47D2-8291-04B94F8DF01A}
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
 		{01DD0DAD-0F2E-477A-955A-30047CA1CFB4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
@@ -50,5 +53,9 @@ Global
 		{C51BB82D-8150-4BA0-B74B-4A40513245CA}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C51BB82D-8150-4BA0-B74B-4A40513245CA}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C51BB82D-8150-4BA0-B74B-4A40513245CA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1F625A33-D4B8-4591-AF20-B86CA100FB0B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1F625A33-D4B8-4591-AF20-B86CA100FB0B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1F625A33-D4B8-4591-AF20-B86CA100FB0B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1F625A33-D4B8-4591-AF20-B86CA100FB0B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal

@@ -49,7 +49,7 @@ public class Scraper
         _scraperState = scraperState;
     }
 
-    public async ValueTask<IDictionary<CatalogNamespace, UrlSlug>> ScrapNamespaces(CancellationToken cancellationToken)
+    public async ValueTask ScrapNamespaces(CancellationToken cancellationToken)
     {
         const string defaultUrl = "https://store.epicgames.com/en-US/p/fortnite";
 
@@ -58,7 +58,57 @@ public class Scraper
             .ConfigureAwait(false);
 
         var res = NamespaceScraper.GetNamespacesFromHtmlText(html);
-        return res.AsT0;
+        if (!res.TryPickT0(out var mappings, out var namespaceError))
+        {
+            _logger.LogError("{Error}", namespaceError.Value);
+            return;
+        }
+
+        var outputPath = _fileSystem.Path.Combine(
+            _scraperState.OutputFolder,
+            NamespacesFileName
+        );
+
+        GenericError? writeError;
+        if (_fileSystem.File.Exists(outputPath))
+        {
+            var existingMappingsResult = await _fileSystem
+                .ReadFromJsonAsync<IDictionary<CatalogNamespace, UrlSlug>>(outputPath, logger: _logger, cancellationToken: cancellationToken)
+                .ConfigureAwait(false);
+
+            if (!existingMappingsResult.TryPickT0(out var existingMappings, out var genericError))
+            {
+                _logger.LogError("Error reading existing mappings: {Error}", genericError.Value);
+                return;
+            }
+
+            // NOTE(erri120): existing mappings are always overwritten.
+            foreach (var kv in mappings)
+            {
+                existingMappings[kv.Key] = kv.Value;
+            }
+
+            writeError = await _fileSystem.WriteToJsonAsync(
+                    existingMappings,
+                    outputPath,
+                    logger: _logger,
+                    cancellationToken: cancellationToken)
+                .ConfigureAwait(false);
+        }
+        else
+        {
+            writeError = await _fileSystem.WriteToJsonAsync(
+                    mappings,
+                    outputPath,
+                    logger: _logger,
+                    cancellationToken: cancellationToken)
+                .ConfigureAwait(false);
+        }
+
+        if (writeError.HasValue)
+        {
+            _logger.LogError("{Error}", writeError.Value);
+        }
     }
 
     internal async ValueTask<OAuthToken> GetOrRefreshToken(CancellationToken cancellationToken)
