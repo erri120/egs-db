@@ -113,6 +113,10 @@ public class MainScraper
         {
             _logger.LogError("{Error}", writeError.Value);
         }
+        else
+        {
+            _logger.LogInformation("Saved namespaces to \"{Path}\"", outputPath);
+        }
     }
 
     public async ValueTask<OAuthToken> GetOrRefreshToken(CancellationToken cancellationToken)

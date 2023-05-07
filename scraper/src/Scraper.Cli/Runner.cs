@@ -56,7 +56,31 @@ public class Runner
 
     private async ValueTask ScrapNamespaces(ScrapNamespacesOptions scrapNamespacesOptions, CancellationToken cancellationToken)
     {
-        throw new NotImplementedException();
+        var scraperLogger = _loggerFactory.CreateLogger<MainScraper>();
+
+        var importedState = await MainScraper.ImportState(
+            scraperLogger,
+            _fileSystem,
+            _jsonSerializerOptions,
+            cancellationToken
+        ).ConfigureAwait(false);
+
+        if (importedState is null)
+        {
+            _logger.LogError("Unable to import state!");
+            return;
+        }
+
+        var scraper = new MainScraper(
+            scraperLogger,
+            _fileSystem,
+            _httpMessageHandler,
+            _scraperDelegates,
+            _jsonSerializerOptions,
+            importedState
+        );
+
+        await scraper.ScrapNamespaces(cancellationToken).ConfigureAwait(false);
     }
 
     private async ValueTask RefreshOAuthToken(RefreshOAuthTokenOptions refreshOAuthTokenOptions, CancellationToken cancellationToken)

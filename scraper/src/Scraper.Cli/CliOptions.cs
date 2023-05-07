@@ -33,7 +33,7 @@ public static class CliOptionsParser
             "oauth" => ParseDoOAuthLogin(args).Match<ParseResult>(x => x, x => x),
             "refresh" => ParseRefreshOAuthToken(args).Match<ParseResult>(x => x, x => x),
             "namespaces" => ParseScrapNamespaces(args).Match<ParseResult>(x => x, x => x),
-            _ => CliOptionsParserError.From(""),
+            _ => CliOptionsParserError.From("Unknown command"),
         };
     }
 
