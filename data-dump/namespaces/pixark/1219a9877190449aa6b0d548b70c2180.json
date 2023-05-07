@@ -1,0 +1,23 @@
+{
+  "id": "1219a9877190449aa6b0d548b70c2180",
+  "title": "Call_To_Action_01",
+  "description": "PLAY PIXARK \n\u003Cinverted-tiny-body\u003EBUY NOW\u003C/\u003E",
+  "namespace": "pixark",
+  "categories": "layoutcontent",
+  "keyImages": [
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/pixark/item/PixARK(Resource)01-960x497-b49d5a628e5974a38527a7469c9603ca.png",
+      "md5": "b49d5a628e5974a38527a7469c9603ca",
+      "width": 960,
+      "height": 497,
+      "size": 1478606,
+      "uploadedDate": "2018-06-25T17:17:49.739Z"
+    }
+  ],
+  "creationDate": "2018-06-25T17:17:34.683+00:00",
+  "lastModifiedDate": "2018-07-16T19:21:49.371+00:00",
+  "developer": "Epic Games",
+  "developerId": "o-aa83a0a9bc45e98c80c1b1c9d92e9e",
+  "applicationId": null
+}

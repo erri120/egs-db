@@ -1,0 +1,32 @@
+{
+  "id": "c685c75a893e4594b240ae0dca76b9ba",
+  "title": "OcelotPress",
+  "description": "OcelotPress",
+  "namespace": "ocelot",
+  "categories": "",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/ocelot/item/WD4-GAME-PAGE-PROMOTION_1-2580x1450-b20bc28145d97dbe36eee0f88adf2b76.jpg",
+      "md5": "b20bc28145d97dbe36eee0f88adf2b76",
+      "width": 2580,
+      "height": 1450,
+      "size": 411405,
+      "uploadedDate": "2019-01-22T21:50:50.244Z"
+    },
+    {
+      "type": "DieselGameBoxLogo",
+      "url": "https://cdn1.epicgames.com/ocelot/item/WD4_GAME-LOGO_COLOR-604x431-e77f932716e72aaba71c154569dc9a29.png",
+      "md5": "e77f932716e72aaba71c154569dc9a29",
+      "width": 604,
+      "height": 431,
+      "size": 256115,
+      "uploadedDate": "2019-01-22T21:51:02.21Z"
+    }
+  ],
+  "creationDate": "2019-01-22T21:53:12.186+00:00",
+  "lastModifiedDate": "2023-02-14T22:32:39.124+00:00",
+  "developer": "Skybound Interactive",
+  "developerId": "o-rqvssgn2hhj58wv5bc6eueqswz2un4",
+  "applicationId": ""
+}

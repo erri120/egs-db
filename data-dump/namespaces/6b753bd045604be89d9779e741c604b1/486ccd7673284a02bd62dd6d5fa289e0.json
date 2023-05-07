@@ -1,0 +1,32 @@
+{
+  "id": "486ccd7673284a02bd62dd6d5fa289e0",
+  "title": "Void Bastards",
+  "description": "Void Bastards",
+  "namespace": "6b753bd045604be89d9779e741c604b1",
+  "categories": "public/games/applications",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_VoidBastards_BlueManchu_S1_2560x1440-6ffb5f547e5434d115cc6de7d13b1bc6",
+      "md5": "6ffb5f547e5434d115cc6de7d13b1bc6",
+      "width": 2560,
+      "height": 1440,
+      "size": 978928,
+      "uploadedDate": "2021-08-05T18:19:37.841Z"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_VoidBastards_BlueManchu_S6_1200x1600-9664eab2fc0c609341d087a5a8c0c933",
+      "md5": "9664eab2fc0c609341d087a5a8c0c933",
+      "width": 1200,
+      "height": 1600,
+      "size": 936439,
+      "uploadedDate": "2021-08-05T18:19:46.656Z"
+    }
+  ],
+  "creationDate": "2021-04-30T17:48:41.313+00:00",
+  "lastModifiedDate": "2021-08-24T14:19:52.621+00:00",
+  "developer": "Humble Bundle",
+  "developerId": "o-pldxyabsslnt6jth2z634mmr2pw8lu",
+  "applicationId": "Void Bastards (fghi4567zQOSbVwnerQRRomMCLthJ5PD)"
+}

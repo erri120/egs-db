@@ -1,0 +1,32 @@
+{
+  "id": "528eb2238d7e4a6dbe1ce44ec3919347",
+  "title": "Phoenix Point Preview",
+  "description": "Phoenix Point Preview",
+  "namespace": "iris",
+  "categories": "",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/iris/item/PhoenixPoint_NEWPROMO-2048x1151-a5d45cf0f70a168b0c1f7eae142a3397.jpg",
+      "md5": "a5d45cf0f70a168b0c1f7eae142a3397",
+      "width": 2048,
+      "height": 1151,
+      "size": 2147087,
+      "uploadedDate": "2019-11-12T21:49:33.209Z"
+    },
+    {
+      "type": "DieselGameBoxLogo",
+      "url": "https://cdn1.epicgames.com/iris/item/PhoenixPoint_whitePNG-3220x432-72c3516e13c5ae6b2c89e568b77973c0.png",
+      "md5": "72c3516e13c5ae6b2c89e568b77973c0",
+      "width": 3220,
+      "height": 432,
+      "size": 68148,
+      "uploadedDate": "2019-11-12T21:49:52.49Z"
+    }
+  ],
+  "creationDate": "2019-11-12T21:48:14.17+00:00",
+  "lastModifiedDate": "2020-12-11T01:07:10.474+00:00",
+  "developer": "Snapshot Games",
+  "developerId": "o-dc63tr2khr4scc36nj3htbpmh3gda6",
+  "applicationId": null
+}

@@ -1,0 +1,23 @@
+{
+  "id": "4ebab763055941939c81bb5bd00038b6",
+  "title": "ImpalaDemoAudience",
+  "description": "ImpalaDemoAudience",
+  "namespace": "impala",
+  "categories": "audience",
+  "keyImages": [
+    {
+      "type": "ESRB",
+      "url": "https://cdn1.epicgames.com/impala/item/Diesel_product_ratings_ESRB_Division2_M-228x130-717dd2e7865484cd95bdcc1c43a59851b3227b28-228x130-3b96f155ba2aaeea670e3674d3fdce7b.png",
+      "md5": "3b96f155ba2aaeea670e3674d3fdce7b",
+      "width": 228,
+      "height": 130,
+      "size": 12434,
+      "uploadedDate": "2020-03-04T22:15:10.493Z"
+    }
+  ],
+  "creationDate": "2020-04-07T18:04:59.896+00:00",
+  "lastModifiedDate": "2020-09-28T14:56:01.982+00:00",
+  "developer": "Ubisoft Entertainment",
+  "developerId": "o-3efjudxdtgsqnulml4bkeq3v9nec38",
+  "applicationId": null
+}

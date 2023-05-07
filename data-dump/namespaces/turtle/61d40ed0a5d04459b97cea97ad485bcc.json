@@ -1,0 +1,32 @@
+{
+  "id": "61d40ed0a5d04459b97cea97ad485bcc",
+  "title": "Maneater Demo",
+  "description": "Maneater Demo",
+  "namespace": "turtle",
+  "categories": "",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/turtle/item/maneaterWide-2580x1456-a66dd2422bbbb9feef9304933254bb78.jpg",
+      "md5": "a66dd2422bbbb9feef9304933254bb78",
+      "width": 2580,
+      "height": 1456,
+      "size": 414334,
+      "uploadedDate": "2019-10-24T01:52:03.608Z"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/item/turtle/Maneater_EGS_1200x1600_1200x1600-64753fed67a14f055ee4e7150fe34daf",
+      "md5": "64753fed67a14f055ee4e7150fe34daf",
+      "width": 1200,
+      "height": 1600,
+      "size": 830357,
+      "uploadedDate": "2022-11-03T15:51:06.288Z"
+    }
+  ],
+  "creationDate": "2020-02-20T19:22:51.627+00:00",
+  "lastModifiedDate": "2022-11-03T15:51:09.726+00:00",
+  "developer": "Tripwire Interactive",
+  "developerId": "o-2baznhy8tfh7fmyb55ul656v7ggt7r",
+  "applicationId": ""
+}

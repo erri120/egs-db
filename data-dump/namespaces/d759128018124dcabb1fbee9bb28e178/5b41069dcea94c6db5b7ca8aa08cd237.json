@@ -1,0 +1,32 @@
+{
+  "id": "5b41069dcea94c6db5b7ca8aa08cd237",
+  "title": "Surviving Mars Deluxe Upgrade",
+  "description": "Surviving Mars Deluxe Upgrade",
+  "namespace": "d759128018124dcabb1fbee9bb28e178",
+  "categories": "public/games/applications",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/d759128018124dcabb1fbee9bb28e178/item/surviving-mars_promo-1920x1080-e999bcc02209c48a229f3008fd726833.jpg",
+      "md5": "e999bcc02209c48a229f3008fd726833",
+      "width": 1920,
+      "height": 1080,
+      "size": 293181,
+      "uploadedDate": "2019-10-10T15:16:18.782Z"
+    },
+    {
+      "type": "DieselGameBoxLogo",
+      "url": "https://cdn1.epicgames.com/d759128018124dcabb1fbee9bb28e178/item/surviving-mars_Logo-2560x844-e1896a459f62cb9782b6e69b9dab914b.png",
+      "md5": "e1896a459f62cb9782b6e69b9dab914b",
+      "width": 2560,
+      "height": 844,
+      "size": 86318,
+      "uploadedDate": "2019-10-10T15:16:26.206Z"
+    }
+  ],
+  "creationDate": "2019-11-05T14:39:25.562+00:00",
+  "lastModifiedDate": "2021-12-08T02:39:39.092+00:00",
+  "developer": "Paradox Interactive",
+  "developerId": "o-tjvfg6rejs6h86qa7k9aa64rrgbxxb",
+  "applicationId": null
+}

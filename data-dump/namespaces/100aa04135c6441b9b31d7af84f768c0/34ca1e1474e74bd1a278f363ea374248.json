@@ -1,0 +1,32 @@
+{
+  "id": "34ca1e1474e74bd1a278f363ea374248",
+  "title": "Marketing \u0026 Malpractice",
+  "description": "Marketing \u0026 Malpractice",
+  "namespace": "100aa04135c6441b9b31d7af84f768c0",
+  "categories": "public/games/applications",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/100aa04135c6441b9b31d7af84f768c0/item/EGS_MarketingMalpractice_PositechGames_DLC_S1-2560x1440-414fa82270d330c4504c704311610149.jpg",
+      "md5": "414fa82270d330c4504c704311610149",
+      "width": 2560,
+      "height": 1440,
+      "size": 720143,
+      "uploadedDate": "2021-01-27T04:54:34.51Z"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/100aa04135c6441b9b31d7af84f768c0/item/EGS_MarketingMalpractice_PositechGames_DLC_S2-1200x1600-92457db5510c86b50343bbe46892bee9.jpg",
+      "md5": "92457db5510c86b50343bbe46892bee9",
+      "width": 1200,
+      "height": 1600,
+      "size": 449215,
+      "uploadedDate": "2021-01-27T04:54:36.967Z"
+    }
+  ],
+  "creationDate": "2021-01-06T16:59:04.373+00:00",
+  "lastModifiedDate": "2021-01-28T16:09:30.75+00:00",
+  "developer": "Positech Computing Ltd",
+  "developerId": "o-hrszwkzbhb269y9we9tpukac2zxb5e",
+  "applicationId": null
+}

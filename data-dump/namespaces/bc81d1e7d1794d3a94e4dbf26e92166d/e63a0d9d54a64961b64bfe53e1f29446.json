@@ -1,0 +1,41 @@
+{
+  "id": "e63a0d9d54a64961b64bfe53e1f29446",
+  "title": "DillStaging",
+  "description": "DillStaging",
+  "namespace": "bc81d1e7d1794d3a94e4dbf26e92166d",
+  "categories": "",
+  "keyImages": [
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/bc81d1e7d1794d3a94e4dbf26e92166d/item/Transistor_About-1000x840-85db29d6095a4c7ddd195d5998a311f9.png",
+      "md5": "85db29d6095a4c7ddd195d5998a311f9",
+      "width": 1000,
+      "height": 840,
+      "size": 95756,
+      "uploadedDate": "2019-04-04T01:43:21.055Z"
+    },
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/bc81d1e7d1794d3a94e4dbf26e92166d/item/Transistor_Primary_Promo-2580x1450-80b4204d1dbee38616e1484a262f1a94.jpg",
+      "md5": "80b4204d1dbee38616e1484a262f1a94",
+      "width": 2580,
+      "height": 1450,
+      "size": 278179,
+      "uploadedDate": "2019-04-04T01:43:30.102Z"
+    },
+    {
+      "type": "DieselGameBoxLogo",
+      "url": "https://cdn1.epicgames.com/bc81d1e7d1794d3a94e4dbf26e92166d/item/Transistor_Logo_Color_Optimized-1920x983-0b765c8299dcd1198c2d1ebc1b94f6c5.png",
+      "md5": "0b765c8299dcd1198c2d1ebc1b94f6c5",
+      "width": 1920,
+      "height": 983,
+      "size": 231518,
+      "uploadedDate": "2019-04-04T01:43:53.053Z"
+    }
+  ],
+  "creationDate": "2019-04-04T01:44:55.77+00:00",
+  "lastModifiedDate": "2019-05-06T16:57:26.864+00:00",
+  "developer": "Supergiant Games LLC",
+  "developerId": "o-vwkp2e2azz3ybr7ckg7pfnxhwezd4a",
+  "applicationId": null
+}

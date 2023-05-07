@@ -1,0 +1,32 @@
+{
+  "id": "5cfcf62ae54744d194e45f666e1eadd4",
+  "title": "Chivalry 2 - Alpha",
+  "description": "Chivalry 2 - Alpha",
+  "namespace": "bd46d4ce259349e5bd8b3ded20274737",
+  "categories": "public/games/applications",
+  "keyImages": [
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/bd46d4ce259349e5bd8b3ded20274737/item/1200x600 Public Alpha App-1200x1600-3bf812592cf6c10a904bf59cffefce2e.jpg",
+      "md5": "3bf812592cf6c10a904bf59cffefce2e",
+      "width": 1200,
+      "height": 1600,
+      "size": 429610,
+      "uploadedDate": "2021-02-19T17:29:52.576Z"
+    },
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/bd46d4ce259349e5bd8b3ded20274737/item/2560x1440 Public Alpha App-2560x1440-d7c273436431293971c3dfc59b70fa28.jpg",
+      "md5": "d7c273436431293971c3dfc59b70fa28",
+      "width": 2560,
+      "height": 1440,
+      "size": 592673,
+      "uploadedDate": "2021-02-19T17:30:02.183Z"
+    }
+  ],
+  "creationDate": "2020-01-08T22:00:09.022+00:00",
+  "lastModifiedDate": "2021-10-29T15:41:50.806+00:00",
+  "developer": "Tripwire Interactive",
+  "developerId": "o-2baznhy8tfh7fmyb55ul656v7ggt7r",
+  "applicationId": ""
+}

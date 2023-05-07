@@ -1,0 +1,32 @@
+{
+  "id": "220403624a514889b2646cee9057404e",
+  "title": "Tetris\u00AE Effect: Connected BETA TEST",
+  "description": "Tetris\u00AE Effect: Connected BETA TEST",
+  "namespace": "76339caf9e8e4d24b62761c736e82b42",
+  "categories": "public/games/applications",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/TEC_Beta_Landscape_2560x1440_2560x1440-03ebfe960471dd7ac5882917b5ea34a6",
+      "md5": "03ebfe960471dd7ac5882917b5ea34a6",
+      "width": 2560,
+      "height": 1440,
+      "size": 3114204,
+      "uploadedDate": "2021-06-23T23:52:46.852Z"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_TetrisBeta_1200x1600-d403ac4ddd550fe40b87d8f7b1f59b35",
+      "md5": "d403ac4ddd550fe40b87d8f7b1f59b35",
+      "width": 1200,
+      "height": 1600,
+      "size": 600677,
+      "uploadedDate": "2021-06-23T23:53:02.122Z"
+    }
+  ],
+  "creationDate": "2021-04-19T14:28:19.883+00:00",
+  "lastModifiedDate": "2021-07-13T17:40:55.554+00:00",
+  "developer": "Enhance, Inc.",
+  "developerId": "o-4bn3uqfwdgdmnx9yfdauv57gqcjzqn",
+  "applicationId": "fghi4567ZiIFgjQtoL0LjV4EDheaAGwB"
+}

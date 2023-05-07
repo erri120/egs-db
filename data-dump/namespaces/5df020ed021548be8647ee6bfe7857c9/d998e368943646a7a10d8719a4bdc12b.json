@@ -1,0 +1,32 @@
+{
+  "id": "d998e368943646a7a10d8719a4bdc12b",
+  "title": "Yakuza Empire",
+  "description": "Yakuza Empire",
+  "namespace": "5df020ed021548be8647ee6bfe7857c9",
+  "categories": "public/games/applications",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_YakuzaEmpire_RockGameSA_S1_2560x1440-950060d38905e088f1bdb848b9908750",
+      "md5": "950060d38905e088f1bdb848b9908750",
+      "width": 2560,
+      "height": 1440,
+      "size": 568706,
+      "uploadedDate": "2021-04-06T00:58:38.818Z"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_YakuzaEmpire_RockGameSA_S2_1200x1600-f856aca1c565938df3ed28e22c45628f",
+      "md5": "f856aca1c565938df3ed28e22c45628f",
+      "width": 1200,
+      "height": 1600,
+      "size": 418640,
+      "uploadedDate": "2021-04-06T00:58:51.002Z"
+    }
+  ],
+  "creationDate": "2021-02-18T17:31:46.872+00:00",
+  "lastModifiedDate": "2021-05-05T14:22:18.578+00:00",
+  "developer": "RockGame S.A.",
+  "developerId": "o-e6zbx28e9zzbxg5jvzh37a3p5j8kam",
+  "applicationId": ""
+}

@@ -1,0 +1,32 @@
+{
+  "id": "5e12a24365634025bcfe8fcb6f87d940",
+  "title": "MinNightly",
+  "description": "MinNightly",
+  "namespace": "min",
+  "categories": "",
+  "keyImages": [
+    {
+      "type": "DieselGameBoxLogo",
+      "url": "https://cdn1.epicgames.com/min/item/Hades_Logo_EA_Update_BigBad-2650x1166-a48ab94b04d9fff1480a9f2bede3f21d.png",
+      "md5": "a48ab94b04d9fff1480a9f2bede3f21d",
+      "width": 2650,
+      "height": 1166,
+      "size": 115405,
+      "uploadedDate": "2019-08-02T20:39:20.036Z"
+    },
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/min/item/Hades_PrimaryPromo_BigBad-2580x1450-69357744f34b20b23105213a772353db.jpg",
+      "md5": "69357744f34b20b23105213a772353db",
+      "width": 2580,
+      "height": 1450,
+      "size": 264223,
+      "uploadedDate": "2019-08-02T20:39:26.899Z"
+    }
+  ],
+  "creationDate": "2018-11-15T19:01:43.635+00:00",
+  "lastModifiedDate": "2020-11-20T12:09:28.958+00:00",
+  "developer": "Supergiant Games LLC",
+  "developerId": "o-vwkp2e2azz3ybr7ckg7pfnxhwezd4a",
+  "applicationId": null
+}

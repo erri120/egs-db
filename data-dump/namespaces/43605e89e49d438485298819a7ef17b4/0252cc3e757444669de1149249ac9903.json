@@ -1,0 +1,32 @@
+{
+  "id": "0252cc3e757444669de1149249ac9903",
+  "title": "PetrelStaging",
+  "description": "PetrelStaging",
+  "namespace": "43605e89e49d438485298819a7ef17b4",
+  "categories": "public/games/applications",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/43605e89e49d438485298819a7ef17b4/item/EGS_DEVOLVER_MINIT_L1_library_promo-2560x1440-c051f2ac59e585262f03b233c18b8304.jpg",
+      "md5": "c051f2ac59e585262f03b233c18b8304",
+      "width": 2560,
+      "height": 1440,
+      "size": 174162,
+      "uploadedDate": "2019-09-25T14:44:12.406Z"
+    },
+    {
+      "type": "DieselGameBoxLogo",
+      "url": "https://cdn1.epicgames.com/43605e89e49d438485298819a7ef17b4/item/EGS_DEVOLVER_MINIT_IC1_game_logo_white-836x300-b739c4e7e9c9f802bcc400ac58f16c5b.png",
+      "md5": "b739c4e7e9c9f802bcc400ac58f16c5b",
+      "width": 836,
+      "height": 300,
+      "size": 19241,
+      "uploadedDate": "2019-09-25T14:44:23.327Z"
+    }
+  ],
+  "creationDate": "2019-08-16T20:23:26.448+00:00",
+  "lastModifiedDate": "2019-10-03T18:01:45.718+00:00",
+  "developer": "Devolver Digital, Inc.",
+  "developerId": "o-plnhdz2wfx5etjjeh88szjqy2gx8gw",
+  "applicationId": null
+}

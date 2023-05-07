@@ -1,0 +1,41 @@
+{
+  "id": "26fe7f9ef8ab4653a565a38816f3159f",
+  "title": "MechWarrior 5 Early Access Editor",
+  "description": "MechWarrior 5 Early Access Editor",
+  "namespace": "b9def67e597b4be7a16146146a044d02",
+  "categories": "public/engines/editors/applications",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/b9def67e597b4be7a16146146a044d02/item/Editor-Library-Photo-2560x1440-dd5af2f7249234b0f2cbacfb49859517.jpg",
+      "md5": "dd5af2f7249234b0f2cbacfb49859517",
+      "width": 2560,
+      "height": 1440,
+      "size": 433872,
+      "uploadedDate": "2019-12-07T01:44:53.25Z"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/b9def67e597b4be7a16146146a044d02/item/Editor-Library-Photo-half-1280x1440-daf988bcbcdd9cb24bce8d3d479a1c10.jpg",
+      "md5": "daf988bcbcdd9cb24bce8d3d479a1c10",
+      "width": 1280,
+      "height": 1440,
+      "size": 488418,
+      "uploadedDate": "2019-12-07T01:45:08.296Z"
+    },
+    {
+      "type": "DieselGameBoxLogo",
+      "url": "https://cdn1.epicgames.com/b9def67e597b4be7a16146146a044d02/item/Editor-Library-logo-200x200-eab87c816e6486ef4f0681aaa0ff4b0c.png",
+      "md5": "eab87c816e6486ef4f0681aaa0ff4b0c",
+      "width": 200,
+      "height": 200,
+      "size": 5685,
+      "uploadedDate": "2019-12-07T01:45:27.774Z"
+    }
+  ],
+  "creationDate": "2020-11-09T14:51:41.513+00:00",
+  "lastModifiedDate": "2020-11-09T14:54:23.748+00:00",
+  "developer": "Piranha Games",
+  "developerId": "o-muad9pj32k67stc4ycpgpplwq84sgq",
+  "applicationId": null
+}

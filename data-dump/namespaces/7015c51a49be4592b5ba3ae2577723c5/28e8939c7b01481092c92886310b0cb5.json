@@ -1,0 +1,32 @@
+{
+  "id": "28e8939c7b01481092c92886310b0cb5",
+  "title": "Espionage",
+  "description": "Espionage",
+  "namespace": "7015c51a49be4592b5ba3ae2577723c5",
+  "categories": "public/games/applications",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/7015c51a49be4592b5ba3ae2577723c5/item/EGS_Espionage_HaemimontGames_Expansion_S1-2560x1440-ceff722402be4e29f727aff3effb13c9.jpg",
+      "md5": "ceff722402be4e29f727aff3effb13c9",
+      "width": 2560,
+      "height": 1440,
+      "size": 983170,
+      "uploadedDate": "2020-11-16T15:56:50.404Z"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/7015c51a49be4592b5ba3ae2577723c5/item/EGS_Espionage_HaemimontGames_Expansion_S2-1200x1600-833bbe00aa21fdccc3523625c1da56dc.jpg",
+      "md5": "833bbe00aa21fdccc3523625c1da56dc",
+      "width": 1200,
+      "height": 1600,
+      "size": 981199,
+      "uploadedDate": "2020-11-16T15:56:57.891Z"
+    }
+  ],
+  "creationDate": "2020-05-08T17:23:04.789+00:00",
+  "lastModifiedDate": "2020-12-16T18:21:41.143+00:00",
+  "developer": "Kalypso Media Group GmbH",
+  "developerId": "o-37ss7wypkskvyj58j9s7hhltxtujac",
+  "applicationId": null
+}

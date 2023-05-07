@@ -1,0 +1,32 @@
+{
+  "id": "e462e9120f544a268f917f4e8b30d480",
+  "title": "Fights in Tight Spaces",
+  "description": "Fights in Tight Spaces",
+  "namespace": "2a5eb81d6f384099a5259413ee22baa4",
+  "categories": "public/games/applications",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/2a5eb81d6f384099a5259413ee22baa4/item/EGS_Buildyourdeckcontrolthespacepunchbaddies_GroundShatter_S1-2560x1440-1ae4a48e2bf50e806856f501b7e073e9.jpg",
+      "md5": "1ae4a48e2bf50e806856f501b7e073e9",
+      "width": 2560,
+      "height": 1440,
+      "size": 350824,
+      "uploadedDate": "2021-02-22T20:55:00.21Z"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/2a5eb81d6f384099a5259413ee22baa4/item/EGS_Buildyourdeckcontrolthespacepunchbaddies_GroundShatter_S2-1200x1600-495a5b6805a5adf50adc89709984b403.jpg",
+      "md5": "495a5b6805a5adf50adc89709984b403",
+      "width": 1200,
+      "height": 1600,
+      "size": 218127,
+      "uploadedDate": "2021-02-22T20:55:13.565Z"
+    }
+  ],
+  "creationDate": "2020-06-12T15:06:13.43+00:00",
+  "lastModifiedDate": "2021-12-02T17:55:17.665+00:00",
+  "developer": "Distant Signal Limited",
+  "developerId": "o-xqs37sebjm7zdvdm9je2c4lj3ctnsr",
+  "applicationId": ""
+}

@@ -1,0 +1,32 @@
+{
+  "id": "8e72f2cc46dc49fdb8b813e8699eb87d",
+  "title": "Kingdoms of Amalur Re-Reckoning",
+  "description": "Kingdoms of Amalur Re-Reckoning",
+  "namespace": "0f86606a1622460898a7874d488f288a",
+  "categories": "public/games/applications",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/0f86606a1622460898a7874d488f288a/item/LandscapeProductImage-2560x1440-6251eb442278a4aeef78cdf315da330a.png",
+      "md5": "6251eb442278a4aeef78cdf315da330a",
+      "width": 2560,
+      "height": 1440,
+      "size": 3291891,
+      "uploadedDate": "2020-08-31T16:20:57.7Z"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/0f86606a1622460898a7874d488f288a/item/Portrait_Product_Image-1200x1600-9f98edc40c24f96c10fb38316ad8860d.png",
+      "md5": "9f98edc40c24f96c10fb38316ad8860d",
+      "width": 1200,
+      "height": 1600,
+      "size": 2249777,
+      "uploadedDate": "2020-08-31T16:21:10.607Z"
+    }
+  ],
+  "creationDate": "2020-08-21T13:36:15.954+00:00",
+  "lastModifiedDate": "2022-01-03T22:14:02.907+00:00",
+  "developer": "THQ Nordic GmbH",
+  "developerId": "o-jywxgemg3dagnv6fymcngq3g29mc4j",
+  "applicationId": "fghi4567JAs4hc9beCH5OIFhcwOnFVBS"
+}

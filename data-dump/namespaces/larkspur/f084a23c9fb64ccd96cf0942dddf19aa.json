@@ -1,0 +1,32 @@
+{
+  "id": "f084a23c9fb64ccd96cf0942dddf19aa",
+  "title": "Far Cry Primal Apex Edition",
+  "description": "Far Cry Primal Apex Edition",
+  "namespace": "larkspur",
+  "categories": "",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/larkspur/item/FCP_APEX_Store_Landscape_2560x1440-2560x1440-003650ebe3fdf82ec11f5b69d3adca00.jpg",
+      "md5": "003650ebe3fdf82ec11f5b69d3adca00",
+      "width": 2560,
+      "height": 1440,
+      "size": 859770,
+      "uploadedDate": "2020-08-05T15:49:12.675Z"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/larkspur/item/FCP_APEX_Store_Portrait_1200x1600-1200x1600-83dc7dac87d1279eed092bef7b877477.jpg",
+      "md5": "83dc7dac87d1279eed092bef7b877477",
+      "width": 1200,
+      "height": 1600,
+      "size": 694719,
+      "uploadedDate": "2020-08-05T15:49:03.954Z"
+    }
+  ],
+  "creationDate": "2019-02-13T17:25:32.565+00:00",
+  "lastModifiedDate": "2020-08-05T15:54:05.445+00:00",
+  "developer": "Ubisoft Entertainment",
+  "developerId": "o-3efjudxdtgsqnulml4bkeq3v9nec38",
+  "applicationId": null
+}

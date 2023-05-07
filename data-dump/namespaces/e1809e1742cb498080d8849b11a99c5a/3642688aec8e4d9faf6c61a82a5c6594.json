@@ -1,0 +1,32 @@
+{
+  "id": "3642688aec8e4d9faf6c61a82a5c6594",
+  "title": "MacawStaging",
+  "description": "MacawStaging",
+  "namespace": "e1809e1742cb498080d8849b11a99c5a",
+  "categories": "public/games/applications",
+  "keyImages": [
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/e1809e1742cb498080d8849b11a99c5a/item/EGS_AirborneKingdom_TheWanderingBan_S1-2560x1440-bd189bc37ebcdf92527db3017d7a2f00.jpg",
+      "md5": "bd189bc37ebcdf92527db3017d7a2f00",
+      "width": 2560,
+      "height": 1440,
+      "size": 993877,
+      "uploadedDate": "2020-10-29T04:27:18.615Z"
+    },
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/e1809e1742cb498080d8849b11a99c5a/item/EGS_AirborneKingdom_TheWanderingBan_S2-1200x1600-ef7b5c8d74730358fcc7d1f4c8c87252.jpg",
+      "md5": "ef7b5c8d74730358fcc7d1f4c8c87252",
+      "width": 1200,
+      "height": 1600,
+      "size": 985178,
+      "uploadedDate": "2020-10-29T04:27:22.281Z"
+    }
+  ],
+  "creationDate": "2019-07-12T21:27:32.522+00:00",
+  "lastModifiedDate": "2022-03-10T19:48:49.779+00:00",
+  "developer": "Freedom Games",
+  "developerId": "o-rlswgtffm6ua68662gd37xv3lmq95q",
+  "applicationId": ""
+}

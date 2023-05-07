@@ -1,0 +1,32 @@
+{
+  "id": "efc38d0bc601491bb9e6cd08dc526132",
+  "title": "Rebel Galaxy Outlaw",
+  "description": "Rebel Galaxy Outlaw",
+  "namespace": "marmoset",
+  "categories": "",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/item/marmoset/ENG_DoubleDamageGames_RebelGalaxyOutlaw_S1_2560x1440_2560x1440-fbe6ed7f2bc134dadc732ec952dc9eaa",
+      "md5": "fbe6ed7f2bc134dadc732ec952dc9eaa",
+      "width": 2560,
+      "height": 1440,
+      "size": 754712,
+      "uploadedDate": "2022-11-04T21:05:29.036Z"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/item/marmoset/ENG_DoubleDamageGames_RebelGalaxyOutlaw_S2_1200x1600_1200x1600-9cc8d180ca9cf5ff564d31a4dcede301",
+      "md5": "9cc8d180ca9cf5ff564d31a4dcede301",
+      "width": 1200,
+      "height": 1600,
+      "size": 692705,
+      "uploadedDate": "2022-11-04T21:05:31.454Z"
+    }
+  ],
+  "creationDate": "2018-11-30T01:31:47.191+00:00",
+  "lastModifiedDate": "2022-11-04T21:06:15.313+00:00",
+  "developer": "Double Damage Games, Inc",
+  "developerId": "o-7kk95dlwa9mep5kfkubrgmp9qkwbt4",
+  "applicationId": ""
+}

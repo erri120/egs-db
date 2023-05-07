@@ -1,0 +1,23 @@
+{
+  "id": "06eafb1bcd0d443c86e4e367bce45252",
+  "title": "E3 Demo External Audience",
+  "description": "E3 Demo External Audience",
+  "namespace": "catnip",
+  "categories": "",
+  "keyImages": [
+    {
+      "type": "ESRB",
+      "url": "https://cdn1.epicgames.com/catnip/item/ESRB_M_Borderlands3-842x485-275d74057f4825477e1f7f17f8cf0abc.jpg",
+      "md5": "275d74057f4825477e1f7f17f8cf0abc",
+      "width": 842,
+      "height": 485,
+      "size": 134137,
+      "uploadedDate": "2020-01-07T22:48:23.791Z"
+    }
+  ],
+  "creationDate": "2019-05-20T22:54:36.692+00:00",
+  "lastModifiedDate": "2020-06-15T20:52:55.764+00:00",
+  "developer": "2K Games, Inc.",
+  "developerId": "o-37m6jbj5wcvrcvm4wusv7nazdfvbjk",
+  "applicationId": null
+}

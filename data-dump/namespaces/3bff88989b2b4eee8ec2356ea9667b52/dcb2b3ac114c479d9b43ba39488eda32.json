@@ -1,0 +1,32 @@
+{
+  "id": "dcb2b3ac114c479d9b43ba39488eda32",
+  "title": "Carto",
+  "description": "Carto",
+  "namespace": "3bff88989b2b4eee8ec2356ea9667b52",
+  "categories": "public/games/applications",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/3bff88989b2b4eee8ec2356ea9667b52/item/EGS_Cartoisacharmingadventurepuzzlegame_SunheadGames_S1-2560x1440-73354707ac2767e7b520ccee99bba7f3.jpg",
+      "md5": "73354707ac2767e7b520ccee99bba7f3",
+      "width": 2560,
+      "height": 1440,
+      "size": 957769,
+      "uploadedDate": "2020-10-20T00:48:04.185Z"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/3bff88989b2b4eee8ec2356ea9667b52/item/EGS_Cartoisacharmingadventurepuzzlegame_SunheadGames_S2-1200x1600-d5edfced1a3e506d18bf8cac0876b8bf.jpg",
+      "md5": "d5edfced1a3e506d18bf8cac0876b8bf",
+      "width": 1200,
+      "height": 1600,
+      "size": 935226,
+      "uploadedDate": "2020-10-20T00:48:20.616Z"
+    }
+  ],
+  "creationDate": "2020-08-31T21:21:28.219+00:00",
+  "lastModifiedDate": "2020-10-27T16:58:33.726+00:00",
+  "developer": "Humble Bundle",
+  "developerId": "o-pldxyabsslnt6jth2z634mmr2pw8lu",
+  "applicationId": null
+}

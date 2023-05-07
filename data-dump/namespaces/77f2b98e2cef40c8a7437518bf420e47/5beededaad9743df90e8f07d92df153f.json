@@ -1,0 +1,32 @@
+{
+  "id": "5beededaad9743df90e8f07d92df153f",
+  "title": "Cyberpunk 2077",
+  "description": "Cyberpunk 2077",
+  "namespace": "77f2b98e2cef40c8a7437518bf420e47",
+  "categories": "public/games/applications",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/item/77f2b98e2cef40c8a7437518bf420e47/EN_CDProjektRED_Cyberpunk2077NG_S1_2560x1440_2560x1440-359e77d3cd0a40aebf3bbc130d14c5c7",
+      "md5": "359e77d3cd0a40aebf3bbc130d14c5c7",
+      "width": 2560,
+      "height": 1440,
+      "size": 684425,
+      "uploadedDate": "2022-03-22T15:56:14.855Z"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/item/77f2b98e2cef40c8a7437518bf420e47/EN_CDProjektRED_Cyberpunk2077NG_S2_1200x1600_1200x1600-b1847981214ac013383111fc457eb9c5",
+      "md5": "b1847981214ac013383111fc457eb9c5",
+      "width": 1200,
+      "height": 1600,
+      "size": 747407,
+      "uploadedDate": "2022-03-22T15:56:22.204Z"
+    }
+  ],
+  "creationDate": "2019-06-07T19:03:29.226+00:00",
+  "lastModifiedDate": "2022-09-07T13:49:15.954+00:00",
+  "developer": "CD PROJEKT RED",
+  "developerId": "o-x2vdjaf7cfakvlsgz8qf2gx8bkplcc",
+  "applicationId": "fghi4567ay5jIOq6Vy3yzQe8RNUYiURd"
+}

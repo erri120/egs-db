@@ -1,0 +1,32 @@
+{
+  "id": "b5e0c2aeffe746b2a65d10aa61e9dc83",
+  "title": "Industries of Titan Experimental",
+  "description": "Industries of Titan Experimental",
+  "namespace": "protea",
+  "categories": "",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/protea/item/EGS_BraceYourselfGames_IndustriesOfTitan_IC1_Color_Experimental-3000x1772-5031b25ae0536e66804981ac121bf5d7.png",
+      "md5": "5031b25ae0536e66804981ac121bf5d7",
+      "width": 3000,
+      "height": 1772,
+      "size": 4493481,
+      "uploadedDate": "2020-04-09T12:58:08.791Z"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/protea/item/IoT-KeyArt-Portrait-Logo-Experimental-1259x1680-753feab52a3ff512d29d949db60d755d.png",
+      "md5": "753feab52a3ff512d29d949db60d755d",
+      "width": 1259,
+      "height": 1680,
+      "size": 2638101,
+      "uploadedDate": "2020-04-15T14:07:33.295Z"
+    }
+  ],
+  "creationDate": "2019-12-04T18:28:51.66+00:00",
+  "lastModifiedDate": "2022-12-06T18:54:58.032+00:00",
+  "developer": "Brace Yourself Games",
+  "developerId": "o-5y95w2k7uu469v8lr4dyzeff447wfm",
+  "applicationId": null
+}

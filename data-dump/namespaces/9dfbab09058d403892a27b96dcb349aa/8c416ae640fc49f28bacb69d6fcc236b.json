@@ -1,0 +1,32 @@
+{
+  "id": "8c416ae640fc49f28bacb69d6fcc236b",
+  "title": "A Good Snowman Is Hard To Build",
+  "description": "A Good Snowman Is Hard To Build",
+  "namespace": "9dfbab09058d403892a27b96dcb349aa",
+  "categories": "public/games/applications",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_AGoodSnowmanisHardtoBuild_DraknekFriends_S1_2560x1440-06ffbdd50acb5c652873e410112673ce",
+      "md5": "06ffbdd50acb5c652873e410112673ce",
+      "width": 2560,
+      "height": 1440,
+      "size": 457072,
+      "uploadedDate": "2021-04-22T21:07:30.686Z"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_AGoodSnowmanisHardtoBuild_DraknekFriends_S2_1200x1600-6935542c2ca09bbc1b8fb8265dcfa8e4",
+      "md5": "6935542c2ca09bbc1b8fb8265dcfa8e4",
+      "width": 1200,
+      "height": 1600,
+      "size": 298163,
+      "uploadedDate": "2021-04-22T21:07:49.383Z"
+    }
+  ],
+  "creationDate": "2021-02-05T22:36:05.331+00:00",
+  "lastModifiedDate": "2021-04-27T02:01:00.387+00:00",
+  "developer": "Draknek",
+  "developerId": "o-8n38qrvfawma8qsmu3d37bw7gasm2a",
+  "applicationId": ""
+}

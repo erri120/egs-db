@@ -1,0 +1,23 @@
+{
+  "id": "942e8a7133464f0ea83179030536505e",
+  "title": "MeatBoyGeneralAudience",
+  "description": "MeatBoyGeneralAudience",
+  "namespace": "buffalo",
+  "categories": "audience",
+  "keyImages": [
+    {
+      "type": "ESRB",
+      "url": "https://cdn1.epicgames.com/buffalo/item/ESRB_SuperMeatBoy-842x404-ce71cc1d790ac1c9bfe3e4e5f0a7223f.png",
+      "md5": "ce71cc1d790ac1c9bfe3e4e5f0a7223f",
+      "width": 842,
+      "height": 404,
+      "size": 54615,
+      "uploadedDate": "2019-04-23T20:56:29.827Z"
+    }
+  ],
+  "creationDate": "2018-12-10T17:39:53.68+00:00",
+  "lastModifiedDate": "2019-05-13T14:37:25.919+00:00",
+  "developer": "Team Meat",
+  "developerId": "o-mj7q3aaq5djq6wuddnrr5mgqjsk2da",
+  "applicationId": null
+}

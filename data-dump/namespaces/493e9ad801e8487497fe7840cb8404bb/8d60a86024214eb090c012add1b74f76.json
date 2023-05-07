@@ -1,0 +1,32 @@
+{
+  "id": "8d60a86024214eb090c012add1b74f76",
+  "title": "Bourgault DLC",
+  "description": "Bourgault DLC - Pack Y",
+  "namespace": "493e9ad801e8487497fe7840cb8404bb",
+  "categories": "public/games/applications",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/493e9ad801e8487497fe7840cb8404bb/item/FS19_Bourgault_EpicGames_LibraryImage-2560x1440-a424b5be92ffaa91ad3e0f3be185197f.jpg",
+      "md5": "a424b5be92ffaa91ad3e0f3be185197f",
+      "width": 2560,
+      "height": 1440,
+      "size": 509846,
+      "uploadedDate": "2020-03-09T18:49:31.687Z"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/493e9ad801e8487497fe7840cb8404bb/item/FS19-Bourgault_EpicGames-Desktop-Vertical_510x680-510x680-0cd55ded945a172ee347eea52dcb279a.jpg",
+      "md5": "0cd55ded945a172ee347eea52dcb279a",
+      "width": 510,
+      "height": 680,
+      "size": 111525,
+      "uploadedDate": "2020-03-09T18:49:45.316Z"
+    }
+  ],
+  "creationDate": "2019-11-20T22:00:06.238+00:00",
+  "lastModifiedDate": "2020-11-12T14:01:03.772+00:00",
+  "developer": "Focus Home",
+  "developerId": "o-wt4zxeetmq6jem7qp4pkssr46aenj5",
+  "applicationId": null
+}

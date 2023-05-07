@@ -1,0 +1,32 @@
+{
+  "id": "8e6311db197641dab2039d0721f07c9f",
+  "title": "STAR WARS\u2122 Battlefront\u2122 Ultimate Edition",
+  "description": "STAR WARS\u2122 Battlefront\u2122 Ultimate Edition",
+  "namespace": "fefe1db11f534484987ef50ec1e25225",
+  "categories": "public/games/applications",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/fefe1db11f534484987ef50ec1e25225/item/EGS_STARWARSBattlefrontUltimateEdition_DICE_S1-2560x1440-a22e42747641440131487f2850566b31.jpg",
+      "md5": "a22e42747641440131487f2850566b31",
+      "width": 2560,
+      "height": 1440,
+      "size": 997168,
+      "uploadedDate": "2021-01-14T02:48:28.954Z"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/fefe1db11f534484987ef50ec1e25225/item/EGS_STARWARSBattlefrontUltimateEdition_DICE_S2-1200x1600-9c646198bcacdb8d1cded3566c718bc8.jpg",
+      "md5": "9c646198bcacdb8d1cded3566c718bc8",
+      "width": 1200,
+      "height": 1600,
+      "size": 928925,
+      "uploadedDate": "2021-01-14T02:48:39.291Z"
+    }
+  ],
+  "creationDate": "2020-11-09T13:43:02.297+00:00",
+  "lastModifiedDate": "2022-08-11T15:57:46.325+00:00",
+  "developer": "Electronic Arts",
+  "developerId": "o-vtqh9b4lk8n4jpadfv6cphqs9hsly9",
+  "applicationId": ""
+}

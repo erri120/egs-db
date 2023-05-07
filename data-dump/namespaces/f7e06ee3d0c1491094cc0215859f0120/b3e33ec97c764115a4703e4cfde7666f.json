@@ -1,0 +1,23 @@
+{
+  "id": "b3e33ec97c764115a4703e4cfde7666f",
+  "title": "FlourDevAudience",
+  "description": "FlourDevAudience",
+  "namespace": "f7e06ee3d0c1491094cc0215859f0120",
+  "categories": "",
+  "keyImages": [
+    {
+      "type": "ESRB",
+      "url": "https://cdn1.epicgames.com/f7e06ee3d0c1491094cc0215859f0120/item/RP_FOR_E-842x404-fce4fa7233ed80170a8e36079d1e1bde.png",
+      "md5": "fce4fa7233ed80170a8e36079d1e1bde",
+      "width": 842,
+      "height": 404,
+      "size": 51194,
+      "uploadedDate": "2019-06-07T16:15:00.66Z"
+    }
+  ],
+  "creationDate": "2019-06-06T18:11:04.819+00:00",
+  "lastModifiedDate": "2019-09-20T15:47:28.718+00:00",
+  "developer": "Panic",
+  "developerId": "o-a62axwpwx275msq4yzhdhk9acaf8x3",
+  "applicationId": null
+}

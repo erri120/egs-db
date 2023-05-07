@@ -1,0 +1,41 @@
+{
+  "id": "03ef9b9700d64a5780c10bf6992b1bff",
+  "title": "CatnipReviewCodeDLC2",
+  "description": "CatnipReviewCodeDLC2",
+  "namespace": "catnip",
+  "categories": "",
+  "keyImages": [
+    {
+      "type": "DieselGameBoxLogo",
+      "url": "https://cdn1.epicgames.com/catnip/item/Oak_Logo_Standard-720x209-8373e0df5612a9952fe79defb32e1322-720x209-8373e0df5612a9952fe79defb32e1322.png",
+      "md5": "8373e0df5612a9952fe79defb32e1322",
+      "width": 720,
+      "height": 209,
+      "size": 192732,
+      "uploadedDate": "2019-08-26T17:28:28.93Z"
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/catnip/item/Oak_GameIcon_400x400-400x400-f940ecf9c288f1ae569485307ea5c95b-400x400-f940ecf9c288f1ae569485307ea5c95b.png",
+      "md5": "f940ecf9c288f1ae569485307ea5c95b",
+      "width": 400,
+      "height": 400,
+      "size": 98643,
+      "uploadedDate": "2019-08-26T17:28:39.51Z"
+    },
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/catnip/item/2kgmkt_bl3_key_art_horiz_standard-1000x477-9fe53b07eaeb3c17723aae682893d745.png",
+      "md5": "9fe53b07eaeb3c17723aae682893d745",
+      "width": 1000,
+      "height": 477,
+      "size": 969562,
+      "uploadedDate": "2019-09-06T13:21:17.62Z"
+    }
+  ],
+  "creationDate": "2020-03-05T22:33:02.969+00:00",
+  "lastModifiedDate": "2020-06-15T20:52:55.764+00:00",
+  "developer": "2K Games, Inc.",
+  "developerId": "o-37m6jbj5wcvrcvm4wusv7nazdfvbjk",
+  "applicationId": null
+}

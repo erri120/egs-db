@@ -1,0 +1,32 @@
+{
+  "id": "636207a22aa34f92a488a4978a0d953e",
+  "title": "Yaga Preview Audience",
+  "description": "Yaga Preview Audience",
+  "namespace": "bec57b5341ad4294b005a7dd18691419",
+  "categories": "audience",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/bec57b5341ad4294b005a7dd18691419/item/Yaga_MainGame_EpicGamesStore_N3_Newsfeed_Primary_ApprovedPublic-2560x1440-7b55beb1f99c3e461380181215242809.jpg",
+      "md5": "7b55beb1f99c3e461380181215242809",
+      "width": 2560,
+      "height": 1440,
+      "size": 98059,
+      "uploadedDate": "2019-09-25T19:30:23.671Z"
+    },
+    {
+      "type": "DieselGameBoxLogo",
+      "url": "https://cdn1.epicgames.com/bec57b5341ad4294b005a7dd18691419/item/Yaga_MainGame_EpicGamesStore_IC1_Logo_Color_ApprovedPublic-1591x1431-c1cc75abf441448b681d26fdcf1c6be6.png",
+      "md5": "c1cc75abf441448b681d26fdcf1c6be6",
+      "width": 1591,
+      "height": 1431,
+      "size": 92279,
+      "uploadedDate": "2019-09-25T19:30:36.699Z"
+    }
+  ],
+  "creationDate": "2020-03-12T16:46:02.505+00:00",
+  "lastModifiedDate": "2021-11-05T14:57:49.429+00:00",
+  "developer": "Versus Evil",
+  "developerId": "o-ugw2zblbdkg5xklzadlrt2qe92cdje",
+  "applicationId": null
+}

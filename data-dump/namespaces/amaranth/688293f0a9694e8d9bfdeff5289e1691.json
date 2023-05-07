@@ -1,0 +1,32 @@
+{
+  "id": "688293f0a9694e8d9bfdeff5289e1691",
+  "title": "Amaranth 1.4",
+  "description": "Amaranth 1.4",
+  "namespace": "amaranth",
+  "categories": "",
+  "keyImages": [
+    {
+      "type": "DieselGameBoxLogo",
+      "url": "https://cdn1.epicgames.com/amaranth/item/EGS_PanacheDigitalGames_AncestorsTheHumankindOdyssey_IC1_GameLogoDarkbg-3000x1206-32a3a2c8b1036e5d757171bfc9c960ed.png",
+      "md5": "32a3a2c8b1036e5d757171bfc9c960ed",
+      "width": 3000,
+      "height": 1206,
+      "size": 55259,
+      "uploadedDate": "2019-05-23T18:35:19.648Z"
+    },
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/amaranth/item/EGS_PanacheDigitalGames_Ancestors_N2_2560x1440-2560x1440-50339597c82243866cade177e5ed78cf.png",
+      "md5": "50339597c82243866cade177e5ed78cf",
+      "width": 2560,
+      "height": 1440,
+      "size": 1603409,
+      "uploadedDate": "2019-05-23T18:35:29.522Z"
+    }
+  ],
+  "creationDate": "2020-01-28T15:14:45.525+00:00",
+  "lastModifiedDate": "2020-01-28T15:15:19.036+00:00",
+  "developer": "Private Division",
+  "developerId": "o-6emrb2lpzacm9ued3z37u42x56wkaz",
+  "applicationId": null
+}

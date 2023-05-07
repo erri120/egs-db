@@ -1,0 +1,23 @@
+{
+  "id": "dd2f150f062f4d9eaea1079022ddc30c",
+  "title": "AmaryllisGeneralAudience",
+  "description": "AmaryllisGeneralAudience",
+  "namespace": "0dabb0f14acf4fef84bd2b2bf3085dfc",
+  "categories": "",
+  "keyImages": [
+    {
+      "type": "ESRB",
+      "url": "https://cdn1.epicgames.com/0dabb0f14acf4fef84bd2b2bf3085dfc/item/ESRB-DefenseGrid-332x155-011798b8baafd295817f55b5e940249f.png",
+      "md5": "011798b8baafd295817f55b5e940249f",
+      "width": 332,
+      "height": 155,
+      "size": 10260,
+      "uploadedDate": "2020-12-18T19:29:46.077Z"
+    }
+  ],
+  "creationDate": "2020-04-15T17:08:42.468+00:00",
+  "lastModifiedDate": "2021-01-11T23:29:58.244+00:00",
+  "developer": "Hidden Path",
+  "developerId": "o-lr4ubnee8h8ya6fjmgfqy63uftabu6",
+  "applicationId": null
+}

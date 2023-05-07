@@ -1,0 +1,32 @@
+{
+  "id": "ef4a63daa7d4420e91420a72050be89d",
+  "title": "Satisfactory Experimental",
+  "description": "Satisfactory Experimental",
+  "namespace": "crab",
+  "categories": "",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/item/crab/U7_Epic_2560x1440_Logo_2560x1440-bbca71b28786d26e91f29f1c3649a781",
+      "md5": "bbca71b28786d26e91f29f1c3649a781",
+      "width": 2560,
+      "height": 1440,
+      "size": 4529832,
+      "uploadedDate": "2022-11-14T21:07:56.698Z"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/item/crab/U7_Epic_1200x1600_Logo_1200x1600-ed7f1a9f8a59acbfaba61af7accc0a4b",
+      "md5": "ed7f1a9f8a59acbfaba61af7accc0a4b",
+      "width": 1200,
+      "height": 1600,
+      "size": 2207586,
+      "uploadedDate": "2022-11-14T21:08:00.721Z"
+    }
+  ],
+  "creationDate": "2019-04-03T20:31:28.361+00:00",
+  "lastModifiedDate": "2022-11-15T21:11:51.27+00:00",
+  "developer": "Coffee Stain Publishing",
+  "developerId": "o-9r9hp69ccnr39qp9f9mgpsznznu4as",
+  "applicationId": ""
+}

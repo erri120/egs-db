@@ -1,0 +1,23 @@
+{
+  "id": "b84938915d924da0b018c7aa6d13c138",
+  "title": "BasilGeneralAudience",
+  "description": "BasilGeneralAudience",
+  "namespace": "basil",
+  "categories": "",
+  "keyImages": [
+    {
+      "type": "ESRB",
+      "url": "https://cdn1.epicgames.com/basil/item/ESRB_human_resource_machine-842x404-cfd5c9cef2426264c94deaf90c520687.jpg",
+      "md5": "cfd5c9cef2426264c94deaf90c520687",
+      "width": 842,
+      "height": 404,
+      "size": 64135,
+      "uploadedDate": "2020-01-09T15:04:25.413Z"
+    }
+  ],
+  "creationDate": "2019-02-15T17:35:11.326+00:00",
+  "lastModifiedDate": "2020-01-09T15:04:32.477+00:00",
+  "developer": "Tomorrow Corporation",
+  "developerId": "o-46fvj3lpt7r9n79axbrl8tkgfbe2j8",
+  "applicationId": null
+}

@@ -1,0 +1,32 @@
+{
+  "id": "c328481e98e0447cafaf9d3cc60dcbc4",
+  "title": "Hell is other demons",
+  "description": "Hell is other demons\n",
+  "namespace": "643a8667d7a940b8b36094020fcd0dcf",
+  "categories": "public/freegames/games/applications",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_Hellisotherdemons_CuddleMonsterGames_S1_2560x1440-b9528f8932eadbc39d5e03db5d798859",
+      "md5": "b9528f8932eadbc39d5e03db5d798859",
+      "width": 2560,
+      "height": 1440,
+      "size": 726273,
+      "uploadedDate": "2021-06-07T20:20:56.629Z"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_Hellisotherdemons_CuddleMonsterGames_S2_1200x1600-da6dce7cd466a31ae78e34ccdc27bab8",
+      "md5": "da6dce7cd466a31ae78e34ccdc27bab8",
+      "width": 1200,
+      "height": 1600,
+      "size": 560188,
+      "uploadedDate": "2021-06-07T20:20:59.364Z"
+    }
+  ],
+  "creationDate": "2021-01-14T00:06:21.507+00:00",
+  "lastModifiedDate": "2021-06-21T15:57:27.451+00:00",
+  "developer": "Kongregate",
+  "developerId": "o-ztdpxjrm7lyemkjl4967l76k4vzxfr",
+  "applicationId": "fghi45679fa7M5pc0SPtkjJPyDII8nN3"
+}

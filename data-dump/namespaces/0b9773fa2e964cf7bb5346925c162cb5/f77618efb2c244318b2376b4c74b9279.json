@@ -1,0 +1,23 @@
+{
+  "id": "f77618efb2c244318b2376b4c74b9279",
+  "title": "CakeGeneralAudience",
+  "description": "CakeGeneralAudience",
+  "namespace": "0b9773fa2e964cf7bb5346925c162cb5",
+  "categories": "",
+  "keyImages": [
+    {
+      "type": "ESRB",
+      "url": "https://cdn1.epicgames.com/0b9773fa2e964cf7bb5346925c162cb5/item/ESRB_Alluris-842x404-4162edfa89827ff9f01015dbea1ffa3a.png",
+      "md5": "4162edfa89827ff9f01015dbea1ffa3a",
+      "width": 842,
+      "height": 404,
+      "size": 66201,
+      "uploadedDate": "2020-08-06T19:36:59.714Z"
+    }
+  ],
+  "creationDate": "2020-07-20T18:18:44.008+00:00",
+  "lastModifiedDate": "2020-09-24T11:29:36.872+00:00",
+  "developer": "562 Interactive LLC",
+  "developerId": "o-3fwjhd84kkymslexsxxhea2lrtsj68",
+  "applicationId": null
+}

@@ -1,0 +1,23 @@
+{
+  "id": "9b2ccc031b954d30bd4ceda8418341b0",
+  "title": "Catnip External Event Audience",
+  "description": "Catnip External Event Audience",
+  "namespace": "catnip",
+  "categories": "",
+  "keyImages": [
+    {
+      "type": "ESRB",
+      "url": "https://cdn1.epicgames.com/catnip/item/ESRB_M_Borderlands3-842x485-275d74057f4825477e1f7f17f8cf0abc.jpg",
+      "md5": "275d74057f4825477e1f7f17f8cf0abc",
+      "width": 842,
+      "height": 485,
+      "size": 134137,
+      "uploadedDate": "2020-01-07T22:55:06.366Z"
+    }
+  ],
+  "creationDate": "2019-07-11T21:28:19.667+00:00",
+  "lastModifiedDate": "2020-01-07T22:55:08.775+00:00",
+  "developer": "2K Games, Inc.",
+  "developerId": "o-37m6jbj5wcvrcvm4wusv7nazdfvbjk",
+  "applicationId": null
+}

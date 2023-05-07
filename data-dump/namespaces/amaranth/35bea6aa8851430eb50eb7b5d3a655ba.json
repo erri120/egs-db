@@ -1,0 +1,23 @@
+{
+  "id": "35bea6aa8851430eb50eb7b5d3a655ba",
+  "title": "AmaranthDevAudience",
+  "description": "AmaranthDevAudience",
+  "namespace": "amaranth",
+  "categories": "",
+  "keyImages": [
+    {
+      "type": "ESRB",
+      "url": "https://cdn1.epicgames.com/amaranth/item/ESRB_Ancestors-842x404-1a327bd7bb0decfaa84b9b0ed0a1db3c.jpg",
+      "md5": "1a327bd7bb0decfaa84b9b0ed0a1db3c",
+      "width": 842,
+      "height": 404,
+      "size": 86962,
+      "uploadedDate": "2019-08-27T19:37:39.261Z"
+    }
+  ],
+  "creationDate": "2019-03-18T03:59:48.762+00:00",
+  "lastModifiedDate": "2019-08-27T19:37:42.359+00:00",
+  "developer": "Private Division",
+  "developerId": "o-6emrb2lpzacm9ued3z37u42x56wkaz",
+  "applicationId": null
+}

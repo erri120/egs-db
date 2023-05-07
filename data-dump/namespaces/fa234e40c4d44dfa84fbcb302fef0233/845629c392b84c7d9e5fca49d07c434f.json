@@ -1,0 +1,23 @@
+{
+  "id": "845629c392b84c7d9e5fca49d07c434f",
+  "title": "City of Brass General Audience",
+  "description": "City of Brass General Audience",
+  "namespace": "fa234e40c4d44dfa84fbcb302fef0233",
+  "categories": "",
+  "keyImages": [
+    {
+      "type": "ESRB",
+      "url": "https://cdn1.epicgames.com/fa234e40c4d44dfa84fbcb302fef0233/item/Ratings_ESRB_T-840x403-5b53761ab1eff24381746101a5506d86.jpg",
+      "md5": "5b53761ab1eff24381746101a5506d86",
+      "width": 840,
+      "height": 403,
+      "size": 15333,
+      "uploadedDate": "2019-05-23T14:41:13.353Z"
+    }
+  ],
+  "creationDate": "2019-04-08T19:20:53.161+00:00",
+  "lastModifiedDate": "2019-05-30T16:28:26.081+00:00",
+  "developer": "Uppercut Games",
+  "developerId": "o-hpdh9zjxpuz4quu95cagfzhgcavmjt",
+  "applicationId": null
+}

@@ -1,0 +1,23 @@
+{
+  "id": "6433c8a08ac34eeaa1db2bcd85b00f77",
+  "title": "PelicanGeneralAudience",
+  "description": "PelicanGeneralAudience",
+  "namespace": "854ca270c7f04fe483212a35811e9189",
+  "categories": "",
+  "keyImages": [
+    {
+      "type": "ESRB",
+      "url": "https://cdn1.epicgames.com/854ca270c7f04fe483212a35811e9189/item/ESRB_Everything-842x404-ea8a28dede7f4fc2c7209feb876b92cf.jpg",
+      "md5": "ea8a28dede7f4fc2c7209feb876b92cf",
+      "width": 842,
+      "height": 404,
+      "size": 108646,
+      "uploadedDate": "2020-01-20T15:04:58.612Z"
+    }
+  ],
+  "creationDate": "2019-08-01T19:10:34.735+00:00",
+  "lastModifiedDate": "2020-01-20T15:05:02.862+00:00",
+  "developer": "David OReilly",
+  "developerId": "o-bb6gmtc2ysnxtvxulaxsqe7bgtzkz7",
+  "applicationId": null
+}

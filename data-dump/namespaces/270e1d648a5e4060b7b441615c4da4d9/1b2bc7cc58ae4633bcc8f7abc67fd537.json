@@ -1,0 +1,32 @@
+{
+  "id": "1b2bc7cc58ae4633bcc8f7abc67fd537",
+  "title": "Figment",
+  "description": "Figment",
+  "namespace": "270e1d648a5e4060b7b441615c4da4d9",
+  "categories": "public/games/applications",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/270e1d648a5e4060b7b441615c4da4d9/item/EGS_Figment_BedtimeDigitalGames_S3-1360x766-db305dcf65ce7dd5d7c3adfe6afc6769.jpg",
+      "md5": "db305dcf65ce7dd5d7c3adfe6afc6769",
+      "width": 1360,
+      "height": 766,
+      "size": 490395,
+      "uploadedDate": "2020-03-18T20:16:45.714Z"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/270e1d648a5e4060b7b441615c4da4d9/item/EGS_Figment_BedtimeDigitalGames_S4-510x680-9ad7fc1bc7e6c8dae1674c2773c759d1.jpg",
+      "md5": "9ad7fc1bc7e6c8dae1674c2773c759d1",
+      "width": 510,
+      "height": 680,
+      "size": 374487,
+      "uploadedDate": "2020-03-18T20:16:58.393Z"
+    }
+  ],
+  "creationDate": "2019-11-06T20:59:29.196+00:00",
+  "lastModifiedDate": "2020-05-15T02:42:42.506+00:00",
+  "developer": "Bedtime Digital Games ApS",
+  "developerId": "o-bdq65kgy9hhkz5n4gkjlyt3uju86hw",
+  "applicationId": null
+}

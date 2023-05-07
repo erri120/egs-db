@@ -1,0 +1,23 @@
+{
+  "id": "b51bffea7f884b44a48222b65bfeb777",
+  "title": "KingletGranColombiaMaya_Audience",
+  "description": "KingletGranColombiaMaya_Audience",
+  "namespace": "cd14dcaa4f3443f19f7169a980559c62",
+  "categories": "",
+  "keyImages": [
+    {
+      "type": "ESRB",
+      "url": "https://cdn1.epicgames.com/cd14dcaa4f3443f19f7169a980559c62/item/ESRB_CivVI-842x485-3746fad17f672cbb87abeb8bfb2f78c2.jpg",
+      "md5": "3746fad17f672cbb87abeb8bfb2f78c2",
+      "width": 842,
+      "height": 485,
+      "size": 135832,
+      "uploadedDate": "2020-05-21T15:39:41.892Z"
+    }
+  ],
+  "creationDate": "2020-04-15T15:31:24.476+00:00",
+  "lastModifiedDate": "2022-11-21T18:24:37.807+00:00",
+  "developer": "2K Games, Inc.",
+  "developerId": "o-37m6jbj5wcvrcvm4wusv7nazdfvbjk",
+  "applicationId": null
+}

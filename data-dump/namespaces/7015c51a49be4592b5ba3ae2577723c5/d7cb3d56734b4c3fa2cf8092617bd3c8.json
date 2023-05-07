@@ -1,0 +1,32 @@
+{
+  "id": "d7cb3d56734b4c3fa2cf8092617bd3c8",
+  "title": "Mad World",
+  "description": "Mad World",
+  "namespace": "7015c51a49be4592b5ba3ae2577723c5",
+  "categories": "public/games/applications",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/7015c51a49be4592b5ba3ae2577723c5/item/EGS_MadWorld_HaemimontGames_DLC_S1-2560x1440-1f645d9537e5ad59f239d2c657c42fef.jpg",
+      "md5": "1f645d9537e5ad59f239d2c657c42fef",
+      "width": 2560,
+      "height": 1440,
+      "size": 947690,
+      "uploadedDate": "2020-11-16T15:47:56.389Z"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/7015c51a49be4592b5ba3ae2577723c5/item/EGS_MadWorld_HaemimontGames_DLC_S2-1200x1600-40e9bab247963fcde8cd523cb75f0144.jpg",
+      "md5": "40e9bab247963fcde8cd523cb75f0144",
+      "width": 1200,
+      "height": 1600,
+      "size": 993898,
+      "uploadedDate": "2020-11-16T15:48:03.38Z"
+    }
+  ],
+  "creationDate": "2020-05-08T17:23:19.728+00:00",
+  "lastModifiedDate": "2020-12-16T18:21:41.177+00:00",
+  "developer": "Kalypso Media Group GmbH",
+  "developerId": "o-37ss7wypkskvyj58j9s7hhltxtujac",
+  "applicationId": null
+}

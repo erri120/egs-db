@@ -1,0 +1,32 @@
+{
+  "id": "20729b9176c241f0b617c5723e70ec2d",
+  "title": "Surviving Mars",
+  "description": "Surviving Mars",
+  "namespace": "d759128018124dcabb1fbee9bb28e178",
+  "categories": "public/games/applications",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/d759128018124dcabb1fbee9bb28e178/item/EGS_PDX_SurvivingMars_S1_Store Primary Promo (Landscape)-2560x1440-ef059cb5bccdef0947c508db16e4a14a-2560x1440-ef059cb5bccdef0947c508db16e4a14a.jpg",
+      "md5": "ef059cb5bccdef0947c508db16e4a14a",
+      "width": 2560,
+      "height": 1440,
+      "size": 455338,
+      "uploadedDate": "2020-05-13T19:25:25.159Z"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/d759128018124dcabb1fbee9bb28e178/item/CodeRedemption_SurvivingMars-340x440-d3bf4bea36581cf967044ef712e67f9c-340x440-d3bf4bea36581cf967044ef712e67f9c.jpg",
+      "md5": "d3bf4bea36581cf967044ef712e67f9c",
+      "width": 340,
+      "height": 440,
+      "size": 148525,
+      "uploadedDate": "2020-05-13T19:25:32.307Z"
+    }
+  ],
+  "creationDate": "2019-09-03T14:07:35.737+00:00",
+  "lastModifiedDate": "2021-12-08T02:39:39.092+00:00",
+  "developer": "Paradox Interactive",
+  "developerId": "o-tjvfg6rejs6h86qa7k9aa64rrgbxxb",
+  "applicationId": null
+}

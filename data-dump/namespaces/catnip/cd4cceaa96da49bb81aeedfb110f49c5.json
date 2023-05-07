@@ -1,0 +1,41 @@
+{
+  "id": "cd4cceaa96da49bb81aeedfb110f49c5",
+  "title": "Gold Weapon Skins Pack Audience",
+  "description": "Gold Weapon Skins Pack Audience",
+  "namespace": "catnip",
+  "categories": "",
+  "keyImages": [
+    {
+      "type": "ESRB",
+      "url": "https://cdn1.epicgames.com/catnip/item/ESRB_M_Borderlands3-842x485-275d74057f4825477e1f7f17f8cf0abc.jpg",
+      "md5": "275d74057f4825477e1f7f17f8cf0abc",
+      "width": 842,
+      "height": 485,
+      "size": 134137,
+      "uploadedDate": "2020-01-07T22:47:56.13Z"
+    },
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/item/catnip/490-490x276-16b2da804626271e3cf6474ea8d0e72c86329576_490x276-ecf8c24cf5821b6bc7e550a497e9e450",
+      "md5": "ecf8c24cf5821b6bc7e550a497e9e450",
+      "width": 490,
+      "height": 276,
+      "size": 68004,
+      "uploadedDate": "2023-01-19T17:35:49.706Z"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/item/catnip/2KGMKT_BL3_GWSP_XBL_1200x1600_1200x1600-90911405c40ea44dd9be4ebf0afc2209",
+      "md5": "90911405c40ea44dd9be4ebf0afc2209",
+      "width": 1200,
+      "height": 1600,
+      "size": 936366,
+      "uploadedDate": "2023-01-19T17:35:47.075Z"
+    }
+  ],
+  "creationDate": "2019-04-02T01:14:20.669+00:00",
+  "lastModifiedDate": "2023-01-19T21:12:26.63+00:00",
+  "developer": "2K Games, Inc.",
+  "developerId": "o-37m6jbj5wcvrcvm4wusv7nazdfvbjk",
+  "applicationId": ""
+}

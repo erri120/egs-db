@@ -1,0 +1,32 @@
+{
+  "id": "d71d419d1e3e4ee68e25febe5a73cf06",
+  "title": "BadgerStaging",
+  "description": "BadgerStaging",
+  "namespace": "badger",
+  "categories": "",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/badger/item/EdithFinch_PrimaryPromo-2580x1450-afd336269dc16aa6971391cc48f0a57f-2580x1450-afd336269dc16aa6971391cc48f0a57f.jpg",
+      "md5": "afd336269dc16aa6971391cc48f0a57f",
+      "width": 2580,
+      "height": 1450,
+      "size": 280199,
+      "uploadedDate": "2019-01-09T16:58:24.105Z"
+    },
+    {
+      "type": "DieselGameBoxLogo",
+      "url": "https://cdn1.epicgames.com/badger/item/EdithFinch_Logo1-480x285-359c57ed579f9db1b5a7c4f9aadf0d94-480x285-359c57ed579f9db1b5a7c4f9aadf0d94.png",
+      "md5": "359c57ed579f9db1b5a7c4f9aadf0d94",
+      "width": 480,
+      "height": 285,
+      "size": 47161,
+      "uploadedDate": "2019-01-09T16:58:31.238Z"
+    }
+  ],
+  "creationDate": "2019-01-07T23:04:58.626+00:00",
+  "lastModifiedDate": "2019-08-07T13:19:02.758+00:00",
+  "developer": "Annapurna Interactive",
+  "developerId": "o-bmeb3ztlbxkjc8vvpydava38yvmxlm",
+  "applicationId": null
+}

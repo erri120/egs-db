@@ -1,0 +1,32 @@
+{
+  "id": "11b2b288944e4490a2d28257817ab7e5",
+  "title": "Journey Pre-Purchase",
+  "description": "Journey Pre-Purchase",
+  "namespace": "lemur",
+  "categories": "",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/lemur/item/Journey_PDPPromo-2580x1450-c7b9948205352677a176b87a32e6e126.jpg",
+      "md5": "c7b9948205352677a176b87a32e6e126",
+      "width": 2580,
+      "height": 1450,
+      "size": 144255,
+      "uploadedDate": "2019-05-22T21:10:49.269Z"
+    },
+    {
+      "type": "DieselGameBoxLogo",
+      "url": "https://cdn1.epicgames.com/lemur/item/Journey_logo-14427x2744-1bf3190ef790994099e24d2ed116179a.png",
+      "md5": "1bf3190ef790994099e24d2ed116179a",
+      "width": 14427,
+      "height": 2744,
+      "size": 217785,
+      "uploadedDate": "2019-05-22T21:11:02.374Z"
+    }
+  ],
+  "creationDate": "2019-05-22T21:15:59.239+00:00",
+  "lastModifiedDate": "2019-06-06T20:03:26.282+00:00",
+  "developer": "Annapurna Interactive",
+  "developerId": "o-bmeb3ztlbxkjc8vvpydava38yvmxlm",
+  "applicationId": null
+}

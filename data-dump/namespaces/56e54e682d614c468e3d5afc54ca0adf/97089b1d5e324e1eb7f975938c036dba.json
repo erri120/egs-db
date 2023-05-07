@@ -1,0 +1,23 @@
+{
+  "id": "97089b1d5e324e1eb7f975938c036dba",
+  "title": "ProteusGeneralAudience",
+  "description": "ProteusGeneralAudience",
+  "namespace": "56e54e682d614c468e3d5afc54ca0adf",
+  "categories": "",
+  "keyImages": [
+    {
+      "type": "ESRB",
+      "url": "https://cdn1.epicgames.com/56e54e682d614c468e3d5afc54ca0adf/item/ESRB_SH-842x404-9f26b62f63121aba89ad130f8c2ccc5b.png",
+      "md5": "9f26b62f63121aba89ad130f8c2ccc5b",
+      "width": 842,
+      "height": 404,
+      "size": 40966,
+      "uploadedDate": "2020-06-29T21:25:45.158Z"
+    }
+  ],
+  "creationDate": "2020-06-03T17:19:34.738+00:00",
+  "lastModifiedDate": "2020-07-16T15:49:55.753+00:00",
+  "developer": "SUPERHOT Sp. z.o.o",
+  "developerId": "o-yagrrjhn9gf4ul3h4a5vuaxh29v8qd",
+  "applicationId": null
+}

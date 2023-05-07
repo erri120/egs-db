@@ -1,0 +1,32 @@
+{
+  "id": "6ffa2bc2ba6f47cc9e3785169d5cbbbc",
+  "title": "GoldeneyeStaging",
+  "description": "GoldeneyeStaging",
+  "namespace": "843c8ce683474448bb104a9651e8f325",
+  "categories": "public/games/applications",
+  "keyImages": [
+    {
+      "type": "DieselGameBoxLogo",
+      "url": "https://cdn1.epicgames.com/843c8ce683474448bb104a9651e8f325/item/lego-batman-211x66-55448b9641e271d0f8784411b1102213.png",
+      "md5": "55448b9641e271d0f8784411b1102213",
+      "width": 211,
+      "height": 66,
+      "size": 12307,
+      "uploadedDate": "2019-09-16T20:04:21.152Z"
+    },
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/843c8ce683474448bb104a9651e8f325/item/lego-batman_promo-1536x864-120dc96f4a1562abdea8fb11deac113c.jpg",
+      "md5": "120dc96f4a1562abdea8fb11deac113c",
+      "width": 1536,
+      "height": 864,
+      "size": 287396,
+      "uploadedDate": "2019-09-16T20:04:46.425Z"
+    }
+  ],
+  "creationDate": "2019-08-27T22:19:03.521+00:00",
+  "lastModifiedDate": "2019-09-19T14:19:35.744+00:00",
+  "developer": "Warner Brothers",
+  "developerId": "o-7kyv8uwtz74njnl544kbxzt5xqephw",
+  "applicationId": null
+}

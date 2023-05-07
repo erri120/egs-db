@@ -1,0 +1,32 @@
+{
+  "id": "9b8ee44da2e84b139c7444ab002cbc35",
+  "title": "Elite Dangerous",
+  "description": "Elite Dangerous",
+  "namespace": "3db17abfd650423f993291624b1b2ac1",
+  "categories": "public/games/applications",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/3db17abfd650423f993291624b1b2ac1/item/EGS_EliteDangerous_FrontierDevelopments_S1-2560x1440-ff83482418be695513db5f4adec99a66.jpg",
+      "md5": "ff83482418be695513db5f4adec99a66",
+      "width": 2560,
+      "height": 1440,
+      "size": 519380,
+      "uploadedDate": "2020-11-02T14:17:12.746Z"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/3db17abfd650423f993291624b1b2ac1/item/EGS_EliteDangerous_FrontierDevelopments_S2-1200x1600-112c98adf1ae07b058feb140a08e3872.jpg",
+      "md5": "112c98adf1ae07b058feb140a08e3872",
+      "width": 1200,
+      "height": 1600,
+      "size": 398707,
+      "uploadedDate": "2020-11-02T14:17:21.294Z"
+    }
+  ],
+  "creationDate": "2020-05-05T18:13:08.88+00:00",
+  "lastModifiedDate": "2021-05-19T14:58:35.255+00:00",
+  "developer": "Frontier Developments",
+  "developerId": "o-mlnjydnrxlmer2ducb6u6ngznq25mx",
+  "applicationId": "fghi4567UFi3VcybhpEN48QkQXzi7Vru"
+}

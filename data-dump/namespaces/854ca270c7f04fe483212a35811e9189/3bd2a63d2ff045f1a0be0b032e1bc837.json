@@ -1,0 +1,32 @@
+{
+  "id": "3bd2a63d2ff045f1a0be0b032e1bc837",
+  "title": "PelicanStaging",
+  "description": "PelicanStaging",
+  "namespace": "854ca270c7f04fe483212a35811e9189",
+  "categories": "public/games/applications",
+  "keyImages": [
+    {
+      "type": "DieselGameBoxLogo",
+      "url": "https://cdn1.epicgames.com/854ca270c7f04fe483212a35811e9189/item/EGS_DavidOReilly_Everything_IC1_WhiteDropShadow-2253x882-4e901d30c848f1fa0a9d3f4464e2d563.png",
+      "md5": "4e901d30c848f1fa0a9d3f4464e2d563",
+      "width": 2253,
+      "height": 882,
+      "size": 196588,
+      "uploadedDate": "2019-09-24T19:38:17.843Z"
+    },
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/854ca270c7f04fe483212a35811e9189/item/EGS_DavidOReilly_Everything_N3_revised-2560x1440-7e1f936d40753516eef1a11391268911.jpg",
+      "md5": "7e1f936d40753516eef1a11391268911",
+      "width": 2560,
+      "height": 1440,
+      "size": 302087,
+      "uploadedDate": "2019-09-24T19:38:30.363Z"
+    }
+  ],
+  "creationDate": "2019-08-01T19:10:34.865+00:00",
+  "lastModifiedDate": "2019-09-26T14:51:24.455+00:00",
+  "developer": "David OReilly",
+  "developerId": "o-bb6gmtc2ysnxtvxulaxsqe7bgtzkz7",
+  "applicationId": null
+}

@@ -1,0 +1,32 @@
+{
+  "id": "191c282a2ed74b69b5efe7d9562fc43d",
+  "title": "The Cycle (OLD)",
+  "description": "The Cycle (OLD)",
+  "namespace": "azalea",
+  "categories": "",
+  "keyImages": [
+    {
+      "type": "DieselGameBoxLogo",
+      "url": "https://cdn1.epicgames.com/azalea/item/Updated Logo - white-1134x1134-5043330ffaccd28ebe0a16a65fcc0a04.png",
+      "md5": "5043330ffaccd28ebe0a16a65fcc0a04",
+      "width": 1134,
+      "height": 1134,
+      "size": 40782,
+      "uploadedDate": "2019-07-04T02:53:59.54Z"
+    },
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/azalea/item/YT_Cover_2560_x_1440-2560x1440-17d8baed51461c5daac9aa3abf7fa108.jpg",
+      "md5": "17d8baed51461c5daac9aa3abf7fa108",
+      "width": 2560,
+      "height": 1440,
+      "size": 433773,
+      "uploadedDate": "2019-06-20T17:55:50.39Z"
+    }
+  ],
+  "creationDate": "2019-02-22T16:46:35.466+00:00",
+  "lastModifiedDate": "2022-05-17T15:42:39.881+00:00",
+  "developer": "YAGER",
+  "developerId": "o-w7z3vpqhq54t3gbwybuzlmx7xh3355",
+  "applicationId": ""
+}

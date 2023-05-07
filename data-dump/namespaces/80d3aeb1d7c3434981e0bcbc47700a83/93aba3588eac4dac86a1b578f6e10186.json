@@ -1,0 +1,32 @@
+{
+  "id": "93aba3588eac4dac86a1b578f6e10186",
+  "title": "Europa Universalis IV",
+  "description": "Europa Universalis IV",
+  "namespace": "80d3aeb1d7c3434981e0bcbc47700a83",
+  "categories": "public/games/applications",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_EuropaUniversalisIV_ParadoxDevelopmentStudioParadoxTinto_S3_2560x1440-aa3002ec221d43dcd7e49f5458e74766",
+      "md5": "aa3002ec221d43dcd7e49f5458e74766",
+      "width": 2560,
+      "height": 1440,
+      "size": 948158,
+      "uploadedDate": "2021-09-28T21:40:47.162Z"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_EuropaUniversalisIV_ParadoxDevelopmentStudioParadoxTinto_S4_1200x1600-381fe4bad2c0951566b465ab1a46726d",
+      "md5": "381fe4bad2c0951566b465ab1a46726d",
+      "width": 1200,
+      "height": 1600,
+      "size": 994052,
+      "uploadedDate": "2021-09-28T21:40:36.082Z"
+    }
+  ],
+  "creationDate": "2020-06-30T21:52:26.836+00:00",
+  "lastModifiedDate": "2023-03-21T01:57:11.054+00:00",
+  "developer": "Paradox Interactive",
+  "developerId": "o-tjvfg6rejs6h86qa7k9aa64rrgbxxb",
+  "applicationId": "fghi4567luxcTB823pCwC4K8R1EwG7DX"
+}

@@ -1,0 +1,23 @@
+{
+  "id": "9ed5f019e9f342ee87070fdc0aad4c45",
+  "title": "ACOriginsSeasonPassAudience_redeemable",
+  "description": "ACOriginsSeasonPassAudience_redeemable",
+  "namespace": "camellia",
+  "categories": "",
+  "keyImages": [
+    {
+      "type": "ESRB",
+      "url": "https://cdn1.epicgames.com/camellia/item/ACORating-842x404-3192940fd03ce42a91bec04ef222e1ec.png",
+      "md5": "3192940fd03ce42a91bec04ef222e1ec",
+      "width": 842,
+      "height": 404,
+      "size": 76578,
+      "uploadedDate": "2019-04-23T21:04:14.71Z"
+    }
+  ],
+  "creationDate": "2019-10-28T15:02:52.31+00:00",
+  "lastModifiedDate": "2020-08-07T23:21:18.296+00:00",
+  "developer": "Epic Dev Test Account",
+  "developerId": "o-ufmrk5furrrxgsp5tdngefzt5rxdcn",
+  "applicationId": null
+}

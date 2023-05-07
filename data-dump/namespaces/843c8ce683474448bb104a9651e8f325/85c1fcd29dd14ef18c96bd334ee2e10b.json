@@ -1,0 +1,41 @@
+{
+  "id": "85c1fcd29dd14ef18c96bd334ee2e10b",
+  "title": "LEGO\u00AE Batman\u2122 The Videogame",
+  "description": "LEGO\u00AE Batman\u2122 The Videogame",
+  "namespace": "843c8ce683474448bb104a9651e8f325",
+  "categories": "public/games/applications",
+  "keyImages": [
+    {
+      "type": "DieselGameBoxLogo",
+      "url": "https://cdn1.epicgames.com/843c8ce683474448bb104a9651e8f325/item/lego-batman-211x66-45e98beb3a1b783a27e8c997b6c758d3.png",
+      "md5": "45e98beb3a1b783a27e8c997b6c758d3",
+      "width": 211,
+      "height": 66,
+      "size": 12295,
+      "uploadedDate": "2019-09-16T20:01:54.361Z"
+    },
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/843c8ce683474448bb104a9651e8f325/item/lego-batman_promo-1536x864-120dc96f4a1562abdea8fb11deac113c.jpg",
+      "md5": "120dc96f4a1562abdea8fb11deac113c",
+      "width": 1536,
+      "height": 864,
+      "size": 287396,
+      "uploadedDate": "2019-09-16T20:02:14.656Z"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/843c8ce683474448bb104a9651e8f325/item/lego-batman_portrait-859x1289-d1955ec552255c2278577780a44e0a44.jpg",
+      "md5": "d1955ec552255c2278577780a44e0a44",
+      "width": 859,
+      "height": 1289,
+      "size": 290233,
+      "uploadedDate": "2019-10-22T09:41:44.79Z"
+    }
+  ],
+  "creationDate": "2019-08-27T22:19:03.462+00:00",
+  "lastModifiedDate": "2019-11-19T17:03:06.294+00:00",
+  "developer": "Warner Brothers",
+  "developerId": "o-7kyv8uwtz74njnl544kbxzt5xqephw",
+  "applicationId": null
+}

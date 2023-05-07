@@ -1,0 +1,32 @@
+{
+  "id": "6f8da58694dc4624876024ccc91b1c54",
+  "title": "Fuser",
+  "description": "Fuser",
+  "namespace": "6af58339c2424644988e0fb83dfd9bd5",
+  "categories": "public/games/applications",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/6af58339c2424644988e0fb83dfd9bd5/item/EGS_FUSER_Harmonix_S3-2560x1440-b4455586675901db4e37e35037f87a52-2560x1440-b4455586675901db4e37e35037f87a52.jpg",
+      "md5": "b4455586675901db4e37e35037f87a52",
+      "width": 2560,
+      "height": 1440,
+      "size": 979279,
+      "uploadedDate": "2020-10-16T01:46:44.356Z"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/6af58339c2424644988e0fb83dfd9bd5/item/EGS_FUSER_Harmonix_S4-1200x1600-402c8bfb1b21516d3e129a4b227e8fe1-1200x1600-402c8bfb1b21516d3e129a4b227e8fe1.jpg",
+      "md5": "402c8bfb1b21516d3e129a4b227e8fe1",
+      "width": 1200,
+      "height": 1600,
+      "size": 1010447,
+      "uploadedDate": "2020-10-16T01:46:56.548Z"
+    }
+  ],
+  "creationDate": "2020-06-16T17:49:58.945+00:00",
+  "lastModifiedDate": "2021-01-21T15:27:56.469+00:00",
+  "developer": "NCSoft",
+  "developerId": "o-k8ltvz7rz3r7b29xdtafqvdkhnj2ux",
+  "applicationId": null
+}

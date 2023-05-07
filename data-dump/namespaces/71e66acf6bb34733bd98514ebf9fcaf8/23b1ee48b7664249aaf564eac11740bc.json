@@ -1,0 +1,32 @@
+{
+  "id": "23b1ee48b7664249aaf564eac11740bc",
+  "title": "Observer: System Redux",
+  "description": "Observer: System Redux",
+  "namespace": "71e66acf6bb34733bd98514ebf9fcaf8",
+  "categories": "public/games/applications",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/71e66acf6bb34733bd98514ebf9fcaf8/item/EGS_ObserverSystemRedux_BlooberTeam_S1-2560x1440-c933335b5dcacc809dcfcf5bbff47a67.jpg",
+      "md5": "c933335b5dcacc809dcfcf5bbff47a67",
+      "width": 2560,
+      "height": 1440,
+      "size": 1009989,
+      "uploadedDate": "2020-10-12T19:45:22.455Z"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/71e66acf6bb34733bd98514ebf9fcaf8/item/EGS_ObserverSystemRedux_BlooberTeam_S2-1200x1600-9a24fc78d36d88f8a4217ac75e353539.jpg",
+      "md5": "9a24fc78d36d88f8a4217ac75e353539",
+      "width": 1200,
+      "height": 1600,
+      "size": 956540,
+      "uploadedDate": "2020-10-12T19:45:29.369Z"
+    }
+  ],
+  "creationDate": "2020-08-31T23:39:19.669+00:00",
+  "lastModifiedDate": "2020-11-10T16:55:23.876+00:00",
+  "developer": "Bloober Team",
+  "developerId": "o-8nzuqrvr3dvkn9l7dydvhkekqd3xa9",
+  "applicationId": null
+}

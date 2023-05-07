@@ -1,0 +1,32 @@
+{
+  "id": "b7e73c4037384ff9a077410788438f5b",
+  "title": "Blade Strangers",
+  "description": "Blade Strangers",
+  "namespace": "266c5badcfd144cbbeedd44499d85a62",
+  "categories": "public/games/applications",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_BladeStrangers_StudioSaizensenCoLtd_S1_2560x1440-c6c69d734c4267f8bcf5f9be09820035",
+      "md5": "c6c69d734c4267f8bcf5f9be09820035",
+      "width": 2560,
+      "height": 1440,
+      "size": 993325,
+      "uploadedDate": "2021-06-22T21:44:49.336Z"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_BladeStrangers_StudioSaizensenCoLtd_S2_1200x1600-f1df9e500cb85147c3243ca06f6d81ef",
+      "md5": "f1df9e500cb85147c3243ca06f6d81ef",
+      "width": 1200,
+      "height": 1600,
+      "size": 950654,
+      "uploadedDate": "2021-06-22T21:44:52.098Z"
+    }
+  ],
+  "creationDate": "2021-01-27T19:40:40.702+00:00",
+  "lastModifiedDate": "2021-10-06T15:33:02.143+00:00",
+  "developer": "Nicalis",
+  "developerId": "o-ybzxtem8hqs87ahht3w4vtf6eqd2zh",
+  "applicationId": "fghi4567HdVaPQAQn4LgEeyHv5TkULr7"
+}

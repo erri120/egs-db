@@ -1,0 +1,32 @@
+{
+  "id": "95f0590433f54febbb3ca6355dedc070",
+  "title": "Civilization VI : Australia Civilization \u0026 Scenario Pack",
+  "description": "Civilization VI : Australia Civilization \u0026 Scenario Pack",
+  "namespace": "cd14dcaa4f3443f19f7169a980559c62",
+  "categories": "addons",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/cd14dcaa4f3443f19f7169a980559c62/item/EGS_SidMeiersCivilizationVI_FiraxisGames_S5-1360x766-43ec615712394b3c4acbe77bce54975c.jpg",
+      "md5": "43ec615712394b3c4acbe77bce54975c",
+      "width": 1360,
+      "height": 766,
+      "size": 475027,
+      "uploadedDate": "2020-05-19T21:32:17.523Z"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/cd14dcaa4f3443f19f7169a980559c62/item/EGS_SidMeiersCivilizationVI_FiraxisGames_S6-510x680-7bca651712a1c939a86f767c65160461.jpg",
+      "md5": "7bca651712a1c939a86f767c65160461",
+      "width": 510,
+      "height": 680,
+      "size": 309610,
+      "uploadedDate": "2020-05-19T21:32:48.599Z"
+    }
+  ],
+  "creationDate": "2020-01-16T20:37:23.465+00:00",
+  "lastModifiedDate": "2022-12-06T22:26:34.53+00:00",
+  "developer": "Epic Dev Test Account",
+  "developerId": "o-ufmrk5furrrxgsp5tdngefzt5rxdcn",
+  "applicationId": ""
+}

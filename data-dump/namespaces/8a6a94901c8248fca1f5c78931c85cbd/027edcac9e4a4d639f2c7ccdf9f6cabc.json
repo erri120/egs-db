@@ -1,0 +1,23 @@
+{
+  "id": "027edcac9e4a4d639f2c7ccdf9f6cabc",
+  "title": "EmuDevAudience",
+  "description": "EmuDevAudience",
+  "namespace": "8a6a94901c8248fca1f5c78931c85cbd",
+  "categories": "",
+  "keyImages": [
+    {
+      "type": "ESRB",
+      "url": "https://cdn1.epicgames.com/8a6a94901c8248fca1f5c78931c85cbd/item/ESRB_Soma-842x404-7e4d610358642e577093bce7d1601465.jpg",
+      "md5": "7e4d610358642e577093bce7d1601465",
+      "width": 842,
+      "height": 404,
+      "size": 39919,
+      "uploadedDate": "2019-10-22T19:13:53.632Z"
+    }
+  ],
+  "creationDate": "2019-10-01T23:32:54.244+00:00",
+  "lastModifiedDate": "2019-10-31T14:36:29.735+00:00",
+  "developer": "Frictional Games",
+  "developerId": "o-aclcw9pm582trqsqg66qfkfp9u9nw7",
+  "applicationId": null
+}

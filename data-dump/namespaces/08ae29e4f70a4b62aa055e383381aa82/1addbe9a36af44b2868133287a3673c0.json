@@ -1,0 +1,32 @@
+{
+  "id": "1addbe9a36af44b2868133287a3673c0",
+  "title": "Breathedge",
+  "description": "Breathedge",
+  "namespace": "08ae29e4f70a4b62aa055e383381aa82",
+  "categories": "public/games/applications",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/08ae29e4f70a4b62aa055e383381aa82/item/egs-breathedge-redruinssoftworks-s1-2560x1440-76fd08cd9c2d-2560x1440-783424f6d4a7f32a0e75fc074f2f928e.jpg",
+      "md5": "783424f6d4a7f32a0e75fc074f2f928e",
+      "width": 2560,
+      "height": 1440,
+      "size": 350654,
+      "uploadedDate": "2021-02-08T16:34:31.166Z"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/08ae29e4f70a4b62aa055e383381aa82/item/EGS_Breathedge_RedRuinsSoftworks_S2-1200x1600-c0559585221ea11c9d48273c3a79b1ba.jpg",
+      "md5": "c0559585221ea11c9d48273c3a79b1ba",
+      "width": 1200,
+      "height": 1600,
+      "size": 653165,
+      "uploadedDate": "2021-02-25T18:02:24.89Z"
+    }
+  ],
+  "creationDate": "2021-02-01T19:37:45.853+00:00",
+  "lastModifiedDate": "2021-02-25T18:03:48.033+00:00",
+  "developer": "Hypetrain Digital",
+  "developerId": "o-p9883lvrpllhyd7sad6tgxv53mdyh5",
+  "applicationId": null
+}

@@ -1,0 +1,23 @@
+{
+  "id": "7fccc5970063484d9e4b40e88e009b7e",
+  "title": "Subnautica Layout",
+  "description": "Subnautica",
+  "namespace": "jaguar",
+  "categories": "layout",
+  "keyImages": [
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/jaguar/item/subnautica-1280x728-ef7fc321032b129687d3ae986965291d.png",
+      "md5": "ef7fc321032b129687d3ae986965291d",
+      "width": 1280,
+      "height": 728,
+      "size": 438221,
+      "uploadedDate": "2018-12-14T16:21:45.88Z"
+    }
+  ],
+  "creationDate": "2018-12-14T16:21:56.514+00:00",
+  "lastModifiedDate": "2018-12-14T16:21:56.514+00:00",
+  "developer": "Unknown Worlds Entertainment",
+  "developerId": "o-g4s9pbd6mu9e8uqn539s3xqk9yex92",
+  "applicationId": null
+}

@@ -1,0 +1,32 @@
+{
+  "id": "d0053dc6d39649b1b40a0e1e9f6bde31",
+  "title": "Hand of Fate 2",
+  "description": "Hand of Fate 2",
+  "namespace": "eb348461cdaf4bec9d69a1c4bb39ecc4",
+  "categories": "public/games/applications",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_HandofFate2_DefiantDevelopment_S1_2560x1440-aa240451a12ea5498a054e4eab21eef4",
+      "md5": "aa240451a12ea5498a054e4eab21eef4",
+      "width": 2560,
+      "height": 1440,
+      "size": 1004479,
+      "uploadedDate": "2021-04-14T20:09:03.231Z"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_HandofFate2_DefiantDevelopment_S2_1200x1600-30c02fa77e675a39bbdfa5c0fab19894",
+      "md5": "30c02fa77e675a39bbdfa5c0fab19894",
+      "width": 1200,
+      "height": 1600,
+      "size": 945650,
+      "uploadedDate": "2021-04-14T20:09:07.343Z"
+    }
+  ],
+  "creationDate": "2021-01-14T22:13:52.174+00:00",
+  "lastModifiedDate": "2021-05-06T19:31:52.753+00:00",
+  "developer": "Defiant Development PTY LTD",
+  "developerId": "o-263x4kmewy3sltg46p3ccce2aqmypf",
+  "applicationId": "fghi45672UyNmhzCugc3hVVohIy3OWqs"
+}

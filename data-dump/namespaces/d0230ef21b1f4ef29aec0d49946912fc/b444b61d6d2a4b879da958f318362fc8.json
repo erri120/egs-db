@@ -1,0 +1,23 @@
+{
+  "id": "b444b61d6d2a4b879da958f318362fc8",
+  "title": "terragonGeneralAudience",
+  "description": "terragonGeneralAudience",
+  "namespace": "d0230ef21b1f4ef29aec0d49946912fc",
+  "categories": "",
+  "keyImages": [
+    {
+      "type": "ESRB",
+      "url": "https://cdn1.epicgames.com/d0230ef21b1f4ef29aec0d49946912fc/item/ESRB_Torchlight-842x404-01acb096b86843054a6b586f258f49e3.png",
+      "md5": "01acb096b86843054a6b586f258f49e3",
+      "width": 842,
+      "height": 404,
+      "size": 11757,
+      "uploadedDate": "2019-06-24T18:12:16.83Z"
+    }
+  ],
+  "creationDate": "2019-05-08T15:55:29.357+00:00",
+  "lastModifiedDate": "2023-02-21T18:11:30.821+00:00",
+  "developer": "Gearbox Publishing San Francisco",
+  "developerId": "o-9nw6gkw2c9xlz6dk6z8vt7h5nbgm5w",
+  "applicationId": ""
+}

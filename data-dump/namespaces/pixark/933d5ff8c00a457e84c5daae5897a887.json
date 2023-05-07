@@ -1,0 +1,23 @@
+{
+  "id": "933d5ff8c00a457e84c5daae5897a887",
+  "title": "Call_To_Action_03",
+  "description": "PIXARK WIKI\n\u003Cinverted-tiny-body\u003EREAD MORE\u003C/\u003E",
+  "namespace": "pixark",
+  "categories": "layoutcontent",
+  "keyImages": [
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/pixark/item/PixARK(Resource)03-960x497-f2124ec5eebf64cc7e37955063d366a0.png",
+      "md5": "f2124ec5eebf64cc7e37955063d366a0",
+      "width": 960,
+      "height": 497,
+      "size": 1478606,
+      "uploadedDate": "2018-06-25T17:19:54.858Z"
+    }
+  ],
+  "creationDate": "2018-06-25T17:19:58.283+00:00",
+  "lastModifiedDate": "2018-07-16T19:21:49.371+00:00",
+  "developer": "Epic Games",
+  "developerId": "o-aa83a0a9bc45e98c80c1b1c9d92e9e",
+  "applicationId": null
+}

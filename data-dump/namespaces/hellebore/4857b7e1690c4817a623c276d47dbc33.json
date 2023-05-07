@@ -1,0 +1,23 @@
+{
+  "id": "4857b7e1690c4817a623c276d47dbc33",
+  "title": "FC3GeneralAudience",
+  "description": "FC3GeneralAudience",
+  "namespace": "hellebore",
+  "categories": "",
+  "keyImages": [
+    {
+      "type": "ESRB",
+      "url": "https://cdn1.epicgames.com/hellebore/item/Diesel_productv2_far-cry-3_home_ESRB_M_FarCry3-398x190-cfe4441fd6e677ecd66102e6faba132b80461011-398x190-94345eeeeb71895b0f59edc13b3aa696.jpg",
+      "md5": "94345eeeeb71895b0f59edc13b3aa696",
+      "width": 398,
+      "height": 190,
+      "size": 12327,
+      "uploadedDate": "2020-02-18T15:26:59.147Z"
+    }
+  ],
+  "creationDate": "2019-02-08T20:36:04.516+00:00",
+  "lastModifiedDate": "2020-02-18T15:30:18.228+00:00",
+  "developer": "Ubisoft Entertainment",
+  "developerId": "o-3efjudxdtgsqnulml4bkeq3v9nec38",
+  "applicationId": null
+}

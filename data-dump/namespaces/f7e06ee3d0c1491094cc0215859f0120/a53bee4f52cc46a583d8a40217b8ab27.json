@@ -1,0 +1,32 @@
+{
+  "id": "a53bee4f52cc46a583d8a40217b8ab27",
+  "title": "Untitled Goose Game",
+  "description": "Untitled Goose Game",
+  "namespace": "f7e06ee3d0c1491094cc0215859f0120",
+  "categories": "public/games/applications",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/f7e06ee3d0c1491094cc0215859f0120/item/EGS_UntitledGooseGame_HouseHouse_S1-2560x1440-a6da5a88af3101619d422edd66117960.jpg",
+      "md5": "a6da5a88af3101619d422edd66117960",
+      "width": 2560,
+      "height": 1440,
+      "size": 992708,
+      "uploadedDate": "2020-09-23T17:02:07.946Z"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/f7e06ee3d0c1491094cc0215859f0120/item/EGS_UntitledGooseGame_HouseHouse_S2-1200x1600-81cd84044b7cf9825c44841e0671d227.jpg",
+      "md5": "81cd84044b7cf9825c44841e0671d227",
+      "width": 1200,
+      "height": 1600,
+      "size": 820114,
+      "uploadedDate": "2020-09-23T17:02:14.753Z"
+    }
+  ],
+  "creationDate": "2019-06-06T18:11:04.872+00:00",
+  "lastModifiedDate": "2020-09-23T17:02:18.16+00:00",
+  "developer": "Panic",
+  "developerId": "o-a62axwpwx275msq4yzhdhk9acaf8x3",
+  "applicationId": null
+}

@@ -1,0 +1,32 @@
+{
+  "id": "1c4d96539c1e49209a5f01474743b88c",
+  "title": "Alien: Isolation - Corporate Lockdown",
+  "description": "Alien: Isolation - Corporate Lockdown",
+  "namespace": "df37f065c3f14eadbf011177396e2966",
+  "categories": "public/addons/applications",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/df37f065c3f14eadbf011177396e2966/item/18f3ccf4-a9d5-4f49-80a7-0a778ca2eb85-1920x1080-1b9a91da9ed2386ba420ccdc9b59434a.jfif",
+      "md5": "1b9a91da9ed2386ba420ccdc9b59434a",
+      "width": 1920,
+      "height": 1080,
+      "size": 848774,
+      "uploadedDate": "2020-12-16T18:09:19.667Z"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/df37f065c3f14eadbf011177396e2966/item/locdowndlcportrait-1200x1600-859d407a940337f570301842ccc24d00.jfif",
+      "md5": "859d407a940337f570301842ccc24d00",
+      "width": 1200,
+      "height": 1600,
+      "size": 683002,
+      "uploadedDate": "2020-12-17T17:17:13.933Z"
+    }
+  ],
+  "creationDate": "2020-10-26T17:26:03.577+00:00",
+  "lastModifiedDate": "2020-12-18T16:36:46.496+00:00",
+  "developer": "SEGA of Europe",
+  "developerId": "o-q3zwbk8kbbbgar9ql3x7d43rjj8bjl",
+  "applicationId": "fghi4567WncMSw97kolM0Ff1UBPqwsE7"
+}

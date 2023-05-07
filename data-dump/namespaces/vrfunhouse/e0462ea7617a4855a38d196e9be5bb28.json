@@ -1,0 +1,23 @@
+{
+  "id": "e0462ea7617a4855a38d196e9be5bb28",
+  "title": "VR Funhouse",
+  "description": "VR FUNHOUSE",
+  "namespace": "vrfunhouse",
+  "categories": "layoutcontent",
+  "keyImages": [
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/vrfunhouse/item/header_vrfunhouse-1440x810-2c63d9a62d3aa8855ef825251c59d2e0.png",
+      "md5": "2c63d9a62d3aa8855ef825251c59d2e0",
+      "width": 1440,
+      "height": 810,
+      "size": 242481,
+      "uploadedDate": "2017-02-24T02:44:23.757Z"
+    }
+  ],
+  "creationDate": "2016-08-18T14:54:51.418+00:00",
+  "lastModifiedDate": "2018-11-13T21:25:03.181+00:00",
+  "developer": "Epic Games",
+  "developerId": "o-aa83a0a9bc45e98c80c1b1c9d92e9e",
+  "applicationId": null
+}

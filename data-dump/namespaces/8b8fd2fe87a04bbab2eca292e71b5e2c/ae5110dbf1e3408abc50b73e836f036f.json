@@ -1,0 +1,23 @@
+{
+  "id": "ae5110dbf1e3408abc50b73e836f036f",
+  "title": "CarmeGeneralAudience",
+  "description": "CarmeGeneralAudience",
+  "namespace": "8b8fd2fe87a04bbab2eca292e71b5e2c",
+  "categories": "",
+  "keyImages": [
+    {
+      "type": "ESRB",
+      "url": "https://cdn1.epicgames.com/8b8fd2fe87a04bbab2eca292e71b5e2c/item/esrb-desparadosiii-842x404-163785587-842x404-7128eafafb8fe764d181e1ad09c59327.png",
+      "md5": "7128eafafb8fe764d181e1ad09c59327",
+      "width": 842,
+      "height": 404,
+      "size": 20725,
+      "uploadedDate": "2020-06-16T16:51:45.74Z"
+    }
+  ],
+  "creationDate": "2020-05-27T15:11:09.832+00:00",
+  "lastModifiedDate": "2020-06-16T16:51:49.839+00:00",
+  "developer": "THQ Nordic GmbH",
+  "developerId": "o-jywxgemg3dagnv6fymcngq3g29mc4j",
+  "applicationId": null
+}

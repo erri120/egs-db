@@ -1,0 +1,23 @@
+{
+  "id": "9b0f472f3428490392e682712c2a8add",
+  "title": "DLC 3 Audience",
+  "description": "Festering Skies Audience",
+  "namespace": "iris",
+  "categories": "",
+  "keyImages": [
+    {
+      "type": "ESRB",
+      "url": "https://cdn1.epicgames.com/iris/item/ESRB_RP-842x404-728bf175b519ada5e5a4400e8f1df7cf.png",
+      "md5": "728bf175b519ada5e5a4400e8f1df7cf",
+      "width": 842,
+      "height": 404,
+      "size": 66425,
+      "uploadedDate": "2019-11-08T14:51:13.542Z"
+    }
+  ],
+  "creationDate": "2019-11-01T20:15:15.082+00:00",
+  "lastModifiedDate": "2022-07-19T23:24:19.051+00:00",
+  "developer": "Snapshot Games",
+  "developerId": "o-dc63tr2khr4scc36nj3htbpmh3gda6",
+  "applicationId": ""
+}

@@ -1,0 +1,23 @@
+{
+  "id": "22b37f8659804243bc79f1f7b1ed0f80",
+  "title": "Call_To_Action_03",
+  "description": "WATCH OUR GAMEPLAY TRAILER\n\u003Cinverted-tiny-body\u003EVIEW NOW\u003C/\u003E",
+  "namespace": "vpr",
+  "categories": "layout",
+  "keyImages": [
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/vpr/item/vpr_img2-1280x720-e78efd69ed8f074f52683404d888e9bf.png",
+      "md5": "e78efd69ed8f074f52683404d888e9bf",
+      "width": 1280,
+      "height": 720,
+      "size": 708445,
+      "uploadedDate": "2017-03-15T20:21:58.272Z"
+    }
+  ],
+  "creationDate": "2017-03-15T20:22:00.506+00:00",
+  "lastModifiedDate": "2017-06-26T19:23:55.319+00:00",
+  "developer": "Epic Games",
+  "developerId": "o-aa83a0a9bc45e98c80c1b1c9d92e9e",
+  "applicationId": null
+}

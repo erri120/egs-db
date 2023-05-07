@@ -1,0 +1,32 @@
+{
+  "id": "4e773935bb044ac29e62c282503e3e33",
+  "title": "3 out of 10, EP 4: \u0022Thank You For Being An Asset\u0022",
+  "description": "3 out of 10, EP 4: \u0022Thank You For Being An Asset\u0022",
+  "namespace": "d6a3cae34c5d4562832610b5b8664576",
+  "categories": "public/freegames/games/applications",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/d6a3cae34c5d4562832610b5b8664576/item/EGS_3outof10EP4ThankYouForBeingAnAsset_TerriblePostureGamesInc_S1-2560x1440-fcaf73701007096c6abc01415788d4c3.jpg",
+      "md5": "fcaf73701007096c6abc01415788d4c3",
+      "width": 2560,
+      "height": 1440,
+      "size": 881840,
+      "uploadedDate": "2020-08-25T22:32:25.052Z"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/d6a3cae34c5d4562832610b5b8664576/item/EGS_3outof10EP4ThankYouForBeingAnAsset_TerriblePostureGamesInc_S2-1200x1600-1a465a21d91318bd7d0f6a7b968d4797.jpg",
+      "md5": "1a465a21d91318bd7d0f6a7b968d4797",
+      "width": 1200,
+      "height": 1600,
+      "size": 541020,
+      "uploadedDate": "2020-08-25T22:32:38.849Z"
+    }
+  ],
+  "creationDate": "2020-06-23T03:00:43.862+00:00",
+  "lastModifiedDate": "2020-08-27T02:50:23.116+00:00",
+  "developer": "Terrible Posture Games, Inc.",
+  "developerId": "o-2yllrrr7vufkhal9nk3cswwgug977c",
+  "applicationId": null
+}

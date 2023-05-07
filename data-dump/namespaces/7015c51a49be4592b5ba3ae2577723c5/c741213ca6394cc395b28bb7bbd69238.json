@@ -1,0 +1,32 @@
+{
+  "id": "c741213ca6394cc395b28bb7bbd69238",
+  "title": "Surf\u0027s Up",
+  "description": "Surf\u0027s Up",
+  "namespace": "7015c51a49be4592b5ba3ae2577723c5",
+  "categories": "public/games/applications",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/7015c51a49be4592b5ba3ae2577723c5/item/EGS_SurfsUp_HaemimontGames_DLC_S1-2560x1440-c910bf38e8023bc665179345e213f114.jpg",
+      "md5": "c910bf38e8023bc665179345e213f114",
+      "width": 2560,
+      "height": 1440,
+      "size": 974603,
+      "uploadedDate": "2020-11-16T16:22:36.99Z"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/7015c51a49be4592b5ba3ae2577723c5/item/EGS_SurfsUp_HaemimontGames_DLC_S2-1200x1600-c2fca17cc8f061d31366f4825d989040.jpg",
+      "md5": "c2fca17cc8f061d31366f4825d989040",
+      "width": 1200,
+      "height": 1600,
+      "size": 957682,
+      "uploadedDate": "2020-11-16T16:22:45.768Z"
+    }
+  ],
+  "creationDate": "2020-05-08T17:23:12.986+00:00",
+  "lastModifiedDate": "2020-12-16T18:21:41.173+00:00",
+  "developer": "Kalypso Media Group GmbH",
+  "developerId": "o-37ss7wypkskvyj58j9s7hhltxtujac",
+  "applicationId": null
+}

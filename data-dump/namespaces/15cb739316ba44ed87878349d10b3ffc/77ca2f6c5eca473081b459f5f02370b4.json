@@ -1,0 +1,32 @@
+{
+  "id": "77ca2f6c5eca473081b459f5f02370b4",
+  "title": "Crash Drive 3",
+  "description": "Crash Drive 3",
+  "namespace": "15cb739316ba44ed87878349d10b3ffc",
+  "categories": "public/games/applications",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/501ce1a7-0ca9-4ea9-9169-909eaa2e52a1_2560x1440_2560x1440-4a735553c5175e509d8a298b4542e15b",
+      "md5": "4a735553c5175e509d8a298b4542e15b",
+      "width": 2560,
+      "height": 1440,
+      "size": 940522,
+      "uploadedDate": "2021-06-24T06:34:46.276Z"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/eacae17c-6ea9-47bb-964f-4734c76d17e7_1200x1600_1200x1600-8d431f6886ff29e953378da9d48a45b6",
+      "md5": "8d431f6886ff29e953378da9d48a45b6",
+      "width": 1200,
+      "height": 1600,
+      "size": 987010,
+      "uploadedDate": "2021-06-24T06:34:49.058Z"
+    }
+  ],
+  "creationDate": "2021-03-19T02:27:06.352+00:00",
+  "lastModifiedDate": "2021-07-08T07:57:34.72+00:00",
+  "developer": "M2H",
+  "developerId": "o-24qwdf7zppb3geqq3b952f26lkp7rs",
+  "applicationId": ""
+}

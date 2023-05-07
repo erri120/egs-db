@@ -1,0 +1,23 @@
+{
+  "id": "8cd2fb30213d41f0afebf5976c041c46",
+  "title": "Metro Exodus Pre-Purchase Extras",
+  "description": "Metro Exodus Pre-Purchase Extras",
+  "namespace": "snapdragon",
+  "categories": "",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/snapdragon/item/MetroExodus_PrimaryPromo_Update-2580x1450-0e5b7a55fb64f2b4ab1a46455a9293e0.jpg",
+      "md5": "0e5b7a55fb64f2b4ab1a46455a9293e0",
+      "width": 2580,
+      "height": 1450,
+      "size": 580337,
+      "uploadedDate": "2019-02-25T00:24:17.293Z"
+    }
+  ],
+  "creationDate": "2019-02-11T16:30:55.083+00:00",
+  "lastModifiedDate": "2023-03-06T17:19:46.383+00:00",
+  "developer": "Plaion",
+  "developerId": "o-jskfz28ywm2l56px6h9rlxplaysrtl",
+  "applicationId": ""
+}

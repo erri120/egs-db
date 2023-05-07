@@ -1,0 +1,32 @@
+{
+  "id": "1b6eaf25fb504ed491df2619ea052772",
+  "title": "TerragonStaging",
+  "description": "TerragonStaging",
+  "namespace": "d0230ef21b1f4ef29aec0d49946912fc",
+  "categories": "public/games/applications",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/d0230ef21b1f4ef29aec0d49946912fc/item/Torchlight_Promo-2560x1440-d6647c60a7e202abc7c89c7fb945a45b.jpg",
+      "md5": "d6647c60a7e202abc7c89c7fb945a45b",
+      "width": 2560,
+      "height": 1440,
+      "size": 340758,
+      "uploadedDate": "2019-06-24T18:13:08.773Z"
+    },
+    {
+      "type": "DieselGameBoxLogo",
+      "url": "https://cdn1.epicgames.com/d0230ef21b1f4ef29aec0d49946912fc/item/Torchlight_Logo-1800x900-b5aad2e378bed7eb1f4d880e352e1b47.png",
+      "md5": "b5aad2e378bed7eb1f4d880e352e1b47",
+      "width": 1800,
+      "height": 900,
+      "size": 247518,
+      "uploadedDate": "2019-06-24T18:13:19.662Z"
+    }
+  ],
+  "creationDate": "2019-05-08T15:55:29.524+00:00",
+  "lastModifiedDate": "2022-05-10T14:36:09.459+00:00",
+  "developer": "Gearbox Publishing San Francisco",
+  "developerId": "o-9nw6gkw2c9xlz6dk6z8vt7h5nbgm5w",
+  "applicationId": ""
+}

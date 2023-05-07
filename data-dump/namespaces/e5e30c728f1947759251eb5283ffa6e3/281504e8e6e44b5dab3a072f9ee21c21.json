@@ -1,0 +1,59 @@
+{
+  "id": "281504e8e6e44b5dab3a072f9ee21c21",
+  "title": "Batman\u2122 Arkham Knight",
+  "description": "Batman\u2122 Arkham Knight",
+  "namespace": "e5e30c728f1947759251eb5283ffa6e3",
+  "categories": "public/games/applications",
+  "keyImages": [
+    {
+      "type": "DieselGameBoxLogo",
+      "url": "https://cdn1.epicgames.com/e5e30c728f1947759251eb5283ffa6e3/item/batman-arkham-knight-206x102-6237e1870f8ca4b29067a25a1116522d.png",
+      "md5": "6237e1870f8ca4b29067a25a1116522d",
+      "width": 206,
+      "height": 102,
+      "size": 18723,
+      "uploadedDate": "2019-09-16T20:24:09.428Z"
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/e5e30c728f1947759251eb5283ffa6e3/item/CodeRedemption_ArkhamKnight-336x440-052e5c7c6439f9b7918445d91f71cb31-336x440-052e5c7c6439f9b7918445d91f71cb31.jpg",
+      "md5": "052e5c7c6439f9b7918445d91f71cb31",
+      "width": 336,
+      "height": 440,
+      "size": 54166,
+      "uploadedDate": "2019-09-19T14:36:56.916Z"
+    },
+    {
+      "type": "CodeRedemption_340x440",
+      "url": "https://cdn1.epicgames.com/e5e30c728f1947759251eb5283ffa6e3/item/CodeRedemption_ArkhamKnight-336x440-052e5c7c6439f9b7918445d91f71cb31-336x440-052e5c7c6439f9b7918445d91f71cb31.jpg",
+      "md5": "052e5c7c6439f9b7918445d91f71cb31",
+      "width": 336,
+      "height": 440,
+      "size": 54166,
+      "uploadedDate": "2019-09-19T14:37:06.345Z"
+    },
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/e5e30c728f1947759251eb5283ffa6e3/item/batman-arkham-knight_promo-2048x1152-2048x1152-ed2be22b3f24f446534b90b122ed560d.jpg",
+      "md5": "ed2be22b3f24f446534b90b122ed560d",
+      "width": 2048,
+      "height": 1152,
+      "size": 369128,
+      "uploadedDate": "2019-09-19T14:44:22.655Z"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/e5e30c728f1947759251eb5283ffa6e3/item/batman-arkham-knight_portrait-1024x1152-78f19e73d3e889c19ca24ab5af0b5fd7.jpg",
+      "md5": "78f19e73d3e889c19ca24ab5af0b5fd7",
+      "width": 1024,
+      "height": 1152,
+      "size": 185986,
+      "uploadedDate": "2019-10-22T09:41:44.79Z"
+    }
+  ],
+  "creationDate": "2019-08-27T22:18:11.017+00:00",
+  "lastModifiedDate": "2019-11-19T17:02:23.753+00:00",
+  "developer": "Warner Brothers",
+  "developerId": "o-7kyv8uwtz74njnl544kbxzt5xqephw",
+  "applicationId": null
+}

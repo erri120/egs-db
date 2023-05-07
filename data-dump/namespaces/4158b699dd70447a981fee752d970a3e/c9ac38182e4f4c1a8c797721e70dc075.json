@@ -1,0 +1,23 @@
+{
+  "id": "c9ac38182e4f4c1a8c797721e70dc075",
+  "title": "Grapefruit PrePurchase Audience",
+  "description": "Grapefruit PrePurchase Audience",
+  "namespace": "4158b699dd70447a981fee752d970a3e",
+  "categories": "",
+  "keyImages": [
+    {
+      "type": "ESRB",
+      "url": "https://cdn1.epicgames.com/4158b699dd70447a981fee752d970a3e/item/ESRB_KingdomHearts1525-842x404-867cf8cca17f53b15d807ccb8f8d77ff.png",
+      "md5": "867cf8cca17f53b15d807ccb8f8d77ff",
+      "width": 842,
+      "height": 404,
+      "size": 65654,
+      "uploadedDate": "2021-03-19T14:34:47.01Z"
+    }
+  ],
+  "creationDate": "2020-09-11T11:59:40.534+00:00",
+  "lastModifiedDate": "2021-03-30T12:59:48.063+00:00",
+  "developer": "Square Enix (Japan)",
+  "developerId": "o-xbmhhs32ajtuszar863dprgnwtvedk",
+  "applicationId": null
+}

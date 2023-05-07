@@ -1,0 +1,32 @@
+{
+  "id": "197123f660af42f38e4b93282c09ea76",
+  "title": "WHAT THE GOLF? Pre-Purchase",
+  "description": "WHAT THE GOLF? Pre-Purchase",
+  "namespace": "3ade24028e9247039924d3877af0a2ea",
+  "categories": "public/games/applications",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/3ade24028e9247039924d3877af0a2ea/item/WHATTHEGOLF_primary-2560x1429-01b41c17b54034c6894b620510953e2a.jpg",
+      "md5": "01b41c17b54034c6894b620510953e2a",
+      "width": 2560,
+      "height": 1429,
+      "size": 169089,
+      "uploadedDate": "2019-09-17T15:42:26.489Z"
+    },
+    {
+      "type": "DieselGameBoxLogo",
+      "url": "https://cdn1.epicgames.com/3ade24028e9247039924d3877af0a2ea/item/WHATTHEGOLF_logo-1168x613-b90645cd1cadaabb286b2a3dc1b109cd.png",
+      "md5": "b90645cd1cadaabb286b2a3dc1b109cd",
+      "width": 1168,
+      "height": 613,
+      "size": 87886,
+      "uploadedDate": "2019-09-17T15:43:08.895Z"
+    }
+  ],
+  "creationDate": "2019-09-17T15:37:14.256+00:00",
+  "lastModifiedDate": "2019-10-01T14:48:32.666+00:00",
+  "developer": "Triband",
+  "developerId": "o-lnl9dagny4g6432q7delvkhfqzwcnx",
+  "applicationId": null
+}

@@ -1,0 +1,41 @@
+{
+  "id": "72e1865b77244f559b1e1556099e145c",
+  "title": "CatnipStaging",
+  "description": "CatnipStaging",
+  "namespace": "catnip",
+  "categories": "",
+  "keyImages": [
+    {
+      "type": "DieselGameBoxLogo",
+      "url": "https://cdn1.epicgames.com/catnip/item/Oak_Logo_Standard-720x209-8373e0df5612a9952fe79defb32e1322.png",
+      "md5": "8373e0df5612a9952fe79defb32e1322",
+      "width": 720,
+      "height": 209,
+      "size": 192732,
+      "uploadedDate": "2019-04-02T13:16:22.141Z"
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/catnip/item/Oak_StandardEdition_IC2-400x400-2c5c689955087bef74c141490d66c0f3.png",
+      "md5": "2c5c689955087bef74c141490d66c0f3",
+      "width": 400,
+      "height": 400,
+      "size": 54571,
+      "uploadedDate": "2019-04-02T13:16:45.351Z"
+    },
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/catnip/item/2kgmkt_bl3_key_art_horiz_standard-1000x477-9fe53b07eaeb3c17723aae682893d745.png",
+      "md5": "9fe53b07eaeb3c17723aae682893d745",
+      "width": 1000,
+      "height": 477,
+      "size": 969562,
+      "uploadedDate": "2019-09-06T14:24:16.128Z"
+    }
+  ],
+  "creationDate": "2019-02-13T20:19:45.277+00:00",
+  "lastModifiedDate": "2020-06-15T20:52:55.764+00:00",
+  "developer": "2K Games, Inc.",
+  "developerId": "o-37m6jbj5wcvrcvm4wusv7nazdfvbjk",
+  "applicationId": null
+}

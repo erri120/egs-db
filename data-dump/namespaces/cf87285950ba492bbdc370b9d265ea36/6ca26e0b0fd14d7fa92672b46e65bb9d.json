@@ -1,0 +1,23 @@
+{
+  "id": "6ca26e0b0fd14d7fa92672b46e65bb9d",
+  "title": "FarCry4GeneralAudience",
+  "description": "FarCry4GeneralAudience",
+  "namespace": "cf87285950ba492bbdc370b9d265ea36",
+  "categories": "",
+  "keyImages": [
+    {
+      "type": "ESRB",
+      "url": "https://cdn1.epicgames.com/cf87285950ba492bbdc370b9d265ea36/item/Diesel_productv2_far-cry-4_Far_Cry_4_ESRB-842x485-8bdd3d08ac43a3519ab5ebfdc3014999bb46fb4e-842x485-252e63546354bc01f6b1ae2285e0171f.jpg",
+      "md5": "252e63546354bc01f6b1ae2285e0171f",
+      "width": 842,
+      "height": 485,
+      "size": 47524,
+      "uploadedDate": "2020-02-18T15:28:46.237Z"
+    }
+  ],
+  "creationDate": "2020-01-24T17:49:46.711+00:00",
+  "lastModifiedDate": "2020-02-18T15:33:18.33+00:00",
+  "developer": "Ubisoft Entertainment",
+  "developerId": "o-3efjudxdtgsqnulml4bkeq3v9nec38",
+  "applicationId": null
+}

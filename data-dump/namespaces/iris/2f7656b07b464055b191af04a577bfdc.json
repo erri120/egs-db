@@ -1,0 +1,32 @@
+{
+  "id": "2f7656b07b464055b191af04a577bfdc",
+  "title": "Phoenix Point Corrupted Horizons",
+  "description": "Phoenix Point Corrupted Horizons",
+  "namespace": "iris",
+  "categories": "",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_DLC4CorruptedHorizons_SnapshotGamesInc_DLC_S1_2560x1440-2eb7f0355355117af55f641b80f3af6a",
+      "md5": "2eb7f0355355117af55f641b80f3af6a",
+      "width": 2560,
+      "height": 1440,
+      "size": 430721,
+      "uploadedDate": "2021-09-29T03:23:00.604Z"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_DLC4CorruptedHorizons_SnapshotGamesInc_DLC_S2_1200x1600-1ed2fd36d5e38aa68b9be4316a85eb5a",
+      "md5": "1ed2fd36d5e38aa68b9be4316a85eb5a",
+      "width": 1200,
+      "height": 1600,
+      "size": 303021,
+      "uploadedDate": "2021-09-29T03:23:02.908Z"
+    }
+  ],
+  "creationDate": "2019-11-12T20:04:51.498+00:00",
+  "lastModifiedDate": "2021-10-07T23:56:11.13+00:00",
+  "developer": "Snapshot Games",
+  "developerId": "o-dc63tr2khr4scc36nj3htbpmh3gda6",
+  "applicationId": ""
+}

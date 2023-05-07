@@ -1,0 +1,23 @@
+{
+  "id": "e9c4a338941a4d5ea813256a9632ec47",
+  "title": "Hello Mod",
+  "description": "HELLO NEIGHBOR MOD KIT",
+  "namespace": "helloneighbor",
+  "categories": "layoutcontent",
+  "keyImages": [
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/helloneighbor/item/Hello Neighbor Dev Kit Banner-3840x2160-84ec1b4763065bac1487275dcee33ec0.png",
+      "md5": "84ec1b4763065bac1487275dcee33ec0",
+      "width": 3840,
+      "height": 2160,
+      "size": 9169455,
+      "uploadedDate": "2017-09-22T20:45:53.579Z"
+    }
+  ],
+  "creationDate": "2017-09-22T20:46:03.659+00:00",
+  "lastModifiedDate": "2019-12-30T15:51:18.106+00:00",
+  "developer": "tinyBuild Games",
+  "developerId": "o-t682p59y2u8tr9bxcm6cmw9w7mmz5t",
+  "applicationId": null
+}

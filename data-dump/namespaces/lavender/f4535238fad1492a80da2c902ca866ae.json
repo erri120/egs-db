@@ -1,0 +1,23 @@
+{
+  "id": "f4535238fad1492a80da2c902ca866ae",
+  "title": "Beyond Two Souls JA Audience",
+  "description": "Beyond Two Souls JA Audience",
+  "namespace": "lavender",
+  "categories": "",
+  "keyImages": [
+    {
+      "type": "ESRB",
+      "url": "https://cdn1.epicgames.com/lavender/item/Diesel_product_ratings_RP_FOR_T_M_AO-842x404-e685858d6f01213bedf5b2abec53be94.png",
+      "md5": "e685858d6f01213bedf5b2abec53be94",
+      "width": 842,
+      "height": 404,
+      "size": 55379,
+      "uploadedDate": "2019-04-24T17:51:54.653Z"
+    }
+  ],
+  "creationDate": "2019-03-29T21:26:39.393+00:00",
+  "lastModifiedDate": "2019-10-16T14:25:56.303+00:00",
+  "developer": "Quantic Dream",
+  "developerId": "o-m8v47d762atphw94knus7ezawefpcu",
+  "applicationId": null
+}

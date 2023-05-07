@@ -1,0 +1,50 @@
+{
+  "id": "4d3e7e2358e448c381626d326cb9587f",
+  "title": "Mutant Year Zero Road to Eden",
+  "description": "Mutant Year Zero Road to Eden",
+  "namespace": "4756b80eb0f74d45b77922e54052cfed",
+  "categories": "public/games/applications",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/4756b80eb0f74d45b77922e54052cfed/item/EGS_THEBEARDEDLADIES_MUTANTYEARZERO_L1_COPSHOT-2560x1440-efe7c4f177baa455d8161d7de4426b20.jpg",
+      "md5": "efe7c4f177baa455d8161d7de4426b20",
+      "width": 2560,
+      "height": 1440,
+      "size": 506857,
+      "uploadedDate": "2019-08-14T18:07:14.785Z"
+    },
+    {
+      "type": "DieselGameBoxLogo",
+      "url": "https://cdn1.epicgames.com/4756b80eb0f74d45b77922e54052cfed/item/EGS_THEBEARDEDLADIES_MUTANTYEARZERO_IC1_GAMELOGO-989x500-544312cae3244e33ea7c8d8a6e51b6b7.png",
+      "md5": "544312cae3244e33ea7c8d8a6e51b6b7",
+      "width": 989,
+      "height": 500,
+      "size": 182906,
+      "uploadedDate": "2019-08-14T18:08:50.052Z"
+    },
+    {
+      "type": "ESRB",
+      "url": "https://cdn1.epicgames.com/4756b80eb0f74d45b77922e54052cfed/item/ESRB_MutantYearZero_M-842x404-9c34d9c8130a9bed9d2c71fc8a03846e.jpg",
+      "md5": "9c34d9c8130a9bed9d2c71fc8a03846e",
+      "width": 842,
+      "height": 404,
+      "size": 25855,
+      "uploadedDate": "2019-08-14T18:26:21.351Z"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/4756b80eb0f74d45b77922e54052cfed/item/EGS_THEBEARDEDLADIES_MUTANTYEARZERO_S2_COPSHOT-1280x1440-78da0159ae1cff2af0b286dcfa5bf30a.jpg",
+      "md5": "78da0159ae1cff2af0b286dcfa5bf30a",
+      "width": 1280,
+      "height": 1440,
+      "size": 339839,
+      "uploadedDate": "2019-10-22T09:41:44.79Z"
+    }
+  ],
+  "creationDate": "2019-07-29T21:14:33.219+00:00",
+  "lastModifiedDate": "2019-11-19T17:03:14.775+00:00",
+  "developer": "Funcom",
+  "developerId": "o-fyyejcaw8f65b74sfwudhays6t3cuz",
+  "applicationId": null
+}

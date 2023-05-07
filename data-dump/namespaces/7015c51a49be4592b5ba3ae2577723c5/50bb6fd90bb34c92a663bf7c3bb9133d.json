@@ -1,0 +1,32 @@
+{
+  "id": "50bb6fd90bb34c92a663bf7c3bb9133d",
+  "title": "Generalissimo",
+  "description": "Generalissimo",
+  "namespace": "7015c51a49be4592b5ba3ae2577723c5",
+  "categories": "public/games/applications",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/7015c51a49be4592b5ba3ae2577723c5/item/EGS_Generalissimo_HaemimontGames_DLC_S1-2560x1440-c35ff88d7e49ae7951c3ffd7abb42560.jpg",
+      "md5": "c35ff88d7e49ae7951c3ffd7abb42560",
+      "width": 2560,
+      "height": 1440,
+      "size": 951693,
+      "uploadedDate": "2020-11-16T18:55:46.994Z"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/7015c51a49be4592b5ba3ae2577723c5/item/EGS_Generalissimo_HaemimontGames_DLC_S2-1200x1600-9c713ac547474bfa964727f66778a938.jpg",
+      "md5": "9c713ac547474bfa964727f66778a938",
+      "width": 1200,
+      "height": 1600,
+      "size": 966805,
+      "uploadedDate": "2020-11-16T18:55:54.495Z"
+    }
+  ],
+  "creationDate": "2020-05-08T17:23:18.159+00:00",
+  "lastModifiedDate": "2020-12-16T18:21:41.153+00:00",
+  "developer": "Kalypso Media Group GmbH",
+  "developerId": "o-37ss7wypkskvyj58j9s7hhltxtujac",
+  "applicationId": null
+}

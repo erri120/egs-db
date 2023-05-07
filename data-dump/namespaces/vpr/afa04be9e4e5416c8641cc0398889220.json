@@ -1,0 +1,68 @@
+{
+  "id": "afa04be9e4e5416c8641cc0398889220",
+  "title": "Shadow Complex Remastered",
+  "description": "Shadow Complex Remastered",
+  "namespace": "vpr",
+  "categories": "",
+  "keyImages": [
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/vpr/item/StarLogosmall-short-400x430-825bf96a0909d12f61b05df735fc4b91.png",
+      "md5": "825bf96a0909d12f61b05df735fc4b91",
+      "width": 400,
+      "height": 430,
+      "size": 77143,
+      "uploadedDate": "2016-01-07T20:22:54.284Z"
+    },
+    {
+      "type": "DieselGameBoxLogo",
+      "url": "https://cdn1.epicgames.com/vpr/item/shadown_logo-548x552-907ea59706669232c47ceb46ac71956b.png",
+      "md5": "907ea59706669232c47ceb46ac71956b",
+      "width": 548,
+      "height": 552,
+      "size": 300933,
+      "uploadedDate": "2018-10-10T14:03:53.813Z"
+    },
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/vpr/item/SC-1600x1000-9105f267a12d219772b5b9f6a20949f9.png",
+      "md5": "9105f267a12d219772b5b9f6a20949f9",
+      "width": 1600,
+      "height": 1000,
+      "size": 1570520,
+      "uploadedDate": "2018-10-10T14:18:55.204Z"
+    },
+    {
+      "type": "DieselStoreFrontWide",
+      "url": "https://cdn1.epicgames.com/vpr/item/tall-1288x1450-784edc73d4f0d6b1fb992b9dcbd64c83.jpg",
+      "md5": "784edc73d4f0d6b1fb992b9dcbd64c83",
+      "width": 1288,
+      "height": 1450,
+      "size": 587672,
+      "uploadedDate": "2018-11-29T00:25:25.986Z"
+    },
+    {
+      "type": "DieselStoreFrontWide",
+      "url": "https://cdn1.epicgames.com/vpr/item/vprwide-2580x1450-cd162e962cf30240f8ae6521c91f1aa5.jpg",
+      "md5": "cd162e962cf30240f8ae6521c91f1aa5",
+      "width": 2580,
+      "height": 1450,
+      "size": 1689635,
+      "uploadedDate": "2018-11-29T00:25:35.905Z"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/vpr/item/EpicStore_Medium_NoLogo_1288x1450-1288x1450-784edc73d4f0d6b1fb992b9dcbd64c83-1288x1450-c2a14a218ef6167440f9e0b57c88269a-1288x1450-c2a14a218ef6167440f9e0b57c88269a.jpg",
+      "md5": "c2a14a218ef6167440f9e0b57c88269a",
+      "width": 1288,
+      "height": 1450,
+      "size": 93429,
+      "uploadedDate": "2019-11-20T20:54:46.08Z"
+    }
+  ],
+  "creationDate": "2015-07-30T18:05:49.489+00:00",
+  "lastModifiedDate": "2021-08-25T13:55:17.449+00:00",
+  "developer": "Epic Games",
+  "developerId": "o-aa83a0a9bc45e98c80c1b1c9d92e9e",
+  "applicationId": ""
+}

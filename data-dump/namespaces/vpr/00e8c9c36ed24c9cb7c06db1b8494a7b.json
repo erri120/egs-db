@@ -1,0 +1,23 @@
+{
+  "id": "00e8c9c36ed24c9cb7c06db1b8494a7b",
+  "title": "Carousel_2",
+  "description": "Join the Live Stream - Every Wednesday at 4pm EST",
+  "namespace": "vpr",
+  "categories": "applications/prod/applications/prod/content/applications",
+  "keyImages": [
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/vpr/item/carousel-news_02-1000x290-1000x290-6205a541a8842dc50274b2a0f8c9a0b5.png",
+      "md5": "6205a541a8842dc50274b2a0f8c9a0b5",
+      "width": 1000,
+      "height": 290,
+      "size": 158042,
+      "uploadedDate": "2016-09-30T20:59:34.095Z"
+    }
+  ],
+  "creationDate": "2015-10-19T18:09:44.109+00:00",
+  "lastModifiedDate": "2016-09-30T20:59:40.105+00:00",
+  "developer": "Epic Games",
+  "developerId": "o-aa83a0a9bc45e98c80c1b1c9d92e9e",
+  "applicationId": null
+}

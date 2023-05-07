@@ -1,0 +1,32 @@
+{
+  "id": "92e302268baf40109f0ca89c2f290c26",
+  "title": "Alien: Isolation - The Trigger",
+  "description": "Alien: Isolation - The Trigger",
+  "namespace": "df37f065c3f14eadbf011177396e2966",
+  "categories": "public/addons/applications",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/df37f065c3f14eadbf011177396e2966/item/triggerDLC-1920x1080-8c76c016351a3d515f48abb8311ab76d.jfif",
+      "md5": "8c76c016351a3d515f48abb8311ab76d",
+      "width": 1920,
+      "height": 1080,
+      "size": 800198,
+      "uploadedDate": "2020-12-16T17:59:26.633Z"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/df37f065c3f14eadbf011177396e2966/item/triggerDLCportrait-1200x1600-e06fef25e5e9b72ee6300b8e1bbd6709.jfif",
+      "md5": "e06fef25e5e9b72ee6300b8e1bbd6709",
+      "width": 1200,
+      "height": 1600,
+      "size": 691798,
+      "uploadedDate": "2020-12-17T17:10:06.255Z"
+    }
+  ],
+  "creationDate": "2020-10-26T17:24:09.735+00:00",
+  "lastModifiedDate": "2020-12-18T16:36:46.496+00:00",
+  "developer": "SEGA of Europe",
+  "developerId": "o-q3zwbk8kbbbgar9ql3x7d43rjj8bjl",
+  "applicationId": "fghi4567WncMSw97kolM0Ff1UBPqwsE7"
+}

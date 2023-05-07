@@ -1,0 +1,32 @@
+{
+  "id": "5c06fa5c679146c7927c341b7b8795ad",
+  "title": "2064: Read Only Memories",
+  "description": "2064: Read Only Memories",
+  "namespace": "5b08e4db33c54e518c2a1360cc2c7f18",
+  "categories": "public/games/applications",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_2064ReadOnlyMemories_MidBossLLC_S1_2560x1440-a8a1b19176ad977989801a9dd4d9a782",
+      "md5": "a8a1b19176ad977989801a9dd4d9a782",
+      "width": 2560,
+      "height": 1440,
+      "size": 373794,
+      "uploadedDate": "2021-09-27T23:47:28.225Z"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_2064ReadOnlyMemories_MidBossLLC_S2_1200x1600-5c445844937c1dddee737615d72b3de1",
+      "md5": "5c445844937c1dddee737615d72b3de1",
+      "width": 1200,
+      "height": 1600,
+      "size": 264696,
+      "uploadedDate": "2021-09-27T23:47:31.12Z"
+    }
+  ],
+  "creationDate": "2021-03-04T02:49:08.058+00:00",
+  "lastModifiedDate": "2021-09-29T02:43:23.199+00:00",
+  "developer": "MidBoss, LLC",
+  "developerId": "o-uk5s5frpth22ldn5cqr5z3vmf9g52r",
+  "applicationId": ""
+}

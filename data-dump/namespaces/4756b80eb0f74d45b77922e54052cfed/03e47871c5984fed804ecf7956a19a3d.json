@@ -1,0 +1,32 @@
+{
+  "id": "03e47871c5984fed804ecf7956a19a3d",
+  "title": "FalconDLC1Staging",
+  "description": "FalconDLC1Staging",
+  "namespace": "4756b80eb0f74d45b77922e54052cfed",
+  "categories": "public/games/dlc/applications",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/4756b80eb0f74d45b77922e54052cfed/item/mutant-year-zero_dlc-1-2560x1440-3279f2998a1c4b7dde6a2fa4571ad85f.jpg",
+      "md5": "3279f2998a1c4b7dde6a2fa4571ad85f",
+      "width": 2560,
+      "height": 1440,
+      "size": 125089,
+      "uploadedDate": "2019-08-15T13:02:25.421Z"
+    },
+    {
+      "type": "DieselGameBoxLogo",
+      "url": "https://cdn1.epicgames.com/4756b80eb0f74d45b77922e54052cfed/item/mutant-year-zero_dlc-1_logo-920x500-9f2f06f5ccac97accd28f274f78884ee.png",
+      "md5": "9f2f06f5ccac97accd28f274f78884ee",
+      "width": 920,
+      "height": 500,
+      "size": 104677,
+      "uploadedDate": "2019-08-15T13:02:34.267Z"
+    }
+  ],
+  "creationDate": "2019-08-09T14:39:25.982+00:00",
+  "lastModifiedDate": "2019-08-15T14:53:29.185+00:00",
+  "developer": "Funcom",
+  "developerId": "o-fyyejcaw8f65b74sfwudhays6t3cuz",
+  "applicationId": null
+}

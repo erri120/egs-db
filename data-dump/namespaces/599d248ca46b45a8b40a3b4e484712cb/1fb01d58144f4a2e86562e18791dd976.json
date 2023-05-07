@@ -1,0 +1,32 @@
+{
+  "id": "1fb01d58144f4a2e86562e18791dd976",
+  "title": "The Crew 2 Trial",
+  "description": "The Crew 2 Trial",
+  "namespace": "599d248ca46b45a8b40a3b4e484712cb",
+  "categories": "public/games/applications",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/item/599d248ca46b45a8b40a3b4e484712cb/TC2_Epic_FWE_HeroBanner_3840x2160_3840x2160-6e3b69c58bc0e3b44317dd13f82ea7b9",
+      "md5": "6e3b69c58bc0e3b44317dd13f82ea7b9",
+      "width": 3840,
+      "height": 2160,
+      "size": 1295752,
+      "uploadedDate": "2022-07-06T15:43:56.385Z"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/item/599d248ca46b45a8b40a3b4e484712cb/TC2_Epic_Store_Portrait_1200x1600_1200x1600-1ef7a843fa3e619204c4b6d4bd730930",
+      "md5": "1ef7a843fa3e619204c4b6d4bd730930",
+      "width": 1200,
+      "height": 1600,
+      "size": 386193,
+      "uploadedDate": "2022-07-06T15:43:59.577Z"
+    }
+  ],
+  "creationDate": "2019-11-27T21:20:34.854+00:00",
+  "lastModifiedDate": "2022-07-13T14:03:31.164+00:00",
+  "developer": "Ubisoft Entertainment",
+  "developerId": "o-3efjudxdtgsqnulml4bkeq3v9nec38",
+  "applicationId": ""
+}

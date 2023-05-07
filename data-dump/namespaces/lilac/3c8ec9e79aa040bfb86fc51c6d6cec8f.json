@@ -1,0 +1,32 @@
+{
+  "id": "3c8ec9e79aa040bfb86fc51c6d6cec8f",
+  "title": "LilacStaging",
+  "description": "LilacStaging",
+  "namespace": "lilac",
+  "categories": "",
+  "keyImages": [
+    {
+      "type": "DieselGameBoxLogo",
+      "url": "https://cdn1.epicgames.com/lilac/item/TJPP2_GameLogo_White_v2-2710x1202-0b4719a3b16c3caf8e52a4ffdc142ac7.png",
+      "md5": "0b4719a3b16c3caf8e52a4ffdc142ac7",
+      "width": 2710,
+      "height": 1202,
+      "size": 47248,
+      "uploadedDate": "2019-02-07T14:07:16.689Z"
+    },
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/lilac/item/TJBPP2_Primary Promo-2580x1450-a6020d3042b238b0d78ecfe46558237c.jpg",
+      "md5": "a6020d3042b238b0d78ecfe46558237c",
+      "width": 2580,
+      "height": 1450,
+      "size": 261621,
+      "uploadedDate": "2019-02-07T14:07:40.711Z"
+    }
+  ],
+  "creationDate": "2019-01-16T13:11:22.468+00:00",
+  "lastModifiedDate": "2019-07-23T16:57:34.377+00:00",
+  "developer": "Jackbox Games, Inc.",
+  "developerId": "o-2m9ap45qzvalaepjz6wclpcffeq4aj",
+  "applicationId": null
+}

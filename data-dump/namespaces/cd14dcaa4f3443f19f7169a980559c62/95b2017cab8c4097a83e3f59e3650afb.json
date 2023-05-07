@@ -1,0 +1,32 @@
+{
+  "id": "95b2017cab8c4097a83e3f59e3650afb",
+  "title": "Civilization VI : Catherine De Medici DLC",
+  "description": "Civilization VI : Catherine De Medici DLC",
+  "namespace": "cd14dcaa4f3443f19f7169a980559c62",
+  "categories": "addons",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/cd14dcaa4f3443f19f7169a980559c62/item/2KGMKT_CIV6_DLC_CDM_Persona_Pack_Epic_Offer_Image_2560x1440-2560x1440-fef02ce22b17ede95cee6f0d14e11a68.jpg",
+      "md5": "fef02ce22b17ede95cee6f0d14e11a68",
+      "width": 2560,
+      "height": 1440,
+      "size": 896474,
+      "uploadedDate": "2020-07-23T17:37:13.822Z"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/cd14dcaa4f3443f19f7169a980559c62/item/2KGMKT_CIV6_DLC_CDM_Persona_Pack_Epic_Offer_Image_1200x1600-1200x1600-78f3c3d749dee5bfb12aa375463592be.jpg",
+      "md5": "78f3c3d749dee5bfb12aa375463592be",
+      "width": 1200,
+      "height": 1600,
+      "size": 667126,
+      "uploadedDate": "2020-07-23T17:37:38.616Z"
+    }
+  ],
+  "creationDate": "2020-06-04T17:09:36.39+00:00",
+  "lastModifiedDate": "2022-12-06T22:18:42.07+00:00",
+  "developer": "2K Games, Inc.",
+  "developerId": "o-37m6jbj5wcvrcvm4wusv7nazdfvbjk",
+  "applicationId": ""
+}

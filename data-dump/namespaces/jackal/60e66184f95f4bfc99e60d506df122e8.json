@@ -1,0 +1,32 @@
+{
+  "id": "60e66184f95f4bfc99e60d506df122e8",
+  "title": "Dauntless - The Unseen Style Pack",
+  "description": "Dauntless - The Unseen Style Pack",
+  "namespace": "jackal",
+  "categories": "",
+  "keyImages": [
+    {
+      "type": "ESRB",
+      "url": "https://cdn1.epicgames.com/jackal/item/ESRB_Dauntless_T-1080x516-23b23f06c04aa11263b4f2e9fd9deb0c.jpg",
+      "md5": "23b23f06c04aa11263b4f2e9fd9deb0c",
+      "width": 1080,
+      "height": 516,
+      "size": 36613,
+      "uploadedDate": "2019-05-21T13:19:03.387Z"
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/jackal/item/Dauntless_Addon_UnseenSupporterBundle_P34_1920x1080_EN-1920x1080-31340c9ce6504333af6907a0c182db7b.png",
+      "md5": "31340c9ce6504333af6907a0c182db7b",
+      "width": 1920,
+      "height": 1080,
+      "size": 1892121,
+      "uploadedDate": "2019-10-29T21:32:13.701Z"
+    }
+  ],
+  "creationDate": "2019-10-29T21:29:06.869+00:00",
+  "lastModifiedDate": "2020-09-17T16:58:56.249+00:00",
+  "developer": "Phoenix Labs",
+  "developerId": "o-krlzxj88qrtb69fredeuaf887bl5az",
+  "applicationId": null
+}

@@ -1,0 +1,32 @@
+{
+  "id": "21266426ccb6442fbcb856b8f5a36ddb",
+  "title": "CastleStorm 2 Demo",
+  "description": "CastleStorm 2 Demo",
+  "namespace": "ed355406eacb4633a648f682ddb492b8",
+  "categories": "public/games/applications",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/ed355406eacb4633a648f682ddb492b8/item/EGS_CastleStormII_ZenStudios_S1-2560x1440-d4f530905cc10785c1a6d2b459fe77c0.jpg",
+      "md5": "d4f530905cc10785c1a6d2b459fe77c0",
+      "width": 2560,
+      "height": 1440,
+      "size": 419520,
+      "uploadedDate": "2020-06-08T15:28:53.614Z"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/ed355406eacb4633a648f682ddb492b8/item/EGS_CastleStormII_ZenStudios_S2-860x1148-213900280aebee003c51430ec685c436.jpg",
+      "md5": "213900280aebee003c51430ec685c436",
+      "width": 860,
+      "height": 1148,
+      "size": 397706,
+      "uploadedDate": "2020-06-08T15:29:03.469Z"
+    }
+  ],
+  "creationDate": "2020-04-02T20:42:58.941+00:00",
+  "lastModifiedDate": "2020-09-23T14:59:41.383+00:00",
+  "developer": "Zen Studios",
+  "developerId": "o-r7rf64mtq3yr8uhhvdf8sba3hpqbj2",
+  "applicationId": null
+}

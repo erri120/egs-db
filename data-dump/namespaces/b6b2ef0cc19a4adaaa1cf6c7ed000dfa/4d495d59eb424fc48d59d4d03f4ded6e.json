@@ -1,0 +1,23 @@
+{
+  "id": "4d495d59eb424fc48d59d4d03f4ded6e",
+  "title": "Godfall (base game)",
+  "description": "Godfall (base game)",
+  "namespace": "b6b2ef0cc19a4adaaa1cf6c7ed000dfa",
+  "categories": "",
+  "keyImages": [
+    {
+      "type": "ESRB",
+      "url": "https://cdn1.epicgames.com/b6b2ef0cc19a4adaaa1cf6c7ed000dfa/item/godfall-esrb-398x190-a1228a4e982efa5ff69d7934678007ef.png",
+      "md5": "a1228a4e982efa5ff69d7934678007ef",
+      "width": 398,
+      "height": 190,
+      "size": 3036,
+      "uploadedDate": "2020-11-10T23:21:34.103Z"
+    }
+  ],
+  "creationDate": "2020-01-13T21:35:13.984+00:00",
+  "lastModifiedDate": "2022-04-22T21:25:15.198+00:00",
+  "developer": "Gearbox Publishing",
+  "developerId": "o-dcmk65hvycy3kndmqvfg3yn3up87jn",
+  "applicationId": ""
+}

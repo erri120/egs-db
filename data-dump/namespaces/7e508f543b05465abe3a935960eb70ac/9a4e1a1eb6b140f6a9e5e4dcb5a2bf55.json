@@ -1,0 +1,23 @@
+{
+  "id": "9a4e1a1eb6b140f6a9e5e4dcb5a2bf55",
+  "title": "BaneGeneralAudience",
+  "description": "BaneGeneralAudience",
+  "namespace": "7e508f543b05465abe3a935960eb70ac",
+  "categories": "",
+  "keyImages": [
+    {
+      "type": "ESRB",
+      "url": "https://cdn1.epicgames.com/7e508f543b05465abe3a935960eb70ac/item/EGS_IdleChampionsoftheForgottenRealms_CodenameEntertainment_RA1-200x113-cdd59d29a2db9698505e62057a70e7d1.png",
+      "md5": "cdd59d29a2db9698505e62057a70e7d1",
+      "width": 200,
+      "height": 113,
+      "size": 12669,
+      "uploadedDate": "2021-02-15T18:06:56.026Z"
+    }
+  ],
+  "creationDate": "2020-10-15T12:56:50.349+00:00",
+  "lastModifiedDate": "2022-12-21T19:58:24.177+00:00",
+  "developer": "Codename Entertainment",
+  "developerId": "o-3kpjwtwqwfl2p9wdwvpad7yqz4kt6c",
+  "applicationId": null
+}

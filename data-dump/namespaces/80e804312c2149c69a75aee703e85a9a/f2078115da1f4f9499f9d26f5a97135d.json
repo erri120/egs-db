@@ -1,0 +1,23 @@
+{
+  "id": "f2078115da1f4f9499f9d26f5a97135d",
+  "title": "BizetGeneralAudience",
+  "description": "BizetGeneralAudience",
+  "namespace": "80e804312c2149c69a75aee703e85a9a",
+  "categories": "",
+  "keyImages": [
+    {
+      "type": "ESRB",
+      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/ESRB_Warface_T_1080x516-1cfa7ef91fc86eb7e2b9641ded97875c",
+      "md5": "1cfa7ef91fc86eb7e2b9641ded97875c",
+      "width": 1080,
+      "height": 516,
+      "size": 25567,
+      "uploadedDate": "2021-06-29T02:48:42.559Z"
+    }
+  ],
+  "creationDate": "2021-03-08T23:30:15.444+00:00",
+  "lastModifiedDate": "2021-06-29T02:51:45.29+00:00",
+  "developer": "MY.GAMES",
+  "developerId": "o-tg8bdyuaqa58k5lnzh29nw3qx2fjxm",
+  "applicationId": ""
+}

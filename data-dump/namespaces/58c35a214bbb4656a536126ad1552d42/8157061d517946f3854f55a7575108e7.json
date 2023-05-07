@@ -1,0 +1,32 @@
+{
+  "id": "8157061d517946f3854f55a7575108e7",
+  "title": "Death Coming",
+  "description": "Death Coming",
+  "namespace": "58c35a214bbb4656a536126ad1552d42",
+  "categories": "public/games/applications",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/58c35a214bbb4656a536126ad1552d42/item/EGS_DeathComing_NExTStudios_S1-2560x1440-7b1d3d39e3b37ced1633da45c010117d.jpg",
+      "md5": "7b1d3d39e3b37ced1633da45c010117d",
+      "width": 2560,
+      "height": 1440,
+      "size": 841096,
+      "uploadedDate": "2020-04-15T21:07:14.9Z"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/58c35a214bbb4656a536126ad1552d42/item/EGS_DeathComing_NExTStudios_S2-860x1148-8fcfbb18c34364f804e5b79d8e23f590.jpg",
+      "md5": "8fcfbb18c34364f804e5b79d8e23f590",
+      "width": 860,
+      "height": 1148,
+      "size": 341540,
+      "uploadedDate": "2020-04-15T21:07:27.809Z"
+    }
+  ],
+  "creationDate": "2020-04-12T19:35:15.783+00:00",
+  "lastModifiedDate": "2020-05-12T21:19:19.136+00:00",
+  "developer": "Tencent Technology Company Limited",
+  "developerId": "o-knwuvnlwzekqppkq2rj2snvys69l5g",
+  "applicationId": "fghi45671wl5qGNSk80kWb99tvZ2IEBd"
+}

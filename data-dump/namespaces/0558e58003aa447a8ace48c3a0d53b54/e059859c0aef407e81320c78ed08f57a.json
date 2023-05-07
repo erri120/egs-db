@@ -1,0 +1,32 @@
+{
+  "id": "e059859c0aef407e81320c78ed08f57a",
+  "title": "Down In Bermuda",
+  "description": "Down In Bermuda",
+  "namespace": "0558e58003aa447a8ace48c3a0d53b54",
+  "categories": "public/games/applications",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/0558e58003aa447a8ace48c3a0d53b54/item/EGS_DowninBermuda_YakCo_S1-2560x1440-d97c45eccd46e98d4178d0d9881948eb.jpg",
+      "md5": "d97c45eccd46e98d4178d0d9881948eb",
+      "width": 2560,
+      "height": 1440,
+      "size": 871293,
+      "uploadedDate": "2021-01-13T12:05:11.099Z"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/0558e58003aa447a8ace48c3a0d53b54/item/EGS_DowninBermuda_YakCo_S2-1200x1600-dba8b5c164bae127a679160dc88ae3fd.jpg",
+      "md5": "dba8b5c164bae127a679160dc88ae3fd",
+      "width": 1200,
+      "height": 1600,
+      "size": 607263,
+      "uploadedDate": "2021-01-13T12:05:13.901Z"
+    }
+  ],
+  "creationDate": "2020-10-19T03:15:11.481+00:00",
+  "lastModifiedDate": "2021-01-15T19:18:42.092+00:00",
+  "developer": "Yak \u0026 Co",
+  "developerId": "o-pc4ubv4cz3zqmbu63wfgl4akadwkde",
+  "applicationId": "fghi4567CO1tERoDRpt37YjB2f0PqV4n"
+}

@@ -1,0 +1,23 @@
+{
+  "id": "5144c0c2d38849e8be8d25b9e2d4cca5",
+  "title": "Call_To_Action_01",
+  "description": "PLAY DARK AND LIGHT\n\u003Cinverted-tiny-body\u003EBUY NOW\u003C/\u003E",
+  "namespace": "darkandlight",
+  "categories": "layoutcontent",
+  "keyImages": [
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/darkandlight/item/DNL_Play-960x540-c5e99902c7d52880cb048a8c8a68d0a0.png",
+      "md5": "c5e99902c7d52880cb048a8c8a68d0a0",
+      "width": 960,
+      "height": 540,
+      "size": 949733,
+      "uploadedDate": "2018-04-10T18:09:32.482Z"
+    }
+  ],
+  "creationDate": "2018-03-06T19:59:13.715+00:00",
+  "lastModifiedDate": "2018-04-10T18:11:05.14+00:00",
+  "developer": "Epic Games",
+  "developerId": "o-aa83a0a9bc45e98c80c1b1c9d92e9e",
+  "applicationId": null
+}

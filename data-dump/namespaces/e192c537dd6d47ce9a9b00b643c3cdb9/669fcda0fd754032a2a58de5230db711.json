@@ -1,0 +1,32 @@
+{
+  "id": "669fcda0fd754032a2a58de5230db711",
+  "title": "The Medium",
+  "description": "The Medium",
+  "namespace": "e192c537dd6d47ce9a9b00b643c3cdb9",
+  "categories": "public/games/applications",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/e192c537dd6d47ce9a9b00b643c3cdb9/item/EGS_TheMedium_BlooberTeam_S1-2560x1440-f8a3d12a0df00278617130bd72540050.jpg",
+      "md5": "f8a3d12a0df00278617130bd72540050",
+      "width": 2560,
+      "height": 1440,
+      "size": 1008773,
+      "uploadedDate": "2020-10-09T01:19:32.873Z"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/e192c537dd6d47ce9a9b00b643c3cdb9/item/EGS_TheMedium_BlooberTeam_S2-1200x1600-ae6bf4c64b365f9d90dba125c562f59a.jpg",
+      "md5": "ae6bf4c64b365f9d90dba125c562f59a",
+      "width": 1200,
+      "height": 1600,
+      "size": 799723,
+      "uploadedDate": "2020-10-09T01:19:44.021Z"
+    }
+  ],
+  "creationDate": "2020-08-25T22:23:35.876+00:00",
+  "lastModifiedDate": "2021-01-28T16:58:55.525+00:00",
+  "developer": "Bloober Team",
+  "developerId": "o-8nzuqrvr3dvkn9l7dydvhkekqd3xa9",
+  "applicationId": null
+}

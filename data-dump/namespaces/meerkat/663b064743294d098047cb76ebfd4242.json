@@ -1,0 +1,41 @@
+{
+  "id": "663b064743294d098047cb76ebfd4242",
+  "title": "Gorogoa",
+  "description": "Gorogoa",
+  "namespace": "meerkat",
+  "categories": "",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/meerkat/item/Gorogoa_PrimaryPromo-2580x1450-deb0fc458f47db3252efd05bbb4a499f-2580x1450-deb0fc458f47db3252efd05bbb4a499f.jpg",
+      "md5": "deb0fc458f47db3252efd05bbb4a499f",
+      "width": 2580,
+      "height": 1450,
+      "size": 316051,
+      "uploadedDate": "2019-01-08T13:44:04.333Z"
+    },
+    {
+      "type": "DieselGameBoxLogo",
+      "url": "https://cdn1.epicgames.com/meerkat/item/Gorogoa_logo-1091x183-b2c51b5dd7a4c1b065aa431356d03f74-1091x183-b2c51b5dd7a4c1b065aa431356d03f74.png",
+      "md5": "b2c51b5dd7a4c1b065aa431356d03f74",
+      "width": 1091,
+      "height": 183,
+      "size": 32348,
+      "uploadedDate": "2019-01-08T13:44:12.254Z"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/meerkat/item/Gorogoa_PortraitPromo-1280x1420-6f82bf45db6891abb8642ca2be62b741.jpg",
+      "md5": "6f82bf45db6891abb8642ca2be62b741",
+      "width": 1280,
+      "height": 1420,
+      "size": 259074,
+      "uploadedDate": "2019-10-22T09:41:44.79Z"
+    }
+  ],
+  "creationDate": "2018-12-17T17:26:36.407+00:00",
+  "lastModifiedDate": "2019-11-19T17:02:49.228+00:00",
+  "developer": "Annapurna Interactive",
+  "developerId": "o-bmeb3ztlbxkjc8vvpydava38yvmxlm",
+  "applicationId": null
+}

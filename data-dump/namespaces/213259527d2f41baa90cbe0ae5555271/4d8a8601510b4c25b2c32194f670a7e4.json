@@ -1,0 +1,32 @@
+{
+  "id": "4d8a8601510b4c25b2c32194f670a7e4",
+  "title": "Clash of Gods",
+  "description": "Clash of Gods",
+  "namespace": "213259527d2f41baa90cbe0ae5555271",
+  "categories": "",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/213259527d2f41baa90cbe0ae5555271/item/EGS_ClashofGods_RealmforgeStudios_DLC_S1-2560x1440-890de7b2f4ee43345b4a3ade2a41bec8.jpg",
+      "md5": "890de7b2f4ee43345b4a3ade2a41bec8",
+      "width": 2560,
+      "height": 1440,
+      "size": 940481,
+      "uploadedDate": "2020-10-01T17:50:45.69Z"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/213259527d2f41baa90cbe0ae5555271/item/EGS_ClashofGods_RealmforgeStudios_DLC_S2-1200x1600-c03f2fb113d4ae44be955655887ce105.jpg",
+      "md5": "c03f2fb113d4ae44be955655887ce105",
+      "width": 1200,
+      "height": 1600,
+      "size": 670179,
+      "uploadedDate": "2020-10-01T17:50:52.704Z"
+    }
+  ],
+  "creationDate": "2020-05-08T15:34:40.481+00:00",
+  "lastModifiedDate": "2020-11-04T21:17:58.117+00:00",
+  "developer": "Kalypso Media Group GmbH",
+  "developerId": "o-37ss7wypkskvyj58j9s7hhltxtujac",
+  "applicationId": null
+}

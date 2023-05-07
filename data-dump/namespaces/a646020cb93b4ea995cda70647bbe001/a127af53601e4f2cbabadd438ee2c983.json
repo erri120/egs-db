@@ -1,0 +1,23 @@
+{
+  "id": "a127af53601e4f2cbabadd438ee2c983",
+  "title": "BarracudaGoldAudience",
+  "description": "BarracudaGoldAudience",
+  "namespace": "a646020cb93b4ea995cda70647bbe001",
+  "categories": "",
+  "keyImages": [
+    {
+      "type": "ESRB",
+      "url": "https://cdn1.epicgames.com/a646020cb93b4ea995cda70647bbe001/item/ESRB_T_Steep-842x485-5366d4730b97ad989423860c8589a078.jpg",
+      "md5": "5366d4730b97ad989423860c8589a078",
+      "width": 842,
+      "height": 485,
+      "size": 92870,
+      "uploadedDate": "2020-01-14T19:37:55.916Z"
+    }
+  ],
+  "creationDate": "2019-12-09T19:47:31.325+00:00",
+  "lastModifiedDate": "2020-01-14T19:37:59.159+00:00",
+  "developer": "Ubisoft Entertainment",
+  "developerId": "o-3efjudxdtgsqnulml4bkeq3v9nec38",
+  "applicationId": null
+}

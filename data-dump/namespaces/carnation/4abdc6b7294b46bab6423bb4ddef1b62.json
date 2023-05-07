@@ -1,0 +1,23 @@
+{
+  "id": "4abdc6b7294b46bab6423bb4ddef1b62",
+  "title": "R6 Siege FTW Audience",
+  "description": "R6 Siege FTW Audience",
+  "namespace": "carnation",
+  "categories": "",
+  "keyImages": [
+    {
+      "type": "ESRB",
+      "url": "https://cdn1.epicgames.com/carnation/item/Rainbow-6-Rating-842x485-fb8a0c88b2b8c750bbb3acc701f1f141.png",
+      "md5": "fb8a0c88b2b8c750bbb3acc701f1f141",
+      "width": 842,
+      "height": 485,
+      "size": 64629,
+      "uploadedDate": "2020-01-14T19:19:35.109Z"
+    }
+  ],
+  "creationDate": "2019-08-22T19:29:58.301+00:00",
+  "lastModifiedDate": "2023-03-20T10:38:42.664+00:00",
+  "developer": "Ubisoft Entertainment",
+  "developerId": "o-3efjudxdtgsqnulml4bkeq3v9nec38",
+  "applicationId": ""
+}

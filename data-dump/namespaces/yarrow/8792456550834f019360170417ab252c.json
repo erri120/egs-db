@@ -1,0 +1,32 @@
+{
+  "id": "8792456550834f019360170417ab252c",
+  "title": "YarrowDevAudience",
+  "description": "YarrowDevAudience",
+  "namespace": "yarrow",
+  "categories": "",
+  "keyImages": [
+    {
+      "type": "CodeRedemption_340x440",
+      "url": "https://cdn1.epicgames.com/yarrow/item/Flower_CodeRedemption-330x440-47276d6704e36aa485fdb283ca3e8148.png",
+      "md5": "47276d6704e36aa485fdb283ca3e8148",
+      "width": 330,
+      "height": 440,
+      "size": 56495,
+      "uploadedDate": "2019-02-14T14:22:06.805Z"
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/yarrow/item/Flower_GameIcon-400x400-84d952e5e8d679fc833add15687427d8.png",
+      "md5": "84d952e5e8d679fc833add15687427d8",
+      "width": 400,
+      "height": 400,
+      "size": 51550,
+      "uploadedDate": "2019-02-14T14:22:40.47Z"
+    }
+  ],
+  "creationDate": "2019-01-24T17:14:01.056+00:00",
+  "lastModifiedDate": "2019-02-14T14:22:59.7+00:00",
+  "developer": "Annapurna Interactive",
+  "developerId": "o-bmeb3ztlbxkjc8vvpydava38yvmxlm",
+  "applicationId": null
+}

@@ -1,0 +1,41 @@
+{
+  "id": "05226d67cd28416caec9434f38b58f3d",
+  "title": "MorphoStaging",
+  "description": "MorphoStaging",
+  "namespace": "morpho",
+  "categories": "",
+  "keyImages": [
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/morpho/item/Medium Size 1288 x 1450 (1)-1288x1450-89e000b255d99d495ba53b7d33b8f5c7-1288x1450-89e000b255d99d495ba53b7d33b8f5c7.png",
+      "md5": "89e000b255d99d495ba53b7d33b8f5c7",
+      "width": 1288,
+      "height": 1450,
+      "size": 1732674,
+      "uploadedDate": "2018-12-14T16:49:04.158Z"
+    },
+    {
+      "type": "DieselGameBoxLogo",
+      "url": "https://cdn1.epicgames.com/morpho/item/2018-12-06-540x336-b72da4a7d7637fbbf09c4061dde784ff-540x336-b72da4a7d7637fbbf09c4061dde784ff.png",
+      "md5": "b72da4a7d7637fbbf09c4061dde784ff",
+      "width": 540,
+      "height": 336,
+      "size": 60790,
+      "uploadedDate": "2018-12-14T16:49:13.365Z"
+    },
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/morpho/item/HelloNeighbor_HeroImage_1290x725-1290x725-ac10d115e946ba8f6329d8b354b11c71-1290x725-ac10d115e946ba8f6329d8b354b11c71.jpg",
+      "md5": "ac10d115e946ba8f6329d8b354b11c71",
+      "width": 1290,
+      "height": 725,
+      "size": 181702,
+      "uploadedDate": "2018-12-14T16:49:23.511Z"
+    }
+  ],
+  "creationDate": "2018-12-14T16:39:59.201+00:00",
+  "lastModifiedDate": "2019-08-12T14:21:10.838+00:00",
+  "developer": "tinyBuild Games",
+  "developerId": "o-t682p59y2u8tr9bxcm6cmw9w7mmz5t",
+  "applicationId": null
+}

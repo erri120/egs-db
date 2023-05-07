@@ -1,0 +1,32 @@
+{
+  "id": "2316299d409846abb9d750512a38e312",
+  "title": "FoxgloveStaging",
+  "description": "FoxgloveStaging",
+  "namespace": "foxglove",
+  "categories": "",
+  "keyImages": [
+    {
+      "type": "DieselGameBoxLogo",
+      "url": "https://cdn1.epicgames.com/foxglove/item/20190119_SN_BZ_Logo_Horizontal-2767x838-3a270bbd782f1b867bd43bc25905cd73.png",
+      "md5": "3a270bbd782f1b867bd43bc25905cd73",
+      "width": 2767,
+      "height": 838,
+      "size": 515171,
+      "uploadedDate": "2019-01-24T20:12:41.231Z"
+    },
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/foxglove/item/SNBZ_PDP_EpicStoreBanner-1920x804-691420fdf9f2cf8fa0ea672e0fe96a9f.jpg",
+      "md5": "691420fdf9f2cf8fa0ea672e0fe96a9f",
+      "width": 1920,
+      "height": 804,
+      "size": 171518,
+      "uploadedDate": "2019-01-30T17:41:34.475Z"
+    }
+  ],
+  "creationDate": "2019-01-24T20:01:09.806+00:00",
+  "lastModifiedDate": "2021-05-14T03:45:04.552+00:00",
+  "developer": "Unknown Worlds Entertainment",
+  "developerId": "o-g4s9pbd6mu9e8uqn539s3xqk9yex92",
+  "applicationId": null
+}

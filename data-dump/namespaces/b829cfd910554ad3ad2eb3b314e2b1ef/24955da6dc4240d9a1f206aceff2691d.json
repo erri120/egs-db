@@ -1,0 +1,32 @@
+{
+  "id": "24955da6dc4240d9a1f206aceff2691d",
+  "title": "3 out of 10: Season Two",
+  "description": "3 out of 10: Season Two",
+  "namespace": "b829cfd910554ad3ad2eb3b314e2b1ef",
+  "categories": "public/games/applications",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/b829cfd910554ad3ad2eb3b314e2b1ef/item/EGS_3outof10SeasonTwo_TerriblePostureGamesInc_S1-2560x1440-03f957380c64f41b4241cfb591a263ce.jpg",
+      "md5": "03f957380c64f41b4241cfb591a263ce",
+      "width": 2560,
+      "height": 1440,
+      "size": 754974,
+      "uploadedDate": "2021-03-02T17:38:54.702Z"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/b829cfd910554ad3ad2eb3b314e2b1ef/item/EGS_3outof10SeasonTwo_TerriblePostureGamesInc_S2-1200x1600-0526ebb8c316a36e20e97271782bd31d.jpg",
+      "md5": "0526ebb8c316a36e20e97271782bd31d",
+      "width": 1200,
+      "height": 1600,
+      "size": 512749,
+      "uploadedDate": "2021-03-02T17:39:04.069Z"
+    }
+  ],
+  "creationDate": "2020-09-08T21:58:00.346+00:00",
+  "lastModifiedDate": "2021-04-01T14:19:55.502+00:00",
+  "developer": "Terrible Posture Games, Inc.",
+  "developerId": "o-2yllrrr7vufkhal9nk3cswwgug977c",
+  "applicationId": null
+}

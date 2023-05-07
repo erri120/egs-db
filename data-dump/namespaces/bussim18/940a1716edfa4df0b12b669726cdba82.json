@@ -1,0 +1,23 @@
+{
+  "id": "940a1716edfa4df0b12b669726cdba82",
+  "title": "Bus 18 logo",
+  "description": "Logo",
+  "namespace": "bussim18",
+  "categories": "layoutcontent",
+  "keyImages": [
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/bussim18/item/Untitled-1-400x200-64ace846f18ca0f27354817b92e67020.png",
+      "md5": "64ace846f18ca0f27354817b92e67020",
+      "width": 400,
+      "height": 200,
+      "size": 33206,
+      "uploadedDate": "2018-05-17T20:29:53.678Z"
+    }
+  ],
+  "creationDate": "2018-05-17T20:18:35.97+00:00",
+  "lastModifiedDate": "2018-12-14T20:08:11.581+00:00",
+  "developer": "Epic Games",
+  "developerId": "o-aa83a0a9bc45e98c80c1b1c9d92e9e",
+  "applicationId": null
+}

@@ -1,0 +1,32 @@
+{
+  "id": "da045b62035640ec9f276031596981ca",
+  "title": "Tom Clancy\u0027s Ghost Recon",
+  "description": "Tom Clancy\u0027s Ghost Recon",
+  "namespace": "acf914daf6034292a207051e3287f1c0",
+  "categories": "",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/item/acf914daf6034292a207051e3287f1c0/GRT_StoreLandscape_2560x1440_2560x1440-f79268e269a2b1e99eeb9934e18d3053",
+      "md5": "f79268e269a2b1e99eeb9934e18d3053",
+      "width": 2560,
+      "height": 1440,
+      "size": 1385884,
+      "uploadedDate": "2023-02-27T14:32:17.365Z"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/item/acf914daf6034292a207051e3287f1c0/GRT_StorePortrait_1200x1600_1200x1600-d93f07d7827c8cf1827e12b5d01529d5",
+      "md5": "d93f07d7827c8cf1827e12b5d01529d5",
+      "width": 1200,
+      "height": 1600,
+      "size": 887639,
+      "uploadedDate": "2023-02-27T14:32:33.677Z"
+    }
+  ],
+  "creationDate": "2022-10-10T17:21:41.95+00:00",
+  "lastModifiedDate": "2023-03-09T18:27:53.091+00:00",
+  "developer": "Ubisoft Entertainment",
+  "developerId": "o-3efjudxdtgsqnulml4bkeq3v9nec38",
+  "applicationId": ""
+}

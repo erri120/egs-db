@@ -1,0 +1,23 @@
+{
+  "id": "3a8c57519e1845aa97f6b874bbee6be1",
+  "title": "geumGeneralAudience",
+  "description": "geumGeneralAudience",
+  "namespace": "a9dad8af015a422eb89a5f88e6def923",
+  "categories": "",
+  "keyImages": [
+    {
+      "type": "ESRB",
+      "url": "https://cdn1.epicgames.com/a9dad8af015a422eb89a5f88e6def923/item/ESRB_ThePathless-842x404-4753c12f968ba7db3db91d3c1fb217cb.png",
+      "md5": "4753c12f968ba7db3db91d3c1fb217cb",
+      "width": 842,
+      "height": 404,
+      "size": 56323,
+      "uploadedDate": "2020-11-11T21:36:18.116Z"
+    }
+  ],
+  "creationDate": "2019-05-02T19:22:07.741+00:00",
+  "lastModifiedDate": "2020-11-12T17:00:38.671+00:00",
+  "developer": "Annapurna Interactive",
+  "developerId": "o-bmeb3ztlbxkjc8vvpydava38yvmxlm",
+  "applicationId": null
+}

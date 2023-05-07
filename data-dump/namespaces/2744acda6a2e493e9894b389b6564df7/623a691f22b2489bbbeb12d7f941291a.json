@@ -1,0 +1,32 @@
+{
+  "id": "623a691f22b2489bbbeb12d7f941291a",
+  "title": "SnowRunner - Public test version",
+  "description": "SnowRunner - Public test version",
+  "namespace": "2744acda6a2e493e9894b389b6564df7",
+  "categories": "public/games/applications",
+  "keyImages": [
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/2744acda6a2e493e9894b389b6564df7/item/SnowRunner_EpicGames_PortraitImage_860x1148-PTS-860x1148-a25604172ce2409d97cbd1dafc98cbdc.jpg",
+      "md5": "a25604172ce2409d97cbd1dafc98cbdc",
+      "width": 860,
+      "height": 1148,
+      "size": 472589,
+      "uploadedDate": "2020-05-20T16:45:14.114Z"
+    },
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/2744acda6a2e493e9894b389b6564df7/item/SNOWRUNNER-Launcher-EGS-2560x1440-PTS-2560x1440-5c791385f6a545a24ac131b7e2aa568e.png",
+      "md5": "5c791385f6a545a24ac131b7e2aa568e",
+      "width": 2560,
+      "height": 1440,
+      "size": 7317790,
+      "uploadedDate": "2020-05-20T16:45:29.992Z"
+    }
+  ],
+  "creationDate": "2020-05-06T14:21:22.701+00:00",
+  "lastModifiedDate": "2022-12-08T09:53:16.18+00:00",
+  "developer": "Focus Home",
+  "developerId": "o-wt4zxeetmq6jem7qp4pkssr46aenj5",
+  "applicationId": null
+}

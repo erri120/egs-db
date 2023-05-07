@@ -1,0 +1,23 @@
+{
+  "id": "3ebe3a6566804e19bcf7623d499e8190",
+  "title": "Detroit Become Human General Audience",
+  "description": "Detroit Become Human General Audience",
+  "namespace": "columbine",
+  "categories": "",
+  "keyImages": [
+    {
+      "type": "ESRB",
+      "url": "https://cdn1.epicgames.com/columbine/item/ESRB_DetroitBecomeHuman-842x404-035ba6355044f32a11b90c3396b43a6a.jpg",
+      "md5": "035ba6355044f32a11b90c3396b43a6a",
+      "width": 842,
+      "height": 404,
+      "size": 119136,
+      "uploadedDate": "2019-07-29T16:07:35.021Z"
+    }
+  ],
+  "creationDate": "2019-03-14T14:48:29.406+00:00",
+  "lastModifiedDate": "2020-01-06T15:33:07.492+00:00",
+  "developer": "Quantic Dream",
+  "developerId": "o-m8v47d762atphw94knus7ezawefpcu",
+  "applicationId": null
+}

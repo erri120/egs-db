@@ -1,0 +1,32 @@
+{
+  "id": "0ad62c870dc640eaa6834189b32feac0",
+  "title": "Beyond Two Souls (Japanese Demo)",
+  "description": "Beyond Two Souls (Japanese Demo)",
+  "namespace": "lavender",
+  "categories": "",
+  "keyImages": [
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/lavender/item/Beyond_GameIcon-400x400-362c6839bb4a4c9c28afb2ea260f78cb.png",
+      "md5": "362c6839bb4a4c9c28afb2ea260f78cb",
+      "width": 400,
+      "height": 400,
+      "size": 273087,
+      "uploadedDate": "2019-03-19T22:27:18.138Z"
+    },
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/lavender/item/B2S_LavenderDEMO_thumb-2560x1440-4b48da4ded604842192f173afadca6a0.png",
+      "md5": "4b48da4ded604842192f173afadca6a0",
+      "width": 2560,
+      "height": 1440,
+      "size": 957832,
+      "uploadedDate": "2019-06-21T19:13:59.929Z"
+    }
+  ],
+  "creationDate": "2019-03-18T19:12:13.819+00:00",
+  "lastModifiedDate": "2019-10-16T14:25:56.303+00:00",
+  "developer": "Quantic Dream",
+  "developerId": "o-m8v47d762atphw94knus7ezawefpcu",
+  "applicationId": null
+}

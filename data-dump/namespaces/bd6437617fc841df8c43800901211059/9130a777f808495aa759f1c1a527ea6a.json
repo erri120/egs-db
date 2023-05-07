@@ -1,0 +1,32 @@
+{
+  "id": "9130a777f808495aa759f1c1a527ea6a",
+  "title": "Battle Chasers: Nightwar",
+  "description": "Battle Chasers: Nightwar",
+  "namespace": "bd6437617fc841df8c43800901211059",
+  "categories": "public/games/applications",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/bd6437617fc841df8c43800901211059/item/EGS_BattleChasersNightwar_AirshipSyndicate_S1-2560x1440-bb27aa6e7dc6c8d5ee1debce322eaa76.jpg",
+      "md5": "bb27aa6e7dc6c8d5ee1debce322eaa76",
+      "width": 2560,
+      "height": 1440,
+      "size": 777357,
+      "uploadedDate": "2021-03-04T04:44:09.043Z"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/bd6437617fc841df8c43800901211059/item/EGS_BattleChasersNightwar_AirshipSyndicate_S2-1200x1600-8ad49910c9560bbc9bb2267d8793d185-1200x1600-8ad49910c9560bbc9bb2267d8793d185.jpg",
+      "md5": "8ad49910c9560bbc9bb2267d8793d185",
+      "width": 1200,
+      "height": 1600,
+      "size": 467493,
+      "uploadedDate": "2021-03-05T17:24:44.833Z"
+    }
+  ],
+  "creationDate": "2021-02-18T19:06:55.721+00:00",
+  "lastModifiedDate": "2021-03-24T21:18:15.063+00:00",
+  "developer": "THQ Nordic GmbH",
+  "developerId": "o-jywxgemg3dagnv6fymcngq3g29mc4j",
+  "applicationId": null
+}

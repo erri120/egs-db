@@ -1,0 +1,32 @@
+{
+  "id": "8ac662ddda5043c2b272692936f5bd2d",
+  "title": "CondorStaging",
+  "description": "CondorStaging",
+  "namespace": "4d2a12aff0484d699b1806ab104d259b",
+  "categories": "public/games/applications",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/4d2a12aff0484d699b1806ab104d259b/item/AlanWake_AN_PrimaryPromo-2580x1450-115d388941ed76dfc588f6ee7be5b06a.jpg",
+      "md5": "115d388941ed76dfc588f6ee7be5b06a",
+      "width": 2580,
+      "height": 1450,
+      "size": 174605,
+      "uploadedDate": "2019-10-08T19:05:26.913Z"
+    },
+    {
+      "type": "DieselGameBoxLogo",
+      "url": "https://cdn1.epicgames.com/4d2a12aff0484d699b1806ab104d259b/item/Alan_Wake_American_Nightmare_logo-2000x893-c8b2c2f751d25a6d5a59a490d1815fbc.png",
+      "md5": "c8b2c2f751d25a6d5a59a490d1815fbc",
+      "width": 2000,
+      "height": 893,
+      "size": 122453,
+      "uploadedDate": "2019-10-08T19:05:33.347Z"
+    }
+  ],
+  "creationDate": "2019-07-22T19:15:20.028+00:00",
+  "lastModifiedDate": "2019-10-17T13:46:28.494+00:00",
+  "developer": "Remedy Entertainment",
+  "developerId": "o-sdmmvl8pftrkwfy86bjp286kuwhnsq",
+  "applicationId": null
+}

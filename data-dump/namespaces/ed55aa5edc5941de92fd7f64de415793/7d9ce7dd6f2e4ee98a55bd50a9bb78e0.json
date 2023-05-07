@@ -1,0 +1,32 @@
+{
+  "id": "7d9ce7dd6f2e4ee98a55bd50a9bb78e0",
+  "title": "HITMAN 3",
+  "description": "HITMAN 3",
+  "namespace": "ed55aa5edc5941de92fd7f64de415793",
+  "categories": "public/games/applications",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/ed55aa5edc5941de92fd7f64de415793/item/HM3_wide-2560x1440-fe613ea24891cacef30e846e30a00982.jpg",
+      "md5": "fe613ea24891cacef30e846e30a00982",
+      "width": 2560,
+      "height": 1440,
+      "size": 764441,
+      "uploadedDate": "2020-12-09T17:17:57.239Z"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/ed55aa5edc5941de92fd7f64de415793/item/HM3_tall-1200x1600-b285fb6eb586113c9479ff33ed646b69.jpg",
+      "md5": "b285fb6eb586113c9479ff33ed646b69",
+      "width": 1200,
+      "height": 1600,
+      "size": 313042,
+      "uploadedDate": "2020-12-09T17:18:22.193Z"
+    }
+  ],
+  "creationDate": "2019-09-10T19:03:58.97+00:00",
+  "lastModifiedDate": "2023-01-26T15:00:00.785+00:00",
+  "developer": "IO Interactive",
+  "developerId": "o-ank8fbh38u9uzqbag2a5yt5xexb4yr",
+  "applicationId": "fghi4567xQOCheZIin0pazB47qGUvZw4"
+}

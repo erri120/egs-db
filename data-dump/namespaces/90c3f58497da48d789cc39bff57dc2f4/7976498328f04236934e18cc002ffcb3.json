@@ -1,0 +1,23 @@
+{
+  "id": "7976498328f04236934e18cc002ffcb3",
+  "title": "SandpiperYamahaSpecialPackAudience",
+  "description": "SandpiperYamahaSpecialPackAudience",
+  "namespace": "90c3f58497da48d789cc39bff57dc2f4",
+  "categories": "",
+  "keyImages": [
+    {
+      "type": "ESRB",
+      "url": "https://cdn1.epicgames.com/90c3f58497da48d789cc39bff57dc2f4/item/ESRB_WRC8-842x485-a4de2492c5e27c0262705a42c34204fd.jpg",
+      "md5": "a4de2492c5e27c0262705a42c34204fd",
+      "width": 842,
+      "height": 485,
+      "size": 84586,
+      "uploadedDate": "2020-01-15T22:20:45.902Z"
+    }
+  ],
+  "creationDate": "2020-01-09T18:55:55.073+00:00",
+  "lastModifiedDate": "2020-08-05T14:41:09.802+00:00",
+  "developer": "Nacon",
+  "developerId": "o-wubu848ps2xcxuwv2m3bhet9gbhdbp",
+  "applicationId": null
+}

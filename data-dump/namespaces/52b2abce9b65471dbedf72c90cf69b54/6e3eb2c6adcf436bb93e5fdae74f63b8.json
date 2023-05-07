@@ -1,0 +1,32 @@
+{
+  "id": "6e3eb2c6adcf436bb93e5fdae74f63b8",
+  "title": "Synergia",
+  "description": "Synergia",
+  "namespace": "52b2abce9b65471dbedf72c90cf69b54",
+  "categories": "public/games/applications",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_Synergia_RadiArt_S3_2560x1440-259a5c193e0073e478c32171d83b8a19",
+      "md5": "259a5c193e0073e478c32171d83b8a19",
+      "width": 2560,
+      "height": 1440,
+      "size": 147658,
+      "uploadedDate": "2021-08-02T23:06:11.557Z"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_Synergia_RadiArt_S2_1200x1600-39ebad4a8ec2afa3b35c7cf6f500c2e6",
+      "md5": "39ebad4a8ec2afa3b35c7cf6f500c2e6",
+      "width": 1200,
+      "height": 1600,
+      "size": 100008,
+      "uploadedDate": "2021-08-02T23:06:20.996Z"
+    }
+  ],
+  "creationDate": "2021-04-16T21:39:52.216+00:00",
+  "lastModifiedDate": "2021-08-10T15:18:57.595+00:00",
+  "developer": "Top Hat Studios, Inc.",
+  "developerId": "o-b3dcbpjzpsrrbtlgt8f7yzmc45msvy",
+  "applicationId": ""
+}

@@ -1,0 +1,23 @@
+{
+  "id": "b582b50fe82045c8bce722311a593081",
+  "title": "RagdollGeneralAudience",
+  "description": "RagdollGeneralAudience",
+  "namespace": "213259527d2f41baa90cbe0ae5555271",
+  "categories": "",
+  "keyImages": [
+    {
+      "type": "ESRB",
+      "url": "https://cdn1.epicgames.com/213259527d2f41baa90cbe0ae5555271/item/dungeons 3-200x90-96520d244f1a5f047fc785eaf53e5820.png",
+      "md5": "96520d244f1a5f047fc785eaf53e5820",
+      "width": 200,
+      "height": 90,
+      "size": 9715,
+      "uploadedDate": "2021-05-05T19:44:23.234Z"
+    }
+  ],
+  "creationDate": "2020-04-15T18:51:09.001+00:00",
+  "lastModifiedDate": "2021-05-05T19:44:26.808+00:00",
+  "developer": "Kalypso Media Group GmbH",
+  "developerId": "o-37ss7wypkskvyj58j9s7hhltxtujac",
+  "applicationId": null
+}

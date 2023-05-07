@@ -1,0 +1,32 @@
+{
+  "id": "6a398fcd7a464ea1a69fea1f0b0281cc",
+  "title": "Delores: A Thimbleweed Park mini-adventure",
+  "description": "Delores: A Thimbleweed Park mini-adventure",
+  "namespace": "tulip",
+  "categories": "public/games/applications",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/tulip/item/Delores_Epic_2560x2440_v1-2560x1440-a282575c156f41cf03a022cb28ef2477.jpg",
+      "md5": "a282575c156f41cf03a022cb28ef2477",
+      "width": 2560,
+      "height": 1440,
+      "size": 3387000,
+      "uploadedDate": "2020-05-07T00:21:04.307Z"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/tulip/item/Delores_Epic_1200x1600_v1-1200x1600-64fd63efe1c62acf2375b5edc2cfaf7b.jpg",
+      "md5": "64fd63efe1c62acf2375b5edc2cfaf7b",
+      "width": 1200,
+      "height": 1600,
+      "size": 5373889,
+      "uploadedDate": "2020-05-07T00:21:27.452Z"
+    }
+  ],
+  "creationDate": "2020-05-05T20:12:41.368+00:00",
+  "lastModifiedDate": "2020-05-09T16:53:28.775+00:00",
+  "developer": "Terrible Toybox, Inc.",
+  "developerId": "o-phlj6meuxqgdhss58gcqnj86br8xrt",
+  "applicationId": null
+}

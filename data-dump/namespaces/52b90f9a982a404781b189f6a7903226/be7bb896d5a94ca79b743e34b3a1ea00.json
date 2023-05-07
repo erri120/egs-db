@@ -1,0 +1,32 @@
+{
+  "id": "be7bb896d5a94ca79b743e34b3a1ea00",
+  "title": "HoatzinStaging",
+  "description": "HoatzinStaging",
+  "namespace": "52b90f9a982a404781b189f6a7903226",
+  "categories": "public/games/applications",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/52b90f9a982a404781b189f6a7903226/item/EGS_WereFiveGames_TotallyReliableDeliveryService_S1-2560x1440-0c9b66082de3807b31828f6893273835.jpg",
+      "md5": "0c9b66082de3807b31828f6893273835",
+      "width": 2560,
+      "height": 1440,
+      "size": 372140,
+      "uploadedDate": "2020-04-01T02:59:48.455Z"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/52b90f9a982a404781b189f6a7903226/item/EGS_WereFiveGames_TotallyReliableDeliveryService_S2-860x1148-931a5da60e66c96a747e248722ea8942.jpg",
+      "md5": "931a5da60e66c96a747e248722ea8942",
+      "width": 860,
+      "height": 1148,
+      "size": 391283,
+      "uploadedDate": "2020-04-01T03:00:00.446Z"
+    }
+  ],
+  "creationDate": "2019-09-12T18:24:18.181+00:00",
+  "lastModifiedDate": "2020-05-04T19:01:15.367+00:00",
+  "developer": "tinyBuild Games",
+  "developerId": "o-t682p59y2u8tr9bxcm6cmw9w7mmz5t",
+  "applicationId": null
+}

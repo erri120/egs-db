@@ -1,0 +1,32 @@
+{
+  "id": "1abc2e6bd18349d09683deef8d1be553",
+  "title": "Little Inferno",
+  "description": "Little Inferno",
+  "namespace": "clover",
+  "categories": "",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/item/clover/s1_2560x1440-feef6d7e81f2ae4f20cf1ff8f8f3ed11",
+      "md5": "feef6d7e81f2ae4f20cf1ff8f8f3ed11",
+      "width": 2560,
+      "height": 1440,
+      "size": 385017,
+      "uploadedDate": "2022-11-01T19:06:55.449Z"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/item/clover/s2_1200x1600-b618f50c670fd376a41ef921cf57841b",
+      "md5": "b618f50c670fd376a41ef921cf57841b",
+      "width": 1200,
+      "height": 1600,
+      "size": 226269,
+      "uploadedDate": "2022-11-01T19:06:57.48Z"
+    }
+  ],
+  "creationDate": "2019-02-14T21:35:39.449+00:00",
+  "lastModifiedDate": "2022-11-01T19:07:03.477+00:00",
+  "developer": "Tomorrow Corporation",
+  "developerId": "o-46fvj3lpt7r9n79axbrl8tkgfbe2j8",
+  "applicationId": ""
+}

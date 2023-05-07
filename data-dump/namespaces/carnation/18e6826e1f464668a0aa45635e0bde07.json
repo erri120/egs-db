@@ -1,0 +1,32 @@
+{
+  "id": "18e6826e1f464668a0aa45635e0bde07",
+  "title": "Tom Clancy\u2019s Rainbow Six Siege",
+  "description": "Tom Clancy\u2019s Rainbow Six Siege",
+  "namespace": "carnation",
+  "categories": "",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/item/carnation/Share_Image_1920x1080-3_1920x1080-6e2d079f24db0a35285007191358978b",
+      "md5": "6e2d079f24db0a35285007191358978b",
+      "width": 1920,
+      "height": 1080,
+      "size": 3759641,
+      "uploadedDate": "2022-08-19T12:13:56.602Z"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/item/carnation/Carousel_BoxArt_1200x1600_1200x1600-6888b9d57181d8fcfb3472a7f70ecc49",
+      "md5": "6888b9d57181d8fcfb3472a7f70ecc49",
+      "width": 1200,
+      "height": 1600,
+      "size": 3677275,
+      "uploadedDate": "2022-08-19T12:14:01.975Z"
+    }
+  ],
+  "creationDate": "2019-02-11T18:08:53.061+00:00",
+  "lastModifiedDate": "2023-03-07T14:59:45.95+00:00",
+  "developer": "Ubisoft Entertainment",
+  "developerId": "o-3efjudxdtgsqnulml4bkeq3v9nec38",
+  "applicationId": ""
+}

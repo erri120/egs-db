@@ -1,0 +1,32 @@
+{
+  "id": "94945aa096d34d6699b8ddc246970336",
+  "title": "Dead Cells: Soundtrack",
+  "description": "Dead Cells: Soundtrack",
+  "namespace": "1368a7f14c3344bbaededbae528fafed",
+  "categories": "public/games/applications",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/1368a7f14c3344bbaededbae528fafed/item/EGS_DeadCellsSoundtrack_YoannLaulan_DigitalExtras_S1-2560x1440-2e20893d2c7e81e051ba1d65ca418fcb.jpg",
+      "md5": "2e20893d2c7e81e051ba1d65ca418fcb",
+      "width": 2560,
+      "height": 1440,
+      "size": 978672,
+      "uploadedDate": "2020-11-05T13:05:37.792Z"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/1368a7f14c3344bbaededbae528fafed/item/EGS_DeadCellsSoundtrack_YoannLaulan_DigitalExtras_S2-1200x1600-60838e14ea9b4dc55a5e253d7909af14.jpg",
+      "md5": "60838e14ea9b4dc55a5e253d7909af14",
+      "width": 1200,
+      "height": 1600,
+      "size": 892069,
+      "uploadedDate": "2020-11-05T13:05:44.733Z"
+    }
+  ],
+  "creationDate": "2020-10-30T12:14:01.053+00:00",
+  "lastModifiedDate": "2022-01-06T16:40:42.916+00:00",
+  "developer": "Motion Twin",
+  "developerId": "o-7saqb478dnbhsw9awuk67h7lu2ynua",
+  "applicationId": "fghi4567idaGrktffM1xK8hmUKcWwgjF"
+}

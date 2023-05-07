@@ -1,0 +1,32 @@
+{
+  "id": "36699a5807b746a8a4d2114561717c0d",
+  "title": "Evil of the Caribbean",
+  "description": "Evil of the Caribbean",
+  "namespace": "213259527d2f41baa90cbe0ae5555271",
+  "categories": "",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/213259527d2f41baa90cbe0ae5555271/item/EGS_EviloftheCaribbean_RealmforgeStudios_DLC_S1-2560x1440-4645b896028b5f69a29a317add49cf7f.jpg",
+      "md5": "4645b896028b5f69a29a317add49cf7f",
+      "width": 2560,
+      "height": 1440,
+      "size": 839809,
+      "uploadedDate": "2020-10-01T17:48:38.001Z"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/213259527d2f41baa90cbe0ae5555271/item/EGS_EviloftheCaribbean_RealmforgeStudios_DLC_S2-1200x1600-c5ef3a4fcf5be9ff99667f575d734ed4.jpg",
+      "md5": "c5ef3a4fcf5be9ff99667f575d734ed4",
+      "width": 1200,
+      "height": 1600,
+      "size": 667671,
+      "uploadedDate": "2020-10-01T17:48:47.102Z"
+    }
+  ],
+  "creationDate": "2020-05-08T15:34:35.465+00:00",
+  "lastModifiedDate": "2020-11-04T21:19:47.229+00:00",
+  "developer": "Kalypso Media Group GmbH",
+  "developerId": "o-37ss7wypkskvyj58j9s7hhltxtujac",
+  "applicationId": null
+}

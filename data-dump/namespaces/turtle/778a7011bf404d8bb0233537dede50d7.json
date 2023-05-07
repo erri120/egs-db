@@ -1,0 +1,23 @@
+{
+  "id": "778a7011bf404d8bb0233537dede50d7",
+  "title": "ManeaterDemoAudience",
+  "description": "ManeaterDemoAudience",
+  "namespace": "turtle",
+  "categories": "audience",
+  "keyImages": [
+    {
+      "type": "ESRB",
+      "url": "https://cdn1.epicgames.com/turtle/item/ManEater-842x404-e685858d6f01213bedf5b2abec53be94.png",
+      "md5": "e685858d6f01213bedf5b2abec53be94",
+      "width": 842,
+      "height": 404,
+      "size": 55379,
+      "uploadedDate": "2019-04-23T20:51:42.967Z"
+    }
+  ],
+  "creationDate": "2020-02-20T19:26:10.838+00:00",
+  "lastModifiedDate": "2020-09-05T00:08:23.123+00:00",
+  "developer": "Tripwire Interactive",
+  "developerId": "o-2baznhy8tfh7fmyb55ul656v7ggt7r",
+  "applicationId": null
+}

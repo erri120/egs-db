@@ -1,0 +1,41 @@
+{
+  "id": "90915758aeac41739670bff50e5c1323",
+  "title": "Assassin\u0027s Creed III Remastered",
+  "description": "Assassin\u0027s Creed III Remastered",
+  "namespace": "anise",
+  "categories": "",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/anise/item/AC3R_Epic_Store_Primary_Promo_2580x1450-2580x1450-590d41fd0a42cd431142275088642e0e.jpg",
+      "md5": "590d41fd0a42cd431142275088642e0e",
+      "width": 2580,
+      "height": 1450,
+      "size": 366330,
+      "uploadedDate": "2019-08-26T14:21:15.461Z"
+    },
+    {
+      "type": "DieselGameBoxLogo",
+      "url": "https://cdn1.epicgames.com/anise/item/Helix_AC3r_Logo_Vertical_White_NoCrest-2500x781-118d92fac38c11d52d6fb1cf159022d6.png",
+      "md5": "118d92fac38c11d52d6fb1cf159022d6",
+      "width": 2500,
+      "height": 781,
+      "size": 427730,
+      "uploadedDate": "2019-08-26T14:21:28.589Z"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/item/anise/AC3Remastered_Store_Portrait_1200x1600_1200x1600-9c929e1f34aac0f0a40fc4b708f53951",
+      "md5": "9c929e1f34aac0f0a40fc4b708f53951",
+      "width": 1200,
+      "height": 1600,
+      "size": 732687,
+      "uploadedDate": "2022-11-18T17:32:00.627Z"
+    }
+  ],
+  "creationDate": "2019-04-02T19:23:29.881+00:00",
+  "lastModifiedDate": "2022-11-18T17:32:49.615+00:00",
+  "developer": "Ubisoft Entertainment",
+  "developerId": "o-3efjudxdtgsqnulml4bkeq3v9nec38",
+  "applicationId": ""
+}

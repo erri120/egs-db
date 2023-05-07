@@ -1,0 +1,32 @@
+{
+  "id": "d4c2c634d10d443b8447e4305c05fde6",
+  "title": "Airborne Kingdom",
+  "description": "Airborne Kingdom",
+  "namespace": "e1809e1742cb498080d8849b11a99c5a",
+  "categories": "public/games/applications",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/item/e1809e1742cb498080d8849b11a99c5a/EGS_AirborneKingdom_TheWanderingBan_S1_2560x1440-e586585bd69d7102ee6ee1d131651979",
+      "md5": "e586585bd69d7102ee6ee1d131651979",
+      "width": 2560,
+      "height": 1440,
+      "size": 538795,
+      "uploadedDate": "2022-09-20T16:49:52.875Z"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/item/e1809e1742cb498080d8849b11a99c5a/EGS_AirborneKingdom_TheWanderingBan_S2_1200x1600-2cc74d710a12e08d27ad97231b9e1f4a",
+      "md5": "2cc74d710a12e08d27ad97231b9e1f4a",
+      "width": 1200,
+      "height": 1600,
+      "size": 344697,
+      "uploadedDate": "2022-09-20T16:49:55.835Z"
+    }
+  ],
+  "creationDate": "2019-07-12T21:27:32.465+00:00",
+  "lastModifiedDate": "2022-09-20T16:57:44.338+00:00",
+  "developer": "Freedom Games",
+  "developerId": "o-rlswgtffm6ua68662gd37xv3lmq95q",
+  "applicationId": ""
+}

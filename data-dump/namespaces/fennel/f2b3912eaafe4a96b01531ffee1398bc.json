@@ -1,0 +1,23 @@
+{
+  "id": "f2b3912eaafe4a96b01531ffee1398bc",
+  "title": "FennelGeneralAudience",
+  "description": "FennelGeneralAudience",
+  "namespace": "fennel",
+  "categories": "",
+  "keyImages": [
+    {
+      "type": "ESRB",
+      "url": "https://cdn1.epicgames.com/fennel/item/ESRB_Michonne-842x404-a3ad3c876e7693d054b9ed7e50e45e3a.jpg",
+      "md5": "a3ad3c876e7693d054b9ed7e50e45e3a",
+      "width": 842,
+      "height": 404,
+      "size": 95443,
+      "uploadedDate": "2020-01-07T18:24:04.714Z"
+    }
+  ],
+  "creationDate": "2019-03-22T22:12:05.235+00:00",
+  "lastModifiedDate": "2023-02-14T21:39:05.646+00:00",
+  "developer": "Skybound Interactive",
+  "developerId": "o-rqvssgn2hhj58wv5bc6eueqswz2un4",
+  "applicationId": ""
+}

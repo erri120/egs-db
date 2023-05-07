@@ -1,0 +1,23 @@
+{
+  "id": "3b896b8190134b17b3195fc5baed2ada",
+  "title": "GullGeneralAudience",
+  "description": "GullGeneralAudience",
+  "namespace": "83022e1b4c304addb2aadee1db854f8d",
+  "categories": "",
+  "keyImages": [
+    {
+      "type": "ESRB",
+      "url": "https://cdn1.epicgames.com/83022e1b4c304addb2aadee1db854f8d/item/ESRB_ALLLegoBatmans-842x404-25f0f00d3972052769b678863abd5fb7.jpg",
+      "md5": "25f0f00d3972052769b678863abd5fb7",
+      "width": 842,
+      "height": 404,
+      "size": 78164,
+      "uploadedDate": "2019-09-19T14:38:43.971Z"
+    }
+  ],
+  "creationDate": "2019-08-27T22:19:30.272+00:00",
+  "lastModifiedDate": "2019-09-19T14:38:50.211+00:00",
+  "developer": "Warner Brothers",
+  "developerId": "o-7kyv8uwtz74njnl544kbxzt5xqephw",
+  "applicationId": null
+}

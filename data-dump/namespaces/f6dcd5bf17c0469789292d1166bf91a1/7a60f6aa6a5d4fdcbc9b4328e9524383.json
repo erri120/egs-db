@@ -1,0 +1,32 @@
+{
+  "id": "7a60f6aa6a5d4fdcbc9b4328e9524383",
+  "title": "WRC 8 FIA WORLD RALLY CHAMPIONSHIP",
+  "description": "WRC 8 FIA WORLD RALLY CHAMPIONSHIP",
+  "namespace": "f6dcd5bf17c0469789292d1166bf91a1",
+  "categories": "public/games/applications",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/item/f6dcd5bf17c0469789292d1166bf91a1/WRC8_Wishlist_Landscape-2560x1440-e3fd00ac3c4fce20a808e8897cadfeaf_2560x1440-e3fd00ac3c4fce20a808e8897cadfeaf",
+      "md5": "e3fd00ac3c4fce20a808e8897cadfeaf",
+      "width": 2560,
+      "height": 1440,
+      "size": 2783991,
+      "uploadedDate": "2023-03-31T18:10:54.872Z"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/item/f6dcd5bf17c0469789292d1166bf91a1/CodeRedemption_WRC8-340x440-5d61091860d976273aeefd283524e5d7-340x440-5d61091860d976273aeefd283524e5d7_340x440-5d61091860d976273aeefd283524e5d7",
+      "md5": "5d61091860d976273aeefd283524e5d7",
+      "width": 340,
+      "height": 440,
+      "size": 136239,
+      "uploadedDate": "2023-03-31T18:11:01.594Z"
+    }
+  ],
+  "creationDate": "2019-08-07T18:06:40.343+00:00",
+  "lastModifiedDate": "2023-03-31T18:11:17.752+00:00",
+  "developer": "Nacon",
+  "developerId": "o-wubu848ps2xcxuwv2m3bhet9gbhdbp",
+  "applicationId": ""
+}

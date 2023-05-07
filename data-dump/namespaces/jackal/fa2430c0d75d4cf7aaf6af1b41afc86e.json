@@ -1,0 +1,32 @@
+{
+  "id": "fa2430c0d75d4cf7aaf6af1b41afc86e",
+  "title": "Dauntless Preview",
+  "description": "Dauntless Preview",
+  "namespace": "jackal",
+  "categories": "",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/item/jackal/NewLandscape_2580x1450-62e4ea9a9806272a42700be09915b87e",
+      "md5": "62e4ea9a9806272a42700be09915b87e",
+      "width": 2580,
+      "height": 1450,
+      "size": 457941,
+      "uploadedDate": "2022-05-17T23:21:31.054Z"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/item/jackal/NewVertical_1410x1786-1e1515f7e1adff6574a6207ae6581e0f",
+      "md5": "1e1515f7e1adff6574a6207ae6581e0f",
+      "width": 1410,
+      "height": 1786,
+      "size": 353397,
+      "uploadedDate": "2022-05-17T23:21:35.639Z"
+    }
+  ],
+  "creationDate": "2019-10-03T17:07:36.825+00:00",
+  "lastModifiedDate": "2022-05-17T23:29:47.941+00:00",
+  "developer": "Phoenix Labs",
+  "developerId": "o-krlzxj88qrtb69fredeuaf887bl5az",
+  "applicationId": ""
+}

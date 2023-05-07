@@ -1,0 +1,32 @@
+{
+  "id": "ec824ba12e664de2a31cd076d5d98a30",
+  "title": "Heavy Rain",
+  "description": "Heavy Rain",
+  "namespace": "aster",
+  "categories": "",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/aster/item/HR_World_Logo_Top-2560x1440-17abc0cc3371cdd395846512e8a1e064.jpg",
+      "md5": "17abc0cc3371cdd395846512e8a1e064",
+      "width": 2560,
+      "height": 1440,
+      "size": 242379,
+      "uploadedDate": "2019-06-14T18:03:02.214Z"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/aster/item/HEAVYRAIN2-860x1148-1bbec73268268bf6901efc1206f46462-860x1148-1bbec73268268bf6901efc1206f46462.jpg",
+      "md5": "1bbec73268268bf6901efc1206f46462",
+      "width": 860,
+      "height": 1148,
+      "size": 165439,
+      "uploadedDate": "2020-05-13T20:11:14.24Z"
+    }
+  ],
+  "creationDate": "2019-01-29T17:54:25.328+00:00",
+  "lastModifiedDate": "2020-05-13T20:11:19.035+00:00",
+  "developer": "Quantic Dream",
+  "developerId": "o-m8v47d762atphw94knus7ezawefpcu",
+  "applicationId": null
+}

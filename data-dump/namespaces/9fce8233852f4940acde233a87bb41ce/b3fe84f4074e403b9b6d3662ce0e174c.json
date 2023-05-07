@@ -1,0 +1,32 @@
+{
+  "id": "b3fe84f4074e403b9b6d3662ce0e174c",
+  "title": "Baldur\u0027s Gate II: Enhanced Edition",
+  "description": "Baldur\u0027s Gate II: Enhanced Edition",
+  "namespace": "9fce8233852f4940acde233a87bb41ce",
+  "categories": "public/games/applications",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_BaldursGateIIEnhancedEdition_Beamdog_S1_2560x1440-bf32912d77d4fb115e158eebe3fa0b81",
+      "md5": "bf32912d77d4fb115e158eebe3fa0b81",
+      "width": 2560,
+      "height": 1440,
+      "size": 800113,
+      "uploadedDate": "2021-09-02T04:24:15.129Z"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_BaldursGateIIEnhancedEdition_Beamdog_S2_1200x1600-58e707a92074345a5c1ae8ad9aabdec1",
+      "md5": "58e707a92074345a5c1ae8ad9aabdec1",
+      "width": 1200,
+      "height": 1600,
+      "size": 812243,
+      "uploadedDate": "2021-09-02T04:24:19.762Z"
+    }
+  ],
+  "creationDate": "2020-11-12T00:08:58.741+00:00",
+  "lastModifiedDate": "2021-09-07T14:56:44.322+00:00",
+  "developer": "Beamdog",
+  "developerId": "o-wc3gy6s683brl6424p7kqlrldhy7vd",
+  "applicationId": ""
+}

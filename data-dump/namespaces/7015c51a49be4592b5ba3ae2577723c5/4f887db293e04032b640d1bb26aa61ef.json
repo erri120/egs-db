@@ -1,0 +1,32 @@
+{
+  "id": "4f887db293e04032b640d1bb26aa61ef",
+  "title": "Gone Green",
+  "description": "Gone Green",
+  "namespace": "7015c51a49be4592b5ba3ae2577723c5",
+  "categories": "public/games/applications",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/7015c51a49be4592b5ba3ae2577723c5/item/EGS_GoneGreen_HaemimontGames_DLC_S1-2560x1440-7208ee4ca94d13320c1f2323a2f70af7.jpg",
+      "md5": "7208ee4ca94d13320c1f2323a2f70af7",
+      "width": 2560,
+      "height": 1440,
+      "size": 981066,
+      "uploadedDate": "2020-11-16T16:50:27.85Z"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/7015c51a49be4592b5ba3ae2577723c5/item/EGS_GoneGreen_HaemimontGames_DLC_S2-1200x1600-d94c71080239dff43f71af296f4f5375.jpg",
+      "md5": "d94c71080239dff43f71af296f4f5375",
+      "width": 1200,
+      "height": 1600,
+      "size": 975046,
+      "uploadedDate": "2020-11-16T16:50:37.69Z"
+    }
+  ],
+  "creationDate": "2020-05-08T17:23:11.335+00:00",
+  "lastModifiedDate": "2020-12-16T18:21:41.152+00:00",
+  "developer": "Kalypso Media Group GmbH",
+  "developerId": "o-37ss7wypkskvyj58j9s7hhltxtujac",
+  "applicationId": null
+}

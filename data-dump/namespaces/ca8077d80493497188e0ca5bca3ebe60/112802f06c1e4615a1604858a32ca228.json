@@ -1,0 +1,23 @@
+{
+  "id": "112802f06c1e4615a1604858a32ca228",
+  "title": "MoaGeneralAudience",
+  "description": "MoaGeneralAudience",
+  "namespace": "ca8077d80493497188e0ca5bca3ebe60",
+  "categories": "",
+  "keyImages": [
+    {
+      "type": "ESRB",
+      "url": "https://cdn1.epicgames.com/ca8077d80493497188e0ca5bca3ebe60/item/Diesel_productv2_sundered-eldritch-edition_home_EGS_ThunderLotus_SunderedEldritchEdition_RA1-401x200-c434b13d3e369af53b1e99790e0c92b9ecf057d5-401x200-91e492090999477c1205d2e38ce69bd6.png",
+      "md5": "91e492090999477c1205d2e38ce69bd6",
+      "width": 401,
+      "height": 200,
+      "size": 6752,
+      "uploadedDate": "2020-01-04T02:47:50.699Z"
+    }
+  ],
+  "creationDate": "2019-09-12T18:10:13.572+00:00",
+  "lastModifiedDate": "2020-01-06T18:43:59.823+00:00",
+  "developer": "Thunder Lotus Games",
+  "developerId": "o-k5nhue2lw5nkaqutyhkwrdl5qjkcd5",
+  "applicationId": null
+}

@@ -1,0 +1,32 @@
+{
+  "id": "939c80b5ec984f00801738114876a1f7",
+  "title": "Tchia",
+  "description": "Tchia",
+  "namespace": "2e09c1d223094f3798f63873548c9454",
+  "categories": "public/games/applications",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/item/2e09c1d223094f3798f63873548c9454/EGS_Tchia_Awaceb_S1_2560x1440-c501d53b85613739cf655a1b5bc22a64",
+      "md5": "c501d53b85613739cf655a1b5bc22a64",
+      "width": 2560,
+      "height": 1440,
+      "size": 854462,
+      "uploadedDate": "2023-02-17T14:38:48.433Z"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/item/2e09c1d223094f3798f63873548c9454/EGS_Tchia_Awaceb_S2_1200x1600-30ac6c45fa9f00724591b1ca567d8655",
+      "md5": "30ac6c45fa9f00724591b1ca567d8655",
+      "width": 1200,
+      "height": 1600,
+      "size": 543727,
+      "uploadedDate": "2023-02-17T14:38:51.057Z"
+    }
+  ],
+  "creationDate": "2021-05-14T00:34:34.235+00:00",
+  "lastModifiedDate": "2023-03-21T13:04:44.545+00:00",
+  "developer": "Kepler Interactive",
+  "developerId": "o-yrjx9sk66ym9ktjnjml6qzsyjhczdz",
+  "applicationId": "fghi4567O4c54yxeM0TmCedzpb139RIc"
+}

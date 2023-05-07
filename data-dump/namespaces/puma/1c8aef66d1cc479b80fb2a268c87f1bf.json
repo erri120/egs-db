@@ -1,0 +1,23 @@
+{
+  "id": "1c8aef66d1cc479b80fb2a268c87f1bf",
+  "title": "PumaGeneralAudience",
+  "description": "PumaGeneralAudience",
+  "namespace": "puma",
+  "categories": "",
+  "keyImages": [
+    {
+      "type": "ESRB",
+      "url": "https://cdn1.epicgames.com/puma/item/GenesisAlphaOne-250x123-f977d55516ac8a49f4366aa43818f65d.png",
+      "md5": "f977d55516ac8a49f4366aa43818f65d",
+      "width": 250,
+      "height": 123,
+      "size": 18632,
+      "uploadedDate": "2019-04-23T20:39:33.547Z"
+    }
+  ],
+  "creationDate": "2018-12-04T15:54:01.899+00:00",
+  "lastModifiedDate": "2019-06-20T16:59:50.459+00:00",
+  "developer": "Team17 Digital Ltd",
+  "developerId": "o-uvtztrtfjdn3xgrwyhbuwwb5z42mbv",
+  "applicationId": null
+}

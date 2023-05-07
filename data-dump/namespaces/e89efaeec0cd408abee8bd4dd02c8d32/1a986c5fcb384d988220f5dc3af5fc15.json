@@ -1,0 +1,23 @@
+{
+  "id": "1a986c5fcb384d988220f5dc3af5fc15",
+  "title": "FizzDLCAudience",
+  "description": "FizzDLCAudience",
+  "namespace": "e89efaeec0cd408abee8bd4dd02c8d32",
+  "categories": "",
+  "keyImages": [
+    {
+      "type": "ESRB",
+      "url": "https://cdn1.epicgames.com/e89efaeec0cd408abee8bd4dd02c8d32/item/ESRB_E10rating-842x404-63b20a4c1137f6c41f8d6804432cb688.png",
+      "md5": "63b20a4c1137f6c41f8d6804432cb688",
+      "width": 842,
+      "height": 404,
+      "size": 68949,
+      "uploadedDate": "2020-09-10T13:37:33.732Z"
+    }
+  ],
+  "creationDate": "2020-09-24T11:20:57.238+00:00",
+  "lastModifiedDate": "2020-09-25T15:50:53.932+00:00",
+  "developer": "Kalypso Media Group GmbH",
+  "developerId": "o-37ss7wypkskvyj58j9s7hhltxtujac",
+  "applicationId": null
+}

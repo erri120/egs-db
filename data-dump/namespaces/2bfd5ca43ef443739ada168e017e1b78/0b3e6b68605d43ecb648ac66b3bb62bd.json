@@ -1,0 +1,32 @@
+{
+  "id": "0b3e6b68605d43ecb648ac66b3bb62bd",
+  "title": "DuckQA",
+  "description": "DuckQA",
+  "namespace": "2bfd5ca43ef443739ada168e017e1b78",
+  "categories": "public/games/applications",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/2bfd5ca43ef443739ada168e017e1b78/item/Cardpocalypse_MainGame_EpicGamesStore_S2_Store_Secondary_ApprovedPublic-2560x1440-c7a8a5fb84bf3e2f93ea58997928f6f7.jpg",
+      "md5": "c7a8a5fb84bf3e2f93ea58997928f6f7",
+      "width": 2560,
+      "height": 1440,
+      "size": 573157,
+      "uploadedDate": "2019-09-03T17:59:24.533Z"
+    },
+    {
+      "type": "DieselGameBoxLogo",
+      "url": "https://cdn1.epicgames.com/2bfd5ca43ef443739ada168e017e1b78/item/Cardpocalypse_Logo-WithLight-1843x659-3386ddc5eb8023b982b17ff53fd56275.png",
+      "md5": "3386ddc5eb8023b982b17ff53fd56275",
+      "width": 1843,
+      "height": 659,
+      "size": 274502,
+      "uploadedDate": "2019-09-10T20:25:23.905Z"
+    }
+  ],
+  "creationDate": "2019-09-26T16:56:41.413+00:00",
+  "lastModifiedDate": "2020-10-12T16:49:24.54+00:00",
+  "developer": "Versus Evil",
+  "developerId": "o-ugw2zblbdkg5xklzadlrt2qe92cdje",
+  "applicationId": null
+}

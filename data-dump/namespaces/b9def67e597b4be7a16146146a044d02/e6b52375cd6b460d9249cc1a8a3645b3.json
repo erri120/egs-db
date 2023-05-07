@@ -1,0 +1,23 @@
+{
+  "id": "e6b52375cd6b460d9249cc1a8a3645b3",
+  "title": "Editor Audience",
+  "description": "Editor Audience",
+  "namespace": "b9def67e597b4be7a16146146a044d02",
+  "categories": "",
+  "keyImages": [
+    {
+      "type": "ESRB",
+      "url": "https://cdn1.epicgames.com/b9def67e597b4be7a16146146a044d02/item/RP_FOR_E-842x404-fce4fa7233ed80170a8e36079d1e1bde.png",
+      "md5": "fce4fa7233ed80170a8e36079d1e1bde",
+      "width": 842,
+      "height": 404,
+      "size": 51194,
+      "uploadedDate": "2019-07-24T21:07:05.943Z"
+    }
+  ],
+  "creationDate": "2019-10-21T15:48:29.083+00:00",
+  "lastModifiedDate": "2021-05-27T00:00:11.68+00:00",
+  "developer": "Piranha Games",
+  "developerId": "o-muad9pj32k67stc4ycpgpplwq84sgq",
+  "applicationId": null
+}

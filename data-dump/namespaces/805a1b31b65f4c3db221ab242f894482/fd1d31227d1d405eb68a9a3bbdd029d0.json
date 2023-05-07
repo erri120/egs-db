@@ -1,0 +1,32 @@
+{
+  "id": "fd1d31227d1d405eb68a9a3bbdd029d0",
+  "title": "Shadowrun: Dragonfall - Director\u2019s Cut",
+  "description": "Shadowrun: Dragonfall - Director\u2019s Cut",
+  "namespace": "805a1b31b65f4c3db221ab242f894482",
+  "categories": "public/games/applications",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/805a1b31b65f4c3db221ab242f894482/item/EGS_ShadowrunDragonfallDirectorCut_HarebrainedSchemes_S1-2560x1440-97729d8febc2d0cee01869eabde8216b.jpg",
+      "md5": "97729d8febc2d0cee01869eabde8216b",
+      "width": 2560,
+      "height": 1440,
+      "size": 997448,
+      "uploadedDate": "2020-08-20T04:13:08.403Z"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/805a1b31b65f4c3db221ab242f894482/item/EGS_ShadowrunDragonfallDirectorCut_HarebrainedSchemes_S2-1200x1600-1cd6cd1d1b0a24e7925aa3db3a13ca69.jpg",
+      "md5": "1cd6cd1d1b0a24e7925aa3db3a13ca69",
+      "width": 1200,
+      "height": 1600,
+      "size": 980353,
+      "uploadedDate": "2020-08-20T04:13:19.411Z"
+    }
+  ],
+  "creationDate": "2020-06-18T16:15:40.905+00:00",
+  "lastModifiedDate": "2020-09-03T14:57:14.739+00:00",
+  "developer": "Paradox Interactive",
+  "developerId": "o-tjvfg6rejs6h86qa7k9aa64rrgbxxb",
+  "applicationId": null
+}

@@ -1,0 +1,32 @@
+{
+  "id": "2adb9a958c6a4768a710f95a8acf8740",
+  "title": "Against the Storm",
+  "description": "Against the Storm",
+  "namespace": "93eeeab14a3d45b8bf5586a900137733",
+  "categories": "public/games/applications",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/item/93eeeab14a3d45b8bf5586a900137733/EGS_AgainsttheStorm_EremiteGames_S1_2560x1440-f0401f4bba79c094784f7b39b0b4dda9",
+      "md5": "f0401f4bba79c094784f7b39b0b4dda9",
+      "width": 2560,
+      "height": 1440,
+      "size": 946274,
+      "uploadedDate": "2022-11-16T20:33:32.429Z"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/item/93eeeab14a3d45b8bf5586a900137733/EGS_AgainsttheStorm_EremiteGames_S2_1200x1600-6307c7a50cde948b6c32a175637828c8",
+      "md5": "6307c7a50cde948b6c32a175637828c8",
+      "width": 1200,
+      "height": 1600,
+      "size": 1038342,
+      "uploadedDate": "2022-11-16T20:33:35.101Z"
+    }
+  ],
+  "creationDate": "2021-05-12T23:22:22.56+00:00",
+  "lastModifiedDate": "2022-11-17T14:29:03.637+00:00",
+  "developer": "Eremite Games sp. z o.o.",
+  "developerId": "o-3un7kuq4qv93xx6l82gmaf5npsvpl9",
+  "applicationId": "fghi4567yUEIjIRzmNdAqITh63jowi80"
+}

@@ -1,0 +1,32 @@
+{
+  "id": "e3532491b0af4c4988b389bb30285ace",
+  "title": "Scenario Toolkit",
+  "description": "Scenario Toolkit",
+  "namespace": "e8882546f28e4832af823c646aed232e",
+  "categories": "public/games/applications",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/e8882546f28e4832af823c646aed232e/item/EGS_OffworldTradingCompanyScenarioToolkit_MohawkGames_DLC_IC1_A-320x180-70a625ba92dcd999242e8d1ef5fb441a.jpg",
+      "md5": "70a625ba92dcd999242e8d1ef5fb441a",
+      "width": 320,
+      "height": 180,
+      "size": 67783,
+      "uploadedDate": "2020-03-05T15:54:13.101Z"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/e8882546f28e4832af823c646aed232e/item/Offworld_Portrait-510x680-7a9909ce27ac1d94813f6f49f6632871.jpg",
+      "md5": "7a9909ce27ac1d94813f6f49f6632871",
+      "width": 510,
+      "height": 680,
+      "size": 60952,
+      "uploadedDate": "2020-03-05T15:54:55.37Z"
+    }
+  ],
+  "creationDate": "2020-02-17T21:43:44.987+00:00",
+  "lastModifiedDate": "2022-12-13T18:52:53.911+00:00",
+  "developer": "Stardock Entertainment, Inc",
+  "developerId": "o-l69v3ppj5zgdpwtuvq6sgjew5yjt5w",
+  "applicationId": null
+}

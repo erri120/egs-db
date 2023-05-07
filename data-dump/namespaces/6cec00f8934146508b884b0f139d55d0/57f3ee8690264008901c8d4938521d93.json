@@ -1,0 +1,23 @@
+{
+  "id": "57f3ee8690264008901c8d4938521d93",
+  "title": "WigeonDevAudience",
+  "description": "WigeonDevAudience",
+  "namespace": "6cec00f8934146508b884b0f139d55d0",
+  "categories": "",
+  "keyImages": [
+    {
+      "type": "ESRB",
+      "url": "https://cdn1.epicgames.com/6cec00f8934146508b884b0f139d55d0/item/Ratings_RP_FOR_E-388x190-2b6aa92035599db2ca1517a036cb974a.png",
+      "md5": "2b6aa92035599db2ca1517a036cb974a",
+      "width": 388,
+      "height": 190,
+      "size": 4433,
+      "uploadedDate": "2019-11-07T14:46:42.75Z"
+    }
+  ],
+  "creationDate": "2019-08-15T16:16:20.322+00:00",
+  "lastModifiedDate": "2020-11-04T14:58:05.758+00:00",
+  "developer": "Pillow Castle",
+  "developerId": "o-jvpl9untxcrsellbhbwjb2ralrg9z9",
+  "applicationId": null
+}

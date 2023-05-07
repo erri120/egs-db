@@ -1,0 +1,32 @@
+{
+  "id": "26f79209063d435d8988647a5e2e14c2",
+  "title": "Into The Breach",
+  "description": "Into The Breach",
+  "namespace": "5c0d568c71174cff8026db2606771d96",
+  "categories": "public/games/applications",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/item/5c0d568c71174cff8026db2606771d96/ITB-Landscape2560x1440_2560x1440-dc1d343e9211a3626b0d46aa71f74a10",
+      "md5": "dc1d343e9211a3626b0d46aa71f74a10",
+      "width": 2560,
+      "height": 1440,
+      "size": 225061,
+      "uploadedDate": "2023-02-20T20:32:59.564Z"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/item/5c0d568c71174cff8026db2606771d96/ITB-Portrait1200x1600_1200x1600-15f03715bd1b6ebf1f467f856c4a27f6",
+      "md5": "15f03715bd1b6ebf1f467f856c4a27f6",
+      "width": 1200,
+      "height": 1600,
+      "size": 140267,
+      "uploadedDate": "2023-02-20T20:32:56.966Z"
+    }
+  ],
+  "creationDate": "2019-12-03T17:47:19.808+00:00",
+  "lastModifiedDate": "2023-02-20T20:43:59.953+00:00",
+  "developer": "Subset Games",
+  "developerId": "o-y2xjbnp5qy433qzldqbvncb3n8z3l6",
+  "applicationId": ""
+}

@@ -1,0 +1,23 @@
+{
+  "id": "e688714b0cfe402b93c1799d86bae8fc",
+  "title": "Battlemage DLC Audience",
+  "description": "Battlemage DLC Audience",
+  "namespace": "newt",
+  "categories": "",
+  "keyImages": [
+    {
+      "type": "ESRB",
+      "url": "https://cdn1.epicgames.com/newt/item/ESRB_Spellbreak-842x404-fce4fa7233ed80170a8e36079d1e1bde.png",
+      "md5": "fce4fa7233ed80170a8e36079d1e1bde",
+      "width": 842,
+      "height": 404,
+      "size": 51194,
+      "uploadedDate": "2019-04-23T19:23:42.731Z"
+    }
+  ],
+  "creationDate": "2020-04-09T13:57:42.472+00:00",
+  "lastModifiedDate": "2020-08-05T15:36:45.03+00:00",
+  "developer": "Proletariat, Inc.",
+  "developerId": "o-umuuzpzyfsw8wvcn4xpyh7ksmyhflg",
+  "applicationId": null
+}

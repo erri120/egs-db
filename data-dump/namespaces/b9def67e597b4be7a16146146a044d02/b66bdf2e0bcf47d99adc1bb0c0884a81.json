@@ -1,0 +1,41 @@
+{
+  "id": "b66bdf2e0bcf47d99adc1bb0c0884a81",
+  "title": "MechWarrior 5 Content",
+  "description": "MechWarrior 5 Content",
+  "namespace": "b9def67e597b4be7a16146146a044d02",
+  "categories": "public/digitalextras/applications",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/b9def67e597b4be7a16146146a044d02/item/DLC-Library-Photo-2560x1440-20d9fc4229b4f79ebcb7155e1f370e1c.jpg",
+      "md5": "20d9fc4229b4f79ebcb7155e1f370e1c",
+      "width": 2560,
+      "height": 1440,
+      "size": 333973,
+      "uploadedDate": "2019-12-07T01:42:34Z"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/b9def67e597b4be7a16146146a044d02/item/DLC-Library-Photo-half-1280x1440-729921c9179cae2a1366306151b6643c.jpg",
+      "md5": "729921c9179cae2a1366306151b6643c",
+      "width": 1280,
+      "height": 1440,
+      "size": 164569,
+      "uploadedDate": "2019-12-07T01:43:13.619Z"
+    },
+    {
+      "type": "DieselGameBoxLogo",
+      "url": "https://cdn1.epicgames.com/b9def67e597b4be7a16146146a044d02/item/DLC-Library-logo-200x200-b13542b6685de3df9de94591d62f9b51.png",
+      "md5": "b13542b6685de3df9de94591d62f9b51",
+      "width": 200,
+      "height": 200,
+      "size": 5770,
+      "uploadedDate": "2019-12-07T01:43:34.015Z"
+    }
+  ],
+  "creationDate": "2019-10-30T13:19:11.952+00:00",
+  "lastModifiedDate": "2020-11-06T13:39:01.29+00:00",
+  "developer": "Piranha Games",
+  "developerId": "o-muad9pj32k67stc4ycpgpplwq84sgq",
+  "applicationId": null
+}

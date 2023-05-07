@@ -1,0 +1,23 @@
+{
+  "id": "2bbe5588e18540aca9d9d86485adf65c",
+  "title": "BatfishGeneralAudience",
+  "description": "BatfishGeneralAudience",
+  "namespace": "f2bfff793b224f6190a394f461c9a4b8",
+  "categories": "",
+  "keyImages": [
+    {
+      "type": "ESRB",
+      "url": "https://cdn1.epicgames.com/f2bfff793b224f6190a394f461c9a4b8/item/ESRB_TelltaleBatman-842x404-01c1237c63a092ac76f31073553287b6.jpg",
+      "md5": "01c1237c63a092ac76f31073553287b6",
+      "width": 842,
+      "height": 404,
+      "size": 103711,
+      "uploadedDate": "2019-12-16T16:34:08.644Z"
+    }
+  ],
+  "creationDate": "2019-11-16T03:43:47.513+00:00",
+  "lastModifiedDate": "2021-01-06T02:13:53.386+00:00",
+  "developer": "LCG Entertainment, Inc.",
+  "developerId": "o-w6l7l9e6c93j85x29twne9ae6su4jt",
+  "applicationId": null
+}

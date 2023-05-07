@@ -1,0 +1,23 @@
+{
+  "id": "cc46ae0830c0418e919a30a11de06b0b",
+  "title": "Crab Header",
+  "description": "Satisfactory Alpha",
+  "namespace": "crab",
+  "categories": "layoutcontent",
+  "keyImages": [
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/crab/item/BannerImage-1920x983-ea362616c2499be7b0e98f9eb980a79f.png",
+      "md5": "ea362616c2499be7b0e98f9eb980a79f",
+      "width": 1920,
+      "height": 983,
+      "size": 3047722,
+      "uploadedDate": "2018-10-17T14:10:26.72Z"
+    }
+  ],
+  "creationDate": "2018-10-08T14:45:33.599+00:00",
+  "lastModifiedDate": "2019-05-14T17:02:13.352+00:00",
+  "developer": "Epic Games",
+  "developerId": "o-aa83a0a9bc45e98c80c1b1c9d92e9e",
+  "applicationId": null
+}

@@ -1,0 +1,32 @@
+{
+  "id": "9b8476f302c54fe1b661f247f36900d1",
+  "title": "Sludge Life OST",
+  "description": "Sludge Life OST",
+  "namespace": "158a0eaa18574bb39347c04286d118c7",
+  "categories": "public/games/applications",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/158a0eaa18574bb39347c04286d118c7/item/EGS_SLUDGELIFEOST_Doseone_DigitalExtras_S1-2560x1440-762c5f5c8de4020569a7cc013d7f7415.jpg",
+      "md5": "762c5f5c8de4020569a7cc013d7f7415",
+      "width": 2560,
+      "height": 1440,
+      "size": 1024770,
+      "uploadedDate": "2020-05-25T15:47:29.042Z"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/158a0eaa18574bb39347c04286d118c7/item/EGS_SLUDGELIFEOST_Doseone_DigitalExtras_S2-1200x1600-fd8cbc399532c5b4d61b8e1bba5d9363.jpg",
+      "md5": "fd8cbc399532c5b4d61b8e1bba5d9363",
+      "width": 1200,
+      "height": 1600,
+      "size": 1021676,
+      "uploadedDate": "2020-05-25T15:47:43.581Z"
+    }
+  ],
+  "creationDate": "2020-05-22T19:57:10.112+00:00",
+  "lastModifiedDate": "2020-05-28T13:21:34.724+00:00",
+  "developer": "Devolver Digital, Inc.",
+  "developerId": "o-plnhdz2wfx5etjjeh88szjqy2gx8gw",
+  "applicationId": null
+}

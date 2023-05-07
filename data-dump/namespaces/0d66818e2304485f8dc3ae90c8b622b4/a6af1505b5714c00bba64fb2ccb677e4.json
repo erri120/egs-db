@@ -1,0 +1,23 @@
+{
+  "id": "a6af1505b5714c00bba64fb2ccb677e4",
+  "title": "Shadowrun Hong Kong - Extended Edition Deluxe DLC",
+  "description": "Shadowrun Hong Kong - Extended Edition Deluxe DLC",
+  "namespace": "0d66818e2304485f8dc3ae90c8b622b4",
+  "categories": "public/addons/addons/durable/applications",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/0d66818e2304485f8dc3ae90c8b622b4/item/EGS_ShadowrunHongKongExtendedEditionDeluxeDLC_HarebrainedSchemes_AddOn_S1-2560x1440-81c36e411cbf598de99ae1671044878c.jpg",
+      "md5": "81c36e411cbf598de99ae1671044878c",
+      "width": 2560,
+      "height": 1440,
+      "size": 846398,
+      "uploadedDate": "2020-08-27T03:47:52.309Z"
+    }
+  ],
+  "creationDate": "2020-08-17T19:05:07.594+00:00",
+  "lastModifiedDate": "2020-09-03T14:48:14.95+00:00",
+  "developer": "Paradox Interactive",
+  "developerId": "o-tjvfg6rejs6h86qa7k9aa64rrgbxxb",
+  "applicationId": null
+}

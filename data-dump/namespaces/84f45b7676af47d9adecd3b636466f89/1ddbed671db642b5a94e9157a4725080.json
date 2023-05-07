@@ -1,0 +1,32 @@
+{
+  "id": "1ddbed671db642b5a94e9157a4725080",
+  "title": "The Settlers",
+  "description": "The Settlers",
+  "namespace": "84f45b7676af47d9adecd3b636466f89",
+  "categories": "public/games/applications",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/item/84f45b7676af47d9adecd3b636466f89/EN_THE SETTLERS_STANDARD EDITION_EPIC_Store Landscape_2560x1440_UK_2560x1440-0e211d84d5fbd54a258c249f509f887b",
+      "md5": "0e211d84d5fbd54a258c249f509f887b",
+      "width": 2560,
+      "height": 1440,
+      "size": 495205,
+      "uploadedDate": "2022-01-10T20:16:51.768Z"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/item/84f45b7676af47d9adecd3b636466f89/EN_THE SETTLERS_STANDARD EDITION_EPIC_Store Portrait_1200x1600_UK_1200x1600-82d2ffea57020cc53da354b073cadc32",
+      "md5": "82d2ffea57020cc53da354b073cadc32",
+      "width": 1200,
+      "height": 1600,
+      "size": 379146,
+      "uploadedDate": "2022-01-10T20:17:01.683Z"
+    }
+  ],
+  "creationDate": "2019-08-10T20:01:17.537+00:00",
+  "lastModifiedDate": "2023-02-17T08:59:16.532+00:00",
+  "developer": "Ubisoft Entertainment",
+  "developerId": "o-3efjudxdtgsqnulml4bkeq3v9nec38",
+  "applicationId": ""
+}

@@ -1,0 +1,23 @@
+{
+  "id": "51805ef548764d089637111377ed1714",
+  "title": "ManeaterGeneralAudience",
+  "description": "ManeaterGeneralAudience",
+  "namespace": "turtle",
+  "categories": "audience",
+  "keyImages": [
+    {
+      "type": "ESRB",
+      "url": "https://cdn1.epicgames.com/turtle/item/Diesel_productv2_maneater_EGS_Maneater_TripwireInteractive_RA1-409x193-7f3ac41ce53375897d010ff116d6353aa0691627-409x193-3e530b35c68bb3fea53ab52043411325.png",
+      "md5": "3e530b35c68bb3fea53ab52043411325",
+      "width": 409,
+      "height": 193,
+      "size": 9852,
+      "uploadedDate": "2020-05-20T20:56:35.418Z"
+    }
+  ],
+  "creationDate": "2018-12-06T02:22:33.419+00:00",
+  "lastModifiedDate": "2021-08-31T14:53:58.743+00:00",
+  "developer": "Tripwire Interactive",
+  "developerId": "o-2baznhy8tfh7fmyb55ul656v7ggt7r",
+  "applicationId": ""
+}

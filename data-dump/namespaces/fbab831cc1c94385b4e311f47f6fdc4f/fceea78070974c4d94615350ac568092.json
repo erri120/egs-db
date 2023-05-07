@@ -1,0 +1,32 @@
+{
+  "id": "fceea78070974c4d94615350ac568092",
+  "title": "Galactic Civilizations IV",
+  "description": "Galactic Civilizations IV",
+  "namespace": "fbab831cc1c94385b4e311f47f6fdc4f",
+  "categories": "public/games/applications",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/item/fbab831cc1c94385b4e311f47f6fdc4f/EGS_GalacticCivilizationsIV_StardockEntertainment_S1_2560x1440-6feebfc0b1d749c10bb043d75a715f33",
+      "md5": "6feebfc0b1d749c10bb043d75a715f33",
+      "width": 2560,
+      "height": 1440,
+      "size": 905186,
+      "uploadedDate": "2022-04-25T15:52:21.211Z"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/item/fbab831cc1c94385b4e311f47f6fdc4f/EGS_GalacticCivilizationsIV_StardockEntertainment_S2_1200x1600-2de292ea1f5ff3e4cc7c615ea83b3e38",
+      "md5": "2de292ea1f5ff3e4cc7c615ea83b3e38",
+      "width": 1200,
+      "height": 1600,
+      "size": 678148,
+      "uploadedDate": "2022-04-25T15:52:32.226Z"
+    }
+  ],
+  "creationDate": "2020-05-08T16:47:02.578+00:00",
+  "lastModifiedDate": "2023-01-25T15:38:09.512+00:00",
+  "developer": "Stardock Entertainment, Inc",
+  "developerId": "o-l69v3ppj5zgdpwtuvq6sgjew5yjt5w",
+  "applicationId": "fghi4567mQkAAEJ1R0Dy2FqDLxcYSrIV"
+}

@@ -1,0 +1,32 @@
+{
+  "id": "eb30d315dbdb475a9d8facf2856f8258",
+  "title": "Dauntless - Arcslayer Pack",
+  "description": "Dauntless - Arcslayer Pack",
+  "namespace": "jackal",
+  "categories": "",
+  "keyImages": [
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/jackal/item/ArcSlayer-355x150-a8d46dc84e724fe16db1878d61db553f.jpg",
+      "md5": "a8d46dc84e724fe16db1878d61db553f",
+      "width": 355,
+      "height": 150,
+      "size": 66197,
+      "uploadedDate": "2019-05-21T12:01:31.036Z"
+    },
+    {
+      "type": "ESRB",
+      "url": "https://cdn1.epicgames.com/jackal/item/ESRB_Dauntless_T-1080x516-23b23f06c04aa11263b4f2e9fd9deb0c.jpg",
+      "md5": "23b23f06c04aa11263b4f2e9fd9deb0c",
+      "width": 1080,
+      "height": 516,
+      "size": 36613,
+      "uploadedDate": "2019-05-21T13:19:03.387Z"
+    }
+  ],
+  "creationDate": "2019-04-08T19:55:10.561+00:00",
+  "lastModifiedDate": "2021-08-26T14:55:39.475+00:00",
+  "developer": "Phoenix Labs",
+  "developerId": "o-krlzxj88qrtb69fredeuaf887bl5az",
+  "applicationId": null
+}

@@ -1,0 +1,32 @@
+{
+  "id": "085b418cde694dcc8bc661ca7643cfac",
+  "title": "KINGDOM HEARTS HD 2.8 Final Chapter Prologue",
+  "description": "KINGDOM HEARTS HD 2.8 Final Chapter Prologue",
+  "namespace": "c8ff067c1c984cd7ab1998e8a9afc8b6",
+  "categories": "public/games/applications",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/c8ff067c1c984cd7ab1998e8a9afc8b6/item/EGS_KINGDOMHEARTSHD28FinalChapterPrologue_SquareEnix_S5-1920x1080-bdc8f514d3488ea8484639733b01b09e.jpg",
+      "md5": "bdc8f514d3488ea8484639733b01b09e",
+      "width": 1920,
+      "height": 1080,
+      "size": 270061,
+      "uploadedDate": "2021-02-03T02:18:48.524Z"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/c8ff067c1c984cd7ab1998e8a9afc8b6/item/EGS_KINGDOMHEARTSHD28FinalChapterPrologue_SquareEnix_S6-1200x1600-a3fc8fc218fe1ff3541dc2b5b9f076d7.jpg",
+      "md5": "a3fc8fc218fe1ff3541dc2b5b9f076d7",
+      "width": 1200,
+      "height": 1600,
+      "size": 986416,
+      "uploadedDate": "2021-02-03T02:19:00.838Z"
+    }
+  ],
+  "creationDate": "2021-02-03T02:17:37.196+00:00",
+  "lastModifiedDate": "2021-03-30T12:59:55.384+00:00",
+  "developer": "Square Enix (Japan)",
+  "developerId": "o-xbmhhs32ajtuszar863dprgnwtvedk",
+  "applicationId": "fghi4567ulq5mzz2aP19aPSqgDGj25F5"
+}

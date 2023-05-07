@@ -1,0 +1,32 @@
+{
+  "id": "2660fb002cc345c5b6795e60aaf76c72",
+  "title": "Port Royale 4",
+  "description": "Port Royale 4",
+  "namespace": "e89efaeec0cd408abee8bd4dd02c8d32",
+  "categories": "public/games/applications",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/e89efaeec0cd408abee8bd4dd02c8d32/item/EGS_PortRoyale4StandardEdition_GamingMindsStudios_S1-2560x1440-14fbcb872ba70ad27b102f87389806fa.jpg",
+      "md5": "14fbcb872ba70ad27b102f87389806fa",
+      "width": 2560,
+      "height": 1440,
+      "size": 940218,
+      "uploadedDate": "2020-09-10T20:17:57.998Z"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/e89efaeec0cd408abee8bd4dd02c8d32/item/EGS_PortRoyale4StandardEdition_GamingMindsStudios_S2-1200x1600-d64a2c6eb6f754d0b5f09fe7f325cd72.jpg",
+      "md5": "d64a2c6eb6f754d0b5f09fe7f325cd72",
+      "width": 1200,
+      "height": 1600,
+      "size": 670271,
+      "uploadedDate": "2020-09-10T20:18:06.886Z"
+    }
+  ],
+  "creationDate": "2020-08-03T13:53:49.08+00:00",
+  "lastModifiedDate": "2020-09-25T15:50:53.946+00:00",
+  "developer": "Kalypso Media Group GmbH",
+  "developerId": "o-37ss7wypkskvyj58j9s7hhltxtujac",
+  "applicationId": "fghi4567c9lYw9uj1Ibcr747YrDYpkH4"
+}

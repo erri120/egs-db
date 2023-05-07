@@ -1,0 +1,32 @@
+{
+  "id": "39dc47c3dbc341148b4f26a849b01232",
+  "title": "SweetpeaStaging",
+  "description": "SweetpeaStaging",
+  "namespace": "sweetpea",
+  "categories": "",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/sweetpea/item/EGS_DEVELOPER_TROVER_G1_TROVERFACE-2560x1440-7c706e5ab0e58e5c82290ffae6be3c5a.jpg",
+      "md5": "7c706e5ab0e58e5c82290ffae6be3c5a",
+      "width": 2560,
+      "height": 1440,
+      "size": 85716,
+      "uploadedDate": "2019-03-18T19:49:13.416Z"
+    },
+    {
+      "type": "DieselGameBoxLogo",
+      "url": "https://cdn1.epicgames.com/sweetpea/item/TroverSavesTheUniverse_LogoFinal-2100x1350-1875996b828b2a68eebb4fe1ffc3fcef.png",
+      "md5": "1875996b828b2a68eebb4fe1ffc3fcef",
+      "width": 2100,
+      "height": 1350,
+      "size": 240144,
+      "uploadedDate": "2019-03-18T19:49:24.665Z"
+    }
+  ],
+  "creationDate": "2019-03-18T19:50:57.212+00:00",
+  "lastModifiedDate": "2019-06-06T21:14:22.066+00:00",
+  "developer": "Squanch Games",
+  "developerId": "o-n2p7jejpaawba9jzcfpryscpj3uh6w",
+  "applicationId": null
+}

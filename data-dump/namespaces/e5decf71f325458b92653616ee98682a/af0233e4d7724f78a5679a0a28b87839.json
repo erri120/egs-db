@@ -1,0 +1,23 @@
+{
+  "id": "af0233e4d7724f78a5679a0a28b87839",
+  "title": "GhoulGeneralAudience",
+  "description": "GhoulGeneralAudience",
+  "namespace": "e5decf71f325458b92653616ee98682a",
+  "categories": "",
+  "keyImages": [
+    {
+      "type": "ESRB",
+      "url": "https://cdn1.epicgames.com/e5decf71f325458b92653616ee98682a/item/Deponia_ESRB-398x190-b92aa816de8b705f1bb955ddc3f9a0b0.png",
+      "md5": "b92aa816de8b705f1bb955ddc3f9a0b0",
+      "width": 398,
+      "height": 190,
+      "size": 16649,
+      "uploadedDate": "2021-04-14T02:17:12.375Z"
+    }
+  ],
+  "creationDate": "2021-03-10T03:59:53.704+00:00",
+  "lastModifiedDate": "2022-10-20T18:54:59.023+00:00",
+  "developer": "Daedalic Entertainment",
+  "developerId": "o-d2ygr9bjcjfebgt8842wvvbmswympz",
+  "applicationId": null
+}

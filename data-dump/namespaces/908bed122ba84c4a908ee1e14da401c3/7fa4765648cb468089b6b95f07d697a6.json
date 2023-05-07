@@ -1,0 +1,23 @@
+{
+  "id": "7fa4765648cb468089b6b95f07d697a6",
+  "title": "DoryGeneralAudience",
+  "description": "DoryGeneralAudience",
+  "namespace": "908bed122ba84c4a908ee1e14da401c3",
+  "categories": "",
+  "keyImages": [
+    {
+      "type": "ESRB",
+      "url": "https://cdn1.epicgames.com/908bed122ba84c4a908ee1e14da401c3/item/ESRB_SuperHot-842x404-6b46a8235bbd15527fa64a8b5380d028.jpg",
+      "md5": "6b46a8235bbd15527fa64a8b5380d028",
+      "width": 842,
+      "height": 404,
+      "size": 69347,
+      "uploadedDate": "2019-12-17T21:13:51.708Z"
+    }
+  ],
+  "creationDate": "2019-11-25T22:50:55.04+00:00",
+  "lastModifiedDate": "2020-11-07T12:30:44.726+00:00",
+  "developer": "SUPERHOT Sp. z.o.o",
+  "developerId": "o-yagrrjhn9gf4ul3h4a5vuaxh29v8qd",
+  "applicationId": null
+}

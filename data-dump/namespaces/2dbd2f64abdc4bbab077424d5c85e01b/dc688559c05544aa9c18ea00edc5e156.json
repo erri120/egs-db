@@ -1,0 +1,32 @@
+{
+  "id": "dc688559c05544aa9c18ea00edc5e156",
+  "title": "Ghost Recon Breakpoint Closed Beta",
+  "description": "Ghost Recon Breakpoint Closed Beta",
+  "namespace": "2dbd2f64abdc4bbab077424d5c85e01b",
+  "categories": "public/games/applications",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/2dbd2f64abdc4bbab077424d5c85e01b/item/GRBP_Newsfeed_Primary_Promo-2580x1450-4c9ebf2b34896338245610f8fc5a7cff.jpg",
+      "md5": "4c9ebf2b34896338245610f8fc5a7cff",
+      "width": 2580,
+      "height": 1450,
+      "size": 477716,
+      "uploadedDate": "2019-09-02T01:46:31.006Z"
+    },
+    {
+      "type": "DieselGameBoxLogo",
+      "url": "https://cdn1.epicgames.com/2dbd2f64abdc4bbab077424d5c85e01b/item/GRT_Logo_ColorShadow_1000x375-1000x375-f28d737a85d053fbb0f6c6fadc894599.png",
+      "md5": "f28d737a85d053fbb0f6c6fadc894599",
+      "width": 1000,
+      "height": 375,
+      "size": 114091,
+      "uploadedDate": "2019-09-02T02:02:49.553Z"
+    }
+  ],
+  "creationDate": "2019-08-29T14:35:57.216+00:00",
+  "lastModifiedDate": "2021-01-19T17:21:56.341+00:00",
+  "developer": "Ubisoft Entertainment",
+  "developerId": "o-3efjudxdtgsqnulml4bkeq3v9nec38",
+  "applicationId": null
+}

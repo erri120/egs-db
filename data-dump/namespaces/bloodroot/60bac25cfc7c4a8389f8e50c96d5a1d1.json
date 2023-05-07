@@ -1,0 +1,23 @@
+{
+  "id": "60bac25cfc7c4a8389f8e50c96d5a1d1",
+  "title": "BloodrootGeneralAudience",
+  "description": "BloodrootGeneralAudience",
+  "namespace": "bloodroot",
+  "categories": "",
+  "keyImages": [
+    {
+      "type": "ESRB",
+      "url": "https://cdn1.epicgames.com/bloodroot/item/ESRB_TheWalkingDeadSeason1_M-842x404-f1bfb4b610fb98d6121608548b5c70ee.jpg",
+      "md5": "f1bfb4b610fb98d6121608548b5c70ee",
+      "width": 842,
+      "height": 404,
+      "size": 118809,
+      "uploadedDate": "2020-01-08T16:03:39.176Z"
+    }
+  ],
+  "creationDate": "2019-03-08T22:26:03.813+00:00",
+  "lastModifiedDate": "2023-02-14T20:58:42.884+00:00",
+  "developer": "Skybound Interactive",
+  "developerId": "o-rqvssgn2hhj58wv5bc6eueqswz2un4",
+  "applicationId": ""
+}

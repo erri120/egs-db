@@ -1,0 +1,32 @@
+{
+  "id": "ed854eefdd374a788037409bac01481e",
+  "title": "Chivalry 2 - Unstable",
+  "description": "Chivalry 2 - Unstable",
+  "namespace": "bd46d4ce259349e5bd8b3ded20274737",
+  "categories": "public/games/applications",
+  "keyImages": [
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/bd46d4ce259349e5bd8b3ded20274737/item/Wishlist Portrait -860x1148-7dc5fac63862874e86ebbbdaa6683660.jpg",
+      "md5": "7dc5fac63862874e86ebbbdaa6683660",
+      "width": 860,
+      "height": 1148,
+      "size": 749128,
+      "uploadedDate": "2020-03-11T18:33:54.547Z"
+    },
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/bd46d4ce259349e5bd8b3ded20274737/item/Wishlist-Landscape-2560x1440-a48745f2dde9b492b4100291e23bba10.jpg",
+      "md5": "a48745f2dde9b492b4100291e23bba10",
+      "width": 2560,
+      "height": 1440,
+      "size": 2043381,
+      "uploadedDate": "2020-03-11T18:34:04.69Z"
+    }
+  ],
+  "creationDate": "2020-03-20T20:22:01.637+00:00",
+  "lastModifiedDate": "2021-10-29T15:31:08.542+00:00",
+  "developer": "Tripwire Interactive",
+  "developerId": "o-2baznhy8tfh7fmyb55ul656v7ggt7r",
+  "applicationId": ""
+}

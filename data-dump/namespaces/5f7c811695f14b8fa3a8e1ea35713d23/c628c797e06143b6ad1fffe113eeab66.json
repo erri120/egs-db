@@ -1,0 +1,32 @@
+{
+  "id": "c628c797e06143b6ad1fffe113eeab66",
+  "title": "GodwitStaging",
+  "description": "GodwitStaging",
+  "namespace": "5f7c811695f14b8fa3a8e1ea35713d23",
+  "categories": "public/games/applications",
+  "keyImages": [
+    {
+      "type": "DieselGameBoxLogo",
+      "url": "https://cdn1.epicgames.com/5f7c811695f14b8fa3a8e1ea35713d23/item/batman-arkham-asylum-209x102-20b2001df9ba9ade5bef7a5ba6fa1166.png",
+      "md5": "20b2001df9ba9ade5bef7a5ba6fa1166",
+      "width": 209,
+      "height": 102,
+      "size": 22786,
+      "uploadedDate": "2019-09-16T21:28:23.622Z"
+    },
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/5f7c811695f14b8fa3a8e1ea35713d23/item/batman-arkham-asylum_promo-1536x864-b0dde73c82479ef02893f8aecb9b3803.jpg",
+      "md5": "b0dde73c82479ef02893f8aecb9b3803",
+      "width": 1536,
+      "height": 864,
+      "size": 359778,
+      "uploadedDate": "2019-09-16T21:29:26.747Z"
+    }
+  ],
+  "creationDate": "2019-08-27T22:18:50.265+00:00",
+  "lastModifiedDate": "2019-09-19T14:17:15.364+00:00",
+  "developer": "Warner Brothers",
+  "developerId": "o-7kyv8uwtz74njnl544kbxzt5xqephw",
+  "applicationId": null
+}

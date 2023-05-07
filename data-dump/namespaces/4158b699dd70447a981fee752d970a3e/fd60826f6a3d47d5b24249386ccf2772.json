@@ -1,0 +1,32 @@
+{
+  "id": "fd60826f6a3d47d5b24249386ccf2772",
+  "title": "KINGDOM HEARTS HD 1.5\u002B2.5 ReMIX",
+  "description": "KINGDOM HEARTS HD 1.5\u002B2.5 ReMIX",
+  "namespace": "4158b699dd70447a981fee752d970a3e",
+  "categories": "public/games/applications",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/4158b699dd70447a981fee752d970a3e/item/EGS_KINGDOMHEARTSHD1525ReMIX_SquareEnix_S5-1920x1080-d4bd9d38aaee5d23b23ef0b04567541f.jpg",
+      "md5": "d4bd9d38aaee5d23b23ef0b04567541f",
+      "width": 1920,
+      "height": 1080,
+      "size": 368454,
+      "uploadedDate": "2021-02-03T01:22:36.148Z"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/4158b699dd70447a981fee752d970a3e/item/EGS_KINGDOMHEARTSHD1525ReMIX_SquareEnix_S6-1200x1600-132fc1f63bf40a41cddbff3bab7acc52.jpg",
+      "md5": "132fc1f63bf40a41cddbff3bab7acc52",
+      "width": 1200,
+      "height": 1600,
+      "size": 986618,
+      "uploadedDate": "2021-02-03T01:22:45.684Z"
+    }
+  ],
+  "creationDate": "2021-02-03T01:21:25.395+00:00",
+  "lastModifiedDate": "2021-03-30T12:59:42.152+00:00",
+  "developer": "Square Enix (Japan)",
+  "developerId": "o-xbmhhs32ajtuszar863dprgnwtvedk",
+  "applicationId": "fghi4567dBq42yqRKAXaIhoRtQYQvK9i"
+}

@@ -1,0 +1,32 @@
+{
+  "id": "8f2c787eaf124dd2b549fbffd0edd61e",
+  "title": "Ruined King: A League of Legends Story",
+  "description": "Ruined King: A League of Legends Story",
+  "namespace": "a69c5a82682c43148e4e2542fe2fcd0f",
+  "categories": "public/games/applications",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/item/a69c5a82682c43148e4e2542fe2fcd0f/en_US_Ruined_King_StandardEdition_3840x2160_A_20_0924_3840x2160-55a26c29a038a3f34f6a3d7dfa724b50",
+      "md5": "55a26c29a038a3f34f6a3d7dfa724b50",
+      "width": 3840,
+      "height": 2160,
+      "size": 3340124,
+      "uploadedDate": "2021-11-16T05:19:40.64Z"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/item/a69c5a82682c43148e4e2542fe2fcd0f/Product Portrait Image_1200x1600-5da51cd6362539a0bf14d1a71650f4fc",
+      "md5": "5da51cd6362539a0bf14d1a71650f4fc",
+      "width": 1200,
+      "height": 1600,
+      "size": 465074,
+      "uploadedDate": "2022-06-02T16:34:55.957Z"
+    }
+  ],
+  "creationDate": "2020-06-29T15:18:57.387+00:00",
+  "lastModifiedDate": "2022-06-02T16:35:00.097+00:00",
+  "developer": "Riot Forge",
+  "developerId": "o-ch65axjcvgpsutlhlcyvqkx3fkmk44",
+  "applicationId": ""
+}

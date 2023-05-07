@@ -1,0 +1,32 @@
+{
+  "id": "a18838c3e01c4b76b20200f30d1c0926",
+  "title": "The Walking Dead: Season One",
+  "description": "The Walking Dead: Season One",
+  "namespace": "bloodroot",
+  "categories": "",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/item/bloodroot/TWD1_EPIC_Landscape_2560x1440_2560x1440-769095bad4d31fa3570f4d247b90c507",
+      "md5": "769095bad4d31fa3570f4d247b90c507",
+      "width": 2560,
+      "height": 1440,
+      "size": 884852,
+      "uploadedDate": "2023-02-14T20:58:10.039Z"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/item/bloodroot/WDS1_Portrait_1200x1600_1200x1600-63ca87b7f311439c52edf1810deb7987",
+      "md5": "63ca87b7f311439c52edf1810deb7987",
+      "width": 1200,
+      "height": 1600,
+      "size": 603173,
+      "uploadedDate": "2023-02-14T20:58:07.903Z"
+    }
+  ],
+  "creationDate": "2019-03-08T22:18:11.168+00:00",
+  "lastModifiedDate": "2023-02-14T20:58:30.51+00:00",
+  "developer": "Skybound Interactive",
+  "developerId": "o-rqvssgn2hhj58wv5bc6eueqswz2un4",
+  "applicationId": ""
+}

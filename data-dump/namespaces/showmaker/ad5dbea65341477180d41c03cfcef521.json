@@ -1,0 +1,23 @@
+{
+  "id": "ad5dbea65341477180d41c03cfcef521",
+  "title": "Call_To_Action_02",
+  "description": "Visit the Official Website",
+  "namespace": "showmaker",
+  "categories": "layoutcontent",
+  "keyImages": [
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/showmaker/item/2_960x497-960x497-92701388b010058270c8dd887e6d3cb3.png",
+      "md5": "92701388b010058270c8dd887e6d3cb3",
+      "width": 960,
+      "height": 497,
+      "size": 688467,
+      "uploadedDate": "2018-08-27T19:32:48.793Z"
+    }
+  ],
+  "creationDate": "2018-08-27T13:59:54.825+00:00",
+  "lastModifiedDate": "2018-09-04T16:55:06.504+00:00",
+  "developer": "Epic Games",
+  "developerId": "o-aa83a0a9bc45e98c80c1b1c9d92e9e",
+  "applicationId": null
+}

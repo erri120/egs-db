@@ -1,0 +1,23 @@
+{
+  "id": "5b0441eb52cf4b6da0c4028b58d34896",
+  "title": "FortnitePredeployCN",
+  "description": "FortnitePredeployCN",
+  "namespace": "fn",
+  "categories": "",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/fn/item/Fortnite_llamacorn_bg-430x250-ba52f51868240271251851bc83010ec8-430x250-ba52f51868240271251851bc83010ec8.png",
+      "md5": "6ac842200fefc03f29abc889761734a1",
+      "width": 430,
+      "height": 250,
+      "size": 90716,
+      "uploadedDate": "2019-11-02T17:56:17.178Z"
+    }
+  ],
+  "creationDate": "2019-11-02T17:58:09.141+00:00",
+  "lastModifiedDate": "2019-11-05T14:25:27.309+00:00",
+  "developer": "Epic Games",
+  "developerId": "o-aa83a0a9bc45e98c80c1b1c9d92e9e",
+  "applicationId": null
+}

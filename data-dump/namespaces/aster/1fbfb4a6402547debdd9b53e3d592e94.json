@@ -1,0 +1,41 @@
+{
+  "id": "1fbfb4a6402547debdd9b53e3d592e94",
+  "title": "Heavy Rain (Japanese Demo)",
+  "description": "Heavy Rain (Japanese Demo)",
+  "namespace": "aster",
+  "categories": "",
+  "keyImages": [
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/aster/item/001_HEAVYRAIN_ICON-400x400-d6532494c9e1c90d07f2fcabf20e00b3.png",
+      "md5": "d6532494c9e1c90d07f2fcabf20e00b3",
+      "width": 400,
+      "height": 400,
+      "size": 102366,
+      "uploadedDate": "2019-03-20T12:32:46.432Z"
+    },
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/aster/item/AsterDemoJA-2560x1440-0ac644f2a3389d4de31582b7b7d9ef5c.png",
+      "md5": "0ac644f2a3389d4de31582b7b7d9ef5c",
+      "width": 2560,
+      "height": 1440,
+      "size": 1243021,
+      "uploadedDate": "2019-05-23T20:48:02.546Z"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/aster/item/001_HEAVYRAIN_STOREPORTRAIT-1280x1420-ebf00856b579e7862182118d30139c8d-1280x1420-ebf00856b579e7862182118d30139c8d.jpg",
+      "md5": "ebf00856b579e7862182118d30139c8d",
+      "width": 1280,
+      "height": 1420,
+      "size": 115360,
+      "uploadedDate": "2019-11-21T14:26:56.511Z"
+    }
+  ],
+  "creationDate": "2019-03-18T19:06:51.915+00:00",
+  "lastModifiedDate": "2019-11-21T14:27:00.424+00:00",
+  "developer": "Quantic Dream",
+  "developerId": "o-m8v47d762atphw94knus7ezawefpcu",
+  "applicationId": null
+}

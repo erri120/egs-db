@@ -1,0 +1,23 @@
+{
+  "id": "b4e194d1bebf492082d9198e761d61b5",
+  "title": "HoopoeDevAudience",
+  "description": "HoopoeDevAudience",
+  "namespace": "b9def67e597b4be7a16146146a044d02",
+  "categories": "",
+  "keyImages": [
+    {
+      "type": "ESRB",
+      "url": "https://cdn1.epicgames.com/b9def67e597b4be7a16146146a044d02/item/RP_FOR_E-842x404-fce4fa7233ed80170a8e36079d1e1bde.png",
+      "md5": "fce4fa7233ed80170a8e36079d1e1bde",
+      "width": 842,
+      "height": 404,
+      "size": 51194,
+      "uploadedDate": "2019-07-24T21:07:47.06Z"
+    }
+  ],
+  "creationDate": "2019-07-23T16:38:43.214+00:00",
+  "lastModifiedDate": "2022-06-07T21:34:42.225+00:00",
+  "developer": "Piranha Games",
+  "developerId": "o-muad9pj32k67stc4ycpgpplwq84sgq",
+  "applicationId": null
+}

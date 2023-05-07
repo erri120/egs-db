@@ -1,0 +1,32 @@
+{
+  "id": "005fb9b73d4d4aedbbd2f5d53ac5f58a",
+  "title": "StorkStaging",
+  "description": "StorkStaging",
+  "namespace": "3ade24028e9247039924d3877af0a2ea",
+  "categories": "public/games/applications",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/3ade24028e9247039924d3877af0a2ea/item/WHATTHEGOLF_primary-2560x1429-4b86cc21b06e30200dbe9e25973f1abd.jpg",
+      "md5": "4b86cc21b06e30200dbe9e25973f1abd",
+      "width": 2560,
+      "height": 1429,
+      "size": 219336,
+      "uploadedDate": "2019-09-17T15:49:08.965Z"
+    },
+    {
+      "type": "DieselGameBoxLogo",
+      "url": "https://cdn1.epicgames.com/3ade24028e9247039924d3877af0a2ea/item/WHATTHEGOLF_logo-1173x620-d9303fc6be01b8fe4b98e427ddf5017d.png",
+      "md5": "d9303fc6be01b8fe4b98e427ddf5017d",
+      "width": 1173,
+      "height": 620,
+      "size": 88259,
+      "uploadedDate": "2019-09-17T15:49:53.66Z"
+    }
+  ],
+  "creationDate": "2019-06-06T19:46:46.921+00:00",
+  "lastModifiedDate": "2019-10-01T17:58:56.783+00:00",
+  "developer": "Triband",
+  "developerId": "o-lnl9dagny4g6432q7delvkhfqzwcnx",
+  "applicationId": null
+}

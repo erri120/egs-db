@@ -1,0 +1,32 @@
+{
+  "id": "a6a004b3dfa14b9386a052586cc16025",
+  "title": "SageStaging",
+  "description": "SageStaging",
+  "namespace": "4561b40e52584ac2bcf34bbd5c401480",
+  "categories": "public/games/applications",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/4561b40e52584ac2bcf34bbd5c401480/item/PDP Promo-2560x1440-71b09e2be137632b45871b92f6e13ed9.jpg",
+      "md5": "71b09e2be137632b45871b92f6e13ed9",
+      "width": 2560,
+      "height": 1440,
+      "size": 142326,
+      "uploadedDate": "2019-06-25T18:20:10.864Z"
+    },
+    {
+      "type": "DieselGameBoxLogo",
+      "url": "https://cdn1.epicgames.com/4561b40e52584ac2bcf34bbd5c401480/item/Overcooked_Logo-2650x602-fca007cbbe1be0a8d54b8ca2a0edc510.png",
+      "md5": "fca007cbbe1be0a8d54b8ca2a0edc510",
+      "width": 2650,
+      "height": 602,
+      "size": 247313,
+      "uploadedDate": "2019-08-02T18:14:09.194Z"
+    }
+  ],
+  "creationDate": "2019-06-14T04:01:59.406+00:00",
+  "lastModifiedDate": "2019-10-09T15:25:00.77+00:00",
+  "developer": "Team17 Digital Ltd",
+  "developerId": "o-uvtztrtfjdn3xgrwyhbuwwb5z42mbv",
+  "applicationId": null
+}

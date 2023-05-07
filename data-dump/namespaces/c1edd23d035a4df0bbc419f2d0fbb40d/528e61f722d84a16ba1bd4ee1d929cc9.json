@@ -1,0 +1,32 @@
+{
+  "id": "528e61f722d84a16ba1bd4ee1d929cc9",
+  "title": "Scrapnaut",
+  "description": "Scrapnaut",
+  "namespace": "c1edd23d035a4df0bbc419f2d0fbb40d",
+  "categories": "public/games/applications",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/c1edd23d035a4df0bbc419f2d0fbb40d/item/EGS_Scrapnaut_SpiffyBit_S1-2560x1440-941b8007bff1b9b8c7f8ab200f959027.jpg",
+      "md5": "941b8007bff1b9b8c7f8ab200f959027",
+      "width": 2560,
+      "height": 1440,
+      "size": 858395,
+      "uploadedDate": "2021-03-01T18:39:45.3Z"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/c1edd23d035a4df0bbc419f2d0fbb40d/item/EGS_Scrapnaut_SpiffyBit_S2-1200x1600-e8f87ff44ca47312cb017c455e3b51c0.jpg",
+      "md5": "e8f87ff44ca47312cb017c455e3b51c0",
+      "width": 1200,
+      "height": 1600,
+      "size": 490583,
+      "uploadedDate": "2021-03-01T18:39:59.098Z"
+    }
+  ],
+  "creationDate": "2021-02-18T17:09:41.069+00:00",
+  "lastModifiedDate": "2021-05-20T05:14:39.317+00:00",
+  "developer": "RockGame S.A.",
+  "developerId": "o-e6zbx28e9zzbxg5jvzh37a3p5j8kam",
+  "applicationId": "fghi4567akjJInLmNkgi4JaeNxcbjmd6"
+}

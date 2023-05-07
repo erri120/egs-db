@@ -1,0 +1,23 @@
+{
+  "id": "2e929632c20945a1b83232b0c1b7636f",
+  "title": "EmeraldGeneralAudience",
+  "description": "EmeraldGeneralAudience",
+  "namespace": "a69c5a82682c43148e4e2542fe2fcd0f",
+  "categories": "",
+  "keyImages": [
+    {
+      "type": "ESRB",
+      "url": "https://cdn1.epicgames.com/a69c5a82682c43148e4e2542fe2fcd0f/item/ESRB_T_RuinedKing-398x190-175df968ffd337a954724151b231e6a3.jpg",
+      "md5": "175df968ffd337a954724151b231e6a3",
+      "width": 398,
+      "height": 190,
+      "size": 13794,
+      "uploadedDate": "2020-10-26T19:59:08.675Z"
+    }
+  ],
+  "creationDate": "2020-06-29T15:18:57.179+00:00",
+  "lastModifiedDate": "2021-12-15T21:20:44.107+00:00",
+  "developer": "Riot Forge",
+  "developerId": "o-ch65axjcvgpsutlhlcyvqkx3fkmk44",
+  "applicationId": ""
+}

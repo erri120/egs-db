@@ -1,0 +1,23 @@
+{
+  "id": "f09a2795aff84e0ab501ccd1eed1c9d8",
+  "title": "HokiGeneralAudience",
+  "description": "HokiGeneralAudience",
+  "namespace": "091d95ea332843498122beee1a786d71",
+  "categories": "",
+  "keyImages": [
+    {
+      "type": "ESRB",
+      "url": "https://cdn1.epicgames.com/091d95ea332843498122beee1a786d71/item/ESRB_Darksiders2-842x404-d997eb4b5b314fbc53001698c2b773c8.jpg",
+      "md5": "d997eb4b5b314fbc53001698c2b773c8",
+      "width": 842,
+      "height": 404,
+      "size": 91202,
+      "uploadedDate": "2019-12-19T21:55:05.871Z"
+    }
+  ],
+  "creationDate": "2019-12-13T02:52:35.411+00:00",
+  "lastModifiedDate": "2020-01-01T15:25:52.612+00:00",
+  "developer": "THQ Nordic GmbH",
+  "developerId": "o-jywxgemg3dagnv6fymcngq3g29mc4j",
+  "applicationId": null
+}

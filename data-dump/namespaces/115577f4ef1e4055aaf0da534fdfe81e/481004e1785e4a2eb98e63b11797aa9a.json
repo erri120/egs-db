@@ -1,0 +1,32 @@
+{
+  "id": "481004e1785e4a2eb98e63b11797aa9a",
+  "title": "The Escapists 2",
+  "description": "The Escapists 2",
+  "namespace": "115577f4ef1e4055aaf0da534fdfe81e",
+  "categories": "public/games/applications",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/115577f4ef1e4055aaf0da534fdfe81e/item/egs-theescapists2-team17andmouldytoofstudios-s5-1360x765-1360x765-5e7a7db47fdfb418519b2b6eccec0fed.jpg",
+      "md5": "5e7a7db47fdfb418519b2b6eccec0fed",
+      "width": 1360,
+      "height": 765,
+      "size": 145053,
+      "uploadedDate": "2020-06-10T03:36:29.28Z"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/115577f4ef1e4055aaf0da534fdfe81e/item/egs-theescapists2-team17andmouldytoofstudios-s6-510x680-510x680-22e26fa7753b9b80df8d3ec01dee3e2f.jpg",
+      "md5": "22e26fa7753b9b80df8d3ec01dee3e2f",
+      "width": 510,
+      "height": 680,
+      "size": 169642,
+      "uploadedDate": "2020-06-10T03:36:36.274Z"
+    }
+  ],
+  "creationDate": "2019-09-10T19:34:25.282+00:00",
+  "lastModifiedDate": "2020-07-16T20:21:42.752+00:00",
+  "developer": "Team17 Digital Ltd",
+  "developerId": "o-uvtztrtfjdn3xgrwyhbuwwb5z42mbv",
+  "applicationId": null
+}

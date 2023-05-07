@@ -1,0 +1,23 @@
+{
+  "id": "fad7395f2afa449b99aed0946be8140f",
+  "title": "dove Alpha Audience",
+  "description": "dove Alpha Audience",
+  "namespace": "ed355406eacb4633a648f682ddb492b8",
+  "categories": "",
+  "keyImages": [
+    {
+      "type": "ESRB",
+      "url": "https://cdn1.epicgames.com/ed355406eacb4633a648f682ddb492b8/item/ESRB_Castlestorm2-842x485-495e8af0c592a9c8067798699d4646c4.png",
+      "md5": "495e8af0c592a9c8067798699d4646c4",
+      "width": 842,
+      "height": 485,
+      "size": 45295,
+      "uploadedDate": "2019-06-03T19:01:35.55Z"
+    }
+  ],
+  "creationDate": "2019-09-23T15:09:55.007+00:00",
+  "lastModifiedDate": "2020-09-23T14:59:41.383+00:00",
+  "developer": "Zen Studios",
+  "developerId": "o-r7rf64mtq3yr8uhhvdf8sba3hpqbj2",
+  "applicationId": null
+}

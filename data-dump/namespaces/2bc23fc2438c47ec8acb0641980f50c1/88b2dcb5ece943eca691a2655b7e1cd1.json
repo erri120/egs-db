@@ -1,0 +1,32 @@
+{
+  "id": "88b2dcb5ece943eca691a2655b7e1cd1",
+  "title": "Darksiders Warmastered Edition",
+  "description": "Darksiders Warmastered Edition",
+  "namespace": "2bc23fc2438c47ec8acb0641980f50c1",
+  "categories": "public/games/applications",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/2bc23fc2438c47ec8acb0641980f50c1/item/Storefront_Landscape-2560x1440-d00d7d72944358be970a6d9e8c8f1776.jpg",
+      "md5": "d00d7d72944358be970a6d9e8c8f1776",
+      "width": 2560,
+      "height": 1440,
+      "size": 818158,
+      "uploadedDate": "2019-12-19T20:25:27.005Z"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/2bc23fc2438c47ec8acb0641980f50c1/item/Storefront_Portrait-860x1148-ae09bb4142d0725a27f21b3199b82cb2.jpg",
+      "md5": "ae09bb4142d0725a27f21b3199b82cb2",
+      "width": 860,
+      "height": 1148,
+      "size": 351127,
+      "uploadedDate": "2019-12-19T20:25:36.694Z"
+    }
+  ],
+  "creationDate": "2019-12-13T02:51:13.616+00:00",
+  "lastModifiedDate": "2020-05-15T03:04:30.241+00:00",
+  "developer": "THQ Nordic GmbH",
+  "developerId": "o-jywxgemg3dagnv6fymcngq3g29mc4j",
+  "applicationId": null
+}

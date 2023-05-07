@@ -1,0 +1,23 @@
+{
+  "id": "98ea4ab4b048416591e817a650954cf3",
+  "title": "Mysteries Resupply Pack Audience",
+  "description": "Mysteries Resupply Pack Audience",
+  "namespace": "d759128018124dcabb1fbee9bb28e178",
+  "categories": "",
+  "keyImages": [
+    {
+      "type": "ESRB",
+      "url": "https://cdn1.epicgames.com/d759128018124dcabb1fbee9bb28e178/item/ESRB_SurvivingMars-842x485-622107fc6de41234aa85e91e25e2795b.jpg",
+      "md5": "622107fc6de41234aa85e91e25e2795b",
+      "width": 842,
+      "height": 485,
+      "size": 123217,
+      "uploadedDate": "2020-01-07T14:46:27.208Z"
+    }
+  ],
+  "creationDate": "2019-09-12T20:04:40.318+00:00",
+  "lastModifiedDate": "2021-12-08T02:39:39.092+00:00",
+  "developer": "Paradox Interactive",
+  "developerId": "o-tjvfg6rejs6h86qa7k9aa64rrgbxxb",
+  "applicationId": ""
+}

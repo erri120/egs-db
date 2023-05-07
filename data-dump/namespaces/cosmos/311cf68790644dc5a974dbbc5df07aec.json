@@ -1,0 +1,23 @@
+{
+  "id": "311cf68790644dc5a974dbbc5df07aec",
+  "title": "Cosmos QA Audience",
+  "description": "Cosmos QA Audience",
+  "namespace": "cosmos",
+  "categories": "",
+  "keyImages": [
+    {
+      "type": "ESRB",
+      "url": "https://cdn1.epicgames.com/cosmos/item/RP_FOR_T_M_AO-842x404-e685858d6f01213bedf5b2abec53be94.png",
+      "md5": "e685858d6f01213bedf5b2abec53be94",
+      "width": 842,
+      "height": 404,
+      "size": 55379,
+      "uploadedDate": "2019-05-17T19:45:31.491Z"
+    }
+  ],
+  "creationDate": "2019-05-17T22:06:34.701+00:00",
+  "lastModifiedDate": "2019-11-12T17:58:47.653+00:00",
+  "developer": "Epic Test Organization",
+  "developerId": "o-jwuggxrvjq99seqnvcrzckgm6e8jtr",
+  "applicationId": null
+}

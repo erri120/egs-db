@@ -1,0 +1,32 @@
+{
+  "id": "665b9289a4f44502bfefe29b6eb473dd",
+  "title": "A Monsters Expedition",
+  "description": "A Monsters Expedition",
+  "namespace": "2b4079af75f0487798a504ca35952942",
+  "categories": "public/games/applications",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_AMonstersExpedition_DraknekFriends_S3_2560x1440-3e6e2ed699a6cfe8b60080d56566db17",
+      "md5": "3e6e2ed699a6cfe8b60080d56566db17",
+      "width": 2560,
+      "height": 1440,
+      "size": 378108,
+      "uploadedDate": "2021-04-22T17:54:18.006Z"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_AMonstersExpedition_DraknekFriends_S4_1200x1600-12a8b0a23d31eb4cc7cedf52c01f3877",
+      "md5": "12a8b0a23d31eb4cc7cedf52c01f3877",
+      "width": 1200,
+      "height": 1600,
+      "size": 748616,
+      "uploadedDate": "2021-04-22T17:54:27.571Z"
+    }
+  ],
+  "creationDate": "2021-02-06T00:22:47.068+00:00",
+  "lastModifiedDate": "2021-04-27T02:01:00.341+00:00",
+  "developer": "Draknek",
+  "developerId": "o-8n38qrvfawma8qsmu3d37bw7gasm2a",
+  "applicationId": ""
+}

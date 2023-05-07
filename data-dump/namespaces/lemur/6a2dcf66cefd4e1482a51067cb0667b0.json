@@ -1,0 +1,23 @@
+{
+  "id": "6a2dcf66cefd4e1482a51067cb0667b0",
+  "title": "Journey Pre-Purchase Audience",
+  "description": "Journey Pre-Purchase Audience",
+  "namespace": "lemur",
+  "categories": "",
+  "keyImages": [
+    {
+      "type": "ESRB",
+      "url": "https://cdn1.epicgames.com/lemur/item/Journey-ESRB-842x404-d904ae38991eabe3f91a160feb7e147a.png",
+      "md5": "d904ae38991eabe3f91a160feb7e147a",
+      "width": 842,
+      "height": 404,
+      "size": 51113,
+      "uploadedDate": "2019-05-22T21:19:40.016Z"
+    }
+  ],
+  "creationDate": "2019-05-22T21:21:40.033+00:00",
+  "lastModifiedDate": "2019-05-28T17:01:45.972+00:00",
+  "developer": "Annapurna Interactive",
+  "developerId": "o-bmeb3ztlbxkjc8vvpydava38yvmxlm",
+  "applicationId": null
+}

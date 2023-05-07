@@ -1,0 +1,23 @@
+{
+  "id": "42154b411d56416daa4b73b8268f5bf8",
+  "title": "ClaryTrialAudience",
+  "description": "ClaryTrialAudience",
+  "namespace": "clary",
+  "categories": "",
+  "keyImages": [
+    {
+      "type": "ESRB",
+      "url": "https://cdn1.epicgames.com/clary/item/Assassins-Creed-Odyssey-Rating-842x485-a6a05e4b00c52506749b4afa4febd55f.png",
+      "md5": "a6a05e4b00c52506749b4afa4febd55f",
+      "width": 842,
+      "height": 485,
+      "size": 128916,
+      "uploadedDate": "2020-01-14T19:22:25.364Z"
+    }
+  ],
+  "creationDate": "2020-02-04T18:37:59.733+00:00",
+  "lastModifiedDate": "2020-03-23T15:57:32.644+00:00",
+  "developer": "Ubisoft Entertainment",
+  "developerId": "o-3efjudxdtgsqnulml4bkeq3v9nec38",
+  "applicationId": null
+}

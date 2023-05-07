@@ -1,0 +1,32 @@
+{
+  "id": "8af5b218796143c08f0d0f37fa1ad232",
+  "title": "Dangerous Driving - Prepurchase",
+  "description": "dummy item",
+  "namespace": "pansy",
+  "categories": "",
+  "keyImages": [
+    {
+      "type": "DieselGameBoxLogo",
+      "url": "https://cdn1.epicgames.com/pansy/item/DangerousDriving_Promo_Game Icon-400x400-eddea164998d4ecec937fb4a2d5fb890.png",
+      "md5": "eddea164998d4ecec937fb4a2d5fb890",
+      "width": 400,
+      "height": 400,
+      "size": 42761,
+      "uploadedDate": "2019-03-19T16:27:59.886Z"
+    },
+    {
+      "type": "DieselGameBoxLogo",
+      "url": "https://cdn1.epicgames.com/pansy/item/DangerousDriving_Promo_Primary-1423x800-28df18c37f703cc1496f5b3f02d2f687.png",
+      "md5": "28df18c37f703cc1496f5b3f02d2f687",
+      "width": 1423,
+      "height": 800,
+      "size": 465020,
+      "uploadedDate": "2019-03-19T16:27:40.095Z"
+    }
+  ],
+  "creationDate": "2019-03-19T16:28:41.96+00:00",
+  "lastModifiedDate": "2019-03-19T16:28:41.96+00:00",
+  "developer": "Three Fields Entertainment",
+  "developerId": "o-f82s3dr485xfmhuuzc2ubtc2j2mdpj",
+  "applicationId": null
+}

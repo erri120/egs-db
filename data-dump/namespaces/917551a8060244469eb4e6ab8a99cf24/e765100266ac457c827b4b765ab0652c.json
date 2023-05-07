@@ -1,0 +1,32 @@
+{
+  "id": "e765100266ac457c827b4b765ab0652c",
+  "title": "Amnesia:  The Dark Descent",
+  "description": "Amnesia:  The Dark Descent",
+  "namespace": "917551a8060244469eb4e6ab8a99cf24",
+  "categories": "public/games/applications",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/917551a8060244469eb4e6ab8a99cf24/item/Diesel_productv2_amnesia-the-dark-descent_home_EGS_AmnesiaTheDarkDescent_FrictionalGames_S1-2560x1440-a8a3519ebf9621c12a1a9e15456bef29e5a4112c-2560x1440-bf9e857fe84f5acdc34e970d90d1005c.jpg",
+      "md5": "bf9e857fe84f5acdc34e970d90d1005c",
+      "width": 2560,
+      "height": 1440,
+      "size": 243127,
+      "uploadedDate": "2020-04-30T14:36:35.355Z"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/917551a8060244469eb4e6ab8a99cf24/item/Diesel_productv2_amnesia-the-dark-descent_home_EGS_AmnesiaTheDarkDescent_FrictionalGames_S2-860x1148-04d7db0e47bac6bacddf1fb57022b7175a5de1b8-860x1148-915edc588aa36f970396deda73e3f74e.jpg",
+      "md5": "915edc588aa36f970396deda73e3f74e",
+      "width": 860,
+      "height": 1148,
+      "size": 168324,
+      "uploadedDate": "2020-04-30T14:36:56.373Z"
+    }
+  ],
+  "creationDate": "2020-04-20T14:16:27.097+00:00",
+  "lastModifiedDate": "2020-04-30T14:39:59.697+00:00",
+  "developer": "Frictional Games",
+  "developerId": "o-aclcw9pm582trqsqg66qfkfp9u9nw7",
+  "applicationId": null
+}

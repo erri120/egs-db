@@ -1,0 +1,32 @@
+{
+  "id": "db871ea7df6146e081ef816b551f9d00",
+  "title": "Empires of the Undergrowth",
+  "description": "Empires of the Undergrowth",
+  "namespace": "4c436646d6f0400da483546a70e3a6e0",
+  "categories": "public/games/applications",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/4c436646d6f0400da483546a70e3a6e0/item/egs-empiresoftheundergrowth-slugdisco-s1-2560x1440-2560x1440-fbc2a0e62782deb4987fce8eab8a0bdc.jpg",
+      "md5": "fbc2a0e62782deb4987fce8eab8a0bdc",
+      "width": 2560,
+      "height": 1440,
+      "size": 307983,
+      "uploadedDate": "2020-10-27T20:29:58.361Z"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/4c436646d6f0400da483546a70e3a6e0/item/egs-empiresoftheundergrowth-slugdisco-s2-1200x1600-1200x1600-65d732d6bfbf62e5d7636489f8f5b8e3.jpg",
+      "md5": "65d732d6bfbf62e5d7636489f8f5b8e3",
+      "width": 1200,
+      "height": 1600,
+      "size": 192014,
+      "uploadedDate": "2020-10-27T20:30:03.635Z"
+    }
+  ],
+  "creationDate": "2020-07-31T21:03:05.989+00:00",
+  "lastModifiedDate": "2020-10-28T13:51:11.166+00:00",
+  "developer": "Slug Disco Studios Limited",
+  "developerId": "o-m33vk6n2lbjha44wkpln7qeu8bxuhu",
+  "applicationId": "fghi4567xXJvsrz6kZrtdNRPya7qcsft"
+}

@@ -1,0 +1,32 @@
+{
+  "id": "022785974d3244dc805ea83e1c076158",
+  "title": "SnowRunner",
+  "description": "SnowRunner",
+  "namespace": "2744acda6a2e493e9894b389b6564df7",
+  "categories": "public/games/applications",
+  "keyImages": [
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/2744acda6a2e493e9894b389b6564df7/item/Diesel_productv2_snowrunner_home_SnowRunner_EpicGames_PortraitImage_860x1148-860x1148-bdf591a23e5a348671dc2a77465d0ba6c5871d68-860x1148-5a5adeae2140a3f0b5586750f70bf8e2.jpg",
+      "md5": "5a5adeae2140a3f0b5586750f70bf8e2",
+      "width": 860,
+      "height": 1148,
+      "size": 349717,
+      "uploadedDate": "2020-02-14T17:13:43.227Z"
+    },
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/2744acda6a2e493e9894b389b6564df7/item/SNOWRUNNER-Launcher-EGS-2560x1440-2560x1440-e668930f14eb95ee04c3b02f938170bf.jpg",
+      "md5": "e668930f14eb95ee04c3b02f938170bf",
+      "width": 2560,
+      "height": 1440,
+      "size": 4775783,
+      "uploadedDate": "2020-04-21T17:17:37.819Z"
+    }
+  ],
+  "creationDate": "2019-06-13T17:18:24.273+00:00",
+  "lastModifiedDate": "2023-03-09T16:55:20.736+00:00",
+  "developer": "Focus Home",
+  "developerId": "o-wt4zxeetmq6jem7qp4pkssr46aenj5",
+  "applicationId": ""
+}

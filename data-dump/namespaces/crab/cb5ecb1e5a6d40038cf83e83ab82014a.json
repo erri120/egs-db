@@ -1,0 +1,23 @@
+{
+  "id": "cb5ecb1e5a6d40038cf83e83ab82014a",
+  "title": "Call_To_Action_03",
+  "description": "Trailer",
+  "namespace": "crab",
+  "categories": "layoutcontent",
+  "keyImages": [
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/crab/item/ResourceImage3_Trailer-960x497-e13367226188f9abaf818873ee6af28c.png",
+      "md5": "e13367226188f9abaf818873ee6af28c",
+      "width": 960,
+      "height": 497,
+      "size": 384182,
+      "uploadedDate": "2018-10-17T14:07:22.015Z"
+    }
+  ],
+  "creationDate": "2018-10-17T14:07:28.315+00:00",
+  "lastModifiedDate": "2019-05-14T17:02:13.352+00:00",
+  "developer": "Epic Games",
+  "developerId": "o-aa83a0a9bc45e98c80c1b1c9d92e9e",
+  "applicationId": null
+}

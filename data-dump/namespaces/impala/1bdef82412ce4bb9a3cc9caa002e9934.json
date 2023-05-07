@@ -1,0 +1,32 @@
+{
+  "id": "1bdef82412ce4bb9a3cc9caa002e9934",
+  "title": "Tom Clancy\u0027s The Division 2 - Open Beta",
+  "description": "Tom Clancy\u0027s The Division 2 - Open Beta",
+  "namespace": "impala",
+  "categories": "",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/impala/item/TCTD2_OpenBeta_Promo-2048x1151-cce9a8a830443aaf82f23ae88dcf6141.jpg",
+      "md5": "cce9a8a830443aaf82f23ae88dcf6141",
+      "width": 2048,
+      "height": 1151,
+      "size": 496655,
+      "uploadedDate": "2019-03-01T09:09:00.258Z"
+    },
+    {
+      "type": "DieselGameBoxLogo",
+      "url": "https://cdn1.epicgames.com/impala/item/TCTD2_OpenBeta_Logo-2048x847-142138e58ce76545a60c815a464a13b2.png",
+      "md5": "142138e58ce76545a60c815a464a13b2",
+      "width": 2048,
+      "height": 847,
+      "size": 109616,
+      "uploadedDate": "2019-03-01T09:09:35.262Z"
+    }
+  ],
+  "creationDate": "2019-02-18T18:42:11.499+00:00",
+  "lastModifiedDate": "2020-09-28T14:54:22.704+00:00",
+  "developer": "Ubisoft Entertainment",
+  "developerId": "o-3efjudxdtgsqnulml4bkeq3v9nec38",
+  "applicationId": null
+}

@@ -1,0 +1,23 @@
+{
+  "id": "633995775cfa4d8aa30ead349d8c2cf6",
+  "title": "GrackleGeneralAudience",
+  "description": "GrackleGeneralAudience",
+  "namespace": "cb23c857ec0d42d89b4be34d11302959",
+  "categories": "",
+  "keyImages": [
+    {
+      "type": "ESRB",
+      "url": "https://cdn1.epicgames.com/cb23c857ec0d42d89b4be34d11302959/item/ESRB_ALLLegoBatmans-842x404-25f0f00d3972052769b678863abd5fb7.jpg",
+      "md5": "25f0f00d3972052769b678863abd5fb7",
+      "width": 842,
+      "height": 404,
+      "size": 78164,
+      "uploadedDate": "2019-09-19T14:39:16.434Z"
+    }
+  ],
+  "creationDate": "2019-08-27T22:19:20.081+00:00",
+  "lastModifiedDate": "2019-09-19T14:39:19.576+00:00",
+  "developer": "Warner Brothers",
+  "developerId": "o-7kyv8uwtz74njnl544kbxzt5xqephw",
+  "applicationId": null
+}

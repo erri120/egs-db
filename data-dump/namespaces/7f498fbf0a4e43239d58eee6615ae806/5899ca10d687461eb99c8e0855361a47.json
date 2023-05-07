@@ -1,0 +1,32 @@
+{
+  "id": "5899ca10d687461eb99c8e0855361a47",
+  "title": "ReadySet Heroes Free Trial",
+  "description": "ReadySet Heroes Free Trial",
+  "namespace": "7f498fbf0a4e43239d58eee6615ae806",
+  "categories": "public/games/applications",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/7f498fbf0a4e43239d58eee6615ae806/item/Free-Trial-Banner-1250x703-2c35a66b84a43efb747ab437e2396300.jpg",
+      "md5": "2c35a66b84a43efb747ab437e2396300",
+      "width": 1250,
+      "height": 703,
+      "size": 603861,
+      "uploadedDate": "2019-12-18T22:47:09.938Z"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/7f498fbf0a4e43239d58eee6615ae806/item/Free-Trial-Banner-Tall-860x1148-e734c9e565c6447c49cac65ef096481c.jpg",
+      "md5": "e734c9e565c6447c49cac65ef096481c",
+      "width": 860,
+      "height": 1148,
+      "size": 563085,
+      "uploadedDate": "2019-12-18T22:47:20.049Z"
+    }
+  ],
+  "creationDate": "2019-11-25T22:35:44.684+00:00",
+  "lastModifiedDate": "2019-12-19T15:57:49.211+00:00",
+  "developer": "Sony Interactive Entertainment",
+  "developerId": "o-sby9x4c2zlm5mb2z5r9ajue9pcqfs5",
+  "applicationId": null
+}

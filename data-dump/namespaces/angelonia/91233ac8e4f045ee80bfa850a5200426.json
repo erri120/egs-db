@@ -1,0 +1,23 @@
+{
+  "id": "91233ac8e4f045ee80bfa850a5200426",
+  "title": "AngeloniaSeasonPassAudience_redeemable",
+  "description": "AngeloniaSeasonPassAudience_redeemable",
+  "namespace": "angelonia",
+  "categories": "",
+  "keyImages": [
+    {
+      "type": "ESRB",
+      "url": "https://cdn1.epicgames.com/angelonia/item/ESRB_Watchdogs2-842x404-09ee882d5192121844c1881fe624e49e.jpg",
+      "md5": "09ee882d5192121844c1881fe624e49e",
+      "width": 842,
+      "height": 404,
+      "size": 81686,
+      "uploadedDate": "2019-04-23T20:08:18.782Z"
+    }
+  ],
+  "creationDate": "2019-09-27T19:43:16.371+00:00",
+  "lastModifiedDate": "2020-01-28T15:56:32.956+00:00",
+  "developer": "Ubisoft Entertainment",
+  "developerId": "o-3efjudxdtgsqnulml4bkeq3v9nec38",
+  "applicationId": null
+}

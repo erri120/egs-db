@@ -1,0 +1,32 @@
+{
+  "id": "4280cee5502e42bea0352d6724be1260",
+  "title": "WoodpeckerInternStaging",
+  "description": "WoodpeckerInternStaging",
+  "namespace": "f6dcd5bf17c0469789292d1166bf91a1",
+  "categories": "public/games/applications",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/f6dcd5bf17c0469789292d1166bf91a1/item/WRC8_Quad_G1-2560x1440-755b8b96c4d1faa1cce3986443403a37.jpg",
+      "md5": "755b8b96c4d1faa1cce3986443403a37",
+      "width": 2560,
+      "height": 1440,
+      "size": 2031852,
+      "uploadedDate": "2019-08-30T14:33:11.528Z"
+    },
+    {
+      "type": "DieselGameBoxLogo",
+      "url": "https://cdn1.epicgames.com/f6dcd5bf17c0469789292d1166bf91a1/item/WRC8_IC1_White-1792x406-ace9373066710705e8cd11246b15a857.png",
+      "md5": "ace9373066710705e8cd11246b15a857",
+      "width": 1792,
+      "height": 406,
+      "size": 23052,
+      "uploadedDate": "2019-08-30T14:33:17.854Z"
+    }
+  ],
+  "creationDate": "2019-08-29T21:20:33.922+00:00",
+  "lastModifiedDate": "2019-09-05T07:45:45.897+00:00",
+  "developer": "Bigben Interactive",
+  "developerId": "o-wubu848ps2xcxuwv2m3bhet9gbhdbp",
+  "applicationId": null
+}

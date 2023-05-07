@@ -1,0 +1,23 @@
+{
+  "id": "7b619209092445b1ad975c05be58c9cc",
+  "title": "LorikeetSoundtrackAudience",
+  "description": "LorikeetSoundtrackAudience",
+  "namespace": "015763e579d4479cb1ef7780bf91804f",
+  "categories": "",
+  "keyImages": [
+    {
+      "type": "ESRB",
+      "url": "https://cdn1.epicgames.com/015763e579d4479cb1ef7780bf91804f/item/RP_FOR_E-842x404-fce4fa7233ed80170a8e36079d1e1bde.png",
+      "md5": "fce4fa7233ed80170a8e36079d1e1bde",
+      "width": 842,
+      "height": 404,
+      "size": 51194,
+      "uploadedDate": "2019-10-18T12:56:49.823Z"
+    }
+  ],
+  "creationDate": "2020-03-16T15:25:01.62+00:00",
+  "lastModifiedDate": "2020-08-11T16:19:50.507+00:00",
+  "developer": "William Chyr Studio",
+  "developerId": "o-9j6lnh9adzvfntd9d8ypjc39wb9d3k",
+  "applicationId": null
+}

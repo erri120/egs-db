@@ -1,0 +1,32 @@
+{
+  "id": "f2f0271e33764134a4ee5df0829179e9",
+  "title": "The Life and Suffering of Sir Brante",
+  "description": "The Life and Suffering of Sir Brante",
+  "namespace": "45bd0f6fc2704e22a3c1933f7bb972bf",
+  "categories": "public/games/applications",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/45bd0f6fc2704e22a3c1933f7bb972bf/item/EGS_TheLifeandSufferingofSirBrante_Sever_S1-2560x1440-842a35087cb54d1266580fc4ea43dde5.jpg",
+      "md5": "842a35087cb54d1266580fc4ea43dde5",
+      "width": 2560,
+      "height": 1440,
+      "size": 407029,
+      "uploadedDate": "2021-02-25T19:36:10.876Z"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/45bd0f6fc2704e22a3c1933f7bb972bf/item/EGS_TheLifeandSufferingofSirBrante_Sever_S2-1200x1600-06beede908bd1dc03f18bec5693e7cff.jpg",
+      "md5": "06beede908bd1dc03f18bec5693e7cff",
+      "width": 1200,
+      "height": 1600,
+      "size": 344522,
+      "uploadedDate": "2021-02-25T19:36:24.39Z"
+    }
+  ],
+  "creationDate": "2021-02-08T00:33:11.443+00:00",
+  "lastModifiedDate": "2021-03-04T12:54:23.799+00:00",
+  "developer": "101XP Limited",
+  "developerId": "o-8kptgx6fhwgfv38jl63mrfstuvljre",
+  "applicationId": null
+}

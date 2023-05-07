@@ -1,0 +1,32 @@
+{
+  "id": "724003f93ba241e696652cd129644d1a",
+  "title": "Dead Cells: Demake Soundtrack",
+  "description": "Dead Cells: Demake Soundtrack",
+  "namespace": "1368a7f14c3344bbaededbae528fafed",
+  "categories": "public/games/applications",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/1368a7f14c3344bbaededbae528fafed/item/3944a1e9-aeba-4174-8b67-1ade6e21fb59-2560x1440-3917a9856d83dfde987fe9a732558096.jpg",
+      "md5": "3917a9856d83dfde987fe9a732558096",
+      "width": 2560,
+      "height": 1440,
+      "size": 983908,
+      "uploadedDate": "2020-11-05T13:11:38.192Z"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/1368a7f14c3344bbaededbae528fafed/item/a7c75312-4c77-485b-8319-29869f952324-1200x1600-bd8ef79d4f15c34e4707c178e025f854.jpg",
+      "md5": "bd8ef79d4f15c34e4707c178e025f854",
+      "width": 1200,
+      "height": 1600,
+      "size": 537669,
+      "uploadedDate": "2020-11-05T13:11:47.004Z"
+    }
+  ],
+  "creationDate": "2020-10-30T12:14:06.365+00:00",
+  "lastModifiedDate": "2022-01-06T16:40:42.914+00:00",
+  "developer": "Motion Twin",
+  "developerId": "o-7saqb478dnbhsw9awuk67h7lu2ynua",
+  "applicationId": "fghi4567idaGrktffM1xK8hmUKcWwgjF"
+}

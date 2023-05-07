@@ -1,0 +1,32 @@
+{
+  "id": "e9efc664a0d64b8b8d882f947ddbb6fc",
+  "title": "Disc Room",
+  "description": "Disc Room",
+  "namespace": "ca16315212fe486b96969e8fc6d6faf6",
+  "categories": "public/games/applications",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/ca16315212fe486b96969e8fc6d6faf6/item/EGS_DiscRoom_TerriDoseKittyandJW_S1-2560x1440-f12084f30427a1c1b5b46733f8743eb6-2560x1440-f12084f30427a1c1b5b46733f8743eb6.jpg",
+      "md5": "f12084f30427a1c1b5b46733f8743eb6",
+      "width": 2560,
+      "height": 1440,
+      "size": 442612,
+      "uploadedDate": "2020-10-20T16:16:00.079Z"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/ca16315212fe486b96969e8fc6d6faf6/item/EGS_DiscRoom_TerriDoseKittyandJW_S2-1200x1600-ef6651b44ba0097955baef20291391a1-1200x1600-ef6651b44ba0097955baef20291391a1.jpg",
+      "md5": "ef6651b44ba0097955baef20291391a1",
+      "width": 1200,
+      "height": 1600,
+      "size": 313375,
+      "uploadedDate": "2020-10-20T16:16:11.788Z"
+    }
+  ],
+  "creationDate": "2020-09-22T13:36:24.178+00:00",
+  "lastModifiedDate": "2020-10-27T11:14:50.828+00:00",
+  "developer": "Devolver Digital, Inc.",
+  "developerId": "o-plnhdz2wfx5etjjeh88szjqy2gx8gw",
+  "applicationId": null
+}

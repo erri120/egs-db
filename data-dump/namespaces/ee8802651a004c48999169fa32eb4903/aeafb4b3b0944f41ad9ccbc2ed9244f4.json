@@ -1,0 +1,23 @@
+{
+  "id": "aeafb4b3b0944f41ad9ccbc2ed9244f4",
+  "title": "Kunzite Bundle Pre-Purchase Audience",
+  "description": "Kunzite Bundle Pre-Purchase Audience",
+  "namespace": "ee8802651a004c48999169fa32eb4903",
+  "categories": "",
+  "keyImages": [
+    {
+      "type": "ESRB",
+      "url": "https://cdn1.epicgames.com/ee8802651a004c48999169fa32eb4903/item/RP_FOR_T_M_AO-418x189-b886f081a21401b2aa02dfa48a72c383.png",
+      "md5": "b886f081a21401b2aa02dfa48a72c383",
+      "width": 418,
+      "height": 189,
+      "size": 6896,
+      "uploadedDate": "2020-05-20T17:35:23.647Z"
+    }
+  ],
+  "creationDate": "2020-05-19T18:58:22.619+00:00",
+  "lastModifiedDate": "2020-09-24T23:10:39.569+00:00",
+  "developer": "2K Games, Inc.",
+  "developerId": "o-37m6jbj5wcvrcvm4wusv7nazdfvbjk",
+  "applicationId": null
+}

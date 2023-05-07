@@ -1,0 +1,32 @@
+{
+  "id": "a88baff7924d485da3c60670be16fd55",
+  "title": "Samurai Jack: Battle Through Time",
+  "description": "Samurai Jack: Battle Through Time",
+  "namespace": "db9feb0da696474e9923764dd75b9854",
+  "categories": "public/games/applications",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/db9feb0da696474e9923764dd75b9854/item/EGS_SamuraiJackBattleThroughTime_SoleilLtd_S1-2560x1440-8942adb4828f708e146f10e614aee795.jpg",
+      "md5": "8942adb4828f708e146f10e614aee795",
+      "width": 2560,
+      "height": 1440,
+      "size": 419570,
+      "uploadedDate": "2020-07-15T01:31:34.457Z"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/db9feb0da696474e9923764dd75b9854/item/EGS_SamuraiJackBattleThroughTime_SoleilLtd_S2-1200x1600-244b9d4be3acb79075ca408875e05b8b.jpg",
+      "md5": "244b9d4be3acb79075ca408875e05b8b",
+      "width": 1200,
+      "height": 1600,
+      "size": 262925,
+      "uploadedDate": "2020-07-15T01:31:45.44Z"
+    }
+  ],
+  "creationDate": "2020-04-24T13:42:03.228+00:00",
+  "lastModifiedDate": "2020-08-21T14:58:32.963+00:00",
+  "developer": "Adult Swim Games",
+  "developerId": "o-ukuqppab77w6pdnvkt5gjqvp44rd55",
+  "applicationId": null
+}

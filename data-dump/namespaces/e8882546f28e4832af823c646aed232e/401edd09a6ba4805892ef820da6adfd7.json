@@ -1,0 +1,32 @@
+{
+  "id": "401edd09a6ba4805892ef820da6adfd7",
+  "title": "Jupiter\u2019s Forge",
+  "description": "Jupiter\u2019s Forge",
+  "namespace": "e8882546f28e4832af823c646aed232e",
+  "categories": "public/games/applications",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/e8882546f28e4832af823c646aed232e/item/EGS_OffworldTradingCompanyJupitersForge_MohawkGames_Expansion_IC1_A-320x180-28b7a9d792c0f292effafd2743fc0605.jpg",
+      "md5": "28b7a9d792c0f292effafd2743fc0605",
+      "width": 320,
+      "height": 180,
+      "size": 31776,
+      "uploadedDate": "2020-03-05T15:57:33.108Z"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/e8882546f28e4832af823c646aed232e/item/Offworld_Portrait-510x680-7a9909ce27ac1d94813f6f49f6632871.jpg",
+      "md5": "7a9909ce27ac1d94813f6f49f6632871",
+      "width": 510,
+      "height": 680,
+      "size": 60952,
+      "uploadedDate": "2020-03-05T15:57:44.685Z"
+    }
+  ],
+  "creationDate": "2020-02-17T21:43:47.563+00:00",
+  "lastModifiedDate": "2022-12-13T18:52:53.902+00:00",
+  "developer": "Stardock Entertainment, Inc",
+  "developerId": "o-l69v3ppj5zgdpwtuvq6sgjew5yjt5w",
+  "applicationId": null
+}

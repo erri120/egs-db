@@ -1,0 +1,23 @@
+{
+  "id": "6d3ab56d84624cd0a6579c8a38f47d9c",
+  "title": "Beyond Two Souls Demo Regional SKU Test Audience",
+  "description": "Beyond Two Souls Demo Regional SKU Test Audience",
+  "namespace": "lavender",
+  "categories": "",
+  "keyImages": [
+    {
+      "type": "ESRB",
+      "url": "https://cdn1.epicgames.com/lavender/item/ESRB_BeyondTwoSouls-842x404-e918930fa7a0d52460c8996f39d3cca8.jpg",
+      "md5": "e918930fa7a0d52460c8996f39d3cca8",
+      "width": 842,
+      "height": 404,
+      "size": 116644,
+      "uploadedDate": "2019-07-29T15:36:44.152Z"
+    }
+  ],
+  "creationDate": "2019-06-10T11:14:49.46+00:00",
+  "lastModifiedDate": "2019-10-16T14:26:04.204+00:00",
+  "developer": "Quantic Dream",
+  "developerId": "o-m8v47d762atphw94knus7ezawefpcu",
+  "applicationId": null
+}

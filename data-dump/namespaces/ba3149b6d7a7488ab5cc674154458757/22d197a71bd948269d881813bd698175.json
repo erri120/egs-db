@@ -1,0 +1,23 @@
+{
+  "id": "22d197a71bd948269d881813bd698175",
+  "title": "GrouseDevAudience",
+  "description": "GrouseDevAudience",
+  "namespace": "ba3149b6d7a7488ab5cc674154458757",
+  "categories": "",
+  "keyImages": [
+    {
+      "type": "ESRB",
+      "url": "https://cdn1.epicgames.com/ba3149b6d7a7488ab5cc674154458757/item/Ratings_ESRB_T-840x403-5b53761ab1eff24381746101a5506d86.jpg",
+      "md5": "5b53761ab1eff24381746101a5506d86",
+      "width": 840,
+      "height": 403,
+      "size": 15333,
+      "uploadedDate": "2019-11-26T16:01:33.156Z"
+    }
+  ],
+  "creationDate": "2019-09-12T17:03:29.974+00:00",
+  "lastModifiedDate": "2019-12-05T15:55:22.188+00:00",
+  "developer": "Thunder Lotus Games",
+  "developerId": "o-k5nhue2lw5nkaqutyhkwrdl5qjkcd5",
+  "applicationId": null
+}

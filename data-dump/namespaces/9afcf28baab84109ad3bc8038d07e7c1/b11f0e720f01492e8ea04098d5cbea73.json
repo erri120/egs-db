@@ -1,0 +1,23 @@
+{
+  "id": "b11f0e720f01492e8ea04098d5cbea73",
+  "title": "SpinachGeneralAudience",
+  "description": "SpinachGeneralAudience",
+  "namespace": "9afcf28baab84109ad3bc8038d07e7c1",
+  "categories": "",
+  "keyImages": [
+    {
+      "type": "ESRB",
+      "url": "https://cdn1.epicgames.com/9afcf28baab84109ad3bc8038d07e7c1/item/ESRB_E10_TrialsFusion-398x190-5557d92add3419aaf3c6f936cf805b7e.jpg",
+      "md5": "5557d92add3419aaf3c6f936cf805b7e",
+      "width": 398,
+      "height": 190,
+      "size": 11694,
+      "uploadedDate": "2021-03-11T16:18:17.868Z"
+    }
+  ],
+  "creationDate": "2020-08-13T17:27:29.321+00:00",
+  "lastModifiedDate": "2021-03-11T16:18:43.583+00:00",
+  "developer": "Ubisoft Entertainment",
+  "developerId": "o-3efjudxdtgsqnulml4bkeq3v9nec38",
+  "applicationId": null
+}

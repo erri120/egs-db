@@ -1,0 +1,23 @@
+{
+  "id": "8736e6c117844aa087c74ee118a10a64",
+  "title": "Metro Exodus DLC2 Audience",
+  "description": "Metro Exodus DLC2 Audience",
+  "namespace": "snapdragon",
+  "categories": "",
+  "keyImages": [
+    {
+      "type": "ESRB",
+      "url": "https://cdn1.epicgames.com/snapdragon/item/ESRB_MetroExodus_M-842x404-ce507cc45e2abb059dadee1fd4cc397c-842x404-ce507cc45e2abb059dadee1fd4cc397c.png",
+      "md5": "ce507cc45e2abb059dadee1fd4cc397c",
+      "width": 842,
+      "height": 404,
+      "size": 69269,
+      "uploadedDate": "2020-02-11T17:23:03.531Z"
+    }
+  ],
+  "creationDate": "2019-05-08T18:51:18.336+00:00",
+  "lastModifiedDate": "2023-04-26T20:29:46.936+00:00",
+  "developer": "Plaion",
+  "developerId": "o-jskfz28ywm2l56px6h9rlxplaysrtl",
+  "applicationId": ""
+}

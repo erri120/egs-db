@@ -1,0 +1,23 @@
+{
+  "id": "3f6ac14d14714d66bb3973a34a6a9a1c",
+  "title": "ManicottiGeneralAudience",
+  "description": "ManicottiGeneralAudience",
+  "namespace": "2362b692c2574b4ea2184540ac8c5c10",
+  "categories": "",
+  "keyImages": [
+    {
+      "type": "ESRB",
+      "url": "https://cdn1.epicgames.com/2362b692c2574b4ea2184540ac8c5c10/item/ESRB_Everyone_LostWords-398x190-c5e974031dea7ce084bf9961c1129b61.jpg",
+      "md5": "c5e974031dea7ce084bf9961c1129b61",
+      "width": 398,
+      "height": 190,
+      "size": 11087,
+      "uploadedDate": "2021-03-25T20:51:13.721Z"
+    }
+  ],
+  "creationDate": "2021-03-08T23:57:30.783+00:00",
+  "lastModifiedDate": "2021-04-06T13:07:14.415+00:00",
+  "developer": "Maximum Games",
+  "developerId": "o-a6k23slslegbhbwtel4qx423kuzc3y",
+  "applicationId": null
+}

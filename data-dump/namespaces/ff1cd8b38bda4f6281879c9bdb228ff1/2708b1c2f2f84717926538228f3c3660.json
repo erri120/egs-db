@@ -1,0 +1,32 @@
+{
+  "id": "2708b1c2f2f84717926538228f3c3660",
+  "title": "Atomicrops Alpha",
+  "description": "Atomicrops Alpha",
+  "namespace": "ff1cd8b38bda4f6281879c9bdb228ff1",
+  "categories": "public/games/applications",
+  "keyImages": [
+    {
+      "type": "DieselGameBoxLogo",
+      "url": "https://cdn1.epicgames.com/ff1cd8b38bda4f6281879c9bdb228ff1/item/ATOMICROPS_IC1-2048x717-141acff76a9644e2504afb8360ab21b8.png",
+      "md5": "141acff76a9644e2504afb8360ab21b8",
+      "width": 2048,
+      "height": 717,
+      "size": 166797,
+      "uploadedDate": "2019-06-08T03:38:57.345Z"
+    },
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/ff1cd8b38bda4f6281879c9bdb228ff1/item/ATOMICROPS_N2_DESCRIPTION-2560x1440-479c7fc3106fe57265622f6e4376328b.jpg",
+      "md5": "479c7fc3106fe57265622f6e4376328b",
+      "width": 2560,
+      "height": 1440,
+      "size": 476575,
+      "uploadedDate": "2019-06-08T03:39:07.928Z"
+    }
+  ],
+  "creationDate": "2019-07-31T16:49:40.91+00:00",
+  "lastModifiedDate": "2019-07-31T17:14:35.456+00:00",
+  "developer": "Raw Fury",
+  "developerId": "o-fay4ghw9hhamujs53rfhy83ffexb7k",
+  "applicationId": null
+}

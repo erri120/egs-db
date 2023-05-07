@@ -1,0 +1,32 @@
+{
+  "id": "619e04f4d42c4b65b37d17ea3310f218",
+  "title": "The Bridge",
+  "description": "The Bridge",
+  "namespace": "d5ee752640ef4cee8b7f5364410ba41f",
+  "categories": "public/games/applications",
+  "keyImages": [
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/d5ee752640ef4cee8b7f5364410ba41f/item/EGS_TheQuantumAstrophysicistsGuild_TheBridge_S4-510x680-ecf7b5dcc81bb88452f4fc38d1fe1f08.jpg",
+      "md5": "ecf7b5dcc81bb88452f4fc38d1fe1f08",
+      "width": 510,
+      "height": 680,
+      "size": 215071,
+      "uploadedDate": "2020-01-15T17:25:48.106Z"
+    },
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/d5ee752640ef4cee8b7f5364410ba41f/item/EGS_TheQuantumAstrophysicistsGuild_TheBridge_S7-1360x766-d79fb5f60a7776b5e0d2ce588667c4b0.jpg",
+      "md5": "d79fb5f60a7776b5e0d2ce588667c4b0",
+      "width": 1360,
+      "height": 766,
+      "size": 500647,
+      "uploadedDate": "2020-01-15T17:30:22.008Z"
+    }
+  ],
+  "creationDate": "2019-10-23T17:53:15.528+00:00",
+  "lastModifiedDate": "2020-01-23T03:56:38.503+00:00",
+  "developer": "The Quantum Astrophysicists Guild",
+  "developerId": "o-e8nkcj362yhcae7jpkvrvxt2tssnls",
+  "applicationId": null
+}

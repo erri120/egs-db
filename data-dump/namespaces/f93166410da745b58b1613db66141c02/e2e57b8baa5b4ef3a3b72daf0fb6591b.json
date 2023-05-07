@@ -1,0 +1,32 @@
+{
+  "id": "e2e57b8baa5b4ef3a3b72daf0fb6591b",
+  "title": "ELEX",
+  "description": "ELEX",
+  "namespace": "f93166410da745b58b1613db66141c02",
+  "categories": "public/games/applications",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/f93166410da745b58b1613db66141c02/item/EGS_ELEX_PiranhaBytes_S1-2560x1440-7a1311c06fb099b6c4c1a2bca9cdaf2e.jpg",
+      "md5": "7a1311c06fb099b6c4c1a2bca9cdaf2e",
+      "width": 2560,
+      "height": 1440,
+      "size": 1048418,
+      "uploadedDate": "2021-03-04T04:13:50.743Z"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/f93166410da745b58b1613db66141c02/item/EGS_ELEX_PiranhaBytes_S2-1200x1600-84923ac70589b4b06c13b3132cdab4d9.jpg",
+      "md5": "84923ac70589b4b06c13b3132cdab4d9",
+      "width": 1200,
+      "height": 1600,
+      "size": 579425,
+      "uploadedDate": "2021-03-04T04:14:00.069Z"
+    }
+  ],
+  "creationDate": "2021-02-18T17:52:04.695+00:00",
+  "lastModifiedDate": "2021-03-24T21:19:58.718+00:00",
+  "developer": "THQ Nordic GmbH",
+  "developerId": "o-jywxgemg3dagnv6fymcngq3g29mc4j",
+  "applicationId": null
+}

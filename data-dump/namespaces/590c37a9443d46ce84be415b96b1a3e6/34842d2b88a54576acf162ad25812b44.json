@@ -1,0 +1,32 @@
+{
+  "id": "34842d2b88a54576acf162ad25812b44",
+  "title": "Anno 1404",
+  "description": "Anno 1404",
+  "namespace": "590c37a9443d46ce84be415b96b1a3e6",
+  "categories": "public/games/applications",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/590c37a9443d46ce84be415b96b1a3e6/item/ANHC_1404HE_Edition_Thumbnail_1920X1080_White-1920x1080-1920x1080-ff4339c4d63fab533420b490f68ac1e7.png",
+      "md5": "ff4339c4d63fab533420b490f68ac1e7",
+      "width": 1920,
+      "height": 1080,
+      "size": 2617093,
+      "uploadedDate": "2020-06-25T13:52:07.778Z"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/590c37a9443d46ce84be415b96b1a3e6/item/ANHC_1404HE_Store_Portrait_1200x1600-1200x1600-f72dc7d60d295608ec23539974dc7d68.jpg",
+      "md5": "f72dc7d60d295608ec23539974dc7d68",
+      "width": 1200,
+      "height": 1600,
+      "size": 412556,
+      "uploadedDate": "2020-06-25T13:52:21.289Z"
+    }
+  ],
+  "creationDate": "2020-06-11T01:35:32.674+00:00",
+  "lastModifiedDate": "2021-08-18T15:53:23.991+00:00",
+  "developer": "Ubisoft Entertainment",
+  "developerId": "o-3efjudxdtgsqnulml4bkeq3v9nec38",
+  "applicationId": ""
+}

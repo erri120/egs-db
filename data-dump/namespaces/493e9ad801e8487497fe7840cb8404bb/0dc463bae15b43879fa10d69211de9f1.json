@@ -1,0 +1,23 @@
+{
+  "id": "0dc463bae15b43879fa10d69211de9f1",
+  "title": "StellulaDevAudience",
+  "description": "StellulaDevAudience",
+  "namespace": "493e9ad801e8487497fe7840cb8404bb",
+  "categories": "",
+  "keyImages": [
+    {
+      "type": "ESRB",
+      "url": "https://cdn1.epicgames.com/493e9ad801e8487497fe7840cb8404bb/item/ESRB_NoDescriptors_UsersInteract-842x485-c55c3b08996eb8487d4a6956c84d6d66.jpg",
+      "md5": "c55c3b08996eb8487d4a6956c84d6d66",
+      "width": 842,
+      "height": 485,
+      "size": 86271,
+      "uploadedDate": "2020-01-23T14:43:11.198Z"
+    }
+  ],
+  "creationDate": "2019-10-03T20:05:30.236+00:00",
+  "lastModifiedDate": "2022-04-19T20:46:01.12+00:00",
+  "developer": "Focus Home",
+  "developerId": "o-wt4zxeetmq6jem7qp4pkssr46aenj5",
+  "applicationId": null
+}

@@ -1,0 +1,32 @@
+{
+  "id": "16807a6a32e74816b1d32e6b95780370",
+  "title": "Old World (staging)",
+  "description": "Old World (staging)",
+  "namespace": "07f4a7dd3c884e5d87e9a209716962ca",
+  "categories": "public/games/applications",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/LandscapeProductLaunchedSTAGING_2560x1440-fb913815137a7e6def4ffad25064c8dc",
+      "md5": "fb913815137a7e6def4ffad25064c8dc",
+      "width": 2560,
+      "height": 1440,
+      "size": 1952217,
+      "uploadedDate": "2021-07-01T20:46:22.669Z"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/PortraitProductLaunchedSTAGING_1200x1600-41c5d65652bfc3b43d42cfcc2c1a1c0d",
+      "md5": "41c5d65652bfc3b43d42cfcc2c1a1c0d",
+      "width": 1200,
+      "height": 1600,
+      "size": 1010174,
+      "uploadedDate": "2021-07-01T20:46:25.55Z"
+    }
+  ],
+  "creationDate": "2020-03-04T02:18:13.616+00:00",
+  "lastModifiedDate": "2022-04-26T17:11:54.386+00:00",
+  "developer": "Mohawk Games",
+  "developerId": "o-uw2qbn4nh26vxscergml2f7du26bvk",
+  "applicationId": "fghi45671BGmZYEEWY5S8odb5iPvIhoR"
+}

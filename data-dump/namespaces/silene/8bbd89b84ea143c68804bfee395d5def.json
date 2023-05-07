@@ -1,0 +1,41 @@
+{
+  "id": "8bbd89b84ea143c68804bfee395d5def",
+  "title": "CloseToTheSunPrePurchase",
+  "description": "CloseToTheSunPrePurchase",
+  "namespace": "silene",
+  "categories": "",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/silene/item/CloseToTheSun_PrimaryPromo-2580x1450-a5f970b17ab00d1d99e8cd78155a6092.jpg",
+      "md5": "a5f970b17ab00d1d99e8cd78155a6092",
+      "width": 2580,
+      "height": 1450,
+      "size": 283141,
+      "uploadedDate": "2019-02-22T00:48:00.546Z"
+    },
+    {
+      "type": "DieselGameBoxLogo",
+      "url": "https://cdn1.epicgames.com/silene/item/CloseToTheSun_Logo_Yellow-2001x1363-f393190354b7513952a3ff1295469f95.png",
+      "md5": "f393190354b7513952a3ff1295469f95",
+      "width": 2001,
+      "height": 1363,
+      "size": 38185,
+      "uploadedDate": "2019-02-22T00:48:15.852Z"
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/silene/item/CloseToTheSun_GameIcon-400x400-84bafa46d245240e63d005de947e74dd.png",
+      "md5": "84bafa46d245240e63d005de947e74dd",
+      "width": 400,
+      "height": 400,
+      "size": 8031,
+      "uploadedDate": "2019-02-22T00:48:25.073Z"
+    }
+  ],
+  "creationDate": "2019-02-21T22:16:03.534+00:00",
+  "lastModifiedDate": "2019-05-13T14:19:40.479+00:00",
+  "developer": "Wired Productions",
+  "developerId": "o-r83qbqhwd8y5y5r6e9x62vtrsd9mqm",
+  "applicationId": null
+}

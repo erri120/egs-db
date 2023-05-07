@@ -1,0 +1,23 @@
+{
+  "id": "dd0948e8f27f4d579d35affe06ef16a0",
+  "title": "ButtercupGeneralAudience",
+  "description": "ButtercupGeneralAudience",
+  "namespace": "buttercup",
+  "categories": "",
+  "keyImages": [
+    {
+      "type": "ESRB",
+      "url": "https://cdn1.epicgames.com/buttercup/item/ESRB_WalkingDead2-842x404-dd9c83dc010abf80acd20939c2c5ffcb.jpg",
+      "md5": "dd9c83dc010abf80acd20939c2c5ffcb",
+      "width": 842,
+      "height": 404,
+      "size": 111180,
+      "uploadedDate": "2020-01-08T15:33:39.131Z"
+    }
+  ],
+  "creationDate": "2019-03-08T23:05:09.752+00:00",
+  "lastModifiedDate": "2023-02-14T21:08:09.847+00:00",
+  "developer": "Skybound Interactive",
+  "developerId": "o-rqvssgn2hhj58wv5bc6eueqswz2un4",
+  "applicationId": ""
+}

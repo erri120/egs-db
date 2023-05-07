@@ -1,0 +1,32 @@
+{
+  "id": "b81d7fb9ad394827976f0639a71e58ad",
+  "title": "Scott Pilgrim vs. The World: The Game",
+  "description": "Scott Pilgrim vs. The World: The Game",
+  "namespace": "a443faa3d6304a7dacd7456e0f6b0fa6",
+  "categories": "public/games/applications",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/a443faa3d6304a7dacd7456e0f6b0fa6/item/ScottPilgrim_Store_Landscape_2560x1440-2560x1440-c87d3a0dd1df8ab6e735021cf0d5c472.jpg",
+      "md5": "c87d3a0dd1df8ab6e735021cf0d5c472",
+      "width": 2560,
+      "height": 1440,
+      "size": 928409,
+      "uploadedDate": "2020-09-10T14:03:44.921Z"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/a443faa3d6304a7dacd7456e0f6b0fa6/item/ScottPilgrim_Store_Portrait_1200x1600-1200x1600-2767857f71a9289f14c0f79a48977428.jpg",
+      "md5": "2767857f71a9289f14c0f79a48977428",
+      "width": 1200,
+      "height": 1600,
+      "size": 789597,
+      "uploadedDate": "2020-09-10T14:03:48.387Z"
+    }
+  ],
+  "creationDate": "2020-08-31T18:20:59.181+00:00",
+  "lastModifiedDate": "2021-08-24T19:54:41.442+00:00",
+  "developer": "Ubisoft Entertainment",
+  "developerId": "o-3efjudxdtgsqnulml4bkeq3v9nec38",
+  "applicationId": ""
+}

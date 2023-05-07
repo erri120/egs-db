@@ -1,0 +1,32 @@
+{
+  "id": "e7c6269e054144a5bbf6d5273dc7eac3",
+  "title": "Genesis Noir",
+  "description": "Genesis Noir",
+  "namespace": "af18f75e1dc34500b374952304c6eb99",
+  "categories": "public/games/applications",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/af18f75e1dc34500b374952304c6eb99/item/EGS_GenesisNoir_FeralCatDen_S1-2560x1440-8cb7cf8a85997d24ccea4bcea0afc362-2560x1440-8cb7cf8a85997d24ccea4bcea0afc362.jpeg",
+      "md5": "8cb7cf8a85997d24ccea4bcea0afc362",
+      "width": 2560,
+      "height": 1440,
+      "size": 646938,
+      "uploadedDate": "2021-03-14T19:22:00.452Z"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/af18f75e1dc34500b374952304c6eb99/item/EGS_GenesisNoir_FeralCatDen_S2-1200x1600-b56a44f29a973476ab00fb755ed2bae0-1200x1600-b56a44f29a973476ab00fb755ed2bae0.jpeg",
+      "md5": "b56a44f29a973476ab00fb755ed2bae0",
+      "width": 1200,
+      "height": 1600,
+      "size": 835368,
+      "uploadedDate": "2021-03-14T19:22:14.932Z"
+    }
+  ],
+  "creationDate": "2021-02-04T21:08:57.947+00:00",
+  "lastModifiedDate": "2021-03-26T13:58:24.834+00:00",
+  "developer": "Fellow Traveller",
+  "developerId": "o-22uq4lnmzc6kmlbbaf5gp8yvysnn3t",
+  "applicationId": null
+}

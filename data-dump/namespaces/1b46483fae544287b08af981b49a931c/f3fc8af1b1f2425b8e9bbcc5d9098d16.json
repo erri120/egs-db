@@ -1,0 +1,32 @@
+{
+  "id": "f3fc8af1b1f2425b8e9bbcc5d9098d16",
+  "title": "Sokobond",
+  "description": "Sokobond",
+  "namespace": "1b46483fae544287b08af981b49a931c",
+  "categories": "public/games/applications",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_Sokobond_DraknekFriends_S3_2560x1440-663638008dcf9f091a066f29eed9b0ec",
+      "md5": "663638008dcf9f091a066f29eed9b0ec",
+      "width": 2560,
+      "height": 1440,
+      "size": 226841,
+      "uploadedDate": "2021-04-22T21:18:57.463Z"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_Sokobond_DraknekFriends_S4_1200x1600-43c350fe2ac3d1cfc0ee016244d1b4e9",
+      "md5": "43c350fe2ac3d1cfc0ee016244d1b4e9",
+      "width": 1200,
+      "height": 1600,
+      "size": 224275,
+      "uploadedDate": "2021-04-22T21:18:59.504Z"
+    }
+  ],
+  "creationDate": "2021-02-09T00:21:24.724+00:00",
+  "lastModifiedDate": "2021-04-27T02:01:00.504+00:00",
+  "developer": "Draknek",
+  "developerId": "o-8n38qrvfawma8qsmu3d37bw7gasm2a",
+  "applicationId": ""
+}

@@ -1,0 +1,32 @@
+{
+  "id": "12efdae9c0654d799c4291cf90d25b4e",
+  "title": "Yes, Your Grace",
+  "description": "Yes, Your Grace",
+  "namespace": "41cd36dc3662428193f02f0f947bbe5e",
+  "categories": "public/games/applications",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/41cd36dc3662428193f02f0f947bbe5e/item/EGS_YesYourGrace_BraveAtNight_S1-2560x1440-b75bd297ca44ea7a0fd28fd3438e801c.jpg",
+      "md5": "b75bd297ca44ea7a0fd28fd3438e801c",
+      "width": 2560,
+      "height": 1440,
+      "size": 995253,
+      "uploadedDate": "2021-03-23T23:36:42.047Z"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/41cd36dc3662428193f02f0f947bbe5e/item/EGS_YesYourGrace_BraveAtNight_S2-1200x1600-7ca9c8e0ca57bfdb55fd17bb4daca005.jpg",
+      "md5": "7ca9c8e0ca57bfdb55fd17bb4daca005",
+      "width": 1200,
+      "height": 1600,
+      "size": 750315,
+      "uploadedDate": "2021-03-23T23:36:46.246Z"
+    }
+  ],
+  "creationDate": "2021-03-04T21:20:24.99+00:00",
+  "lastModifiedDate": "2021-03-26T15:49:42.859+00:00",
+  "developer": "No More Robots",
+  "developerId": "o-236t9erksuklvbpwrddx5953wndtps",
+  "applicationId": null
+}

@@ -1,0 +1,32 @@
+{
+  "id": "c107772e143246a3bca7b2a77f4b2d92",
+  "title": "Civilization VI : Khmer and Indonesia Civilization \u0026 Scenario Pack",
+  "description": "Civilization VI : Khmer and Indonesia Civilization \u0026 Scenario Pack",
+  "namespace": "cd14dcaa4f3443f19f7169a980559c62",
+  "categories": "addons",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/cd14dcaa4f3443f19f7169a980559c62/item/EGS_SidMeiersCivilizationVI_FiraxisGames_S5-1360x766-43ec615712394b3c4acbe77bce54975c.jpg",
+      "md5": "43ec615712394b3c4acbe77bce54975c",
+      "width": 1360,
+      "height": 766,
+      "size": 475027,
+      "uploadedDate": "2020-05-19T21:39:40.48Z"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/cd14dcaa4f3443f19f7169a980559c62/item/EGS_SidMeiersCivilizationVI_FiraxisGames_S6-510x680-7bca651712a1c939a86f767c65160461.jpg",
+      "md5": "7bca651712a1c939a86f767c65160461",
+      "width": 510,
+      "height": 680,
+      "size": 309610,
+      "uploadedDate": "2020-05-19T21:39:51.266Z"
+    }
+  ],
+  "creationDate": "2020-01-16T20:37:52.724+00:00",
+  "lastModifiedDate": "2022-12-06T22:26:14.485+00:00",
+  "developer": "2K Games, Inc.",
+  "developerId": "o-37m6jbj5wcvrcvm4wusv7nazdfvbjk",
+  "applicationId": ""
+}

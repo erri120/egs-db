@@ -1,0 +1,32 @@
+{
+  "id": "414cea346b9a4544900c3ae0c80ffe34",
+  "title": "Evan\u0027s Remains",
+  "description": "Evan\u0027s Remains",
+  "namespace": "9c7a70d78df948ddaf1b51722b16d6b8",
+  "categories": "public/games/applications",
+  "keyImages": [
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/9c7a70d78df948ddaf1b51722b16d6b8/item/EGS_EvansRemains_Maitan69_S2-1200x1600-d150e7872c394bbda0879e1998e93b80.jpg",
+      "md5": "d150e7872c394bbda0879e1998e93b80",
+      "width": 1200,
+      "height": 1600,
+      "size": 221365,
+      "uploadedDate": "2020-11-03T20:22:43.537Z"
+    },
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/9c7a70d78df948ddaf1b51722b16d6b8/item/EGS_EvansRemains_Maitan69_S1-2560x1440-5b32de6748b603c6bf3aca7e0f3fc714.jpg",
+      "md5": "5b32de6748b603c6bf3aca7e0f3fc714",
+      "width": 2560,
+      "height": 1440,
+      "size": 431109,
+      "uploadedDate": "2020-11-03T20:22:52.484Z"
+    }
+  ],
+  "creationDate": "2020-10-27T13:13:17.744+00:00",
+  "lastModifiedDate": "2020-11-23T16:48:26.64+00:00",
+  "developer": "White Thorn Digital",
+  "developerId": "o-v7c8xq9bmhtqhakulz7lrptnz8b628",
+  "applicationId": null
+}

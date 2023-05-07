@@ -1,0 +1,32 @@
+{
+  "id": "95598079686f4059b1623ad58bbad18d",
+  "title": "Observation Pre-Purchase",
+  "description": "Observation Pre-Purchase",
+  "namespace": "allium",
+  "categories": "",
+  "keyImages": [
+    {
+      "type": "DieselGameBoxLogo",
+      "url": "https://cdn1.epicgames.com/allium/item/ObservationLogo-2496x560-b4b1a805027ea44d3e5018fe13036576.png",
+      "md5": "b4b1a805027ea44d3e5018fe13036576",
+      "width": 2496,
+      "height": 560,
+      "size": 15068,
+      "uploadedDate": "2019-05-06T20:13:10.268Z"
+    },
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/allium/item/ObservationPromo-1920x1080-515772930cdd49854eedd42128215ffc.jpg",
+      "md5": "515772930cdd49854eedd42128215ffc",
+      "width": 1920,
+      "height": 1080,
+      "size": 351193,
+      "uploadedDate": "2019-05-06T20:13:19.83Z"
+    }
+  ],
+  "creationDate": "2019-05-06T20:12:08.734+00:00",
+  "lastModifiedDate": "2019-05-21T13:56:48.185+00:00",
+  "developer": "Devolver Digital, Inc.",
+  "developerId": "o-plnhdz2wfx5etjjeh88szjqy2gx8gw",
+  "applicationId": null
+}

@@ -1,0 +1,23 @@
+{
+  "id": "484f450430e34071b52833ac63e670d2",
+  "title": "SatisfactoryEarlyAccessAudience",
+  "description": "SatisfactoryEarlyAccessAudience",
+  "namespace": "crab",
+  "categories": "",
+  "keyImages": [
+    {
+      "type": "ESRB",
+      "url": "https://cdn1.epicgames.com/crab/item/ESRB_Spellbreak-842x404-fce4fa7233ed80170a8e36079d1e1bde.png",
+      "md5": "fce4fa7233ed80170a8e36079d1e1bde",
+      "width": 842,
+      "height": 404,
+      "size": 51194,
+      "uploadedDate": "2019-04-23T20:15:12.965Z"
+    }
+  ],
+  "creationDate": "2019-02-26T16:16:58.336+00:00",
+  "lastModifiedDate": "2022-12-06T19:20:53.979+00:00",
+  "developer": "Coffee Stain Studios",
+  "developerId": "o-9r9hp69ccnr39qp9f9mgpsznznu4as",
+  "applicationId": null
+}

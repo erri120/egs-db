@@ -1,0 +1,32 @@
+{
+  "id": "d75209cb08db45ffa5344647e979679a",
+  "title": "Europa Universalis IV: Ultimate Music Pack Collection",
+  "description": "Europa Universalis IV: Ultimate Music Pack Collection",
+  "namespace": "80d3aeb1d7c3434981e0bcbc47700a83",
+  "categories": "public/games/applications",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_EuropaUniversalisIVUltimateMusicPack_ParadoxDevelopmentStudio_DLC_S1_2560x1440-8bd1fd4d39ce0209f0fe0162bcf91ce0_2560x1440-8bd1fd4d39ce0209f0fe0162bcf91ce0",
+      "md5": "8bd1fd4d39ce0209f0fe0162bcf91ce0",
+      "width": 2560,
+      "height": 1440,
+      "size": 1024401,
+      "uploadedDate": "2021-09-29T21:13:48.412Z"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_EuropaUniversalisIVUltimateMusicPack_ParadoxDevelopmentStudio_DLC_S2_1200x1600-2c9ba7a08eda496a9ad918f770df7ee5_1200x1600-2c9ba7a08eda496a9ad918f770df7ee5",
+      "md5": "2c9ba7a08eda496a9ad918f770df7ee5",
+      "width": 1200,
+      "height": 1600,
+      "size": 980171,
+      "uploadedDate": "2021-09-29T21:13:43.25Z"
+    }
+  ],
+  "creationDate": "2020-12-09T23:12:39.779+00:00",
+  "lastModifiedDate": "2021-09-29T21:25:13.747+00:00",
+  "developer": "Paradox Interactive",
+  "developerId": "o-tjvfg6rejs6h86qa7k9aa64rrgbxxb",
+  "applicationId": ""
+}

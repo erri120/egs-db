@@ -1,0 +1,32 @@
+{
+  "id": "f22307177b46437888497c98cbbd2431",
+  "title": "Tom Clancy\u0027s The Division 2 - Preload",
+  "description": "Tom Clancy\u0027s The Division 2 - Preload",
+  "namespace": "impala",
+  "categories": "",
+  "keyImages": [
+    {
+      "type": "DieselGameBoxLogo",
+      "url": "https://cdn1.epicgames.com/impala/item/TCTD2_Logo-7084x1693-cc5af48289166c1ec6d1085ddf916a8e.png",
+      "md5": "cc5af48289166c1ec6d1085ddf916a8e",
+      "width": 7084,
+      "height": 1693,
+      "size": 172656,
+      "uploadedDate": "2019-03-06T19:08:55.093Z"
+    },
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/impala/item/TCTD2preload-2048x1151-cce9a8a830443aaf82f23ae88dcf6141.jpg",
+      "md5": "cce9a8a830443aaf82f23ae88dcf6141",
+      "width": 2048,
+      "height": 1151,
+      "size": 496655,
+      "uploadedDate": "2019-03-08T01:24:11.532Z"
+    }
+  ],
+  "creationDate": "2019-03-06T19:11:29.788+00:00",
+  "lastModifiedDate": "2020-09-28T14:54:22.704+00:00",
+  "developer": "Ubisoft Entertainment",
+  "developerId": "o-3efjudxdtgsqnulml4bkeq3v9nec38",
+  "applicationId": null
+}

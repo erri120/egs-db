@@ -1,0 +1,32 @@
+{
+  "id": "44ce416e37474651ab528cd691b067b5",
+  "title": "MotoGP\u212221",
+  "description": "Take your place on the starting grid and get ready for the most realistic and immersive MotoGP\u2122 videogame ever.\nLive the most authentic 2-wheels racing experience with the new MotoGP\u212221!",
+  "namespace": "4a9527d6d2984bb39d527631b94ec7f2",
+  "categories": "public/games/applications",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_MotoGP21_MilestoneSrl_S1_2560x1440-ce5fd8d4a7faff1998443f7dda884fae",
+      "md5": "ce5fd8d4a7faff1998443f7dda884fae",
+      "width": 2560,
+      "height": 1440,
+      "size": 474402,
+      "uploadedDate": "2021-04-19T21:42:53.013Z"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_MotoGP21_MilestoneSrl_S2_1200x1600-6d29e00ac5b2866a3c1f1db6d6827d46",
+      "md5": "6d29e00ac5b2866a3c1f1db6d6827d46",
+      "width": 1200,
+      "height": 1600,
+      "size": 480269,
+      "uploadedDate": "2021-04-19T21:42:56.417Z"
+    }
+  ],
+  "creationDate": "2020-12-21T21:00:31.195+00:00",
+  "lastModifiedDate": "2021-04-22T14:42:27.785+00:00",
+  "developer": "Milestone Srl",
+  "developerId": "o-n7dnjfk8y2kzquszv8mfn55fg68f7a",
+  "applicationId": "fghi4567Qwv56B6R2Oy9vJP84zVA28by"
+}

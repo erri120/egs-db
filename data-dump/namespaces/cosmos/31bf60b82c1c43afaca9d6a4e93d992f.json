@@ -1,0 +1,23 @@
+{
+  "id": "31bf60b82c1c43afaca9d6a4e93d992f",
+  "title": "RUNE II World Map Staging Audience",
+  "description": "RUNE II World Map Staging Audience",
+  "namespace": "cosmos",
+  "categories": "",
+  "keyImages": [
+    {
+      "type": "ESRB",
+      "url": "https://cdn1.epicgames.com/cosmos/item/RP_FOR_T_M_AO-842x404-e685858d6f01213bedf5b2abec53be94.png",
+      "md5": "e685858d6f01213bedf5b2abec53be94",
+      "width": 842,
+      "height": 404,
+      "size": 55379,
+      "uploadedDate": "2019-05-17T19:45:31.491Z"
+    }
+  ],
+  "creationDate": "2019-09-06T19:50:28.474+00:00",
+  "lastModifiedDate": "2019-09-06T19:53:48.765+00:00",
+  "developer": "Human Head Studios, Inc.",
+  "developerId": "o-peysvmw9hg6a5s86ehl8a5dbz8fddp",
+  "applicationId": null
+}

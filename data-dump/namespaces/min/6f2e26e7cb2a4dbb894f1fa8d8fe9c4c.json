@@ -1,0 +1,32 @@
+{
+  "id": "6f2e26e7cb2a4dbb894f1fa8d8fe9c4c",
+  "title": "Hades Soundtrack",
+  "description": "Hades Soundtrack",
+  "namespace": "min",
+  "categories": "",
+  "keyImages": [
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/min/item/C57GViYA-510x680-f59c1f22e4f53fcab5800fca938dbb81.png",
+      "md5": "f59c1f22e4f53fcab5800fca938dbb81",
+      "width": 510,
+      "height": 680,
+      "size": 563033,
+      "uploadedDate": "2019-12-09T15:26:03.983Z"
+    },
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/min/item/C57GViYA-510x680-f59c1f22e4f53fcab5800fca938dbb81-510x680-f59c1f22e4f53fcab5800fca938dbb81.png",
+      "md5": "f59c1f22e4f53fcab5800fca938dbb81",
+      "width": 510,
+      "height": 680,
+      "size": 563033,
+      "uploadedDate": "2020-01-06T17:56:57.634Z"
+    }
+  ],
+  "creationDate": "2019-11-14T22:50:14.736+00:00",
+  "lastModifiedDate": "2021-08-12T14:06:37.807+00:00",
+  "developer": "Supergiant Games LLC",
+  "developerId": "o-vwkp2e2azz3ybr7ckg7pfnxhwezd4a",
+  "applicationId": ""
+}

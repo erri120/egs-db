@@ -1,0 +1,23 @@
+{
+  "id": "ea40854ad56f47ba8ae01fb1a90ac667",
+  "title": "SnapdragonInternal",
+  "description": "SnapdragonInternal",
+  "namespace": "snapdragon",
+  "categories": "",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/snapdragon/item/ME_box-2580x1450-de2ad75a8e828b1b8f7820a4ddb18219.jpg",
+      "md5": "de2ad75a8e828b1b8f7820a4ddb18219",
+      "width": 2580,
+      "height": 1450,
+      "size": 399290,
+      "uploadedDate": "2019-01-30T15:56:06.648Z"
+    }
+  ],
+  "creationDate": "2019-01-30T15:56:27.125+00:00",
+  "lastModifiedDate": "2023-03-06T17:19:46.452+00:00",
+  "developer": "Plaion",
+  "developerId": "o-jskfz28ywm2l56px6h9rlxplaysrtl",
+  "applicationId": ""
+}

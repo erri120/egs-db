@@ -1,0 +1,23 @@
+{
+  "id": "85e9b9f3045b4ca192c040c2951a70db",
+  "title": "NautilusGeneralAudience",
+  "description": "NautilusGeneralAudience",
+  "namespace": "nautilus",
+  "categories": "",
+  "keyImages": [
+    {
+      "type": "ESRB",
+      "url": "https://cdn1.epicgames.com/nautilus/item/Vampyr-842x404-f666ed93d56b4d700b11c0edf12d1ecc.png",
+      "md5": "f666ed93d56b4d700b11c0edf12d1ecc",
+      "width": 842,
+      "height": 404,
+      "size": 19469,
+      "uploadedDate": "2019-04-23T20:41:24.522Z"
+    }
+  ],
+  "creationDate": "2019-01-04T19:56:59.986+00:00",
+  "lastModifiedDate": "2019-05-13T14:46:58.196+00:00",
+  "developer": "Focus Home",
+  "developerId": "o-wt4zxeetmq6jem7qp4pkssr46aenj5",
+  "applicationId": null
+}

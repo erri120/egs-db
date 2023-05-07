@@ -1,0 +1,32 @@
+{
+  "id": "fda8398cb0574ee580b30efc7ecd22e2",
+  "title": "Valiant Hearts: The Great War",
+  "description": "Valiant Hearts: The Great War",
+  "namespace": "8767c1c91fc847cbafbfa232c695276f",
+  "categories": "public/games/applications",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/8767c1c91fc847cbafbfa232c695276f/item/VHGW_UCS15668_EGST_Store_Landscape_2560x1440-2560x1440-b95a83bc9e08f99ca54e5f0bfae8b676.jpg",
+      "md5": "b95a83bc9e08f99ca54e5f0bfae8b676",
+      "width": 2560,
+      "height": 1440,
+      "size": 768354,
+      "uploadedDate": "2020-05-28T20:22:23.191Z"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/8767c1c91fc847cbafbfa232c695276f/item/VHGW_UCS15668_EGST_Store_Portrait_1200x1600-1200x1600-162d25b7e8f64823a0a14d87cc42cb8d.jpg",
+      "md5": "162d25b7e8f64823a0a14d87cc42cb8d",
+      "width": 1200,
+      "height": 1600,
+      "size": 433330,
+      "uploadedDate": "2020-05-28T20:22:41.952Z"
+    }
+  ],
+  "creationDate": "2020-03-24T00:47:42.255+00:00",
+  "lastModifiedDate": "2020-06-04T14:34:32.803+00:00",
+  "developer": "Ubisoft Entertainment",
+  "developerId": "o-3efjudxdtgsqnulml4bkeq3v9nec38",
+  "applicationId": null
+}

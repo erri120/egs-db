@@ -1,0 +1,23 @@
+{
+  "id": "d12b6b7b251b42f98f4f0d8a0723d7c1",
+  "title": "Wells Pack",
+  "description": "Wells Pack",
+  "namespace": "f9c2aedaff8442b286fbd026948b9f09",
+  "categories": "",
+  "keyImages": [
+    {
+      "type": "ESRB",
+      "url": "https://cdn1.epicgames.com/f9c2aedaff8442b286fbd026948b9f09/item/ESRB_Faeria-842x485-5765e4d7960a6a3da59dfa970b6f5147.jpg",
+      "md5": "5765e4d7960a6a3da59dfa970b6f5147",
+      "width": 842,
+      "height": 485,
+      "size": 87036,
+      "uploadedDate": "2020-02-25T15:57:57.18Z"
+    }
+  ],
+  "creationDate": "2019-09-09T19:57:52.342+00:00",
+  "lastModifiedDate": "2021-03-24T01:04:24.132+00:00",
+  "developer": "Abrakam",
+  "developerId": "o-7e471071ca794f1abc81c7430b7e8f",
+  "applicationId": null
+}

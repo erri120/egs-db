@@ -1,0 +1,32 @@
+{
+  "id": "e42eca8e2aeb48da9ccc5d5ecc212b62",
+  "title": "Super Meat Boy Forever",
+  "description": "Super Meat Boy Forever",
+  "namespace": "moose",
+  "categories": "",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/moose/item/EGS_SuperMeatBoyForever_TeamMeat_S5-1920x1080-9929c76d5f016bb9046fe90b9e897cb4.jpg",
+      "md5": "9929c76d5f016bb9046fe90b9e897cb4",
+      "width": 1920,
+      "height": 1080,
+      "size": 229545,
+      "uploadedDate": "2020-12-10T19:41:09.751Z"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/moose/item/EGS_SuperMeatBoyForever_TeamMeat_S6-1200x1600-587fb2964079e7467c7320a2de3adac8.jpg",
+      "md5": "587fb2964079e7467c7320a2de3adac8",
+      "width": 1200,
+      "height": 1600,
+      "size": 706770,
+      "uploadedDate": "2020-12-10T19:41:14.193Z"
+    }
+  ],
+  "creationDate": "2018-11-30T01:21:47.809+00:00",
+  "lastModifiedDate": "2020-12-23T04:58:29.321+00:00",
+  "developer": "Team Meat",
+  "developerId": "o-mj7q3aaq5djq6wuddnrr5mgqjsk2da",
+  "applicationId": "fghi4567TAe1TGSM9HTRN4UCWDe1Mjej"
+}

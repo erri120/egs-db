@@ -1,0 +1,32 @@
+{
+  "id": "1fea1f054a3b4e0c805da8b1a4d39b8d",
+  "title": "STAR WARS\u2122 Battlefront\u2122 II: Celebration Edition",
+  "description": "STAR WARS\u2122 Battlefront\u2122 II: Celebration Edition",
+  "namespace": "b156c3365a5b4cb9a01a5e1108b4e3f4",
+  "categories": "public/games/applications",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/b156c3365a5b4cb9a01a5e1108b4e3f4/item/EGS_STARWARSBattlefrontIICelebrationEdition_DICE_S1-2560x1440-3dc68a07cace02e826ad42a2de5279b0.jpg",
+      "md5": "3dc68a07cace02e826ad42a2de5279b0",
+      "width": 2560,
+      "height": 1440,
+      "size": 936594,
+      "uploadedDate": "2021-01-06T15:58:57.012Z"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/b156c3365a5b4cb9a01a5e1108b4e3f4/item/EGS_STARWARSBattlefrontIICelebrationEdition_DICE_S2-1200x1600-11d040719a8457bbf36cabbe89b200db.jpg",
+      "md5": "11d040719a8457bbf36cabbe89b200db",
+      "width": 1200,
+      "height": 1600,
+      "size": 987047,
+      "uploadedDate": "2021-01-06T15:59:04.518Z"
+    }
+  ],
+  "creationDate": "2020-11-09T13:43:26.202+00:00",
+  "lastModifiedDate": "2021-01-21T15:58:08.433+00:00",
+  "developer": "Electronic Arts",
+  "developerId": "o-vtqh9b4lk8n4jpadfv6cphqs9hsly9",
+  "applicationId": null
+}

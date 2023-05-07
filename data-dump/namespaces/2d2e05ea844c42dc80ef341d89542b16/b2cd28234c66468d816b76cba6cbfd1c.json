@@ -1,0 +1,32 @@
+{
+  "id": "b2cd28234c66468d816b76cba6cbfd1c",
+  "title": "Railway Empire 2",
+  "description": "Don the coat of a clever entrepreneur, take over a small railway company in the early 1800s and turn your steam engines into the workhorses of the economy.",
+  "namespace": "2d2e05ea844c42dc80ef341d89542b16",
+  "categories": "",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/spt-assets/f15bab011c3743b5a372d47123b274c6/railway-empire-2-t7roi.jpg",
+      "md5": "fcc649064b1a321fd73c256529f5eb42",
+      "width": 2560,
+      "height": 1440,
+      "size": 3891843,
+      "uploadedDate": "2023-03-08T13:44:41.457Z"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/spt-assets/f15bab011c3743b5a372d47123b274c6/railway-empire-2-17a7s.jpg",
+      "md5": "a9dd1f1a5ba5a369b84b75009791444c",
+      "width": 1200,
+      "height": 1600,
+      "size": 3116723,
+      "uploadedDate": "2023-03-08T13:44:30.64Z"
+    }
+  ],
+  "creationDate": "2022-08-16T07:15:53.334+00:00",
+  "lastModifiedDate": "2023-04-25T16:24:41.575+00:00",
+  "developer": "Kalypso Media Group GmbH",
+  "developerId": "o-37ss7wypkskvyj58j9s7hhltxtujac",
+  "applicationId": ""
+}

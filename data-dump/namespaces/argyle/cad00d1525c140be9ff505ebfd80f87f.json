@@ -1,0 +1,32 @@
+{
+  "id": "cad00d1525c140be9ff505ebfd80f87f",
+  "title": "Trials Rising Crash n Sunburn DLC",
+  "description": "Trials Rising Crash n Sunburn DLC",
+  "namespace": "argyle",
+  "categories": "hidden/games/applications",
+  "keyImages": [
+    {
+      "type": "DieselGameBoxLogo",
+      "url": "https://cdn1.epicgames.com/argyle/item/crash-n-sunburn_Game_Logo-1000x375-98225d9d831e6ff37155aaba02ce4b67.png",
+      "md5": "98225d9d831e6ff37155aaba02ce4b67",
+      "width": 1000,
+      "height": 375,
+      "size": 55534,
+      "uploadedDate": "2019-09-11T14:57:54.165Z"
+    },
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/argyle/item/crash-n-sunburn_TR-2580x1450-04b4da91db9240cf614bd72ce6c802a2.jpg",
+      "md5": "04b4da91db9240cf614bd72ce6c802a2",
+      "width": 2580,
+      "height": 1450,
+      "size": 376853,
+      "uploadedDate": "2019-09-11T14:58:11.907Z"
+    }
+  ],
+  "creationDate": "2019-09-03T21:51:54.32+00:00",
+  "lastModifiedDate": "2020-11-18T15:52:24.414+00:00",
+  "developer": "Ubisoft Entertainment",
+  "developerId": "o-3efjudxdtgsqnulml4bkeq3v9nec38",
+  "applicationId": null
+}

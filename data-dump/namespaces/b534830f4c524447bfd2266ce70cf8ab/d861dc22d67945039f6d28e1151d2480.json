@@ -1,0 +1,23 @@
+{
+  "id": "d861dc22d67945039f6d28e1151d2480",
+  "title": "TWDTTDS Pre-Purchase Audience",
+  "description": "TWDTTDS Pre-Purchase Audience",
+  "namespace": "b534830f4c524447bfd2266ce70cf8ab",
+  "categories": "",
+  "keyImages": [
+    {
+      "type": "ESRB",
+      "url": "https://cdn1.epicgames.com/b534830f4c524447bfd2266ce70cf8ab/item/ESRB_WalkingDeadDE-842x404-0ae3fb75831087dd66fcbd2053dff37b.png",
+      "md5": "0ae3fb75831087dd66fcbd2053dff37b",
+      "width": 842,
+      "height": 404,
+      "size": 59326,
+      "uploadedDate": "2019-09-25T13:27:03.403Z"
+    }
+  ],
+  "creationDate": "2019-08-05T18:20:54.613+00:00",
+  "lastModifiedDate": "2019-09-25T13:27:06.813+00:00",
+  "developer": "Skybound Interactive",
+  "developerId": "o-rqvssgn2hhj58wv5bc6eueqswz2un4",
+  "applicationId": null
+}

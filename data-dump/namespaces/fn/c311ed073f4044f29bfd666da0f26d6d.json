@@ -1,0 +1,23 @@
+{
+  "id": "c311ed073f4044f29bfd666da0f26d6d",
+  "title": "FortniteDevAthena",
+  "description": "FortniteDevAthena",
+  "namespace": "fn",
+  "categories": "",
+  "keyImages": [
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/fn/item/EGS_Launcher_Fortnite_11BR_S2-1280x1440-7f86ba3d9ce5bf6c957e627613d8ce06.jpg",
+      "md5": "7f86ba3d9ce5bf6c957e627613d8ce06",
+      "width": 1280,
+      "height": 1440,
+      "size": 2709563,
+      "uploadedDate": "2019-10-22T09:41:44.79Z"
+    }
+  ],
+  "creationDate": "2017-07-10T20:35:58.653+00:00",
+  "lastModifiedDate": "2023-02-10T23:02:51.656+00:00",
+  "developer": "Epic Games",
+  "developerId": "o-aa83a0a9bc45e98c80c1b1c9d92e9e",
+  "applicationId": null
+}

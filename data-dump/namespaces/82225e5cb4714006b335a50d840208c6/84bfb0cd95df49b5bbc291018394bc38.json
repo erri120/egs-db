@@ -1,0 +1,32 @@
+{
+  "id": "84bfb0cd95df49b5bbc291018394bc38",
+  "title": "Might \u0026 Magic: Chess Royale",
+  "description": "Might \u0026 Magic: Chess Royale",
+  "namespace": "82225e5cb4714006b335a50d840208c6",
+  "categories": "public/games/applications",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/82225e5cb4714006b335a50d840208c6/item/EPIC_Key_Art_Landscape-MNMCR-3840x2160-9f436daddcd292d17ec8765b961fcc85.png",
+      "md5": "9f436daddcd292d17ec8765b961fcc85",
+      "width": 3840,
+      "height": 2160,
+      "size": 488514,
+      "uploadedDate": "2020-05-04T16:15:28.137Z"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/82225e5cb4714006b335a50d840208c6/item/EPIC_Key_Art_Portrait_640x854-MNMCR-640x854-faddeaba1e194bf29c224ab81cd8450b.png",
+      "md5": "faddeaba1e194bf29c224ab81cd8450b",
+      "width": 640,
+      "height": 854,
+      "size": 238117,
+      "uploadedDate": "2020-05-04T16:15:42.205Z"
+    }
+  ],
+  "creationDate": "2020-04-09T19:27:45.736+00:00",
+  "lastModifiedDate": "2020-05-05T14:39:24.045+00:00",
+  "developer": "Ubisoft Entertainment",
+  "developerId": "o-3efjudxdtgsqnulml4bkeq3v9nec38",
+  "applicationId": null
+}

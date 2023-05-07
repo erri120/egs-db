@@ -1,0 +1,32 @@
+{
+  "id": "b008e377f93240a7af8e6e119b27f394",
+  "title": "Journey To The Savage Planet",
+  "description": "Journey To The Savage Planet",
+  "namespace": "oleander",
+  "categories": "",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/item/oleander/JTTSP_Landscape_Image_2560X1440_2560x1440-ffdd4fd9863cf7faaeac8cd7e8a6bbe0",
+      "md5": "ffdd4fd9863cf7faaeac8cd7e8a6bbe0",
+      "width": 2560,
+      "height": 1440,
+      "size": 1034867,
+      "uploadedDate": "2022-11-09T21:50:16.204Z"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/item/oleander/JTTSP_Portrait_Storefront_1200X1600_1200x1600-f58bcd2b76429be1313d10e9f63143a9",
+      "md5": "f58bcd2b76429be1313d10e9f63143a9",
+      "width": 1200,
+      "height": 1600,
+      "size": 542346,
+      "uploadedDate": "2022-11-09T21:50:13.689Z"
+    }
+  ],
+  "creationDate": "2019-03-11T18:40:01.143+00:00",
+  "lastModifiedDate": "2022-11-09T21:50:21.47+00:00",
+  "developer": "505 Games",
+  "developerId": "o-cul2z53mrw3bxltv63v68rgd4b3w52",
+  "applicationId": ""
+}

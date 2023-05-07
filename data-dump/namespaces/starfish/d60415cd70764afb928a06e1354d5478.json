@@ -1,0 +1,32 @@
+{
+  "id": "d60415cd70764afb928a06e1354d5478",
+  "title": "Outer Wilds Review",
+  "description": "Outer Wilds Review",
+  "namespace": "starfish",
+  "categories": "",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/starfish/item/OuterWilds_PrimaryPromo-1290x725-930b33ddbd98f10b26d8d2bd72551095.png",
+      "md5": "930b33ddbd98f10b26d8d2bd72551095",
+      "width": 1290,
+      "height": 725,
+      "size": 215896,
+      "uploadedDate": "2019-04-30T19:18:09.53Z"
+    },
+    {
+      "type": "DieselGameBoxLogo",
+      "url": "https://cdn1.epicgames.com/starfish/item/OuterWilds_Logo-1501x700-bf592e4fe986130cee68604ec4059e03.png",
+      "md5": "bf592e4fe986130cee68604ec4059e03",
+      "width": 1501,
+      "height": 700,
+      "size": 70702,
+      "uploadedDate": "2019-04-30T19:18:21.22Z"
+    }
+  ],
+  "creationDate": "2019-04-25T12:15:54.071+00:00",
+  "lastModifiedDate": "2021-07-23T15:22:48.093+00:00",
+  "developer": "Annapurna Interactive",
+  "developerId": "o-bmeb3ztlbxkjc8vvpydava38yvmxlm",
+  "applicationId": ""
+}

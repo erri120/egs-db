@@ -1,0 +1,32 @@
+{
+  "id": "2e56bd2e83ca4211ac4e187531ebc1c3",
+  "title": "Fashion Police Squad",
+  "description": "Fashion Police Squad",
+  "namespace": "65d31d60510a49629a0b52e93da8416a",
+  "categories": "public/games/applications",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/item/65d31d60510a49629a0b52e93da8416a/EGS_FashionPoliceSquad_MopefulGames_S1_2560x1440-bec6dfac399eaa451dba21eb99975ab7",
+      "md5": "bec6dfac399eaa451dba21eb99975ab7",
+      "width": 2560,
+      "height": 1440,
+      "size": 865223,
+      "uploadedDate": "2023-01-27T14:12:42.31Z"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/item/65d31d60510a49629a0b52e93da8416a/EGS_FashionPoliceSquad_MopefulGames_S2_1200x1600-f60433cc82e65100aa1608dede51d370",
+      "md5": "f60433cc82e65100aa1608dede51d370",
+      "width": 1200,
+      "height": 1600,
+      "size": 827744,
+      "uploadedDate": "2023-01-27T14:12:44.618Z"
+    }
+  ],
+  "creationDate": "2021-05-19T16:52:59.894+00:00",
+  "lastModifiedDate": "2023-01-27T14:12:49.186+00:00",
+  "developer": "No More Robots",
+  "developerId": "o-236t9erksuklvbpwrddx5953wndtps",
+  "applicationId": ""
+}

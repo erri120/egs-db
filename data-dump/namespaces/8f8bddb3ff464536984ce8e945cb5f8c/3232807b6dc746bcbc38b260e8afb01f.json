@@ -1,0 +1,32 @@
+{
+  "id": "3232807b6dc746bcbc38b260e8afb01f",
+  "title": "South Park: The Stick of Truth",
+  "description": "South Park: The Stick of Truth",
+  "namespace": "8f8bddb3ff464536984ce8e945cb5f8c",
+  "categories": "public/games/applications",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/8f8bddb3ff464536984ce8e945cb5f8c/item/SPRK_Store_Landscape_2560x1440-2560x1440-8d6eafe86af3809a541e6aa16e828924.jpg",
+      "md5": "8d6eafe86af3809a541e6aa16e828924",
+      "width": 2560,
+      "height": 1440,
+      "size": 901711,
+      "uploadedDate": "2020-08-04T21:54:59.517Z"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/8f8bddb3ff464536984ce8e945cb5f8c/item/SPRK_Store_Portrait_1200x1600-1200x1600-2207f4307a22a4fc55bd08ee807c674d.jpg",
+      "md5": "2207f4307a22a4fc55bd08ee807c674d",
+      "width": 1200,
+      "height": 1600,
+      "size": 781645,
+      "uploadedDate": "2020-08-04T21:55:11.558Z"
+    }
+  ],
+  "creationDate": "2019-10-28T21:42:56.956+00:00",
+  "lastModifiedDate": "2020-08-05T18:47:54.481+00:00",
+  "developer": "Ubisoft Entertainment",
+  "developerId": "o-3efjudxdtgsqnulml4bkeq3v9nec38",
+  "applicationId": null
+}

@@ -1,0 +1,32 @@
+{
+  "id": "48353a502e72433298f25827e03dbff0",
+  "title": "Idle Champions of the Forgotten Realms",
+  "description": "Idle Champions of the Forgotten Realms",
+  "namespace": "7e508f543b05465abe3a935960eb70ac",
+  "categories": "public/games/applications",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/item/7e508f543b05465abe3a935960eb70ac/EGS_IdleChampionsoftheForgottenRealms_CodenameEntertainment_S1_2560x1440-d8a575b99b72f4197ab2cddc64f07e96",
+      "md5": "d8a575b99b72f4197ab2cddc64f07e96",
+      "width": 2560,
+      "height": 1440,
+      "size": 497741,
+      "uploadedDate": "2023-03-15T18:52:52.31Z"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/item/7e508f543b05465abe3a935960eb70ac/EGS_IdleChampionsoftheForgottenRealms_CodenameEntertainment_S2_1200x1600-c6f8b0a80bfc2252c1528bcf90caa4b9",
+      "md5": "c6f8b0a80bfc2252c1528bcf90caa4b9",
+      "width": 1200,
+      "height": 1600,
+      "size": 509634,
+      "uploadedDate": "2023-03-15T18:52:55.534Z"
+    }
+  ],
+  "creationDate": "2020-10-15T12:56:50.481+00:00",
+  "lastModifiedDate": "2023-04-21T14:54:25.962+00:00",
+  "developer": "Codename Entertainment",
+  "developerId": "o-3kpjwtwqwfl2p9wdwvpad7yqz4kt6c",
+  "applicationId": "fghi4567wjWymifPzKkVgt3WIe5Guq35"
+}

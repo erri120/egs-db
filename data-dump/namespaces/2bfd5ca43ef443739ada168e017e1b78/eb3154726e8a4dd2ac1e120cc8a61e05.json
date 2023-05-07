@@ -1,0 +1,32 @@
+{
+  "id": "eb3154726e8a4dd2ac1e120cc8a61e05",
+  "title": "Duck Soundtrack Staging",
+  "description": "Duck Soundtrack Staging",
+  "namespace": "2bfd5ca43ef443739ada168e017e1b78",
+  "categories": "public/games/applications",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/2bfd5ca43ef443739ada168e017e1b78/item/Cardpocalypse_MainGame_EpicGamesStore_S2_Store_Secondary_ApprovedPublic-2560x1440-c7a8a5fb84bf3e2f93ea58997928f6f7.jpg",
+      "md5": "c7a8a5fb84bf3e2f93ea58997928f6f7",
+      "width": 2560,
+      "height": 1440,
+      "size": 573157,
+      "uploadedDate": "2019-09-03T17:57:37.198Z"
+    },
+    {
+      "type": "DieselGameBoxLogo",
+      "url": "https://cdn1.epicgames.com/2bfd5ca43ef443739ada168e017e1b78/item/Cardpocalypse_Logo-WithLight-1843x659-3386ddc5eb8023b982b17ff53fd56275.png",
+      "md5": "3386ddc5eb8023b982b17ff53fd56275",
+      "width": 1843,
+      "height": 659,
+      "size": 274502,
+      "uploadedDate": "2019-09-10T20:24:41.661Z"
+    }
+  ],
+  "creationDate": "2019-09-10T20:30:46.447+00:00",
+  "lastModifiedDate": "2020-10-12T16:49:24.547+00:00",
+  "developer": "Versus Evil",
+  "developerId": "o-ugw2zblbdkg5xklzadlrt2qe92cdje",
+  "applicationId": null
+}

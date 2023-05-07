@@ -1,0 +1,32 @@
+{
+  "id": "8c04901974534bd0818f747952b0a19b",
+  "title": "Darksiders II Deathinitive Edition",
+  "description": "Darksiders II Deathinitive Edition",
+  "namespace": "091d95ea332843498122beee1a786d71",
+  "categories": "public/games/applications",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/091d95ea332843498122beee1a786d71/item/Storefront_Landscape-2560x1440-aaf0b5a36c066638e2b3f0ebcf2885e0.jpg",
+      "md5": "aaf0b5a36c066638e2b3f0ebcf2885e0",
+      "width": 2560,
+      "height": 1440,
+      "size": 778591,
+      "uploadedDate": "2019-12-19T21:54:10.003Z"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/091d95ea332843498122beee1a786d71/item/Storefront_Portrait-860x1148-79de1e63157da0a0af69d207703cec0a.jpg",
+      "md5": "79de1e63157da0a0af69d207703cec0a",
+      "width": 860,
+      "height": 1148,
+      "size": 276640,
+      "uploadedDate": "2019-12-19T21:54:18.442Z"
+    }
+  ],
+  "creationDate": "2019-12-13T02:52:35.521+00:00",
+  "lastModifiedDate": "2020-05-15T00:05:58.706+00:00",
+  "developer": "THQ Nordic GmbH",
+  "developerId": "o-jywxgemg3dagnv6fymcngq3g29mc4j",
+  "applicationId": null
+}

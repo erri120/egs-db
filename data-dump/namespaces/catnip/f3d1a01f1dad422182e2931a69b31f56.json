@@ -1,0 +1,41 @@
+{
+  "id": "f3d1a01f1dad422182e2931a69b31f56",
+  "title": "CatnipRevealDemo",
+  "description": "CatnipRevealDemo",
+  "namespace": "catnip",
+  "categories": "",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/catnip/item/Borderlands3_PrimaryPromo-1440x810-6bcacdd8461e42e50e4038e0fb3260ee.jpg",
+      "md5": "6bcacdd8461e42e50e4038e0fb3260ee",
+      "width": 1440,
+      "height": 810,
+      "size": 295579,
+      "uploadedDate": "2019-04-19T14:39:00.936Z"
+    },
+    {
+      "type": "DieselGameBoxLogo",
+      "url": "https://cdn1.epicgames.com/catnip/item/Borderlands3_Logo-720x209-8373e0df5612a9952fe79defb32e1322.png",
+      "md5": "8373e0df5612a9952fe79defb32e1322",
+      "width": 720,
+      "height": 209,
+      "size": 192732,
+      "uploadedDate": "2019-04-19T14:39:10.769Z"
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/catnip/item/Borderlands3_GameIcon-400x400-f940ecf9c288f1ae569485307ea5c95b.png",
+      "md5": "f940ecf9c288f1ae569485307ea5c95b",
+      "width": 400,
+      "height": 400,
+      "size": 98643,
+      "uploadedDate": "2019-04-19T14:39:28.241Z"
+    }
+  ],
+  "creationDate": "2019-03-29T02:33:37.551+00:00",
+  "lastModifiedDate": "2020-06-15T20:52:55.766+00:00",
+  "developer": "2K Games, Inc.",
+  "developerId": "o-37m6jbj5wcvrcvm4wusv7nazdfvbjk",
+  "applicationId": null
+}

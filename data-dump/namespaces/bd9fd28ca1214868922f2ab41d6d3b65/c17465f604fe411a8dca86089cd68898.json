@@ -1,0 +1,32 @@
+{
+  "id": "c17465f604fe411a8dca86089cd68898",
+  "title": "Beyond Blue",
+  "description": "Beyond Blue",
+  "namespace": "bd9fd28ca1214868922f2ab41d6d3b65",
+  "categories": "public/games/applications",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/bd9fd28ca1214868922f2ab41d6d3b65/item/EGS_BeyondBlue_ELineMedia_S1-2560x1440-5d205f1273f6b805db82bc525a1432b9.jpg",
+      "md5": "5d205f1273f6b805db82bc525a1432b9",
+      "width": 2560,
+      "height": 1440,
+      "size": 732880,
+      "uploadedDate": "2020-06-05T13:54:54.937Z"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/bd9fd28ca1214868922f2ab41d6d3b65/item/EGS_BeyondBlue_ELineMedia_S2-1200x1600-66ee2b1322a74ff2e35e462d644ff519.jpg",
+      "md5": "66ee2b1322a74ff2e35e462d644ff519",
+      "width": 1200,
+      "height": 1600,
+      "size": 572820,
+      "uploadedDate": "2020-06-05T13:55:05.186Z"
+    }
+  ],
+  "creationDate": "2020-05-22T16:29:38.029+00:00",
+  "lastModifiedDate": "2020-06-11T11:43:19.74+00:00",
+  "developer": "E-Line Media",
+  "developerId": "o-4ngf8f445bswz3vfhmvbfxbgf67bc4",
+  "applicationId": null
+}

@@ -1,0 +1,32 @@
+{
+  "id": "12c56039ad65435f83b381a5374f0007",
+  "title": "Tropico 6",
+  "description": "Tropico 6",
+  "namespace": "e1055bf1e5654b93a27e19e6bb86cb2a",
+  "categories": "public/games/applications",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/e1055bf1e5654b93a27e19e6bb86cb2a/item/EGS_Tropico6_LimbicEntertainment_S1-2560x1440-deb44da2953f683ecd1d47e72fc52b56.jpg",
+      "md5": "deb44da2953f683ecd1d47e72fc52b56",
+      "width": 2560,
+      "height": 1440,
+      "size": 803292,
+      "uploadedDate": "2020-11-16T20:07:05.975Z"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/e1055bf1e5654b93a27e19e6bb86cb2a/item/EGS_Tropico6_LimbicEntertainment_S2-1200x1600-9dd14a5f6c7120e220dfe8c952f31633.jpg",
+      "md5": "9dd14a5f6c7120e220dfe8c952f31633",
+      "width": 1200,
+      "height": 1600,
+      "size": 720272,
+      "uploadedDate": "2020-11-16T20:07:13.044Z"
+    }
+  ],
+  "creationDate": "2020-05-08T16:35:14.221+00:00",
+  "lastModifiedDate": "2022-11-21T17:44:58.679+00:00",
+  "developer": "Kalypso Media Group GmbH",
+  "developerId": "o-37ss7wypkskvyj58j9s7hhltxtujac",
+  "applicationId": "fghi45676hFTqlpB1XSKCsohcceQjQTa"
+}

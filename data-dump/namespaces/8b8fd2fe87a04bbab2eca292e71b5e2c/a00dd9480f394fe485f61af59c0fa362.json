@@ -1,0 +1,32 @@
+{
+  "id": "a00dd9480f394fe485f61af59c0fa362",
+  "title": "Desperados III",
+  "description": "Desperados III",
+  "namespace": "8b8fd2fe87a04bbab2eca292e71b5e2c",
+  "categories": "public/games/applications",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/8b8fd2fe87a04bbab2eca292e71b5e2c/item/desperados_keyart-10461x5900-9ad6b7f55152fa266112d7de9eebb26f.jpg",
+      "md5": "9ad6b7f55152fa266112d7de9eebb26f",
+      "width": 10461,
+      "height": 5900,
+      "size": 16658663,
+      "uploadedDate": "2020-06-10T18:37:40.696Z"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/8b8fd2fe87a04bbab2eca292e71b5e2c/item/Desperados3-Portrait-1539x1829-635d99688e941fb2f8c288600bc0fba2.png",
+      "md5": "635d99688e941fb2f8c288600bc0fba2",
+      "width": 1539,
+      "height": 1829,
+      "size": 4181480,
+      "uploadedDate": "2020-06-10T18:39:32.413Z"
+    }
+  ],
+  "creationDate": "2020-05-27T15:11:09.976+00:00",
+  "lastModifiedDate": "2020-09-09T19:41:46.894+00:00",
+  "developer": "THQ Nordic GmbH",
+  "developerId": "o-jywxgemg3dagnv6fymcngq3g29mc4j",
+  "applicationId": "fghi4567ZMglHunyqOafHHW52WKdAAdi"
+}

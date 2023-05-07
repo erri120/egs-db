@@ -1,0 +1,23 @@
+{
+  "id": "16a15ea136b24da9ae6f23d6df0dbdc3",
+  "title": "Satisfactory Pre-Purchase Audience",
+  "description": "Satisfactory Pre-Purchase Audience",
+  "namespace": "crab",
+  "categories": "",
+  "keyImages": [
+    {
+      "type": "ESRB",
+      "url": "https://cdn1.epicgames.com/crab/item/ESRB_Spellbreak-842x404-fce4fa7233ed80170a8e36079d1e1bde.png",
+      "md5": "fce4fa7233ed80170a8e36079d1e1bde",
+      "width": 842,
+      "height": 404,
+      "size": 51194,
+      "uploadedDate": "2019-04-23T20:15:29.805Z"
+    }
+  ],
+  "creationDate": "2019-03-06T14:08:29.967+00:00",
+  "lastModifiedDate": "2019-05-14T17:02:13.352+00:00",
+  "developer": "Coffee Stain Studios",
+  "developerId": "o-9r9hp69ccnr39qp9f9mgpsznznu4as",
+  "applicationId": null
+}

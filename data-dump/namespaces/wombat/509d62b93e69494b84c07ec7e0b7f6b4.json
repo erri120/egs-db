@@ -1,0 +1,41 @@
+{
+  "id": "509d62b93e69494b84c07ec7e0b7f6b4",
+  "title": "Wombat GOTY Audience",
+  "description": "Wombat GOTY Audience",
+  "namespace": "wombat",
+  "categories": "",
+  "keyImages": [
+    {
+      "type": "ESRB",
+      "url": "https://cdn1.epicgames.com/wombat/item/Rating_WWZ-842x404-816f6c7f1140d5d08750de13e3d81d9c.jpg",
+      "md5": "816f6c7f1140d5d08750de13e3d81d9c",
+      "width": 842,
+      "height": 404,
+      "size": 80166,
+      "uploadedDate": "2020-04-24T14:50:39.781Z"
+    },
+    {
+      "type": "DieselGameBoxWide",
+      "url": "https://cdn1.epicgames.com/wombat/item/WWZ-GOTY-Edition_EpicGames_LibraryImage-2560x1440-53e1efdd69ca0ef55fac60fc2d2f8a5b.jpg",
+      "md5": "53e1efdd69ca0ef55fac60fc2d2f8a5b",
+      "width": 2560,
+      "height": 1440,
+      "size": 741129,
+      "uploadedDate": "2020-05-04T14:20:42.153Z"
+    },
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/wombat/item/WWZ-GOTY-Edition_EpicGames_PortraitImage_860x1148-860x1148-6ad932230150a3580974ba0a719bcdaa.jpg",
+      "md5": "6ad932230150a3580974ba0a719bcdaa",
+      "width": 860,
+      "height": 1148,
+      "size": 154396,
+      "uploadedDate": "2020-05-04T14:21:00.643Z"
+    }
+  ],
+  "creationDate": "2020-04-24T14:50:44.165+00:00",
+  "lastModifiedDate": "2021-10-26T13:29:56.864+00:00",
+  "developer": "Saber Interactive",
+  "developerId": "o-2xlz78ngz5ubvus9sff9blglee43uk",
+  "applicationId": ""
+}

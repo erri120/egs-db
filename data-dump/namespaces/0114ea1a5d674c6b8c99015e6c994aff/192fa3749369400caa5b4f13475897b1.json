@@ -1,0 +1,32 @@
+{
+  "id": "192fa3749369400caa5b4f13475897b1",
+  "title": "Star Renegades",
+  "description": "Star Renegades",
+  "namespace": "0114ea1a5d674c6b8c99015e6c994aff",
+  "categories": "public/games/applications",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/0114ea1a5d674c6b8c99015e6c994aff/item/EGS_StarRenegades_MassiveDamageInc_S1-2560x1440-78ba910841e75e4cc0323ecfcc8ccc26.jpg",
+      "md5": "78ba910841e75e4cc0323ecfcc8ccc26",
+      "width": 2560,
+      "height": 1440,
+      "size": 1007685,
+      "uploadedDate": "2021-03-04T15:09:23.897Z"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/0114ea1a5d674c6b8c99015e6c994aff/item/EGS_StarRenegades_MassiveDamageInc_S2-1200x1600-74ebfd5e2e4d4a9c48ea41b9d3e14047.jpg",
+      "md5": "74ebfd5e2e4d4a9c48ea41b9d3e14047",
+      "width": 1200,
+      "height": 1600,
+      "size": 1017036,
+      "uploadedDate": "2021-03-04T15:09:35.217Z"
+    }
+  ],
+  "creationDate": "2021-02-22T20:20:19.123+00:00",
+  "lastModifiedDate": "2021-03-04T15:23:41.951+00:00",
+  "developer": "Raw Fury",
+  "developerId": "o-fay4ghw9hhamujs53rfhy83ffexb7k",
+  "applicationId": null
+}

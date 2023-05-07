@@ -1,0 +1,32 @@
+{
+  "id": "f82cd7827c9e46079ffeddbd0c9a9eb7",
+  "title": "GrackleStaging",
+  "description": "GrackleStaging",
+  "namespace": "cb23c857ec0d42d89b4be34d11302959",
+  "categories": "public/games/applications",
+  "keyImages": [
+    {
+      "type": "DieselGameBoxLogo",
+      "url": "https://cdn1.epicgames.com/cb23c857ec0d42d89b4be34d11302959/item/lego-batman-2-206x62-f30fb404f922552a469774d8fbc76de9.png",
+      "md5": "f30fb404f922552a469774d8fbc76de9",
+      "width": 206,
+      "height": 62,
+      "size": 13241,
+      "uploadedDate": "2019-09-16T19:59:08.316Z"
+    },
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/cb23c857ec0d42d89b4be34d11302959/item/lego-batman-2_promo-1536x864-e9e94a30c87ee28c5e6e58c62fc5d136.jpg",
+      "md5": "e9e94a30c87ee28c5e6e58c62fc5d136",
+      "width": 1536,
+      "height": 864,
+      "size": 252860,
+      "uploadedDate": "2019-09-16T19:59:31.885Z"
+    }
+  ],
+  "creationDate": "2019-08-27T22:19:20.231+00:00",
+  "lastModifiedDate": "2019-09-19T14:20:42.397+00:00",
+  "developer": "Warner Brothers",
+  "developerId": "o-7kyv8uwtz74njnl544kbxzt5xqephw",
+  "applicationId": null
+}

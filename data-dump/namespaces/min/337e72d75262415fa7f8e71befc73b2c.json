@@ -1,0 +1,23 @@
+{
+  "id": "337e72d75262415fa7f8e71befc73b2c",
+  "title": "Min",
+  "description": "Hades",
+  "namespace": "min",
+  "categories": "layoutcontent",
+  "keyImages": [
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/min/item/Hades_SecondaryPromo_01-(1)-2580x1450-2580x1450-a88a60789a43f57553ccb84573cbcd88-2580x1450-a88a60789a43f57553ccb84573cbcd88.png",
+      "md5": "a88a60789a43f57553ccb84573cbcd88",
+      "width": 2580,
+      "height": 1450,
+      "size": 957075,
+      "uploadedDate": "2018-12-06T19:47:50.03Z"
+    }
+  ],
+  "creationDate": "2018-12-06T19:47:55.242+00:00",
+  "lastModifiedDate": "2020-09-17T14:57:56.923+00:00",
+  "developer": "Supergiant Games LLC",
+  "developerId": "o-vwkp2e2azz3ybr7ckg7pfnxhwezd4a",
+  "applicationId": null
+}

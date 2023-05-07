@@ -1,0 +1,23 @@
+{
+  "id": "5c3215c2547c4910abd5f0f9ceb70921",
+  "title": "RavenGeneralAudience",
+  "description": "RavenGeneralAudience",
+  "namespace": "c0783fd957634390af33808d1a1f56dd",
+  "categories": "",
+  "keyImages": [
+    {
+      "type": "ESRB",
+      "url": "https://cdn1.epicgames.com/c0783fd957634390af33808d1a1f56dd/item/ESRB_NSR-842x404-1580b64c3a0ddc3119f9956a737ef5b9.png",
+      "md5": "1580b64c3a0ddc3119f9956a737ef5b9",
+      "width": 842,
+      "height": 404,
+      "size": 65127,
+      "uploadedDate": "2020-08-25T13:50:47.906Z"
+    }
+  ],
+  "creationDate": "2019-08-27T21:10:01.986+00:00",
+  "lastModifiedDate": "2020-08-25T13:50:58.266+00:00",
+  "developer": "Sold Out",
+  "developerId": "o-gcm88kddcs2t3gtypyq9tvlx64bzyw",
+  "applicationId": null
+}

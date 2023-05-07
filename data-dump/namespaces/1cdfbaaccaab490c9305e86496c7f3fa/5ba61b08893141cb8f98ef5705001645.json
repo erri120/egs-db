@@ -1,0 +1,23 @@
+{
+  "id": "5ba61b08893141cb8f98ef5705001645",
+  "title": "RaspberryGeneralAudience",
+  "description": "RaspberryGeneralAudience",
+  "namespace": "1cdfbaaccaab490c9305e86496c7f3fa",
+  "categories": "",
+  "keyImages": [
+    {
+      "type": "ESRB",
+      "url": "https://cdn1.epicgames.com/1cdfbaaccaab490c9305e86496c7f3fa/item/ESRB_M_SplinterCellDoubleAgent_Online-842x485-2594343cb8e1865a1bd39301c506a9e8.jpg",
+      "md5": "2594343cb8e1865a1bd39301c506a9e8",
+      "width": 842,
+      "height": 485,
+      "size": 48714,
+      "uploadedDate": "2021-03-11T16:16:56.343Z"
+    }
+  ],
+  "creationDate": "2020-08-12T18:22:46.718+00:00",
+  "lastModifiedDate": "2021-03-11T16:17:15.936+00:00",
+  "developer": "Ubisoft Entertainment",
+  "developerId": "o-3efjudxdtgsqnulml4bkeq3v9nec38",
+  "applicationId": null
+}

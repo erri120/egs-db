@@ -1,0 +1,32 @@
+{
+  "id": "8212880474ef431f99a43c0fb77b7a53",
+  "title": "Surgeon Simulator 2 - BETA",
+  "description": "Surgeon Simulator 2 - BETA",
+  "namespace": "7f1fa336313d48eca0a802170aa8dd8a",
+  "categories": "public/games/applications",
+  "keyImages": [
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/7f1fa336313d48eca0a802170aa8dd8a/item/key_art_closedbeta_1200x1600-1200x1600-efe5134117f589f6f272ff23155ed855.jpg",
+      "md5": "efe5134117f589f6f272ff23155ed855",
+      "width": 1200,
+      "height": 1600,
+      "size": 766851,
+      "uploadedDate": "2020-06-04T12:58:11.381Z"
+    },
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/7f1fa336313d48eca0a802170aa8dd8a/item/key_art_closedbeta_1920x1080-1920x1080-9a851f5733082a050b085d88ad37ffd2.jpg",
+      "md5": "9a851f5733082a050b085d88ad37ffd2",
+      "width": 1920,
+      "height": 1080,
+      "size": 709049,
+      "uploadedDate": "2020-06-04T12:58:23.308Z"
+    }
+  ],
+  "creationDate": "2020-06-01T18:14:13.378+00:00",
+  "lastModifiedDate": "2020-08-10T11:59:29.199+00:00",
+  "developer": "Bossa Studios",
+  "developerId": "o-2xhhr8jdtcqt7uprgbpvf7g9k2vppu",
+  "applicationId": null
+}

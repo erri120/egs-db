@@ -1,0 +1,32 @@
+{
+  "id": "fa35b154e4844c7e9aee92aeaba2708f",
+  "title": "Sherlock Holmes Chapter One",
+  "description": "Sherlock Holmes Chapter One",
+  "namespace": "699c2dc3694c4156befa26cad5c65505",
+  "categories": "public/games/applications",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/699c2dc3694c4156befa26cad5c65505/item/Diesel_productv2_sherlock-holmes-chapter-one_home_EGS_SherlockHolmesChapterOne_Frogwares_S1-2560x1440-5a18df1813929f405ed2170c1dd18d606ba4bc81-2560x1440-36afb77dcd51aee4f14a06fc04dbc1dc.jpg",
+      "md5": "36afb77dcd51aee4f14a06fc04dbc1dc",
+      "width": 2560,
+      "height": 1440,
+      "size": 366706,
+      "uploadedDate": "2020-05-22T19:40:53.744Z"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/699c2dc3694c4156befa26cad5c65505/item/Diesel_productv2_sherlock-holmes-chapter-one_home_EGS_SherlockHolmesChapterOne_Frogwares_S2-1200x1600-a4b7c8bb29d638fec000f986310609dbb77cc728-1200x1600-3d8ed9df5b49313d42181f2978574bf5.jpg",
+      "md5": "3d8ed9df5b49313d42181f2978574bf5",
+      "width": 1200,
+      "height": 1600,
+      "size": 243547,
+      "uploadedDate": "2020-05-22T19:41:34.515Z"
+    }
+  ],
+  "creationDate": "2020-05-08T16:42:28.886+00:00",
+  "lastModifiedDate": "2021-11-16T23:32:14.75+00:00",
+  "developer": "Frogwares",
+  "developerId": "o-rlw9u3sem84g2hc3ur36dqnp7wul3j",
+  "applicationId": "fghi4567q0KHC7JtcBAEq9ghiIpooJFF"
+}

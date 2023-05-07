@@ -1,0 +1,32 @@
+{
+  "id": "298f3d5d723745d98b26f72c69d2530d",
+  "title": "Blue Chip Ventures",
+  "description": "Blue Chip Ventures",
+  "namespace": "e8882546f28e4832af823c646aed232e",
+  "categories": "public/games/applications",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/e8882546f28e4832af823c646aed232e/item/EGS_OffworldTradingCompanyBlueChipVentures_MohawkGames_DLC_IC1_A-320x180-e40fec507eb5f1807bf41cec2248df16.jpg",
+      "md5": "e40fec507eb5f1807bf41cec2248df16",
+      "width": 320,
+      "height": 180,
+      "size": 75894,
+      "uploadedDate": "2020-03-05T15:48:38.886Z"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/e8882546f28e4832af823c646aed232e/item/Offworld_Portrait-510x680-7a9909ce27ac1d94813f6f49f6632871.jpg",
+      "md5": "7a9909ce27ac1d94813f6f49f6632871",
+      "width": 510,
+      "height": 680,
+      "size": 60952,
+      "uploadedDate": "2020-03-05T15:56:55.129Z"
+    }
+  ],
+  "creationDate": "2020-02-17T21:43:36.493+00:00",
+  "lastModifiedDate": "2022-12-13T18:52:53.9+00:00",
+  "developer": "Stardock Entertainment, Inc",
+  "developerId": "o-l69v3ppj5zgdpwtuvq6sgjew5yjt5w",
+  "applicationId": null
+}

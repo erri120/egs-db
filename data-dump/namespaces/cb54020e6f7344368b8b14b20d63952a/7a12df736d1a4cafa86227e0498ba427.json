@@ -1,0 +1,32 @@
+{
+  "id": "7a12df736d1a4cafa86227e0498ba427",
+  "title": "The Legend of Heroes: Trails of Cold Steel III",
+  "description": "The Legend of Heroes: Trails of Cold Steel III",
+  "namespace": "cb54020e6f7344368b8b14b20d63952a",
+  "categories": "public/games/applications",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/cb54020e6f7344368b8b14b20d63952a/item/EGS_TheLegendofHeroesTrailsofColdSteelIII_NihonFalcom_S1-2560x1440-0b2fb944f35da6300c8eeca3cdc0c3cc.jpg",
+      "md5": "0b2fb944f35da6300c8eeca3cdc0c3cc",
+      "width": 2560,
+      "height": 1440,
+      "size": 933068,
+      "uploadedDate": "2021-04-05T21:35:16.515Z"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/cb54020e6f7344368b8b14b20d63952a/item/EGS_TheLegendofHeroesTrailsofColdSteelIII_NihonFalcom_S2-1200x1600-038b1d03194a801044e2b2d9e2724b8e.jpg",
+      "md5": "038b1d03194a801044e2b2d9e2724b8e",
+      "width": 1200,
+      "height": 1600,
+      "size": 992204,
+      "uploadedDate": "2021-04-05T21:35:20.444Z"
+    }
+  ],
+  "creationDate": "2021-03-03T04:59:57.129+00:00",
+  "lastModifiedDate": "2021-04-16T16:37:47.08+00:00",
+  "developer": "NIS America, Inc.",
+  "developerId": "o-24ec9efll733ggh8wybar3x8zetflu",
+  "applicationId": null
+}

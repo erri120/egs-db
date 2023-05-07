@@ -1,0 +1,32 @@
+{
+  "id": "7c5c360e946f4173a7d5d88f4774e6dc",
+  "title": "The Jackbox Party Pack 3",
+  "description": "The Jackbox Party Pack 3",
+  "namespace": "orchid",
+  "categories": "",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/item/orchid/PP3_WideImage_2560x1440-c733acabc0a1ee53dde02042a0962861",
+      "md5": "c733acabc0a1ee53dde02042a0962861",
+      "width": 2560,
+      "height": 1440,
+      "size": 919501,
+      "uploadedDate": "2023-01-12T13:31:32.013Z"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/item/orchid/PP3_TallImage_1200x1600-1205b9298ea48a4d4d57b8408ec3fad3",
+      "md5": "1205b9298ea48a4d4d57b8408ec3fad3",
+      "width": 1200,
+      "height": 1600,
+      "size": 980748,
+      "uploadedDate": "2023-01-12T13:31:34.678Z"
+    }
+  ],
+  "creationDate": "2019-01-16T13:37:03.29+00:00",
+  "lastModifiedDate": "2023-01-12T13:31:38.003+00:00",
+  "developer": "Jackbox Games, Inc.",
+  "developerId": "o-2m9ap45qzvalaepjz6wclpcffeq4aj",
+  "applicationId": ""
+}

@@ -1,0 +1,32 @@
+{
+  "id": "8f328dced20e41d29b6f1fceed8f2164",
+  "title": "Kingdom Come Deliverance",
+  "description": "Kingdom Come: Deliverance",
+  "namespace": "ca4058f18b0a4a9e9e2ccc28f7f33000",
+  "categories": "public/games/applications",
+  "keyImages": [
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/ca4058f18b0a4a9e9e2ccc28f7f33000/item/KingdomComeDeliverance_Portrait-510x680-274f6cc73275cb9e9e83b9ce00dbbb09.jpg",
+      "md5": "274f6cc73275cb9e9e83b9ce00dbbb09",
+      "width": 510,
+      "height": 680,
+      "size": 112040,
+      "uploadedDate": "2020-02-13T16:13:33.323Z"
+    },
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/ca4058f18b0a4a9e9e2ccc28f7f33000/item/KingdomComeDeliverance_S3-1360x766-1360x766-0fdbc2b3494b9fb30f4f09c2078a9620.jpg",
+      "md5": "0fdbc2b3494b9fb30f4f09c2078a9620",
+      "width": 1360,
+      "height": 766,
+      "size": 221052,
+      "uploadedDate": "2020-02-13T16:14:00.433Z"
+    }
+  ],
+  "creationDate": "2019-11-27T20:00:38.061+00:00",
+  "lastModifiedDate": "2022-02-03T22:30:05.473+00:00",
+  "developer": "Warhorse Studios",
+  "developerId": "o-7kqff8eeke8qqkxqr45uhpjgzh2zy3",
+  "applicationId": ""
+}

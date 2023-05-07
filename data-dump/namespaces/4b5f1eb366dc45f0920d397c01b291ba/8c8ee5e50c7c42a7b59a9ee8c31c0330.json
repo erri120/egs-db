@@ -1,0 +1,41 @@
+{
+  "id": "8c8ee5e50c7c42a7b59a9ee8c31c0330",
+  "title": "Q.U.B.E. 2 Soundtrack",
+  "description": "Q.U.B.E. 2 Soundtrack",
+  "namespace": "4b5f1eb366dc45f0920d397c01b291ba",
+  "categories": "public/games/applications",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/4b5f1eb366dc45f0920d397c01b291ba/item/EGS_TOXICGAMES_QUBE2_G1-2560x1440-d2b89622979482c7b0a632306800b950.jpg",
+      "md5": "d2b89622979482c7b0a632306800b950",
+      "width": 2560,
+      "height": 1440,
+      "size": 312776,
+      "uploadedDate": "2019-10-16T23:30:42.197Z"
+    },
+    {
+      "type": "DieselGameBoxLogo",
+      "url": "https://cdn1.epicgames.com/4b5f1eb366dc45f0920d397c01b291ba/item/EGS_TOXICGAMES_QUBE2_IC1_COLOUR-1920x1080-891789d632a30ac0fd0a9c46069c53fe.png",
+      "md5": "891789d632a30ac0fd0a9c46069c53fe",
+      "width": 1920,
+      "height": 1080,
+      "size": 26596,
+      "uploadedDate": "2019-10-16T23:30:52.54Z"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/4b5f1eb366dc45f0920d397c01b291ba/item/q-u-b-e-2_portrait-1280x1440-1708b1d9fa1f191b98d647032909569a.jpg",
+      "md5": "1708b1d9fa1f191b98d647032909569a",
+      "width": 1280,
+      "height": 1440,
+      "size": 124152,
+      "uploadedDate": "2019-12-03T16:13:45.417Z"
+    }
+  ],
+  "creationDate": "2019-10-19T01:35:11.034+00:00",
+  "lastModifiedDate": "2019-12-03T16:13:53.282+00:00",
+  "developer": "Ten Hut Games",
+  "developerId": "o-kk34ewvmscclj5a2ukx49ff6qknn7a",
+  "applicationId": null
+}

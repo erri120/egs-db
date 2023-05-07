@@ -1,0 +1,32 @@
+{
+  "id": "ab59d012a5694e8893a7441b1254637f",
+  "title": "Hardspace: Shipbreaker",
+  "description": "Hardspace: Shipbreaker",
+  "namespace": "0208da63c74542c99e8a0837e4e688c3",
+  "categories": "public/games/applications",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/item/0208da63c74542c99e8a0837e4e688c3/EGS_HardspaceShipbreaker_BlackbirdInteractive_S1_2560x1440-6a54039aaadc8169c632b76cfe1e329f",
+      "md5": "6a54039aaadc8169c632b76cfe1e329f",
+      "width": 2560,
+      "height": 1440,
+      "size": 719821,
+      "uploadedDate": "2022-07-06T14:46:55.682Z"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/item/0208da63c74542c99e8a0837e4e688c3/EGS_HardspaceShipbreaker_BlackbirdInteractive_S2_1200x1600-45cc0031084d430831801efb8a9395ce",
+      "md5": "45cc0031084d430831801efb8a9395ce",
+      "width": 1200,
+      "height": 1600,
+      "size": 470500,
+      "uploadedDate": "2022-07-06T14:46:58.984Z"
+    }
+  ],
+  "creationDate": "2020-10-22T20:36:56.811+00:00",
+  "lastModifiedDate": "2023-02-01T16:46:13.42+00:00",
+  "developer": "Focus Home",
+  "developerId": "o-wt4zxeetmq6jem7qp4pkssr46aenj5",
+  "applicationId": ""
+}

@@ -1,0 +1,23 @@
+{
+  "id": "8c826db6e14f44aeac8816e1bd593632",
+  "title": "DLC 3 Audience",
+  "description": "DLC 3 Audience",
+  "namespace": "catnip",
+  "categories": "",
+  "keyImages": [
+    {
+      "type": "ESRB",
+      "url": "https://cdn1.epicgames.com/catnip/item/ESRB_M_Borderlands3-842x485-275d74057f4825477e1f7f17f8cf0abc.jpg",
+      "md5": "275d74057f4825477e1f7f17f8cf0abc",
+      "width": 842,
+      "height": 485,
+      "size": 134137,
+      "uploadedDate": "2020-01-07T22:50:10.549Z"
+    }
+  ],
+  "creationDate": "2019-04-02T22:54:30.361+00:00",
+  "lastModifiedDate": "2023-01-19T21:12:26.602+00:00",
+  "developer": "2K Games, Inc.",
+  "developerId": "o-37m6jbj5wcvrcvm4wusv7nazdfvbjk",
+  "applicationId": null
+}

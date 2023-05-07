@@ -1,0 +1,23 @@
+{
+  "id": "bdfe66a289ef43b0a47e2ddc379bfa64",
+  "title": "StarfishDevAudience",
+  "description": "StarfishDevAudience",
+  "namespace": "starfish",
+  "categories": "audience",
+  "keyImages": [
+    {
+      "type": "ESRB",
+      "url": "https://cdn1.epicgames.com/starfish/item/esrb_outerwilds_web-1000x473-a54e0d91a96bc66569bf7600e5f1c375.png",
+      "md5": "a54e0d91a96bc66569bf7600e5f1c375",
+      "width": 1000,
+      "height": 473,
+      "size": 63606,
+      "uploadedDate": "2019-06-19T14:17:47.625Z"
+    }
+  ],
+  "creationDate": "2018-12-12T16:36:55.74+00:00",
+  "lastModifiedDate": "2021-07-29T16:09:15.351+00:00",
+  "developer": "Annapurna Interactive",
+  "developerId": "o-bmeb3ztlbxkjc8vvpydava38yvmxlm",
+  "applicationId": null
+}

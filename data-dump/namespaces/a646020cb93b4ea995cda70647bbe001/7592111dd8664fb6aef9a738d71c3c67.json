@@ -1,0 +1,32 @@
+{
+  "id": "7592111dd8664fb6aef9a738d71c3c67",
+  "title": "Steep",
+  "description": "Steep",
+  "namespace": "a646020cb93b4ea995cda70647bbe001",
+  "categories": "public/games/applications",
+  "keyImages": [
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/a646020cb93b4ea995cda70647bbe001/item/KEY_ART_LOGO_640x854-640x854-d7402c9d56f9fc6d90d5e8550420e30b-640x854-d7402c9d56f9fc6d90d5e8550420e30b.jpg",
+      "md5": "d7402c9d56f9fc6d90d5e8550420e30b",
+      "width": 640,
+      "height": 854,
+      "size": 663789,
+      "uploadedDate": "2020-01-01T16:38:05.343Z"
+    },
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/a646020cb93b4ea995cda70647bbe001/item/Diesel_productv2_steep_home_KEY_ART_LOGO_3840x2160-3840x2160-06904d279c608d6a87f80c5de3154272073831aa-3840x2160-17bf432e286a80db2d6bbf769b83ac66.jpg",
+      "md5": "17bf432e286a80db2d6bbf769b83ac66",
+      "width": 3840,
+      "height": 2160,
+      "size": 802906,
+      "uploadedDate": "2020-01-01T16:41:19.846Z"
+    }
+  ],
+  "creationDate": "2019-12-09T19:08:56.237+00:00",
+  "lastModifiedDate": "2020-01-01T16:41:26.435+00:00",
+  "developer": "Epic Dev Test Account",
+  "developerId": "o-ufmrk5furrrxgsp5tdngefzt5rxdcn",
+  "applicationId": null
+}

@@ -1,0 +1,23 @@
+{
+  "id": "e3528b43021a48f3b66fdab5baf4ee5e",
+  "title": "GarGeneralAudience",
+  "description": "GarGeneralAudience",
+  "namespace": "f3720f53cccb4a20841a392a8ea0457f",
+  "categories": "",
+  "keyImages": [
+    {
+      "type": "ESRB",
+      "url": "https://cdn1.epicgames.com/f3720f53cccb4a20841a392a8ea0457f/item/Diesel_product_ratings_RiME_ESRB_E10_FantasyViolence-842x404-b69ee903026c7a87f4179c74360a65aa.jpg",
+      "md5": "b69ee903026c7a87f4179c74360a65aa",
+      "width": 842,
+      "height": 404,
+      "size": 21122,
+      "uploadedDate": "2020-06-25T15:06:35.519Z"
+    }
+  ],
+  "creationDate": "2020-06-16T12:19:22.769+00:00",
+  "lastModifiedDate": "2020-06-25T15:06:39.592+00:00",
+  "developer": "Daedalic Entertainment",
+  "developerId": "o-d2ygr9bjcjfebgt8842wvvbmswympz",
+  "applicationId": null
+}

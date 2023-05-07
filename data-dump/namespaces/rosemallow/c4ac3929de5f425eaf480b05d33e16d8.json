@@ -1,0 +1,23 @@
+{
+  "id": "c4ac3929de5f425eaf480b05d33e16d8",
+  "title": "The Outer Worlds Press EA Audience",
+  "description": "The Outer Worlds Press EA Audience",
+  "namespace": "rosemallow",
+  "categories": "",
+  "keyImages": [
+    {
+      "type": "ESRB",
+      "url": "https://cdn1.epicgames.com/rosemallow/item/TOW_ESRB_M_content_m-688x366-3cad213ee7c926f03d1d88a34a4ddffd.png",
+      "md5": "3cad213ee7c926f03d1d88a34a4ddffd",
+      "width": 688,
+      "height": 366,
+      "size": 26599,
+      "uploadedDate": "2019-08-21T13:46:31.734Z"
+    }
+  ],
+  "creationDate": "2019-10-09T20:25:50.309+00:00",
+  "lastModifiedDate": "2021-02-10T01:55:28.956+00:00",
+  "developer": "Private Division",
+  "developerId": "o-6emrb2lpzacm9ued3z37u42x56wkaz",
+  "applicationId": null
+}

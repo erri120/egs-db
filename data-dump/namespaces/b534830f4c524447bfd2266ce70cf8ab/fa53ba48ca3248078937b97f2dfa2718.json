@@ -1,0 +1,32 @@
+{
+  "id": "fa53ba48ca3248078937b97f2dfa2718",
+  "title": "TWD The Telltale Definitive Series",
+  "description": "TWD The Telltale Definitive Series",
+  "namespace": "b534830f4c524447bfd2266ce70cf8ab",
+  "categories": "public/games/applications",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/item/b534830f4c524447bfd2266ce70cf8ab/TTTWD-DS_EPIC_PrimaryPromo_2580x1450_2580x1450-629ef6eb2980fd5428211300c88a7aa5",
+      "md5": "629ef6eb2980fd5428211300c88a7aa5",
+      "width": 2580,
+      "height": 1450,
+      "size": 1871527,
+      "uploadedDate": "2023-02-14T22:37:34.48Z"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/item/b534830f4c524447bfd2266ce70cf8ab/CodeRedemptionWalkingDeadDef-340x440-959ca5a338662797f5823a21c394b68e_1200x1600_1200x1600-060967379cd1caa1ad5c03811759d00e",
+      "md5": "060967379cd1caa1ad5c03811759d00e",
+      "width": 1200,
+      "height": 1600,
+      "size": 633087,
+      "uploadedDate": "2023-02-14T22:50:01.412Z"
+    }
+  ],
+  "creationDate": "2019-07-31T20:27:32.297+00:00",
+  "lastModifiedDate": "2023-02-14T22:50:35.243+00:00",
+  "developer": "Skybound Interactive",
+  "developerId": "o-rqvssgn2hhj58wv5bc6eueqswz2un4",
+  "applicationId": ""
+}

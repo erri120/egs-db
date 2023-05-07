@@ -1,0 +1,50 @@
+{
+  "id": "485bb1e0225840edbc731961d48bd852",
+  "title": "Phoenix Point Soundtrack",
+  "description": "Phoenix Point Soundtrack",
+  "namespace": "iris",
+  "categories": "",
+  "keyImages": [
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/iris/item/PhoenixPoint_GameIcon_400x400-400x400-3077494a8cfa2a464958203163c65722.png",
+      "md5": "3077494a8cfa2a464958203163c65722",
+      "width": 400,
+      "height": 400,
+      "size": 7129,
+      "uploadedDate": "2019-03-12T17:22:06.207Z"
+    },
+    {
+      "type": "DieselGameBoxLogo",
+      "url": "https://cdn1.epicgames.com/iris/item/PhoenixPoint_GameLogo_White-1920x258-f459d6f60aceae2e47ce0c6ec6d46471.png",
+      "md5": "f459d6f60aceae2e47ce0c6ec6d46471",
+      "width": 1920,
+      "height": 258,
+      "size": 99414,
+      "uploadedDate": "2019-03-12T17:22:26.642Z"
+    },
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/iris/item/PhoenixPoint_NEWPROMO-2048x1151-a5d45cf0f70a168b0c1f7eae142a3397.jpg",
+      "md5": "a5d45cf0f70a168b0c1f7eae142a3397",
+      "width": 2048,
+      "height": 1151,
+      "size": 2147087,
+      "uploadedDate": "2019-07-10T17:22:52.186Z"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/iris/item/PhoenixPoint_NEWPortraitPromo-1280x1420-3ebed9c3972a5710778d97b6b1018905.png",
+      "md5": "3ebed9c3972a5710778d97b6b1018905",
+      "width": 1280,
+      "height": 1420,
+      "size": 2968120,
+      "uploadedDate": "2019-10-22T09:41:44.79Z"
+    }
+  ],
+  "creationDate": "2019-11-04T14:13:47.205+00:00",
+  "lastModifiedDate": "2020-12-11T01:07:10.474+00:00",
+  "developer": "Snapshot Games",
+  "developerId": "o-dc63tr2khr4scc36nj3htbpmh3gda6",
+  "applicationId": null
+}

@@ -1,0 +1,41 @@
+{
+  "id": "cb672867ac6b436bb12cdfae48c6753e",
+  "title": "Phoenix Point Pre-Purchase",
+  "description": "Phoenix Point Pre-Purchase",
+  "namespace": "iris",
+  "categories": "",
+  "keyImages": [
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/iris/item/PhoenixPoint_GameIcon_400x400-400x400-3077494a8cfa2a464958203163c65722.png",
+      "md5": "3077494a8cfa2a464958203163c65722",
+      "width": 400,
+      "height": 400,
+      "size": 7129,
+      "uploadedDate": "2019-03-12T17:22:06.207Z"
+    },
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/item/iris/PPCompleteedition2560x1440_2560x1440-2d7587625ffc695d407399b8ca6f9573",
+      "md5": "2d7587625ffc695d407399b8ca6f9573",
+      "width": 2560,
+      "height": 1440,
+      "size": 799292,
+      "uploadedDate": "2022-11-03T17:16:55.367Z"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/item/iris/PPcompleteeditionverticalEGS1200x1600_1200x1600-d909441e2acb761bc2cbd20ff225b309",
+      "md5": "d909441e2acb761bc2cbd20ff225b309",
+      "width": 1200,
+      "height": 1600,
+      "size": 540975,
+      "uploadedDate": "2022-11-03T17:16:58.277Z"
+    }
+  ],
+  "creationDate": "2019-11-04T19:26:25.61+00:00",
+  "lastModifiedDate": "2022-11-03T17:18:35.706+00:00",
+  "developer": "Snapshot Games",
+  "developerId": "o-dc63tr2khr4scc36nj3htbpmh3gda6",
+  "applicationId": ""
+}

@@ -1,0 +1,50 @@
+{
+  "id": "07d9787aea6149fc9768119468a7e087",
+  "title": "Axiom Verge",
+  "description": "Axiom Verge",
+  "namespace": "puffin",
+  "categories": "",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/puffin/item/PrimaryPromo-2580x1450-a565e7abcb9010daea6d0bbf2d030046.jpg",
+      "md5": "a565e7abcb9010daea6d0bbf2d030046",
+      "width": 2580,
+      "height": 1450,
+      "size": 331726,
+      "uploadedDate": "2019-01-24T13:03:38.01Z"
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/puffin/item/Icon-400x400-f8988a9efb3ecb9b399c5b0fce2a4e1e.png",
+      "md5": "f8988a9efb3ecb9b399c5b0fce2a4e1e",
+      "width": 400,
+      "height": 400,
+      "size": 132277,
+      "uploadedDate": "2019-01-24T13:03:46.541Z"
+    },
+    {
+      "type": "DieselGameBoxLogo",
+      "url": "https://cdn1.epicgames.com/puffin/item/LogoColored-1920x823-823cc66e9095b2ae217b4dc55e5daf5f.png",
+      "md5": "823cc66e9095b2ae217b4dc55e5daf5f",
+      "width": 1920,
+      "height": 823,
+      "size": 116699,
+      "uploadedDate": "2019-01-24T13:03:57.25Z"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/puffin/item/PrimaryPromo_Portrait-1288x1450-df7893c5b797dd344118c07be4f82112.jpg",
+      "md5": "df7893c5b797dd344118c07be4f82112",
+      "width": 1288,
+      "height": 1450,
+      "size": 184524,
+      "uploadedDate": "2019-10-22T09:41:44.79Z"
+    }
+  ],
+  "creationDate": "2019-01-24T12:45:00.208+00:00",
+  "lastModifiedDate": "2021-01-14T00:08:25.919+00:00",
+  "developer": "Thomas Happ Games LLC",
+  "developerId": "o-4c6aeklnh4xk4m9h9gmr52tk5v2l8r",
+  "applicationId": null
+}

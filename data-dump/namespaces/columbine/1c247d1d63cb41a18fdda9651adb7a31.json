@@ -1,0 +1,50 @@
+{
+  "id": "1c247d1d63cb41a18fdda9651adb7a31",
+  "title": "Detroit Become Human Pre-Purchase",
+  "description": "Detroit Become Human Pre-Purchase",
+  "namespace": "columbine",
+  "categories": "",
+  "keyImages": [
+    {
+      "type": "DieselGameBoxLogo",
+      "url": "https://cdn1.epicgames.com/columbine/item/DETROIT_LOGO-960x311-e5a19301369771bc77176429948203d2.png",
+      "md5": "e5a19301369771bc77176429948203d2",
+      "width": 960,
+      "height": 311,
+      "size": 18504,
+      "uploadedDate": "2019-04-02T15:49:14.305Z"
+    },
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/columbine/item/001_DETROIT_GAMEPAGE_PROMOIMAGE-2580x1451-03bc594662cee78c668572c34373b502.jpg",
+      "md5": "03bc594662cee78c668572c34373b502",
+      "width": 2580,
+      "height": 1451,
+      "size": 194207,
+      "uploadedDate": "2019-04-02T15:49:41.34Z"
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/columbine/item/001_DETROIT_ICON-400x400-89235dc9bca813586e778f735e08364e.png",
+      "md5": "89235dc9bca813586e778f735e08364e",
+      "width": 400,
+      "height": 400,
+      "size": 63882,
+      "uploadedDate": "2019-04-02T15:49:53.167Z"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/columbine/item/002_DETROIT_STOREPORTRAIT-1280x1420-7cec122a58dacf56e47ad7478468d9e3.jpg",
+      "md5": "7cec122a58dacf56e47ad7478468d9e3",
+      "width": 1280,
+      "height": 1420,
+      "size": 162726,
+      "uploadedDate": "2019-10-22T09:41:44.79Z"
+    }
+  ],
+  "creationDate": "2019-05-14T20:45:13.816+00:00",
+  "lastModifiedDate": "2019-12-12T12:59:57.263+00:00",
+  "developer": "Quantic Dream",
+  "developerId": "o-m8v47d762atphw94knus7ezawefpcu",
+  "applicationId": null
+}

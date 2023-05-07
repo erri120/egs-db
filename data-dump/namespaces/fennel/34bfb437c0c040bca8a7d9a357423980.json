@@ -1,0 +1,23 @@
+{
+  "id": "34bfb437c0c040bca8a7d9a357423980",
+  "title": "FennelDevAudience",
+  "description": "FennelDevAudience",
+  "namespace": "fennel",
+  "categories": "",
+  "keyImages": [
+    {
+      "type": "ESRB",
+      "url": "https://cdn1.epicgames.com/fennel/item/WalkingDeadMishonne-842x404-4d5851d83dbdb7f21b88806426389ab0.png",
+      "md5": "4d5851d83dbdb7f21b88806426389ab0",
+      "width": 842,
+      "height": 404,
+      "size": 57636,
+      "uploadedDate": "2019-04-23T20:35:53.514Z"
+    }
+  ],
+  "creationDate": "2019-03-22T22:13:18.135+00:00",
+  "lastModifiedDate": "2023-02-14T21:39:05.874+00:00",
+  "developer": "Skybound Interactive",
+  "developerId": "o-rqvssgn2hhj58wv5bc6eueqswz2un4",
+  "applicationId": null
+}

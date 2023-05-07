@@ -1,0 +1,32 @@
+{
+  "id": "0832c097a3924f60b2e2fe3d14a9b982",
+  "title": "Rebel Galaxy Outlaw Pre-Purchase",
+  "description": "Rebel Galaxy Outlaw Pre-Purchase",
+  "namespace": "marmoset",
+  "categories": "",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/marmoset/item/rebelgalaxyoutlaw_promo-2580x1456-040476dcdba00aab56b2c5dfc8d1c5a9.jpg",
+      "md5": "040476dcdba00aab56b2c5dfc8d1c5a9",
+      "width": 2580,
+      "height": 1456,
+      "size": 154479,
+      "uploadedDate": "2019-07-17T18:35:58.918Z"
+    },
+    {
+      "type": "DieselGameBoxLogo",
+      "url": "https://cdn1.epicgames.com/marmoset/item/rebelgalaxy-logo-437x491-f3d26bcb4e9f443031eb0bc29494f18e.png",
+      "md5": "f3d26bcb4e9f443031eb0bc29494f18e",
+      "width": 437,
+      "height": 491,
+      "size": 22750,
+      "uploadedDate": "2019-07-17T18:36:08.352Z"
+    }
+  ],
+  "creationDate": "2019-07-16T02:48:03.952+00:00",
+  "lastModifiedDate": "2019-08-13T15:21:50.993+00:00",
+  "developer": "Double Damage Games, Inc",
+  "developerId": "o-7kk95dlwa9mep5kfkubrgmp9qkwbt4",
+  "applicationId": null
+}

@@ -1,0 +1,41 @@
+{
+  "id": "cec34f6190c64fc8a764f1b4b35bfd84",
+  "title": "Cardpocalypse",
+  "description": "Cardpocalypse",
+  "namespace": "2bfd5ca43ef443739ada168e017e1b78",
+  "categories": "public/games/applications",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/2bfd5ca43ef443739ada168e017e1b78/item/Cardpocalypse_MainGame_EpicGamesStore_S2_Store_Secondary_ApprovedPublic-2560x1440-c7a8a5fb84bf3e2f93ea58997928f6f7.jpg",
+      "md5": "c7a8a5fb84bf3e2f93ea58997928f6f7",
+      "width": 2560,
+      "height": 1440,
+      "size": 573157,
+      "uploadedDate": "2019-09-03T17:57:37.198Z"
+    },
+    {
+      "type": "DieselGameBoxLogo",
+      "url": "https://cdn1.epicgames.com/2bfd5ca43ef443739ada168e017e1b78/item/Cardpocalypse_Logo-WithLight-1843x659-3386ddc5eb8023b982b17ff53fd56275.png",
+      "md5": "3386ddc5eb8023b982b17ff53fd56275",
+      "width": 1843,
+      "height": 659,
+      "size": 274502,
+      "uploadedDate": "2019-09-10T20:24:41.661Z"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/2bfd5ca43ef443739ada168e017e1b78/item/Cardpocalypse_MainGame_EpicGamesStore_S3_Store_Portrait_ApprovedPublic_v2 (1)-1280x1440-ecb2dc25cc10ada5474a6537d8eb9e63.jpg",
+      "md5": "ecb2dc25cc10ada5474a6537d8eb9e63",
+      "width": 1280,
+      "height": 1440,
+      "size": 764227,
+      "uploadedDate": "2019-10-22T09:41:44.79Z"
+    }
+  ],
+  "creationDate": "2019-06-14T18:16:03.697+00:00",
+  "lastModifiedDate": "2020-10-12T16:49:24.547+00:00",
+  "developer": "Versus Evil",
+  "developerId": "o-ugw2zblbdkg5xklzadlrt2qe92cdje",
+  "applicationId": null
+}

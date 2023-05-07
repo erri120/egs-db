@@ -1,0 +1,23 @@
+{
+  "id": "b782ddde066b46df9e526e7ea9d32728",
+  "title": "FP Audience",
+  "description": "FP Audience",
+  "namespace": "azalea",
+  "categories": "",
+  "keyImages": [
+    {
+      "type": "ESRB",
+      "url": "https://cdn1.epicgames.com/azalea/item/Diesel_product_ratings_RP_FOR_T_M-842x404-e685858d6f01213bedf5b2abec53be94.png",
+      "md5": "e685858d6f01213bedf5b2abec53be94",
+      "width": 842,
+      "height": 404,
+      "size": 55379,
+      "uploadedDate": "2019-06-28T13:05:20.125Z"
+    }
+  ],
+  "creationDate": "2019-06-28T13:07:56.068+00:00",
+  "lastModifiedDate": "2021-04-08T16:06:18.841+00:00",
+  "developer": "YAGER",
+  "developerId": "o-w7z3vpqhq54t3gbwybuzlmx7xh3355",
+  "applicationId": null
+}

@@ -1,0 +1,32 @@
+{
+  "id": "511a4fa19607460f9cbcecea7cef668d",
+  "title": "The Jackbox Party Pack 4",
+  "description": "The Jackbox Party Pack 4",
+  "namespace": "snowdrop",
+  "categories": "",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/item/snowdrop/PP4_WideImage_2560x1440-af8d584f847d181c0831ad238cfc4076",
+      "md5": "af8d584f847d181c0831ad238cfc4076",
+      "width": 2560,
+      "height": 1440,
+      "size": 924898,
+      "uploadedDate": "2023-01-12T13:37:19.589Z"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/item/snowdrop/PP4_TallImage_1200x1600-18eeb0015f2a5eaf2cb9ff5aca2b3544",
+      "md5": "18eeb0015f2a5eaf2cb9ff5aca2b3544",
+      "width": 1200,
+      "height": 1600,
+      "size": 854447,
+      "uploadedDate": "2023-01-12T13:37:23.162Z"
+    }
+  ],
+  "creationDate": "2019-01-16T13:55:53.392+00:00",
+  "lastModifiedDate": "2023-01-12T13:37:25.518+00:00",
+  "developer": "Jackbox Games, Inc.",
+  "developerId": "o-2m9ap45qzvalaepjz6wclpcffeq4aj",
+  "applicationId": ""
+}

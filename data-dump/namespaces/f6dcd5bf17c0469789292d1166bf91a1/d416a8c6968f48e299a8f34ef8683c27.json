@@ -1,0 +1,23 @@
+{
+  "id": "d416a8c6968f48e299a8f34ef8683c27",
+  "title": "Lancia Delta HF Integrale Evoluzione Audience",
+  "description": "Lancia Delta HF Integrale Evoluzione (1992) Audience",
+  "namespace": "f6dcd5bf17c0469789292d1166bf91a1",
+  "categories": "",
+  "keyImages": [
+    {
+      "type": "ESRB",
+      "url": "https://cdn1.epicgames.com/f6dcd5bf17c0469789292d1166bf91a1/item/ESRB_WRC8-842x485-a4de2492c5e27c0262705a42c34204fd.jpg",
+      "md5": "a4de2492c5e27c0262705a42c34204fd",
+      "width": 842,
+      "height": 485,
+      "size": 84586,
+      "uploadedDate": "2020-01-08T04:55:57.071Z"
+    }
+  ],
+  "creationDate": "2019-08-21T21:28:07.094+00:00",
+  "lastModifiedDate": "2020-09-01T14:56:01.23+00:00",
+  "developer": "Nacon",
+  "developerId": "o-wubu848ps2xcxuwv2m3bhet9gbhdbp",
+  "applicationId": null
+}

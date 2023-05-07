@@ -1,0 +1,32 @@
+{
+  "id": "ff80ba2329294ebf9d967161de0746b5",
+  "title": "RUNE II ESDF",
+  "description": "RUNE II ESDF",
+  "namespace": "cosmos",
+  "categories": "",
+  "keyImages": [
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/cosmos/item/RUNE II Box Art-1200x1600-d92375f36cfeb2b5eeb68e1519ebb7ab.jpg",
+      "md5": "d92375f36cfeb2b5eeb68e1519ebb7ab",
+      "width": 1200,
+      "height": 1600,
+      "size": 489728,
+      "uploadedDate": "2020-04-30T19:12:37.385Z"
+    },
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/cosmos/item/RUNE II Quick Launch-1920x1080-efbce6fe1b7d993066432082575f815f.jpg",
+      "md5": "efbce6fe1b7d993066432082575f815f",
+      "width": 1920,
+      "height": 1080,
+      "size": 842441,
+      "uploadedDate": "2020-04-30T19:13:02.86Z"
+    }
+  ],
+  "creationDate": "2019-05-17T21:37:22.903+00:00",
+  "lastModifiedDate": "2020-04-30T19:13:43.151+00:00",
+  "developer": "Ragnarok Game, LLC",
+  "developerId": "o-peysvmw9hg6a5s86ehl8a5dbz8fddp",
+  "applicationId": null
+}

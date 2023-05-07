@@ -1,0 +1,23 @@
+{
+  "id": "4f78a7536fb44e64bc42cb385c388ce0",
+  "title": "geumDevAudience",
+  "description": "geumDevAudience",
+  "namespace": "a9dad8af015a422eb89a5f88e6def923",
+  "categories": "",
+  "keyImages": [
+    {
+      "type": "ESRB",
+      "url": "https://cdn1.epicgames.com/a9dad8af015a422eb89a5f88e6def923/item/RP_FOR_E-842x404-fce4fa7233ed80170a8e36079d1e1bde.png",
+      "md5": "fce4fa7233ed80170a8e36079d1e1bde",
+      "width": 842,
+      "height": 404,
+      "size": 51194,
+      "uploadedDate": "2019-05-13T20:58:52.48Z"
+    }
+  ],
+  "creationDate": "2019-05-02T19:22:07.766+00:00",
+  "lastModifiedDate": "2020-11-12T17:00:38.671+00:00",
+  "developer": "Annapurna Interactive",
+  "developerId": "o-bmeb3ztlbxkjc8vvpydava38yvmxlm",
+  "applicationId": null
+}

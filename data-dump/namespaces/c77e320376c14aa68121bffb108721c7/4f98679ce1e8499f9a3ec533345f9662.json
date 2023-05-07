@@ -1,0 +1,32 @@
+{
+  "id": "4f98679ce1e8499f9a3ec533345f9662",
+  "title": "A Knights Quest Pre-Purchase",
+  "description": "A Knights Quest Pre-Purchase",
+  "namespace": "c77e320376c14aa68121bffb108721c7",
+  "categories": "public/games/applications",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/c77e320376c14aa68121bffb108721c7/item/EGS_CurveDigital_AKnightsQuest_S1-2560x1440-32e10f4caa0be83e9101feea32af361a.jpg",
+      "md5": "32e10f4caa0be83e9101feea32af361a",
+      "width": 2560,
+      "height": 1440,
+      "size": 511103,
+      "uploadedDate": "2019-09-27T16:24:42.743Z"
+    },
+    {
+      "type": "DieselGameBoxLogo",
+      "url": "https://cdn1.epicgames.com/c77e320376c14aa68121bffb108721c7/item/EGS_CurveDigital_AKnightsQuest_IC1_colour-200x113-dbb41e0cc37d995c11c1ba1528975e20.png",
+      "md5": "dbb41e0cc37d995c11c1ba1528975e20",
+      "width": 200,
+      "height": 113,
+      "size": 12150,
+      "uploadedDate": "2019-09-27T16:24:51.391Z"
+    }
+  ],
+  "creationDate": "2019-09-27T16:27:41.257+00:00",
+  "lastModifiedDate": "2019-10-10T12:59:45.918+00:00",
+  "developer": "Curve Digital",
+  "developerId": "o-ws89bsbfb8trgdl3zmerugg4rsuvvt",
+  "applicationId": null
+}

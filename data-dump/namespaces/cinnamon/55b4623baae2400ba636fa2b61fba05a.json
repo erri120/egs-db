@@ -1,0 +1,23 @@
+{
+  "id": "55b4623baae2400ba636fa2b61fba05a",
+  "title": "CinnamonDevAudience",
+  "description": "CinnamonDevAudience",
+  "namespace": "cinnamon",
+  "categories": "",
+  "keyImages": [
+    {
+      "type": "ESRB",
+      "url": "https://cdn1.epicgames.com/cinnamon/item/Sherlock_ESRB-842x404-affaaa2f3cbd6a830e3b1f6f5d330e11.png",
+      "md5": "affaaa2f3cbd6a830e3b1f6f5d330e11",
+      "width": 842,
+      "height": 404,
+      "size": 43888,
+      "uploadedDate": "2019-04-26T14:49:12.907Z"
+    }
+  ],
+  "creationDate": "2019-03-20T03:13:21.461+00:00",
+  "lastModifiedDate": "2021-07-12T21:12:21.793+00:00",
+  "developer": "Frogwares",
+  "developerId": "o-rlw9u3sem84g2hc3ur36dqnp7wul3j",
+  "applicationId": ""
+}

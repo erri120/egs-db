@@ -1,0 +1,32 @@
+{
+  "id": "aae5da6920b4493ab0ae78ea2889a9a6",
+  "title": "Zombie Army 4 Dead War",
+  "description": "Zombie Army 4 Dead War",
+  "namespace": "dfd2530e80e4425d801913b0879be444",
+  "categories": "public/games/applications",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/dfd2530e80e4425d801913b0879be444/item/Diesel_productv2_zombie-army-4-dead-war_home_EGS_REBELLION_ZOMBIEARMY4_EDITIONCAPSULE_STANDARDEDITION-900x450-d9c7708b9ce7262d605151d696ae85a1ca513d20-900x450-3228a9f6390e741fc297097869bf1cec.png",
+      "md5": "3228a9f6390e741fc297097869bf1cec",
+      "width": 900,
+      "height": 450,
+      "size": 207086,
+      "uploadedDate": "2020-02-03T19:14:39.467Z"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/dfd2530e80e4425d801913b0879be444/item/CodeRedemption_Zombie4-330x440-3102dff3377403c09f5bd5c9e43a3ad3-330x440-3102dff3377403c09f5bd5c9e43a3ad3.jpg",
+      "md5": "3102dff3377403c09f5bd5c9e43a3ad3",
+      "width": 330,
+      "height": 440,
+      "size": 85825,
+      "uploadedDate": "2020-02-03T19:15:03.788Z"
+    }
+  ],
+  "creationDate": "2019-06-07T02:18:16.454+00:00",
+  "lastModifiedDate": "2022-02-17T14:01:38.353+00:00",
+  "developer": "Rebellion",
+  "developerId": "o-7ytxfydj7f9a2uv4bmg3s5wfl2epsm",
+  "applicationId": null
+}

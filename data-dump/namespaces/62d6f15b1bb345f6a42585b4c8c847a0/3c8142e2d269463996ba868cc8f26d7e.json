@@ -1,0 +1,32 @@
+{
+  "id": "3c8142e2d269463996ba868cc8f26d7e",
+  "title": "Hyper Light Drifter",
+  "description": "Hyper Light Drifter",
+  "namespace": "62d6f15b1bb345f6a42585b4c8c847a0",
+  "categories": "public/games/applications",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/item/62d6f15b1bb345f6a42585b4c8c847a0/HLD_EGS_Landscape_01_2560x1440-a3db983778bad2d614db75dbfe5bdd58",
+      "md5": "a3db983778bad2d614db75dbfe5bdd58",
+      "width": 2560,
+      "height": 1440,
+      "size": 708053,
+      "uploadedDate": "2023-02-10T22:29:34.532Z"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/item/62d6f15b1bb345f6a42585b4c8c847a0/HLD_EGS_Portrait_01_1200x1600-f023f12c6902b9d9042cc6ea9557a100",
+      "md5": "f023f12c6902b9d9042cc6ea9557a100",
+      "width": 1200,
+      "height": 1600,
+      "size": 463327,
+      "uploadedDate": "2023-02-10T22:29:31.689Z"
+    }
+  ],
+  "creationDate": "2019-08-06T20:39:38.029+00:00",
+  "lastModifiedDate": "2023-04-25T15:08:13.341+00:00",
+  "developer": "Heart Machine",
+  "developerId": "o-sa7ewerl9ha4ddzrjkjac7rh8sjgyc",
+  "applicationId": ""
+}

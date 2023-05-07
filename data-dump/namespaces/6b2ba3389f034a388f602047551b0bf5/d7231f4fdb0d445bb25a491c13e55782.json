@@ -1,0 +1,32 @@
+{
+  "id": "d7231f4fdb0d445bb25a491c13e55782",
+  "title": "Going Under",
+  "description": "Going Under",
+  "namespace": "6b2ba3389f034a388f602047551b0bf5",
+  "categories": "public/games/applications",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/6b2ba3389f034a388f602047551b0bf5/item/EGS_GoingUnder_AggroCrabGames_S1-2560x1440-89d8b8e8d329be651a07f33b06272d5a.jpg",
+      "md5": "89d8b8e8d329be651a07f33b06272d5a",
+      "width": 2560,
+      "height": 1440,
+      "size": 895307,
+      "uploadedDate": "2020-09-21T15:13:51.423Z"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/6b2ba3389f034a388f602047551b0bf5/item/EGS_GoingUnder_AggroCrabGames_S2-1200x1600-10c32b98e6979b7edbf349b2b2c484f1.jpg",
+      "md5": "10c32b98e6979b7edbf349b2b2c484f1",
+      "width": 1200,
+      "height": 1600,
+      "size": 910369,
+      "uploadedDate": "2020-09-21T15:14:28.441Z"
+    }
+  ],
+  "creationDate": "2020-08-06T13:55:54.208+00:00",
+  "lastModifiedDate": "2020-10-22T22:11:29.645+00:00",
+  "developer": "Team17 Digital Ltd",
+  "developerId": "o-uvtztrtfjdn3xgrwyhbuwwb5z42mbv",
+  "applicationId": "fghi4567J7EH8r0hVXqjvUUQoByKTtNM"
+}

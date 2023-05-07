@@ -1,0 +1,41 @@
+{
+  "id": "a58322b8682f4e1d9fde15fa7b354836",
+  "title": "WrenStaging",
+  "description": "WrenStaging",
+  "namespace": "wren",
+  "categories": "",
+  "keyImages": [
+    {
+      "type": "DieselGameBoxLogo",
+      "url": "https://cdn1.epicgames.com/wren/item/AshenLog_1024x269-1024x269-8e32ab9392f4144ecbaf2595baa64849-1024x269-8e32ab9392f4144ecbaf2595baa64849.png",
+      "md5": "8e32ab9392f4144ecbaf2595baa64849",
+      "width": 1024,
+      "height": 269,
+      "size": 20025,
+      "uploadedDate": "2018-12-12T20:39:02.325Z"
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/wren/item/ashen_PortraitPromo_1288x1450-1288x1450-a1fbd8413573ff7712913594c67d80ba-1288x1450-a1fbd8413573ff7712913594c67d80ba.png",
+      "md5": "a1fbd8413573ff7712913594c67d80ba",
+      "width": 1288,
+      "height": 1450,
+      "size": 502211,
+      "uploadedDate": "2018-12-12T20:39:13.652Z"
+    },
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/wren/item/EPIC_Store_PDPPromo_2580x1450-2580x1450-6dec56493dce61dd88c7e80052294667-2580x1450-6dec56493dce61dd88c7e80052294667-2580x1450-8bb212f8736486f6e5e0fc056920c042.jpg",
+      "md5": "8bb212f8736486f6e5e0fc056920c042",
+      "width": 2580,
+      "height": 1450,
+      "size": 152165,
+      "uploadedDate": "2018-12-13T20:03:35.427Z"
+    }
+  ],
+  "creationDate": "2018-12-11T11:03:52.684+00:00",
+  "lastModifiedDate": "2019-09-06T15:45:12.629+00:00",
+  "developer": "Annapurna Interactive",
+  "developerId": "o-bmeb3ztlbxkjc8vvpydava38yvmxlm",
+  "applicationId": null
+}

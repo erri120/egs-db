@@ -1,0 +1,32 @@
+{
+  "id": "e144a1358b4a4da79fa2191b604bfeb0",
+  "title": "Borderlands 3 Psycho Krieg and the Fantastic Fustercluck",
+  "description": "Borderlands 3 Psycho Krieg and the Fantastic Fustercluck",
+  "namespace": "catnip",
+  "categories": "",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/catnip/item/2KGMKT_BL3_DLC4_KRIEG_EPIC_LANDSCAPE_2560x1440-2560x1440-017eb8bce37bda1a18736efd6eb6b3f9.jpg",
+      "md5": "017eb8bce37bda1a18736efd6eb6b3f9",
+      "width": 2560,
+      "height": 1440,
+      "size": 2174560,
+      "uploadedDate": "2020-09-10T14:34:17.943Z"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/catnip/item/2KGMKT_BL3_DLC4_KRIEG_EPIC_PORTRAIT_1200x1600-1200x1600-a39fe34e83c26f466a9c0fd50a231904.jpg",
+      "md5": "a39fe34e83c26f466a9c0fd50a231904",
+      "width": 1200,
+      "height": 1600,
+      "size": 942145,
+      "uploadedDate": "2020-09-10T14:34:34.151Z"
+    }
+  ],
+  "creationDate": "2020-02-19T22:50:03.541+00:00",
+  "lastModifiedDate": "2023-01-19T21:12:26.635+00:00",
+  "developer": "2K Games, Inc.",
+  "developerId": "o-37m6jbj5wcvrcvm4wusv7nazdfvbjk",
+  "applicationId": null
+}

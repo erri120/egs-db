@@ -1,0 +1,50 @@
+{
+  "id": "68835daacb934f05a12bdcf505278076",
+  "title": "Borderlands 3 Guns, Love, and Tentacles The Marriage of Wainwright \u0026 Hammerlock",
+  "description": "Borderlands 3 Guns, Love, and Tentacles The Marriage of Wainwright \u0026 Hammerlock",
+  "namespace": "catnip",
+  "categories": "",
+  "keyImages": [
+    {
+      "type": "DieselStoreFrontTall",
+      "url": "https://cdn1.epicgames.com/catnip/item/2KGMKT_BL3_DLC2_Hammerlock_Key_Art_Logo_1080x1920_EN-1080x1920-3b9a848a9f2162d3b0ed9c2353008859.png",
+      "md5": "3b9a848a9f2162d3b0ed9c2353008859",
+      "width": 1080,
+      "height": 1920,
+      "size": 4059665,
+      "uploadedDate": "2020-03-26T17:03:44.495Z"
+    },
+    {
+      "type": "DieselStoreFrontWide",
+      "url": "https://cdn1.epicgames.com/catnip/item/2KGMKT_BL3_DLC2_Hammerlock_Key_Art_Logo_1920x1080_EN-1920x1080-3002ee73c45f0d12901f8d1e721964d3.png",
+      "md5": "3002ee73c45f0d12901f8d1e721964d3",
+      "width": 1920,
+      "height": 1080,
+      "size": 3914545,
+      "uploadedDate": "2020-03-26T17:04:01.471Z"
+    },
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/item/catnip/2KGMKT_BL3_DLC2_Hammerlock_Key_Art_Logo_1920x1080_EN-1920x1080-3002ee73c45f0d12901f8d1e721964d3_1920x1080-3002ee73c45f0d12901f8d1e721964d3",
+      "md5": "3002ee73c45f0d12901f8d1e721964d3",
+      "width": 1920,
+      "height": 1080,
+      "size": 3914545,
+      "uploadedDate": "2023-01-19T17:45:17.352Z"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/item/catnip/2KGMKT_BL3_GUNSLOVETENACLES_EGS_1200x1600_1200x1600-c0f7de8117693c5bfb84fecf9a6931eb",
+      "md5": "c0f7de8117693c5bfb84fecf9a6931eb",
+      "width": 1200,
+      "height": 1600,
+      "size": 759152,
+      "uploadedDate": "2023-01-19T17:45:20.625Z"
+    }
+  ],
+  "creationDate": "2020-01-13T18:42:33.072+00:00",
+  "lastModifiedDate": "2023-01-19T21:12:26.598+00:00",
+  "developer": "2K Games, Inc.",
+  "developerId": "o-37m6jbj5wcvrcvm4wusv7nazdfvbjk",
+  "applicationId": ""
+}

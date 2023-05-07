@@ -1,0 +1,32 @@
+{
+  "id": "0000b7868bfd44dc968a907880381fe3",
+  "title": "Tetris\u00AE Effect Pre-Purchase",
+  "description": "Tetris\u00AE Effect Pre-Purchase",
+  "namespace": "76339caf9e8e4d24b62761c736e82b42",
+  "categories": "",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/76339caf9e8e4d24b62761c736e82b42/item/04_EGS_enhance_tetriseffect_L1_librarypromo_2560x1440px-1850x1041-39433010ede56695f20157632cbc9baf.jpg",
+      "md5": "39433010ede56695f20157632cbc9baf",
+      "width": 1850,
+      "height": 1041,
+      "size": 362071,
+      "uploadedDate": "2019-07-12T20:00:11.448Z"
+    },
+    {
+      "type": "DieselGameBoxLogo",
+      "url": "https://cdn1.epicgames.com/76339caf9e8e4d24b62761c736e82b42/item/01_EGS_enhance_TetrisEffect_IC1_logoColor-3712x2854-bca2a325c1f009577c61e213d9ca28eb.png",
+      "md5": "bca2a325c1f009577c61e213d9ca28eb",
+      "width": 3712,
+      "height": 2854,
+      "size": 6214265,
+      "uploadedDate": "2019-07-12T20:00:22.877Z"
+    }
+  ],
+  "creationDate": "2019-07-12T19:58:49.268+00:00",
+  "lastModifiedDate": "2021-06-24T01:59:16.705+00:00",
+  "developer": "Enhance, Inc.",
+  "developerId": "o-4bn3uqfwdgdmnx9yfdauv57gqcjzqn",
+  "applicationId": null
+}

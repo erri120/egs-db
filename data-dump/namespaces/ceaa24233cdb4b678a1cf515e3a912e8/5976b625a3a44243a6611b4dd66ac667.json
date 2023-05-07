@@ -1,0 +1,32 @@
+{
+  "id": "5976b625a3a44243a6611b4dd66ac667",
+  "title": "Gods Trigger OMG Extras",
+  "description": "Gods Trigger OMG Extras",
+  "namespace": "ceaa24233cdb4b678a1cf515e3a912e8",
+  "categories": "public/games/applications",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/ceaa24233cdb4b678a1cf515e3a912e8/item/EGS_GodsTriggerOMGEdition_OneMoreLevel_Editions_S1-2560x1440-61904cd0d7cd3d5e1717db06073970a4.jpg",
+      "md5": "61904cd0d7cd3d5e1717db06073970a4",
+      "width": 2560,
+      "height": 1440,
+      "size": 981171,
+      "uploadedDate": "2020-08-27T03:10:45.285Z"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/ceaa24233cdb4b678a1cf515e3a912e8/item/EGS_GodsTriggerOMGEdition_OneMoreLevel_Editions_S2-1200x1600-c36b26bb86c7a0521ff4302bd99b1828.jpg",
+      "md5": "c36b26bb86c7a0521ff4302bd99b1828",
+      "width": 1200,
+      "height": 1600,
+      "size": 906355,
+      "uploadedDate": "2020-08-27T03:10:54.798Z"
+    }
+  ],
+  "creationDate": "2020-08-12T18:53:54.992+00:00",
+  "lastModifiedDate": "2020-08-27T14:44:50.06+00:00",
+  "developer": "Techland",
+  "developerId": "o-2j5hh2gww8vepy62sf9dvqelweczxj",
+  "applicationId": null
+}

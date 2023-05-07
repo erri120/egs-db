@@ -1,0 +1,23 @@
+{
+  "id": "225d21a7e8374b00b0fd093930cef001",
+  "title": "TulipGeneralAudience",
+  "description": "TulipGeneralAudience",
+  "namespace": "tulip",
+  "categories": "",
+  "keyImages": [
+    {
+      "type": "ESRB",
+      "url": "https://cdn1.epicgames.com/tulip/item/ESRB_Thimbleweed-842x404-60cd9963230367ac894e370068ac8689.jpg",
+      "md5": "60cd9963230367ac894e370068ac8689",
+      "width": 842,
+      "height": 404,
+      "size": 107983,
+      "uploadedDate": "2020-01-08T22:20:05.661Z"
+    }
+  ],
+  "creationDate": "2019-02-01T14:39:27.608+00:00",
+  "lastModifiedDate": "2020-01-08T22:20:08.904+00:00",
+  "developer": "Terrible Toybox, Inc.",
+  "developerId": "o-phlj6meuxqgdhss58gcqnj86br8xrt",
+  "applicationId": null
+}

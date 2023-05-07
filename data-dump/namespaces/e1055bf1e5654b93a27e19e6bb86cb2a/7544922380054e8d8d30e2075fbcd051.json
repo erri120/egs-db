@@ -1,0 +1,32 @@
+{
+  "id": "7544922380054e8d8d30e2075fbcd051",
+  "title": "Caribbean Skies",
+  "description": "Caribbean Skies",
+  "namespace": "e1055bf1e5654b93a27e19e6bb86cb2a",
+  "categories": "public/games/applications",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/e1055bf1e5654b93a27e19e6bb86cb2a/item/EGS_CarribeanSkies_RealmforgeStudios_DLC_S1-2560x1440-bcf5d57f074d3911fc578970febebc11.jpg",
+      "md5": "bcf5d57f074d3911fc578970febebc11",
+      "width": 2560,
+      "height": 1440,
+      "size": 855136,
+      "uploadedDate": "2020-12-02T12:51:48.283Z"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/e1055bf1e5654b93a27e19e6bb86cb2a/item/EGS_CarribeanSkies_RealmforgeStudios_DLC_S2-1200x1600-38235b5b247b395b9f82642cbb7ff840.jpg",
+      "md5": "38235b5b247b395b9f82642cbb7ff840",
+      "width": 1200,
+      "height": 1600,
+      "size": 629410,
+      "uploadedDate": "2020-12-02T12:51:57.159Z"
+    }
+  ],
+  "creationDate": "2020-06-30T13:23:01.085+00:00",
+  "lastModifiedDate": "2021-08-11T15:00:10.33+00:00",
+  "developer": "Kalypso Media Group GmbH",
+  "developerId": "o-37ss7wypkskvyj58j9s7hhltxtujac",
+  "applicationId": null
+}

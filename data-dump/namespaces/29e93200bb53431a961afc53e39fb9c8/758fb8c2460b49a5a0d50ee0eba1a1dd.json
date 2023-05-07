@@ -1,0 +1,32 @@
+{
+  "id": "758fb8c2460b49a5a0d50ee0eba1a1dd",
+  "title": "The Falconeer",
+  "description": "The Falconeer",
+  "namespace": "29e93200bb53431a961afc53e39fb9c8",
+  "categories": "public/games/applications",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_TheFalconeer_TomasSala_S1_2560x1440-42c0d28687b659cdf36d3e3b29cb32e0",
+      "md5": "42c0d28687b659cdf36d3e3b29cb32e0",
+      "width": 2560,
+      "height": 1440,
+      "size": 924516,
+      "uploadedDate": "2021-07-27T04:25:20.047Z"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_TheFalconeer_TomasSala_S2_1200x1600-ca4e43b6dcf60e864b143751b1999319",
+      "md5": "ca4e43b6dcf60e864b143751b1999319",
+      "width": 1200,
+      "height": 1600,
+      "size": 952389,
+      "uploadedDate": "2021-07-27T04:25:16.906Z"
+    }
+  ],
+  "creationDate": "2021-06-03T20:04:55.058+00:00",
+  "lastModifiedDate": "2021-08-05T13:39:34.072+00:00",
+  "developer": "Wired Productions",
+  "developerId": "o-r83qbqhwd8y5y5r6e9x62vtrsd9mqm",
+  "applicationId": ""
+}

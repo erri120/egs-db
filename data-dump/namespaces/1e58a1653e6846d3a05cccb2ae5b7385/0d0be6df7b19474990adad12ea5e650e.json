@@ -1,0 +1,32 @@
+{
+  "id": "0d0be6df7b19474990adad12ea5e650e",
+  "title": "Missile Command: Recharged",
+  "description": "Missile Command: Recharged",
+  "namespace": "1e58a1653e6846d3a05cccb2ae5b7385",
+  "categories": "public/games/applications",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/1e58a1653e6846d3a05cccb2ae5b7385/item/EGS_MissileCommandRecharged_NickervisionStudios_S5-1920x1080-330fe63b5bf777f36860f6fd03b2a62c.jpg",
+      "md5": "330fe63b5bf777f36860f6fd03b2a62c",
+      "width": 1920,
+      "height": 1080,
+      "size": 704545,
+      "uploadedDate": "2020-05-27T13:53:34.903Z"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/1e58a1653e6846d3a05cccb2ae5b7385/item/EGS_MissileCommandRecharged_NickervisionStudios_S6-1200x1600-13dce142b015db18d28b54c6d1515f6c.jpg",
+      "md5": "13dce142b015db18d28b54c6d1515f6c",
+      "width": 1200,
+      "height": 1600,
+      "size": 1000056,
+      "uploadedDate": "2020-05-27T13:53:44.643Z"
+    }
+  ],
+  "creationDate": "2020-05-27T00:55:19.1+00:00",
+  "lastModifiedDate": "2020-06-24T18:13:42.404+00:00",
+  "developer": "Atari",
+  "developerId": "o-bhpk86rgthezed539g3hb5avacecqt",
+  "applicationId": "fghi4567rXqhl7cxvERPyykKda6sTcsH"
+}

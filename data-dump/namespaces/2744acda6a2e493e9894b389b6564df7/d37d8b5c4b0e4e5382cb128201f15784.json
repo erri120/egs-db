@@ -1,0 +1,32 @@
+{
+  "id": "d37d8b5c4b0e4e5382cb128201f15784",
+  "title": "Season 3- Locate and Deliver Audience",
+  "description": "Season 3- Locate and Deliver Audience",
+  "namespace": "2744acda6a2e493e9894b389b6564df7",
+  "categories": "",
+  "keyImages": [
+    {
+      "type": "DieselStoreFrontWide",
+      "url": "https://cdn1.epicgames.com/2744acda6a2e493e9894b389b6564df7/item/EGS_Season3LocateDeliver_SaberInteractive_DLC_S1-2560x1440-7d15fd513905d34d1b2251eec84a8522.jpg",
+      "md5": "7d15fd513905d34d1b2251eec84a8522",
+      "width": 2560,
+      "height": 1440,
+      "size": 413192,
+      "uploadedDate": "2021-02-10T19:49:03.313Z"
+    },
+    {
+      "type": "DieselStoreFrontTall",
+      "url": "https://cdn1.epicgames.com/2744acda6a2e493e9894b389b6564df7/item/EGS_Season3LocateDeliver_SaberInteractive_DLC_S2-1200x1600-89fceee2a1eada46792721a29d431f68.jpg",
+      "md5": "89fceee2a1eada46792721a29d431f68",
+      "width": 1200,
+      "height": 1600,
+      "size": 631989,
+      "uploadedDate": "2021-02-10T19:49:12.443Z"
+    }
+  ],
+  "creationDate": "2020-01-09T22:28:15.363+00:00",
+  "lastModifiedDate": "2022-12-08T09:53:16.232+00:00",
+  "developer": "Focus Home",
+  "developerId": "o-wt4zxeetmq6jem7qp4pkssr46aenj5",
+  "applicationId": null
+}

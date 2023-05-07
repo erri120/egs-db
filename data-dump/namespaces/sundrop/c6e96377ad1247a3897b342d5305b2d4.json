@@ -1,0 +1,23 @@
+{
+  "id": "c6e96377ad1247a3897b342d5305b2d4",
+  "title": "For Honor Standard Edition Audience",
+  "description": "For Honor Standard Edition Audience",
+  "namespace": "sundrop",
+  "categories": "",
+  "keyImages": [
+    {
+      "type": "ESRB",
+      "url": "https://cdn1.epicgames.com/sundrop/item/For-Honor-Rating-842x485-0403999c9eaf5de174c21f42638305df.png",
+      "md5": "0403999c9eaf5de174c21f42638305df",
+      "width": 842,
+      "height": 485,
+      "size": 19647,
+      "uploadedDate": "2020-01-14T19:01:40.314Z"
+    }
+  ],
+  "creationDate": "2019-07-26T19:40:28.797+00:00",
+  "lastModifiedDate": "2020-12-10T15:22:04.267+00:00",
+  "developer": "Ubisoft Entertainment",
+  "developerId": "o-3efjudxdtgsqnulml4bkeq3v9nec38",
+  "applicationId": null
+}

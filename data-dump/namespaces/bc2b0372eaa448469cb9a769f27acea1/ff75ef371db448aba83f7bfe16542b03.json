@@ -1,0 +1,23 @@
+{
+  "id": "ff75ef371db448aba83f7bfe16542b03",
+  "title": "BobcatGeneralAudience",
+  "description": "BobcatGeneralAudience",
+  "namespace": "bc2b0372eaa448469cb9a769f27acea1",
+  "categories": "",
+  "keyImages": [
+    {
+      "type": "ESRB",
+      "url": "https://cdn1.epicgames.com/bc2b0372eaa448469cb9a769f27acea1/item/TeenRating-622x295-78dd141d49e4bbea7d537feea92df6d2.PNG",
+      "md5": "78dd141d49e4bbea7d537feea92df6d2",
+      "width": 622,
+      "height": 295,
+      "size": 28378,
+      "uploadedDate": "2020-09-30T17:17:11.36Z"
+    }
+  ],
+  "creationDate": "2020-04-16T20:33:06.566+00:00",
+  "lastModifiedDate": "2021-01-21T15:58:08.412+00:00",
+  "developer": "Electronic Arts",
+  "developerId": "o-vtqh9b4lk8n4jpadfv6cphqs9hsly9",
+  "applicationId": null
+}

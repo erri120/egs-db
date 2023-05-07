@@ -1,0 +1,32 @@
+{
+  "id": "33fc9411f29b40309059f140d6465dde",
+  "title": "Spitter",
+  "description": "Spitter",
+  "namespace": "e1055bf1e5654b93a27e19e6bb86cb2a",
+  "categories": "public/games/applications",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/e1055bf1e5654b93a27e19e6bb86cb2a/item/EGS_Spitter_LimbicEntertainment_DLC_S1-2560x1440-43e4ef12cba3ced456d50ffa56a6dba1.jpg",
+      "md5": "43e4ef12cba3ced456d50ffa56a6dba1",
+      "width": 2560,
+      "height": 1440,
+      "size": 946792,
+      "uploadedDate": "2020-11-16T20:39:20.435Z"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/e1055bf1e5654b93a27e19e6bb86cb2a/item/EGS_Spitter_LimbicEntertainment_DLC_S2-1200x1600-7572ab79f3e499fdc685004ce88fe53b.jpg",
+      "md5": "7572ab79f3e499fdc685004ce88fe53b",
+      "width": 1200,
+      "height": 1600,
+      "size": 731656,
+      "uploadedDate": "2020-11-16T20:39:30.306Z"
+    }
+  ],
+  "creationDate": "2020-05-08T16:39:03.651+00:00",
+  "lastModifiedDate": "2021-08-11T15:00:10.322+00:00",
+  "developer": "Kalypso Media Group GmbH",
+  "developerId": "o-37ss7wypkskvyj58j9s7hhltxtujac",
+  "applicationId": null
+}

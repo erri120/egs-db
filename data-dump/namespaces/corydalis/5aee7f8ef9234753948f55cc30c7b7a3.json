@@ -1,0 +1,23 @@
+{
+  "id": "5aee7f8ef9234753948f55cc30c7b7a3",
+  "title": "Slime Rancher DLC1",
+  "description": "Slime Rancher DLC1",
+  "namespace": "corydalis",
+  "categories": "",
+  "keyImages": [
+    {
+      "type": "ESRB",
+      "url": "https://cdn1.epicgames.com/corydalis/item/SlimeRancher-842x404-fce4fa7233ed80170a8e36079d1e1bde.png",
+      "md5": "fce4fa7233ed80170a8e36079d1e1bde",
+      "width": 842,
+      "height": 404,
+      "size": 51194,
+      "uploadedDate": "2019-05-23T18:20:51.254Z"
+    }
+  ],
+  "creationDate": "2019-05-23T18:21:09.873+00:00",
+  "lastModifiedDate": "2019-06-17T17:11:29.977+00:00",
+  "developer": "Monomi Park",
+  "developerId": "o-zaqwbfdrp3pwhlqsnwvjfsmjdpsj3a",
+  "applicationId": null
+}

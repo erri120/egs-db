@@ -1,0 +1,23 @@
+{
+  "id": "3cb4183a23c94e3b9ce2bf9f65ae4db3",
+  "title": "VultureGeneralAudience",
+  "description": "VultureGeneralAudience",
+  "namespace": "f9c2aedaff8442b286fbd026948b9f09",
+  "categories": "",
+  "keyImages": [
+    {
+      "type": "ESRB",
+      "url": "https://cdn1.epicgames.com/f9c2aedaff8442b286fbd026948b9f09/item/ESRB_Faeria-842x485-5765e4d7960a6a3da59dfa970b6f5147.jpg",
+      "md5": "5765e4d7960a6a3da59dfa970b6f5147",
+      "width": 842,
+      "height": 485,
+      "size": 87036,
+      "uploadedDate": "2020-02-25T15:55:12.16Z"
+    }
+  ],
+  "creationDate": "2019-06-14T18:16:34.728+00:00",
+  "lastModifiedDate": "2020-02-25T15:55:28.951+00:00",
+  "developer": "Abrakam",
+  "developerId": "o-7e471071ca794f1abc81c7430b7e8f",
+  "applicationId": null
+}

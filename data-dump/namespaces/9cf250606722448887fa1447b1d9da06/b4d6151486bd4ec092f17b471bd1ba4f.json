@@ -1,0 +1,32 @@
+{
+  "id": "b4d6151486bd4ec092f17b471bd1ba4f",
+  "title": "WRC9 External Tests",
+  "description": "WRC9 External Tests",
+  "namespace": "9cf250606722448887fa1447b1d9da06",
+  "categories": "public/games/applications",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/9cf250606722448887fa1447b1d9da06/item/EGS_WRC9FIAWorldRallyChampionship_KTRacing_S1-2560x1440-02b75e7bdcabd1addc129dcb3ab1d16d.jpg",
+      "md5": "02b75e7bdcabd1addc129dcb3ab1d16d",
+      "width": 2560,
+      "height": 1440,
+      "size": 913835,
+      "uploadedDate": "2020-06-29T22:06:54.14Z"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/9cf250606722448887fa1447b1d9da06/item/EGS_WRC9FIAWorldRallyChampionship_KTRacing_S2-1200x1600-2e92991d2eb3440be53f4c41a53d1b3b.jpg",
+      "md5": "2e92991d2eb3440be53f4c41a53d1b3b",
+      "width": 1200,
+      "height": 1600,
+      "size": 257507,
+      "uploadedDate": "2020-06-29T22:07:03.009Z"
+    }
+  ],
+  "creationDate": "2020-11-20T15:05:29.055+00:00",
+  "lastModifiedDate": "2020-11-20T16:43:12.53+00:00",
+  "developer": "Bigben Interactive",
+  "developerId": "o-wubu848ps2xcxuwv2m3bhet9gbhdbp",
+  "applicationId": null
+}

@@ -1,0 +1,23 @@
+{
+  "id": "fc15955c090644f78cfc309b722995a2",
+  "title": "Operencia Humble Bundle Audience",
+  "description": "Operencia Humble Bundle Audience",
+  "namespace": "lily",
+  "categories": "",
+  "keyImages": [
+    {
+      "type": "ESRB",
+      "url": "https://cdn1.epicgames.com/lily/item/Operencia-842x404-3511747173090e0e069515a713196792.png",
+      "md5": "3511747173090e0e069515a713196792",
+      "width": 842,
+      "height": 404,
+      "size": 46247,
+      "uploadedDate": "2019-05-14T19:36:18.234Z"
+    }
+  ],
+  "creationDate": "2019-05-14T19:36:57.376+00:00",
+  "lastModifiedDate": "2020-03-31T15:02:00.662+00:00",
+  "developer": "Zen Studios",
+  "developerId": "o-r7rf64mtq3yr8uhhvdf8sba3hpqbj2",
+  "applicationId": null
+}

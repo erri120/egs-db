@@ -1,0 +1,41 @@
+{
+  "id": "e98b9f1edc45417bb368c55874187be9",
+  "title": "ChivesStaging",
+  "description": "ChivesStaging",
+  "namespace": "aa5ef9d2f8394731a034504c562e292c",
+  "categories": "public/games/applications",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/aa5ef9d2f8394731a034504c562e292c/item/BAD_NORTH-2560x1440-5c56664a76a2b828fa6ebfe6d54b5143.jpg",
+      "md5": "5c56664a76a2b828fa6ebfe6d54b5143",
+      "width": 2560,
+      "height": 1440,
+      "size": 68810,
+      "uploadedDate": "2019-11-13T19:12:26.069Z"
+    },
+    {
+      "type": "DieselGameBoxLogo",
+      "url": "https://cdn1.epicgames.com/aa5ef9d2f8394731a034504c562e292c/item/BADNORTH_IC1_DESCRIPTION-2048x717-d5411df6ea594e0ee7175d444772a75f.png",
+      "md5": "d5411df6ea594e0ee7175d444772a75f",
+      "width": 2048,
+      "height": 717,
+      "size": 126743,
+      "uploadedDate": "2019-11-13T19:12:33.829Z"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/aa5ef9d2f8394731a034504c562e292c/item/BadNorth_Portrait-1280x1440-e5595cb37c9d97c9081360c393eba1b7.jpg",
+      "md5": "e5595cb37c9d97c9081360c393eba1b7",
+      "width": 1280,
+      "height": 1440,
+      "size": 40674,
+      "uploadedDate": "2019-11-21T13:53:06.901Z"
+    }
+  ],
+  "creationDate": "2019-10-23T17:42:31.21+00:00",
+  "lastModifiedDate": "2019-11-21T15:48:43.724+00:00",
+  "developer": "Raw Fury",
+  "developerId": "o-fay4ghw9hhamujs53rfhy83ffexb7k",
+  "applicationId": null
+}

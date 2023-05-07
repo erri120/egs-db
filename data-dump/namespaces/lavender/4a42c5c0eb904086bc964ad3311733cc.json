@@ -1,0 +1,23 @@
+{
+  "id": "4a42c5c0eb904086bc964ad3311733cc",
+  "title": "Beyond Two Souls Demo Audience \u002B",
+  "description": "Beyond Two Souls Demo Audience \u002B",
+  "namespace": "lavender",
+  "categories": "",
+  "keyImages": [
+    {
+      "type": "ESRB",
+      "url": "https://cdn1.epicgames.com/lavender/item/BeyondTwoSouls_ESRB-842x404-0e54f2dbc8397cecdc84e0217a4decc7.jpg",
+      "md5": "0e54f2dbc8397cecdc84e0217a4decc7",
+      "width": 842,
+      "height": 404,
+      "size": 37873,
+      "uploadedDate": "2019-10-09T21:03:07.231Z"
+    }
+  ],
+  "creationDate": "2019-08-13T16:03:21.596+00:00",
+  "lastModifiedDate": "2019-10-16T14:26:04.204+00:00",
+  "developer": "Quantic Dream",
+  "developerId": "o-m8v47d762atphw94knus7ezawefpcu",
+  "applicationId": null
+}

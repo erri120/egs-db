@@ -1,0 +1,32 @@
+{
+  "id": "fdb8e4fe4ddd40b7b2378bc584acec6a",
+  "title": "FortnitePreDeployB",
+  "description": "FortnitePreDeployB",
+  "namespace": "fn",
+  "categories": "",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/fn/item/Fortnite_llamacorn_bg-430x250-ba52f51868240271251851bc83010ec8.png",
+      "md5": "ba52f51868240271251851bc83010ec8",
+      "width": 430,
+      "height": 250,
+      "size": 90716,
+      "uploadedDate": "2018-11-06T22:11:31.248Z"
+    },
+    {
+      "type": "DieselGameBoxLogo",
+      "url": "https://cdn1.epicgames.com/fn/item/blank_logo-1x1-1b95550641d28d4e076bc9111ce9f533.png",
+      "md5": "1b95550641d28d4e076bc9111ce9f533",
+      "width": 1,
+      "height": 1,
+      "size": 928,
+      "uploadedDate": "2018-11-06T22:11:38.785Z"
+    }
+  ],
+  "creationDate": "2018-06-22T14:50:43.68+00:00",
+  "lastModifiedDate": "2023-02-10T21:58:59.9+00:00",
+  "developer": "Epic Games",
+  "developerId": "o-aa83a0a9bc45e98c80c1b1c9d92e9e",
+  "applicationId": ""
+}

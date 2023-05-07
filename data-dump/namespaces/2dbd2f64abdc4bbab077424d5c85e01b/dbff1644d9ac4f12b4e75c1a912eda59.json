@@ -1,0 +1,23 @@
+{
+  "id": "dbff1644d9ac4f12b4e75c1a912eda59",
+  "title": "SaffronSeasonY1PassAudience_marker",
+  "description": "SaffronSeasonY1PassAudience_marker",
+  "namespace": "2dbd2f64abdc4bbab077424d5c85e01b",
+  "categories": "",
+  "keyImages": [
+    {
+      "type": "ESRB",
+      "url": "https://cdn1.epicgames.com/2dbd2f64abdc4bbab077424d5c85e01b/item/RP_FOR_T_M_AO-842x404-e685858d6f01213bedf5b2abec53be94.png",
+      "md5": "e685858d6f01213bedf5b2abec53be94",
+      "width": 842,
+      "height": 404,
+      "size": 55379,
+      "uploadedDate": "2019-05-09T13:30:29.789Z"
+    }
+  ],
+  "creationDate": "2019-05-08T07:10:22.148+00:00",
+  "lastModifiedDate": "2021-09-29T14:56:38.285+00:00",
+  "developer": "Ubisoft Entertainment",
+  "developerId": "o-3efjudxdtgsqnulml4bkeq3v9nec38",
+  "applicationId": null
+}

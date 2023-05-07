@@ -1,0 +1,32 @@
+{
+  "id": "135a58d131b342f4bb1b9ec0c494cc96",
+  "title": "Discord",
+  "description": "Discord",
+  "namespace": "5f3c898b2a3244af99e9900e015717f8",
+  "categories": "public/software/applications",
+  "keyImages": [
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/egs-discord-discord-s2-1200x1600-b72c609ef567_1200x1600-7e960066e153510e27bdded06d99ff5e",
+      "md5": "7e960066e153510e27bdded06d99ff5e",
+      "width": 1200,
+      "height": 1600,
+      "size": 87602,
+      "uploadedDate": "2021-05-19T01:26:37.014Z"
+    },
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/egs-discord-discord-s1-2560x1440-834f227d1383_2560x1440-53f5d8dfeecbcb54b5ef5cc2acd8f21f",
+      "md5": "53f5d8dfeecbcb54b5ef5cc2acd8f21f",
+      "width": 2560,
+      "height": 1440,
+      "size": 138972,
+      "uploadedDate": "2021-05-19T01:26:45.669Z"
+    }
+  ],
+  "creationDate": "2021-02-16T00:27:23.19+00:00",
+  "lastModifiedDate": "2021-06-10T14:05:54.665+00:00",
+  "developer": "Discord Inc",
+  "developerId": "o-78dgatrfv9b22akubafkyfcm3sbxf5",
+  "applicationId": ""
+}

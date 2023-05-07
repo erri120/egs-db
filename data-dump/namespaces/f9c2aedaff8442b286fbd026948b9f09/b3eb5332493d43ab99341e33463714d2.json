@@ -1,0 +1,23 @@
+{
+  "id": "b3eb5332493d43ab99341e33463714d2",
+  "title": "Chronicles of Gagana DLC",
+  "description": "Chronicles of Gagana DLC",
+  "namespace": "f9c2aedaff8442b286fbd026948b9f09",
+  "categories": "",
+  "keyImages": [
+    {
+      "type": "ESRB",
+      "url": "https://cdn1.epicgames.com/f9c2aedaff8442b286fbd026948b9f09/item/ESRB_Faeria-842x485-5765e4d7960a6a3da59dfa970b6f5147.jpg",
+      "md5": "5765e4d7960a6a3da59dfa970b6f5147",
+      "width": 842,
+      "height": 485,
+      "size": 87036,
+      "uploadedDate": "2020-02-25T15:56:55.65Z"
+    }
+  ],
+  "creationDate": "2019-09-09T19:50:17.335+00:00",
+  "lastModifiedDate": "2021-03-24T01:03:32.601+00:00",
+  "developer": "Versus Evil",
+  "developerId": "o-ugw2zblbdkg5xklzadlrt2qe92cdje",
+  "applicationId": null
+}

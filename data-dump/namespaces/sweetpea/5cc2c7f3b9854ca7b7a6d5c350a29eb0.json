@@ -1,0 +1,32 @@
+{
+  "id": "5cc2c7f3b9854ca7b7a6d5c350a29eb0",
+  "title": "Trover Saves The Universe Pre-Purchase",
+  "description": "Trover Saves The Universe Pre-Purchase",
+  "namespace": "sweetpea",
+  "categories": "",
+  "keyImages": [
+    {
+      "type": "DieselGameBoxLogo",
+      "url": "https://cdn1.epicgames.com/sweetpea/item/TSTULogo-2100x1350-1875996b828b2a68eebb4fe1ffc3fcef.png",
+      "md5": "1875996b828b2a68eebb4fe1ffc3fcef",
+      "width": 2100,
+      "height": 1350,
+      "size": 240144,
+      "uploadedDate": "2019-05-06T20:00:25.951Z"
+    },
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/sweetpea/item/EGS_SquanchGames_Trover_L1_TroverSpace-2560x1440-62b9f893e4f88c1435a8b8a7904794d0.jpg",
+      "md5": "62b9f893e4f88c1435a8b8a7904794d0",
+      "width": 2560,
+      "height": 1440,
+      "size": 276449,
+      "uploadedDate": "2019-06-04T12:56:06.364Z"
+    }
+  ],
+  "creationDate": "2019-05-06T19:42:10.381+00:00",
+  "lastModifiedDate": "2019-06-04T12:59:53.988+00:00",
+  "developer": "Squanch Games",
+  "developerId": "o-n2p7jejpaawba9jzcfpryscpj3uh6w",
+  "applicationId": null
+}

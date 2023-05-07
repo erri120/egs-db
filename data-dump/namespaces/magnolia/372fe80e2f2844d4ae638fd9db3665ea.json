@@ -1,0 +1,41 @@
+{
+  "id": "372fe80e2f2844d4ae638fd9db3665ea",
+  "title": "TheWitnessGeneralAudience",
+  "description": "TheWitnessGeneralAudience",
+  "namespace": "magnolia",
+  "categories": "",
+  "keyImages": [
+    {
+      "type": "CodeRedemption_340x440",
+      "url": "https://cdn1.epicgames.com/magnolia/item/TheWitness_CodeRedemption-340x440-ecab19a3bcd3512358c29f6d9ec8abd7.jpg",
+      "md5": "ecab19a3bcd3512358c29f6d9ec8abd7",
+      "width": 340,
+      "height": 440,
+      "size": 105331,
+      "uploadedDate": "2019-04-04T12:33:52.962Z"
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/magnolia/item/TheWitness_IC2-806x806-7e1ddf0b1e2032784afe97449794aa02.png",
+      "md5": "7e1ddf0b1e2032784afe97449794aa02",
+      "width": 806,
+      "height": 806,
+      "size": 70512,
+      "uploadedDate": "2019-04-04T12:34:20.552Z"
+    },
+    {
+      "type": "ESRB",
+      "url": "https://cdn1.epicgames.com/magnolia/item/ESRB_TheWitness-842x404-3859410896dc83cafcd602c2d4b97e12.jpg",
+      "md5": "3859410896dc83cafcd602c2d4b97e12",
+      "width": 842,
+      "height": 404,
+      "size": 47782,
+      "uploadedDate": "2019-04-23T20:24:41.222Z"
+    }
+  ],
+  "creationDate": "2019-03-04T18:19:43.493+00:00",
+  "lastModifiedDate": "2019-05-13T14:17:08.177+00:00",
+  "developer": "Thekla, Inc.",
+  "developerId": "o-ch8uj5xq8v7rkurtr6gpx8accufw8u",
+  "applicationId": null
+}

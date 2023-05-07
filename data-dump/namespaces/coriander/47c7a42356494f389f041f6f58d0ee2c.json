@@ -1,0 +1,23 @@
+{
+  "id": "47c7a42356494f389f041f6f58d0ee2c",
+  "title": "CorianderQAAudience",
+  "description": "CorianderQAudience",
+  "namespace": "coriander",
+  "categories": "",
+  "keyImages": [
+    {
+      "type": "ESRB",
+      "url": "https://cdn1.epicgames.com/coriander/item/Diesel_productv2_far-cry-5_home_ESRB_M_FarCry5-398x190-8e977ba58e5ea46a28eb49d4d490f15f622f30d4-398x190-1a57f52425a8ecdb0a6f940ab25e5ef5.jpg",
+      "md5": "1a57f52425a8ecdb0a6f940ab25e5ef5",
+      "width": 398,
+      "height": 190,
+      "size": 12142,
+      "uploadedDate": "2020-02-18T14:44:59.518Z"
+    }
+  ],
+  "creationDate": "2019-10-11T19:00:46.007+00:00",
+  "lastModifiedDate": "2020-02-18T15:52:25.07+00:00",
+  "developer": "Ubisoft Entertainment",
+  "developerId": "o-3efjudxdtgsqnulml4bkeq3v9nec38",
+  "applicationId": null
+}

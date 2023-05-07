@@ -1,0 +1,23 @@
+{
+  "id": "58e0b4a5a5c24d4cb6ca0fe789499d02",
+  "title": "Detroit Become Human QA Audience",
+  "description": "Detroit Become Human QA Audience",
+  "namespace": "columbine",
+  "categories": "",
+  "keyImages": [
+    {
+      "type": "ESRB",
+      "url": "https://cdn1.epicgames.com/columbine/item/ESRB_DetroitBecomeHuman-842x404-035ba6355044f32a11b90c3396b43a6a.jpg",
+      "md5": "035ba6355044f32a11b90c3396b43a6a",
+      "width": 842,
+      "height": 404,
+      "size": 119136,
+      "uploadedDate": "2019-07-29T16:08:11.776Z"
+    }
+  ],
+  "creationDate": "2019-04-03T17:10:51.861+00:00",
+  "lastModifiedDate": "2019-12-12T12:59:57.263+00:00",
+  "developer": "Quantic Dream",
+  "developerId": "o-m8v47d762atphw94knus7ezawefpcu",
+  "applicationId": null
+}

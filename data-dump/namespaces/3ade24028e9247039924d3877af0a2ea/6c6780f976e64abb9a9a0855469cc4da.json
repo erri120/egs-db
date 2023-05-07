@@ -1,0 +1,32 @@
+{
+  "id": "6c6780f976e64abb9a9a0855469cc4da",
+  "title": "WHAT THE GOLF?",
+  "description": "WHAT THE GOLF?",
+  "namespace": "3ade24028e9247039924d3877af0a2ea",
+  "categories": "public/games/applications",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/item/3ade24028e9247039924d3877af0a2ea/EGS_WHATTHEGOLF_Triband_S1_2560x1440-1f6724029a7295c20024a0894f9608df",
+      "md5": "1f6724029a7295c20024a0894f9608df",
+      "width": 2560,
+      "height": 1440,
+      "size": 721034,
+      "uploadedDate": "2021-11-22T16:34:59.743Z"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/item/3ade24028e9247039924d3877af0a2ea/EGS_WHATTHEGOLF_Triband_S2_1200x1600-031a31eb47230f9fdbd1733e18280564",
+      "md5": "031a31eb47230f9fdbd1733e18280564",
+      "width": 1200,
+      "height": 1600,
+      "size": 629829,
+      "uploadedDate": "2021-11-22T16:34:53.289Z"
+    }
+  ],
+  "creationDate": "2019-06-06T19:46:46.843+00:00",
+  "lastModifiedDate": "2022-04-19T14:27:59.423+00:00",
+  "developer": "Triband",
+  "developerId": "o-lnl9dagny4g6432q7delvkhfqzwcnx",
+  "applicationId": ""
+}

@@ -1,0 +1,41 @@
+{
+  "id": "cc280f80295042b1822f3316d1f0a782",
+  "title": "Beyond Two Souls Pre-Purchase",
+  "description": "Beyond Two Souls Pre-Purchase",
+  "namespace": "lavender",
+  "categories": "",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/lavender/item/Beyond_PrimaryPromo_01-2580x1450-0a606a80d6a752725fd28e784d4f2cfb.jpg",
+      "md5": "0a606a80d6a752725fd28e784d4f2cfb",
+      "width": 2580,
+      "height": 1450,
+      "size": 161428,
+      "uploadedDate": "2019-03-19T21:42:10.298Z"
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/lavender/item/Beyond_GameIcon-400x400-362c6839bb4a4c9c28afb2ea260f78cb.png",
+      "md5": "362c6839bb4a4c9c28afb2ea260f78cb",
+      "width": 400,
+      "height": 400,
+      "size": 273087,
+      "uploadedDate": "2019-03-19T21:42:39.616Z"
+    },
+    {
+      "type": "DieselGameBoxLogo",
+      "url": "https://cdn1.epicgames.com/lavender/item/Beyond_Logo_Master-2560x1024-41dbffddef5a6d883727114fc92578b0.png",
+      "md5": "41dbffddef5a6d883727114fc92578b0",
+      "width": 2560,
+      "height": 1024,
+      "size": 177199,
+      "uploadedDate": "2019-03-20T12:52:32.838Z"
+    }
+  ],
+  "creationDate": "2019-05-14T20:35:53.16+00:00",
+  "lastModifiedDate": "2019-10-16T14:25:56.303+00:00",
+  "developer": "Quantic Dream",
+  "developerId": "o-m8v47d762atphw94knus7ezawefpcu",
+  "applicationId": null
+}

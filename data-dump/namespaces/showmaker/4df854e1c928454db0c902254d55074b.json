@@ -1,0 +1,50 @@
+{
+  "id": "4df854e1c928454db0c902254d55074b",
+  "title": "Showmaker Dev Kit",
+  "description": "Showmaker Dev Kit",
+  "namespace": "showmaker",
+  "categories": "",
+  "keyImages": [
+    {
+      "type": "DieselGameBoxLogo",
+      "url": "https://cdn1.epicgames.com/showmaker/item/showmaker_White-3738x459-873fe388632f69e28e63f1d16270273c.png",
+      "md5": "873fe388632f69e28e63f1d16270273c",
+      "width": 3738,
+      "height": 459,
+      "size": 163960,
+      "uploadedDate": "2018-11-15T18:44:38.32Z"
+    },
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/showmaker/item/showmaker_box-2580x1450-dfb45a2734dd4e8ee4e62bfbc57be704-2580x1450-dfb45a2734dd4e8ee4e62bfbc57be704.jpg",
+      "md5": "dfb45a2734dd4e8ee4e62bfbc57be704",
+      "width": 2580,
+      "height": 1450,
+      "size": 1481948,
+      "uploadedDate": "2018-11-28T20:26:28.823Z"
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/showmaker/item/capsule_616x353-616x353-cf089350353ce2c4a6761d14218f3fa8.jpg",
+      "md5": "cf089350353ce2c4a6761d14218f3fa8",
+      "width": 616,
+      "height": 353,
+      "size": 63670,
+      "uploadedDate": "2018-12-06T23:25:06.746Z"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/showmaker/item/showmaker_box-2580x1450-dfb45a2734dd4e8ee4e62bfbc57be704.jpg",
+      "md5": "dfb45a2734dd4e8ee4e62bfbc57be704",
+      "width": 2580,
+      "height": 1450,
+      "size": 1481948,
+      "uploadedDate": "2019-11-21T14:21:34.445Z"
+    }
+  ],
+  "creationDate": "2018-08-27T14:03:30.822+00:00",
+  "lastModifiedDate": "2022-04-05T14:16:55.448+00:00",
+  "developer": "Preapp Partners",
+  "developerId": "o-6scaa9jsj4mnlnn4dgcvdekny3xcag",
+  "applicationId": ""
+}

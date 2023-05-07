@@ -1,0 +1,32 @@
+{
+  "id": "9a017624dc844e05a0a9e9767267a8f6",
+  "title": "Splinter Cell Chaos Theory",
+  "description": "Splinter Cell Chaos Theory",
+  "namespace": "36b8fb441b2542f89250fc92ca761077",
+  "categories": "public/games/applications",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/36b8fb441b2542f89250fc92ca761077/item/SCCT_Store_Landscape_2560x1440-2560x1440-d525349cf3b27e14b9538841838ae3bc.jpg",
+      "md5": "d525349cf3b27e14b9538841838ae3bc",
+      "width": 2560,
+      "height": 1440,
+      "size": 716736,
+      "uploadedDate": "2021-03-24T21:25:34.661Z"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/36b8fb441b2542f89250fc92ca761077/item/SCCT_Store_Portrait_1200x1600-1200x1600-481e408ce10e2158a965a310d41c8f6c.jpg",
+      "md5": "481e408ce10e2158a965a310d41c8f6c",
+      "width": 1200,
+      "height": 1600,
+      "size": 804511,
+      "uploadedDate": "2021-03-24T21:25:38.017Z"
+    }
+  ],
+  "creationDate": "2020-08-11T20:16:51.525+00:00",
+  "lastModifiedDate": "2021-08-24T16:46:06.179+00:00",
+  "developer": "Ubisoft Entertainment",
+  "developerId": "o-3efjudxdtgsqnulml4bkeq3v9nec38",
+  "applicationId": ""
+}

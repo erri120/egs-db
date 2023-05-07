@@ -1,0 +1,32 @@
+{
+  "id": "c837bceda34c4b49b3db9b4ab790c375",
+  "title": "CallunaQA",
+  "description": "CallunaQA",
+  "namespace": "calluna",
+  "categories": "",
+  "keyImages": [
+    {
+      "type": "DieselGameBoxLogo",
+      "url": "https://cdn1.epicgames.com/calluna/item/CONTROL_logo_shadow_1-670x212-97909ede119fef0f36e4cf351c5c214a.png",
+      "md5": "97909ede119fef0f36e4cf351c5c214a",
+      "width": 670,
+      "height": 212,
+      "size": 12177,
+      "uploadedDate": "2019-04-01T19:01:17.116Z"
+    },
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/calluna/item/Control_Store_Primary_Promo_2580x1450-2580x1450-371d5dd82a48a881145528b4781fe757.jpg",
+      "md5": "371d5dd82a48a881145528b4781fe757",
+      "width": 2580,
+      "height": 1450,
+      "size": 223868,
+      "uploadedDate": "2019-04-01T19:01:43.578Z"
+    }
+  ],
+  "creationDate": "2019-04-01T19:04:37.135+00:00",
+  "lastModifiedDate": "2020-08-27T14:49:37.702+00:00",
+  "developer": "505 Games S.r.l.",
+  "developerId": "o-cul2z53mrw3bxltv63v68rgd4b3w52",
+  "applicationId": null
+}

@@ -1,0 +1,23 @@
+{
+  "id": "517f08436f634f08aa57d44d97eb19db",
+  "title": "RainbowSixExtractionStandardAudience",
+  "description": "RainbowSixExtractionStandardAudience",
+  "namespace": "1093790870b043cdbae03d91d76d9ae6",
+  "categories": "",
+  "keyImages": [
+    {
+      "type": "ESRB",
+      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/R6E_ESRB_398x190-6eb78eb8218c083091a56dc8834d7c6d",
+      "md5": "6eb78eb8218c083091a56dc8834d7c6d",
+      "width": 398,
+      "height": 190,
+      "size": 14542,
+      "uploadedDate": "2021-06-11T15:41:42.145Z"
+    }
+  ],
+  "creationDate": "2019-09-19T18:20:55.283+00:00",
+  "lastModifiedDate": "2022-12-01T16:00:36.95+00:00",
+  "developer": "Ubisoft Entertainment",
+  "developerId": "o-3efjudxdtgsqnulml4bkeq3v9nec38",
+  "applicationId": ""
+}

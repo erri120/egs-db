@@ -1,0 +1,32 @@
+{
+  "id": "1a34c013d44e4d00b638dae75c8fed07",
+  "title": "Assassins Creed Syndicate",
+  "description": "Assassins Creed Syndicate",
+  "namespace": "c9be94273fe244c08032ca493ad87434",
+  "categories": "public/games/applications",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/c9be94273fe244c08032ca493ad87434/item/ACS-STD-2560x1440-d38ba6341ab707a6ec99c4f921d8a9bc-2560x1440-d38ba6341ab707a6ec99c4f921d8a9bc.jpg",
+      "md5": "d38ba6341ab707a6ec99c4f921d8a9bc",
+      "width": 2560,
+      "height": 1440,
+      "size": 853469,
+      "uploadedDate": "2020-02-17T15:42:26.866Z"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/item/c9be94273fe244c08032ca493ad87434/ACSyndicateStandardPortrait_1200x1600-22c915715dca99edefe87fc9a7470094",
+      "md5": "22c915715dca99edefe87fc9a7470094",
+      "width": 1200,
+      "height": 1600,
+      "size": 418391,
+      "uploadedDate": "2022-11-18T17:08:23.491Z"
+    }
+  ],
+  "creationDate": "2019-11-06T21:37:52.082+00:00",
+  "lastModifiedDate": "2022-11-18T17:08:31.857+00:00",
+  "developer": "Ubisoft Entertainment",
+  "developerId": "o-3efjudxdtgsqnulml4bkeq3v9nec38",
+  "applicationId": ""
+}

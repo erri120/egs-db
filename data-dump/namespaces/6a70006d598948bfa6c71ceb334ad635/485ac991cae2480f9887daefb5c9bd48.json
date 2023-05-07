@@ -1,0 +1,32 @@
+{
+  "id": "485ac991cae2480f9887daefb5c9bd48",
+  "title": "3 out of 10, EP 5: \u0022The Rig Is Up!\u0022",
+  "description": "3 out of 10, EP 5: \u0022The Rig Is Up!\u0022",
+  "namespace": "6a70006d598948bfa6c71ceb334ad635",
+  "categories": "public/games/applications",
+  "keyImages": [
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/6a70006d598948bfa6c71ceb334ad635/item/EGS_3outof10EP5TheRigIsUp_TerriblePostureGamesInc_S2-1200x1600-230f1086d959795ef3df6ce69f915cc6.jpg",
+      "md5": "230f1086d959795ef3df6ce69f915cc6",
+      "width": 1200,
+      "height": 1600,
+      "size": 481236,
+      "uploadedDate": "2020-09-02T20:22:47.604Z"
+    },
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/6a70006d598948bfa6c71ceb334ad635/item/EGS_3outof10EP5TheRigIsUp_TerriblePostureGamesInc_S1-2560x1440-90a716d5080e7d7f9aefd3bd647c3b6d.jpg",
+      "md5": "90a716d5080e7d7f9aefd3bd647c3b6d",
+      "width": 2560,
+      "height": 1440,
+      "size": 766217,
+      "uploadedDate": "2020-09-02T20:22:57.662Z"
+    }
+  ],
+  "creationDate": "2020-06-23T03:14:58.717+00:00",
+  "lastModifiedDate": "2020-09-03T14:29:07.991+00:00",
+  "developer": "Terrible Posture Games, Inc.",
+  "developerId": "o-2yllrrr7vufkhal9nk3cswwgug977c",
+  "applicationId": null
+}

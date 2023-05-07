@@ -1,0 +1,23 @@
+{
+  "id": "b4fcc5199ab745799f960282446df09c",
+  "title": "Call_To_Action_02",
+  "description": "VISIT THE OFFICIAL WEBSITE\n\u003Cinverted-tiny-body\u003ELEARN MORE\u003C/\u003E",
+  "namespace": "conanexiles",
+  "categories": "layoutcontent",
+  "keyImages": [
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/conanexiles/item/image_2-400x200-6ee8b43b23ec2efc6bce2f457293e98b.png",
+      "md5": "6ee8b43b23ec2efc6bce2f457293e98b",
+      "width": 400,
+      "height": 200,
+      "size": 128377,
+      "uploadedDate": "2017-02-24T00:51:34.797Z"
+    }
+  ],
+  "creationDate": "2017-02-24T00:51:47.073+00:00",
+  "lastModifiedDate": "2020-06-25T14:28:27.423+00:00",
+  "developer": "Epic Games",
+  "developerId": "o-aa83a0a9bc45e98c80c1b1c9d92e9e",
+  "applicationId": null
+}

@@ -1,0 +1,32 @@
+{
+  "id": "f64906226d19478ebb2ab8f9a6d38353",
+  "title": "Milky Way Prince \u2013 The Vampire Star",
+  "description": "Milky Way Prince \u2013 The Vampire Star",
+  "namespace": "be4b391bc31d465ebeba92b9b822b798",
+  "categories": "public/games/applications",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/be4b391bc31d465ebeba92b9b822b798/item/EGS_MilkyWayPrinceTheVampireStar_LorenzoRedaelliEyeguys_S1-2560x1440-ee6527005274df6e27bdbe954f390eeb.jpg",
+      "md5": "ee6527005274df6e27bdbe954f390eeb",
+      "width": 2560,
+      "height": 1440,
+      "size": 589122,
+      "uploadedDate": "2020-06-05T15:29:59.035Z"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/be4b391bc31d465ebeba92b9b822b798/item/EGS_MilkyWayPrinceTheVampireStar_LorenzoRedaelliEyeguys_S4-1200x1600-63c274606bb8e62ed944544f0db53e30.jpg",
+      "md5": "63c274606bb8e62ed944544f0db53e30",
+      "width": 1200,
+      "height": 1600,
+      "size": 330286,
+      "uploadedDate": "2020-06-05T15:30:16.396Z"
+    }
+  ],
+  "creationDate": "2020-06-02T16:06:39.339+00:00",
+  "lastModifiedDate": "2020-08-13T11:41:23.929+00:00",
+  "developer": "Santa Ragione",
+  "developerId": "o-cjwnkas5rn476tzk72fbh2ftutnc2y",
+  "applicationId": "fghi4567E3xwlonwnbr1CSZHnCTusxH1"
+}

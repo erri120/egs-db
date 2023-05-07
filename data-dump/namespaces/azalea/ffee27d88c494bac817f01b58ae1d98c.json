@@ -1,0 +1,32 @@
+{
+  "id": "ffee27d88c494bac817f01b58ae1d98c",
+  "title": "AzaleaStaging",
+  "description": "AzaleaStaging",
+  "namespace": "azalea",
+  "categories": "",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/azalea/item/The_Cycle_Season3_carousel_image-1360x765-0de7ebe269b1b8224dec3e9fd7e6712e.jpg",
+      "md5": "0de7ebe269b1b8224dec3e9fd7e6712e",
+      "width": 1360,
+      "height": 765,
+      "size": 1189493,
+      "uploadedDate": "2020-07-08T12:39:29.122Z"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/azalea/item/final_egsstore_tile_S03_source_final_s-2149x2756-e1961840a3caddad186623059ed2a54c.jpg",
+      "md5": "e1961840a3caddad186623059ed2a54c",
+      "width": 2149,
+      "height": 2756,
+      "size": 2458240,
+      "uploadedDate": "2020-07-08T12:39:22.81Z"
+    }
+  ],
+  "creationDate": "2019-02-22T16:50:21.636+00:00",
+  "lastModifiedDate": "2021-04-08T16:05:26.487+00:00",
+  "developer": "YAGER",
+  "developerId": "o-w7z3vpqhq54t3gbwybuzlmx7xh3355",
+  "applicationId": null
+}

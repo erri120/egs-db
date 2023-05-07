@@ -1,0 +1,32 @@
+{
+  "id": "e0def88f6c6442618df44ce4146b0ecc",
+  "title": "AstrapiaStaging",
+  "description": "AstrapiaStaging",
+  "namespace": "4fece418b513465d9416a700db869585",
+  "categories": "public/games/applications",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/4fece418b513465d9416a700db869585/item/EGS_JackboxGamesInc_TheJackboxPartyPack6_S1-2560x1440-2f34578afe36d88a536777d98bfca0b9.jpg",
+      "md5": "2f34578afe36d88a536777d98bfca0b9",
+      "width": 2560,
+      "height": 1440,
+      "size": 252493,
+      "uploadedDate": "2019-10-14T19:33:16.996Z"
+    },
+    {
+      "type": "DieselGameBoxLogo",
+      "url": "https://cdn1.epicgames.com/4fece418b513465d9416a700db869585/item/EGS_JackboxGamesInc_TheJackboxPartyPack6_IC1-200x200-9fb5a6cf02e8cefd1a47d9d64ce352e9.png",
+      "md5": "9fb5a6cf02e8cefd1a47d9d64ce352e9",
+      "width": 200,
+      "height": 200,
+      "size": 15579,
+      "uploadedDate": "2019-10-14T19:33:25.734Z"
+    }
+  ],
+  "creationDate": "2019-10-03T21:16:36.912+00:00",
+  "lastModifiedDate": "2019-10-17T14:03:02.168+00:00",
+  "developer": "Jackbox Games, Inc.",
+  "developerId": "o-2m9ap45qzvalaepjz6wclpcffeq4aj",
+  "applicationId": null
+}

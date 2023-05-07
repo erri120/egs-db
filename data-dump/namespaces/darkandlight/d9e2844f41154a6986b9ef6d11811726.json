@@ -1,0 +1,50 @@
+{
+  "id": "d9e2844f41154a6986b9ef6d11811726",
+  "title": "Dark and Light Editor",
+  "description": "Dark and Light Editor",
+  "namespace": "darkandlight",
+  "categories": "",
+  "keyImages": [
+    {
+      "type": "DieselGameBoxLogo",
+      "url": "https://cdn1.epicgames.com/darkandlight/item/DarkLight__White-993x398-81593dccc12d9dddebfbfe9fb3309e13.png",
+      "md5": "81593dccc12d9dddebfbfe9fb3309e13",
+      "width": 993,
+      "height": 398,
+      "size": 47472,
+      "uploadedDate": "2018-11-15T18:06:40.449Z"
+    },
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/darkandlight/item/darkandlighttile-1920x959-8fd75dae8d1eb30cec3faa8200f62881.png",
+      "md5": "8fd75dae8d1eb30cec3faa8200f62881",
+      "width": 1920,
+      "height": 959,
+      "size": 2439914,
+      "uploadedDate": "2018-12-05T02:25:42.097Z"
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/darkandlight/item/Dark-and-Light-1280x720-29f1272e5ef00e9a25a8a0a42fefa08d.jpg",
+      "md5": "29f1272e5ef00e9a25a8a0a42fefa08d",
+      "width": 1280,
+      "height": 720,
+      "size": 120558,
+      "uploadedDate": "2018-12-06T23:20:35.898Z"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/darkandlight/item/darkandlighttile-1920x959-8fd75dae8d1eb30cec3faa8200f62881.png",
+      "md5": "8fd75dae8d1eb30cec3faa8200f62881",
+      "width": 1920,
+      "height": 959,
+      "size": 2439914,
+      "uploadedDate": "2019-11-21T16:30:14.284Z"
+    }
+  ],
+  "creationDate": "2018-03-06T19:57:06.585+00:00",
+  "lastModifiedDate": "2022-04-05T14:11:28.634+00:00",
+  "developer": "Snail Games USA",
+  "developerId": "o-33w3pktcfkzsmhns2qwp7mmr3z4nht",
+  "applicationId": ""
+}

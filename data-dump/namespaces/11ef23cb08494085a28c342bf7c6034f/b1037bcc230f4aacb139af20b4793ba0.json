@@ -1,0 +1,32 @@
+{
+  "id": "b1037bcc230f4aacb139af20b4793ba0",
+  "title": "Hamsterdam",
+  "description": "Hamsterdam",
+  "namespace": "11ef23cb08494085a28c342bf7c6034f",
+  "categories": "public/games/applications",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_Hamsterdam_MuseGames_S1_2560x1440-b8735b56aff148370992ae7fc903c993",
+      "md5": "b8735b56aff148370992ae7fc903c993",
+      "width": 2560,
+      "height": 1440,
+      "size": 922977,
+      "uploadedDate": "2021-09-08T23:56:36.82Z"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_Hamsterdam_MuseGames_S2_1200x1600-34433fd32dd9e65fb450f1c26ed88e71",
+      "md5": "34433fd32dd9e65fb450f1c26ed88e71",
+      "width": 1200,
+      "height": 1600,
+      "size": 668806,
+      "uploadedDate": "2021-09-08T23:56:39.282Z"
+    }
+  ],
+  "creationDate": "2021-04-16T18:48:03.271+00:00",
+  "lastModifiedDate": "2021-09-09T03:22:09.442+00:00",
+  "developer": "Muse Games Corp.",
+  "developerId": "o-jr6vw2vpas9pjgysw3zwc3g68lb8gk",
+  "applicationId": ""
+}

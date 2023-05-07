@@ -1,0 +1,32 @@
+{
+  "id": "2a8f3c0d466f47ca82a8553df6ed2f52",
+  "title": "Vampire: The Masquerade \u2013 Bloodlines 2",
+  "description": "Vampire: The Masquerade \u2013 Bloodlines 2",
+  "namespace": "nemesia",
+  "categories": "",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/nemesia/item/EGS_VampireTheMasqueradeBloodlines2_HardsuitLabs_S1-2560x1440-5ff32c5e44f21a30ecf2bd689f9e12da.jpg",
+      "md5": "5ff32c5e44f21a30ecf2bd689f9e12da",
+      "width": 2560,
+      "height": 1440,
+      "size": 626626,
+      "uploadedDate": "2020-05-13T18:55:56.871Z"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/nemesia/item/EGS_VampireTheMasqueradeBloodlines2_HardsuitLabs_S4-1200x1600-e8d3610bebaa405d8fd7eed4e30e6134.jpg",
+      "md5": "e8d3610bebaa405d8fd7eed4e30e6134",
+      "width": 1200,
+      "height": 1600,
+      "size": 388886,
+      "uploadedDate": "2020-05-13T18:56:15.129Z"
+    }
+  ],
+  "creationDate": "2019-03-13T12:11:22.827+00:00",
+  "lastModifiedDate": "2020-05-13T18:56:23.696+00:00",
+  "developer": "Paradox Interactive",
+  "developerId": "o-tjvfg6rejs6h86qa7k9aa64rrgbxxb",
+  "applicationId": null
+}

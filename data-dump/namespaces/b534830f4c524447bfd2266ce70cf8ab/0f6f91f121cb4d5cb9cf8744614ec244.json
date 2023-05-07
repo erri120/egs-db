@@ -1,0 +1,32 @@
+{
+  "id": "0f6f91f121cb4d5cb9cf8744614ec244",
+  "title": "CuckooStaging",
+  "description": "CuckooStaging",
+  "namespace": "b534830f4c524447bfd2266ce70cf8ab",
+  "categories": "public/games/applications",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/b534830f4c524447bfd2266ce70cf8ab/item/TTTWD-DS_Epic_About_1920x1080-1920x1080-0a8979b4ab012733a342540562b21e2d.jpg",
+      "md5": "0a8979b4ab012733a342540562b21e2d",
+      "width": 1920,
+      "height": 1080,
+      "size": 211453,
+      "uploadedDate": "2019-08-05T18:28:52.996Z"
+    },
+    {
+      "type": "DieselGameBoxLogo",
+      "url": "https://cdn1.epicgames.com/b534830f4c524447bfd2266ce70cf8ab/item/TTTWD-DS-EPIC_GameLogo-1448x966-5dd92e6a1235f0d5821c77d89ed0126e.png",
+      "md5": "5dd92e6a1235f0d5821c77d89ed0126e",
+      "width": 1448,
+      "height": 966,
+      "size": 489652,
+      "uploadedDate": "2019-08-05T18:29:01.649Z"
+    }
+  ],
+  "creationDate": "2019-07-31T20:27:32.355+00:00",
+  "lastModifiedDate": "2019-09-10T04:01:27.212+00:00",
+  "developer": "Skybound Interactive",
+  "developerId": "o-rqvssgn2hhj58wv5bc6eueqswz2un4",
+  "applicationId": null
+}

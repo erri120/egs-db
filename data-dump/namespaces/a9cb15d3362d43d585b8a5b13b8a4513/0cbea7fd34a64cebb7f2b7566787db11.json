@@ -1,0 +1,41 @@
+{
+  "id": "0cbea7fd34a64cebb7f2b7566787db11",
+  "title": "John Wick Hex Testing Staging",
+  "description": "John Wick Hex Testing Staging",
+  "namespace": "a9cb15d3362d43d585b8a5b13b8a4513",
+  "categories": "public/games/applications",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/a9cb15d3362d43d585b8a5b13b8a4513/item/EGS_BITHELL GAMES_JOHN WICK HEX_N3_PRIMARYTHUMB-2560x1440-0005e12ca7b33ba9eeca7c7daad35d8f.jpg",
+      "md5": "0005e12ca7b33ba9eeca7c7daad35d8f",
+      "width": 2560,
+      "height": 1440,
+      "size": 192213,
+      "uploadedDate": "2019-05-14T13:57:55.513Z"
+    },
+    {
+      "type": "DieselGameBoxLogo",
+      "url": "https://cdn1.epicgames.com/a9cb15d3362d43d585b8a5b13b8a4513/item/EGS_BITHELL GAMES_JOHN WICK HEX_IC1_WHITE\u0026COLOR_WIDE-1856x1440-3c09d00056c8e9722f5cea7b7b5546ab.png",
+      "md5": "3c09d00056c8e9722f5cea7b7b5546ab",
+      "width": 1856,
+      "height": 1440,
+      "size": 46145,
+      "uploadedDate": "2019-05-14T13:58:10.632Z"
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/a9cb15d3362d43d585b8a5b13b8a4513/item/EGS_BITHELL GAMES_JOHN WICK HEX_IC2-400x400-d34747448ed3fded5b6613ec12c6ae09.png",
+      "md5": "d34747448ed3fded5b6613ec12c6ae09",
+      "width": 400,
+      "height": 400,
+      "size": 3562,
+      "uploadedDate": "2019-05-14T13:58:51.26Z"
+    }
+  ],
+  "creationDate": "2019-09-27T21:18:02.67+00:00",
+  "lastModifiedDate": "2019-10-08T16:57:11.347+00:00",
+  "developer": "Good Shepherd Entertainment",
+  "developerId": "o-v3fdwkgaukftabrpt9292vr5tcwj2p",
+  "applicationId": null
+}

@@ -1,0 +1,32 @@
+{
+  "id": "16a144ce505b43de83912957df2ab6e8",
+  "title": "State Of Decay 2 Soundtrack",
+  "description": "State Of Decay 2 Soundtrack",
+  "namespace": "11eb2ae2943641b498efb54501511b86",
+  "categories": "public/digitalextras/games/applications",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/11eb2ae2943641b498efb54501511b86/item/Main2560x1440-2560x1440-6ef1b8eb9daaa952e7293227b526c0cd.jpg",
+      "md5": "6ef1b8eb9daaa952e7293227b526c0cd",
+      "width": 2560,
+      "height": 1440,
+      "size": 959787,
+      "uploadedDate": "2020-03-12T23:39:31.236Z"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/11eb2ae2943641b498efb54501511b86/item/portrait_image_860x1148-860x1148-13ba1a38ea2f8c924cb636059bc28aec-860x1148-13ba1a38ea2f8c924cb636059bc28aec.jpg",
+      "md5": "13ba1a38ea2f8c924cb636059bc28aec",
+      "width": 860,
+      "height": 1148,
+      "size": 475611,
+      "uploadedDate": "2020-03-16T16:54:54.86Z"
+    }
+  ],
+  "creationDate": "2020-03-04T03:34:06.928+00:00",
+  "lastModifiedDate": "2020-05-26T20:40:40.634+00:00",
+  "developer": "Microsoft",
+  "developerId": "o-f3qq8ygts6pglxx529jhgx5bmyj6bf",
+  "applicationId": null
+}

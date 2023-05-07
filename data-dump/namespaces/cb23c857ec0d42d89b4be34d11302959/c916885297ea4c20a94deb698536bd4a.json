@@ -1,0 +1,41 @@
+{
+  "id": "c916885297ea4c20a94deb698536bd4a",
+  "title": "LEGO\u00AE Batman\u2122 2 DC Super Heroes",
+  "description": "LEGO\u00AE Batman\u2122 2 DC Super Heroes",
+  "namespace": "cb23c857ec0d42d89b4be34d11302959",
+  "categories": "public/games/applications",
+  "keyImages": [
+    {
+      "type": "DieselGameBoxLogo",
+      "url": "https://cdn1.epicgames.com/cb23c857ec0d42d89b4be34d11302959/item/lego-batman-2-209x63-47783c2adbb19a9de03689f584b43d4e.png",
+      "md5": "47783c2adbb19a9de03689f584b43d4e",
+      "width": 209,
+      "height": 63,
+      "size": 13271,
+      "uploadedDate": "2019-09-16T19:56:24.828Z"
+    },
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/cb23c857ec0d42d89b4be34d11302959/item/lego-batman-2_promo-1536x864-af250850276bc3a1f5b01003678101e1.jpg",
+      "md5": "af250850276bc3a1f5b01003678101e1",
+      "width": 1536,
+      "height": 864,
+      "size": 253177,
+      "uploadedDate": "2019-09-16T19:56:55.89Z"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/cb23c857ec0d42d89b4be34d11302959/item/lego_batman_2_portrait-1024x1204-04a94a4da2bd20c866f673f7af8f1eea.jpg",
+      "md5": "04a94a4da2bd20c866f673f7af8f1eea",
+      "width": 1024,
+      "height": 1204,
+      "size": 338598,
+      "uploadedDate": "2019-10-22T09:41:44.79Z"
+    }
+  ],
+  "creationDate": "2019-08-27T22:19:20.163+00:00",
+  "lastModifiedDate": "2019-11-19T17:03:04.646+00:00",
+  "developer": "Warner Brothers",
+  "developerId": "o-7kyv8uwtz74njnl544kbxzt5xqephw",
+  "applicationId": null
+}

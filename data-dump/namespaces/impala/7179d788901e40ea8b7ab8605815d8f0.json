@@ -1,0 +1,41 @@
+{
+  "id": "7179d788901e40ea8b7ab8605815d8f0",
+  "title": "Tom Clancy\u0027s The Division 2",
+  "description": "Tom Clancy\u0027s The Division 2",
+  "namespace": "impala",
+  "categories": "",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/impala/item/Game-Page-Promo-2580x1450-99fd67a6a935b8c2436385b0c54e6f92.jpg",
+      "md5": "99fd67a6a935b8c2436385b0c54e6f92",
+      "width": 2580,
+      "height": 1450,
+      "size": 670540,
+      "uploadedDate": "2019-03-08T00:52:04.638Z"
+    },
+    {
+      "type": "DieselGameBoxLogo",
+      "url": "https://cdn1.epicgames.com/impala/item/TheDivision2_LOGO_WhiteOrange_RGB-7083x1692-67de7c0d4e9395a7bfdb723fccf268c0.png",
+      "md5": "67de7c0d4e9395a7bfdb723fccf268c0",
+      "width": 7083,
+      "height": 1692,
+      "size": 227329,
+      "uploadedDate": "2019-03-08T00:55:01.49Z"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/impala/item/Diesel_product_tctd2_Portrait-Promo-(2)-1280x1420-19a6b9b120b24529d92ed1d87f1185455ceb84aa-1280x1420-4f0c658d399e26d7120aa6b04d4f77a0.jpg",
+      "md5": "4f0c658d399e26d7120aa6b04d4f77a0",
+      "width": 1280,
+      "height": 1420,
+      "size": 199408,
+      "uploadedDate": "2019-10-22T09:41:44.79Z"
+    }
+  ],
+  "creationDate": "2019-01-24T19:46:36.182+00:00",
+  "lastModifiedDate": "2021-08-18T15:33:17.377+00:00",
+  "developer": "Ubisoft Entertainment",
+  "developerId": "o-3efjudxdtgsqnulml4bkeq3v9nec38",
+  "applicationId": ""
+}

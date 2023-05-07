@@ -1,0 +1,32 @@
+{
+  "id": "027bb637bf094995a9fd1f7a618ae8f4",
+  "title": "Asemblance: Oversight",
+  "description": "Asemblance: Oversight",
+  "namespace": "cee9bc2ddce74023a7327f7e71d144c6",
+  "categories": "public/games/applications",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_AsemblanceOversight_NiloStudios_S1_2560x1440-6af60a297aa07815905d383bc168cf74",
+      "md5": "6af60a297aa07815905d383bc168cf74",
+      "width": 2560,
+      "height": 1440,
+      "size": 947500,
+      "uploadedDate": "2021-09-02T16:55:46.028Z"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_AsemblanceOversight_NiloStudios_S2_1200x1600-428db26b323c59f84f967a74a4bfdee9",
+      "md5": "428db26b323c59f84f967a74a4bfdee9",
+      "width": 1200,
+      "height": 1600,
+      "size": 956892,
+      "uploadedDate": "2021-09-02T16:55:50.414Z"
+    }
+  ],
+  "creationDate": "2021-05-12T21:03:36.436+00:00",
+  "lastModifiedDate": "2021-09-02T17:02:00.248+00:00",
+  "developer": "Nilo Studios",
+  "developerId": "o-rfjl93umbemmtt5juyrx7v63r4h8mf",
+  "applicationId": ""
+}

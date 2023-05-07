@@ -1,0 +1,23 @@
+{
+  "id": "677938c995794ceba53bc6a36885f2a6",
+  "title": "MtMassiveGeneralAudience",
+  "description": "MtMassiveGeneralAudience",
+  "namespace": "b156c3365a5b4cb9a01a5e1108b4e3f4",
+  "categories": "",
+  "keyImages": [
+    {
+      "type": "ESRB",
+      "url": "https://cdn1.epicgames.com/b156c3365a5b4cb9a01a5e1108b4e3f4/item/ESRB_T_Violence-840x403-5b53761ab1eff24381746101a5506d86.jpg",
+      "md5": "5b53761ab1eff24381746101a5506d86",
+      "width": 840,
+      "height": 403,
+      "size": 15333,
+      "uploadedDate": "2021-01-06T15:55:52.27Z"
+    }
+  ],
+  "creationDate": "2020-11-09T13:43:25.833+00:00",
+  "lastModifiedDate": "2021-01-21T15:58:08.434+00:00",
+  "developer": "Electronic Arts",
+  "developerId": "o-vtqh9b4lk8n4jpadfv6cphqs9hsly9",
+  "applicationId": null
+}

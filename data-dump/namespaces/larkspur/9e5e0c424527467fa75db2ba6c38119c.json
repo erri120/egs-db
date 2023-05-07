@@ -1,0 +1,32 @@
+{
+  "id": "9e5e0c424527467fa75db2ba6c38119c",
+  "title": "Far Cry Primal",
+  "description": "Far Cry Primal",
+  "namespace": "larkspur",
+  "categories": "",
+  "keyImages": [
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/larkspur/item/FCP_UCS17665_Store_Portrait_1200x1600-1200x1600-1069539bdf73f4ca48f7f64027a6e921.jpg",
+      "md5": "1069539bdf73f4ca48f7f64027a6e921",
+      "width": 1200,
+      "height": 1600,
+      "size": 934330,
+      "uploadedDate": "2020-08-05T15:45:54.334Z"
+    },
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/larkspur/item/FCP_UCS17665_Store_Landscape_2560x1440-2560x1440-7d928100112e95b33030b81c65e632d3.jpg",
+      "md5": "7d928100112e95b33030b81c65e632d3",
+      "width": 2560,
+      "height": 1440,
+      "size": 960914,
+      "uploadedDate": "2020-08-05T15:46:01.464Z"
+    }
+  ],
+  "creationDate": "2019-02-10T17:11:11.993+00:00",
+  "lastModifiedDate": "2020-08-05T15:46:06.66+00:00",
+  "developer": "Ubisoft Entertainment",
+  "developerId": "o-3efjudxdtgsqnulml4bkeq3v9nec38",
+  "applicationId": null
+}

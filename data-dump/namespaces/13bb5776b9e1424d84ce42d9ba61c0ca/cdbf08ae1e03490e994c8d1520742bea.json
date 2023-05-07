@@ -1,0 +1,23 @@
+{
+  "id": "cdbf08ae1e03490e994c8d1520742bea",
+  "title": "MarigoldGeneralAudience",
+  "description": "MarigoldGeneralAudience",
+  "namespace": "13bb5776b9e1424d84ce42d9ba61c0ca",
+  "categories": "",
+  "keyImages": [
+    {
+      "type": "ESRB",
+      "url": "https://cdn1.epicgames.com/13bb5776b9e1424d84ce42d9ba61c0ca/item/Inside_ESRB-842x404-85dd30901b0baeb059331f43c235ce98.jpg",
+      "md5": "85dd30901b0baeb059331f43c235ce98",
+      "width": 842,
+      "height": 404,
+      "size": 90859,
+      "uploadedDate": "2019-07-23T15:51:44.835Z"
+    }
+  ],
+  "creationDate": "2019-06-14T16:20:24.66+00:00",
+  "lastModifiedDate": "2023-03-22T18:18:11.965+00:00",
+  "developer": "Playdead",
+  "developerId": "o-t88sw9ly7ajm3wz7tll53xt3cmypx8",
+  "applicationId": null
+}

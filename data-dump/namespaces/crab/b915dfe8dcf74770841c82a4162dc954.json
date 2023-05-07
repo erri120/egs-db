@@ -1,0 +1,32 @@
+{
+  "id": "b915dfe8dcf74770841c82a4162dc954",
+  "title": "Satisfactory Early Access",
+  "description": "Satisfactory Early Access",
+  "namespace": "crab",
+  "categories": "",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/item/crab/U7_Epic_2560x1440_Logo_2560x1440-bbca71b28786d26e91f29f1c3649a781",
+      "md5": "bbca71b28786d26e91f29f1c3649a781",
+      "width": 2560,
+      "height": 1440,
+      "size": 4529832,
+      "uploadedDate": "2022-12-06T18:29:34.74Z"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/item/crab/U7_Epic_1200x1600_Logo_1200x1600-ed7f1a9f8a59acbfaba61af7accc0a4b",
+      "md5": "ed7f1a9f8a59acbfaba61af7accc0a4b",
+      "width": 1200,
+      "height": 1600,
+      "size": 2207586,
+      "uploadedDate": "2022-12-06T18:29:47.899Z"
+    }
+  ],
+  "creationDate": "2019-02-26T15:59:56.67+00:00",
+  "lastModifiedDate": "2022-12-06T19:20:45.653+00:00",
+  "developer": "Coffee Stain Publishing",
+  "developerId": "o-9r9hp69ccnr39qp9f9mgpsznznu4as",
+  "applicationId": ""
+}

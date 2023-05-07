@@ -1,0 +1,23 @@
+{
+  "id": "903863096fc04099a8fc9599a261501c",
+  "title": "HydrangeaGeneralAudience",
+  "description": "HydrangeaGeneralAudience",
+  "namespace": "d0d1b5541a6540d5a81daacb3324639b",
+  "categories": "",
+  "keyImages": [
+    {
+      "type": "ESRB",
+      "url": "https://cdn1.epicgames.com/d0d1b5541a6540d5a81daacb3324639b/item/RiME_ESRB_E10_FantasyViolence-842x404-b69ee903026c7a87f4179c74360a65aa.jpg",
+      "md5": "b69ee903026c7a87f4179c74360a65aa",
+      "width": 842,
+      "height": 404,
+      "size": 21122,
+      "uploadedDate": "2019-04-25T17:47:34.413Z"
+    }
+  ],
+  "creationDate": "2019-04-23T17:45:14.731+00:00",
+  "lastModifiedDate": "2019-05-30T14:54:01.851+00:00",
+  "developer": "Six Foot",
+  "developerId": "o-6mhfcl7z7ky6l2r698xk7mhmlmtur8",
+  "applicationId": null
+}

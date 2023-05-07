@@ -1,0 +1,32 @@
+{
+  "id": "f00cde90379f4e57840af9d65959c4b2",
+  "title": "Bonfire Peaks",
+  "description": "Bonfire Peaks",
+  "namespace": "c9c5dc2e8d9842558c142ba9ba614bc9",
+  "categories": "public/games/applications",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_BonfirePeaks_CoreyMartin_S1_2560x1440-e808912a17ac07ca9ec537cc8baaad03",
+      "md5": "e808912a17ac07ca9ec537cc8baaad03",
+      "width": 2560,
+      "height": 1440,
+      "size": 255170,
+      "uploadedDate": "2021-09-13T16:45:05.492Z"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_BonfirePeaks_CoreyMartin_S2_1200x1600-f04df39b0bb02e3b2b3db8182d4a9b63",
+      "md5": "f04df39b0bb02e3b2b3db8182d4a9b63",
+      "width": 1200,
+      "height": 1600,
+      "size": 90910,
+      "uploadedDate": "2021-09-13T16:45:11.091Z"
+    }
+  ],
+  "creationDate": "2021-02-09T17:29:45.151+00:00",
+  "lastModifiedDate": "2023-02-28T02:08:37.887+00:00",
+  "developer": "Draknek",
+  "developerId": "o-8n38qrvfawma8qsmu3d37bw7gasm2a",
+  "applicationId": ""
+}

@@ -1,0 +1,32 @@
+{
+  "id": "269ed5234d73475bb32c18f3bebb9273",
+  "title": "Dauntless - The Unseen Arrival Pack",
+  "description": "Dauntless - The Unseen Arrival Pack",
+  "namespace": "jackal",
+  "categories": "",
+  "keyImages": [
+    {
+      "type": "ESRB",
+      "url": "https://cdn1.epicgames.com/jackal/item/ESRB_Dauntless_T-1080x516-23b23f06c04aa11263b4f2e9fd9deb0c.jpg",
+      "md5": "23b23f06c04aa11263b4f2e9fd9deb0c",
+      "width": 1080,
+      "height": 516,
+      "size": 36613,
+      "uploadedDate": "2019-05-21T13:19:03.387Z"
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/jackal/item/Dauntless_Addon_UnseenArrivalBundle_P34_1920x1080_EN-1920x1080-361acc45954354dde73de22b65cf9f72.png",
+      "md5": "361acc45954354dde73de22b65cf9f72",
+      "width": 1920,
+      "height": 1080,
+      "size": 1686414,
+      "uploadedDate": "2019-10-29T21:28:02.478Z"
+    }
+  ],
+  "creationDate": "2019-10-29T21:27:04.794+00:00",
+  "lastModifiedDate": "2020-09-17T16:58:56.249+00:00",
+  "developer": "Phoenix Labs",
+  "developerId": "o-krlzxj88qrtb69fredeuaf887bl5az",
+  "applicationId": null
+}

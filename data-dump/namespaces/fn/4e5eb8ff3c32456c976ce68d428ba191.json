@@ -1,0 +1,23 @@
+{
+  "id": "4e5eb8ff3c32456c976ce68d428ba191",
+  "title": "Call_To_Action_03",
+  "description": "SEASON 7 - BATTLE PASS\n\u003Cinverted-tiny-body\u003ERead More\u003C/\u003E",
+  "namespace": "fn",
+  "categories": "applications/prod/applications/prod/content/applications",
+  "keyImages": [
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/fn/item/BR07_LegacyLauncher_Tile_3-Up_448x260-448x260-8b2f89327f6782dbbefd53b3d73d9a35.png",
+      "md5": "8b2f89327f6782dbbefd53b3d73d9a35",
+      "width": 448,
+      "height": 260,
+      "size": 189163,
+      "uploadedDate": "2018-12-23T12:43:47.052Z"
+    }
+  ],
+  "creationDate": "2017-04-04T19:36:21.899+00:00",
+  "lastModifiedDate": "2019-01-03T09:40:24.333+00:00",
+  "developer": "Epic Games",
+  "developerId": "o-aa83a0a9bc45e98c80c1b1c9d92e9e",
+  "applicationId": null
+}

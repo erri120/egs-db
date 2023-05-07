@@ -1,0 +1,32 @@
+{
+  "id": "ec68a02e93334525a07fe3464240610a",
+  "title": "Spellbreak Playtest",
+  "description": "Spellbreak Playtest",
+  "namespace": "newt",
+  "categories": "",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/newt/item/egs-spellbreak-proletariatinc-s1-2560x1440-835765118-2560x1440-bfa7e113f6dadaf36b2d92db8308cb0c.jpg",
+      "md5": "bfa7e113f6dadaf36b2d92db8308cb0c",
+      "width": 2560,
+      "height": 1440,
+      "size": 379168,
+      "uploadedDate": "2020-09-15T14:18:38.914Z"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/newt/item/egs-spellbreak-proletariatinc-s6-1200x1600-835764623-1200x1600-f5d96c5f82a8cee1bc540567521588a3.jpg",
+      "md5": "f5d96c5f82a8cee1bc540567521588a3",
+      "width": 1200,
+      "height": 1600,
+      "size": 238200,
+      "uploadedDate": "2020-09-15T14:18:50.864Z"
+    }
+  ],
+  "creationDate": "2020-09-15T14:15:51.284+00:00",
+  "lastModifiedDate": "2020-09-15T14:34:58.715+00:00",
+  "developer": "Proletariat, Inc.",
+  "developerId": "o-umuuzpzyfsw8wvcn4xpyh7ksmyhflg",
+  "applicationId": null
+}

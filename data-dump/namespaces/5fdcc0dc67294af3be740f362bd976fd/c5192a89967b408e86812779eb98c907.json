@@ -1,0 +1,23 @@
+{
+  "id": "c5192a89967b408e86812779eb98c907",
+  "title": "stargazerGeneralAudience",
+  "description": "stargazerGeneralAudience",
+  "namespace": "5fdcc0dc67294af3be740f362bd976fd",
+  "categories": "",
+  "keyImages": [
+    {
+      "type": "ESRB",
+      "url": "https://cdn1.epicgames.com/5fdcc0dc67294af3be740f362bd976fd/item/MTG_Rating-680x353-73495229575b92c40671a7a9255d0cc9.jpg",
+      "md5": "73495229575b92c40671a7a9255d0cc9",
+      "width": 680,
+      "height": 353,
+      "size": 42340,
+      "uploadedDate": "2020-01-16T16:15:40.425Z"
+    }
+  ],
+  "creationDate": "2019-05-20T18:23:14.467+00:00",
+  "lastModifiedDate": "2023-02-14T20:48:30.212+00:00",
+  "developer": "Wizards of the Coast",
+  "developerId": "o-xlb74ml56wsa5dcfcgrpvu4ywndlmm",
+  "applicationId": null
+}

@@ -1,0 +1,32 @@
+{
+  "id": "3df83c606f01446c9d0d126c4c15c367",
+  "title": "Control Pre-Order Bonus",
+  "description": "Control Pre-Order Bonus",
+  "namespace": "calluna",
+  "categories": "",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/item/calluna/Control_Landscape_Image_2560X1440_2560x1440-ec7b2eb03bb70f61d17ed01fa76d95a6",
+      "md5": "ec7b2eb03bb70f61d17ed01fa76d95a6",
+      "width": 2560,
+      "height": 1440,
+      "size": 586904,
+      "uploadedDate": "2022-11-09T16:17:31.847Z"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/item/calluna/Control_Portrait_Storefront_1200X1600_1200x1600-456c920cae7a0aa9b36670cd5e1237a1",
+      "md5": "456c920cae7a0aa9b36670cd5e1237a1",
+      "width": 1200,
+      "height": 1600,
+      "size": 455123,
+      "uploadedDate": "2022-11-09T16:17:27.965Z"
+    }
+  ],
+  "creationDate": "2019-08-20T18:25:53.335+00:00",
+  "lastModifiedDate": "2022-11-09T16:17:37.04+00:00",
+  "developer": "505 Games",
+  "developerId": "o-cul2z53mrw3bxltv63v68rgd4b3w52",
+  "applicationId": ""
+}

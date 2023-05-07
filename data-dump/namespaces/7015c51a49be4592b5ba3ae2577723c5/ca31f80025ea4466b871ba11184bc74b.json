@@ -1,0 +1,32 @@
+{
+  "id": "ca31f80025ea4466b871ba11184bc74b",
+  "title": "Map Pack",
+  "description": "Map Pack",
+  "namespace": "7015c51a49be4592b5ba3ae2577723c5",
+  "categories": "public/games/applications",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/7015c51a49be4592b5ba3ae2577723c5/item/wide-2560x1440-334c0940d45f04b34d3d2b55ae838182.jpg",
+      "md5": "334c0940d45f04b34d3d2b55ae838182",
+      "width": 2560,
+      "height": 1440,
+      "size": 983516,
+      "uploadedDate": "2020-12-16T16:49:49.588Z"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/7015c51a49be4592b5ba3ae2577723c5/item/tall-1200x1600-4f774989309b1f52a50628ff93b4ed7c.jpg",
+      "md5": "4f774989309b1f52a50628ff93b4ed7c",
+      "width": 1200,
+      "height": 1600,
+      "size": 989240,
+      "uploadedDate": "2020-12-16T16:49:58.116Z"
+    }
+  ],
+  "creationDate": "2020-05-08T17:22:05.184+00:00",
+  "lastModifiedDate": "2020-12-16T18:21:41.174+00:00",
+  "developer": "Kalypso Media Group GmbH",
+  "developerId": "o-37ss7wypkskvyj58j9s7hhltxtujac",
+  "applicationId": null
+}

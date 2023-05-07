@@ -1,0 +1,41 @@
+{
+  "id": "599493a3ae754319a6e8d125740429e0",
+  "title": "LotusStaging",
+  "description": "LotusStaging",
+  "namespace": "lotus",
+  "categories": "",
+  "keyImages": [
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/lotus/item/Game-Icon-400x400-0ca35ebc6f717bb02db4a46d0b596dd3.png",
+      "md5": "0ca35ebc6f717bb02db4a46d0b596dd3",
+      "width": 400,
+      "height": 400,
+      "size": 66351,
+      "uploadedDate": "2019-02-18T14:33:37.028Z"
+    },
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/lotus/item/OxygenNotIncluded_PrimaryPromo-1281x720-661875a06ca152a669ca2056080da18c.jpg",
+      "md5": "661875a06ca152a669ca2056080da18c",
+      "width": 1281,
+      "height": 720,
+      "size": 291290,
+      "uploadedDate": "2019-02-19T15:18:34.954Z"
+    },
+    {
+      "type": "DieselGameBoxLogo",
+      "url": "https://cdn1.epicgames.com/lotus/item/Game Logo - Oxygen Not Included White [Large]-3951x1922-0d0de176d4b6a8b8d9688cc958073906.png",
+      "md5": "0d0de176d4b6a8b8d9688cc958073906",
+      "width": 3951,
+      "height": 1922,
+      "size": 67380,
+      "uploadedDate": "2019-07-29T20:53:43.398Z"
+    }
+  ],
+  "creationDate": "2019-02-01T00:40:28.872+00:00",
+  "lastModifiedDate": "2022-02-24T22:57:35.209+00:00",
+  "developer": "Klei Entertainment",
+  "developerId": "o-6v5su732w3tnzud9lque2m7s4qzvjx",
+  "applicationId": ""
+}

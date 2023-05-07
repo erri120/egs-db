@@ -1,0 +1,41 @@
+{
+  "id": "c8ccbe393545484cae756a6aad7e7e99",
+  "title": "Toy Box Weapons Pack Audience",
+  "description": "Toy Box Weapons Pack Audience",
+  "namespace": "catnip",
+  "categories": "",
+  "keyImages": [
+    {
+      "type": "ESRB",
+      "url": "https://cdn1.epicgames.com/catnip/item/ESRB_M_Borderlands3-842x485-275d74057f4825477e1f7f17f8cf0abc.jpg",
+      "md5": "275d74057f4825477e1f7f17f8cf0abc",
+      "width": 842,
+      "height": 485,
+      "size": 134137,
+      "uploadedDate": "2020-01-07T22:55:26.349Z"
+    },
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/item/catnip/2KGMKT_BL3_TOYBOXPACK_EPIC_SOCIAL_490x276-490x276-eed395a904f3f82a75f9b9f9507f6ada1ba4e593_490x276-fd85b6dccc9f9a454aeb9b442dbcafe6",
+      "md5": "fd85b6dccc9f9a454aeb9b442dbcafe6",
+      "width": 490,
+      "height": 276,
+      "size": 72531,
+      "uploadedDate": "2023-01-19T17:34:35.315Z"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/item/catnip/2KGMKT_BL3_TOY_PACK_SONY_P34_16x9_MASTER_1200x1600_1200x1600-8ef0c912ef937447b8d0230b7d83ccaf",
+      "md5": "8ef0c912ef937447b8d0230b7d83ccaf",
+      "width": 1200,
+      "height": 1600,
+      "size": 946652,
+      "uploadedDate": "2023-01-19T17:34:32.138Z"
+    }
+  ],
+  "creationDate": "2019-04-02T22:31:20.356+00:00",
+  "lastModifiedDate": "2023-01-19T21:12:26.626+00:00",
+  "developer": "2K Games, Inc.",
+  "developerId": "o-37m6jbj5wcvrcvm4wusv7nazdfvbjk",
+  "applicationId": ""
+}

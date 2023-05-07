@@ -1,0 +1,32 @@
+{
+  "id": "51ee5fe4709c473696a36376e90845d2",
+  "title": "Defense Grid: The Awakening",
+  "description": "Defense Grid: The Awakening",
+  "namespace": "0dabb0f14acf4fef84bd2b2bf3085dfc",
+  "categories": "public/games/applications",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/0dabb0f14acf4fef84bd2b2bf3085dfc/item/EGS_DefenseGridTheAwakening_HiddenPathEntertainment_G2_00-1920x1080-7b6cc3b4533d512f4e58800527b1c0a0.jpg",
+      "md5": "7b6cc3b4533d512f4e58800527b1c0a0",
+      "width": 1920,
+      "height": 1080,
+      "size": 542121,
+      "uploadedDate": "2020-12-18T00:24:40.265Z"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/0dabb0f14acf4fef84bd2b2bf3085dfc/item/EGS_DefenseGridTheAwakening_HiddenPathEntertainment_S4-1200x1600-7f6d059571b0e4b72947ae5e9faf0e3b.jpg",
+      "md5": "7f6d059571b0e4b72947ae5e9faf0e3b",
+      "width": 1200,
+      "height": 1600,
+      "size": 475389,
+      "uploadedDate": "2020-12-18T00:24:53.829Z"
+    }
+  ],
+  "creationDate": "2020-04-15T17:08:42.606+00:00",
+  "lastModifiedDate": "2020-12-20T16:11:00.569+00:00",
+  "developer": "Hidden Path",
+  "developerId": "o-lr4ubnee8h8ya6fjmgfqy63uftabu6",
+  "applicationId": "fghi4567VIFBmumlGbrBBoZrCLYfgDIb"
+}

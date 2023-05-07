@@ -1,0 +1,32 @@
+{
+  "id": "5042320a4b2247b08d0726fa61a94dd3",
+  "title": "Far Cry 2",
+  "description": "Far Cry 2",
+  "namespace": "a0b8d4482f3d4f939f35f87a3f367865",
+  "categories": "public/games/applications",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/item/a0b8d4482f3d4f939f35f87a3f367865/fc2wide_2560x1440-e94a6a2fa597ea3fe74932be67d62519",
+      "md5": "e94a6a2fa597ea3fe74932be67d62519",
+      "width": 2560,
+      "height": 1440,
+      "size": 747379,
+      "uploadedDate": "2023-02-28T21:45:41.781Z"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/item/a0b8d4482f3d4f939f35f87a3f367865/fc2tall_1200x1600-df7d08cb52526e9f69604242504fee15",
+      "md5": "df7d08cb52526e9f69604242504fee15",
+      "width": 1200,
+      "height": 1600,
+      "size": 742945,
+      "uploadedDate": "2023-02-28T21:45:44.9Z"
+    }
+  ],
+  "creationDate": "2020-06-17T19:41:19.523+00:00",
+  "lastModifiedDate": "2023-02-28T21:45:48.118+00:00",
+  "developer": "Ubisoft Entertainment",
+  "developerId": "o-3efjudxdtgsqnulml4bkeq3v9nec38",
+  "applicationId": ""
+}

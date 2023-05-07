@@ -1,0 +1,50 @@
+{
+  "id": "a5d920b94c1d41a182db6258dc5eea5b",
+  "title": "Watch Dogs 2",
+  "description": "Watch Dogs 2",
+  "namespace": "angelonia",
+  "categories": "",
+  "keyImages": [
+    {
+      "type": "DieselGameBoxLogo",
+      "url": "https://cdn1.epicgames.com/angelonia/item/WatchDogs2_Logo_White-2208x368-af0e8beb8ed46fb18607855cf6a7ba73.png",
+      "md5": "af0e8beb8ed46fb18607855cf6a7ba73",
+      "width": 2208,
+      "height": 368,
+      "size": 128350,
+      "uploadedDate": "2019-03-15T22:26:58.47Z"
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/angelonia/item/wd2-game-icon-400x400-48f96ea6ba28c8a08d8bb77c0aaac577.jpg",
+      "md5": "48f96ea6ba28c8a08d8bb77c0aaac577",
+      "width": 400,
+      "height": 400,
+      "size": 31464,
+      "uploadedDate": "2019-03-15T22:27:13.761Z"
+    },
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/angelonia/item/WatchDogs2_PrimaryPromo-2580x1450-56dc48bef79a143cd9dae85dcf79df46.jpg",
+      "md5": "56dc48bef79a143cd9dae85dcf79df46",
+      "width": 2580,
+      "height": 1450,
+      "size": 496429,
+      "uploadedDate": "2019-03-18T23:51:00.557Z"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/angelonia/item/WatchDogs2_PortraitPromo-1280x1420-8ef789a7185a709178f51c0e9d42ee9a.jpg",
+      "md5": "8ef789a7185a709178f51c0e9d42ee9a",
+      "width": 1280,
+      "height": 1420,
+      "size": 295916,
+      "uploadedDate": "2019-10-22T09:41:44.79Z"
+    }
+  ],
+  "creationDate": "2019-02-10T16:57:41.596+00:00",
+  "lastModifiedDate": "2020-01-28T15:56:14.912+00:00",
+  "developer": "Ubisoft Entertainment",
+  "developerId": "o-3efjudxdtgsqnulml4bkeq3v9nec38",
+  "applicationId": null
+}

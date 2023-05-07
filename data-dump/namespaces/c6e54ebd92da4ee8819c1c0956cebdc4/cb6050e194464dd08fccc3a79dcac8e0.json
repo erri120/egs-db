@@ -1,0 +1,41 @@
+{
+  "id": "cb6050e194464dd08fccc3a79dcac8e0",
+  "title": "Outriders Pre-Purchase",
+  "description": "Outriders Pre-Purchase",
+  "namespace": "c6e54ebd92da4ee8819c1c0956cebdc4",
+  "categories": "public/games/applications",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/c6e54ebd92da4ee8819c1c0956cebdc4/item/EGS_OUTRIDERS_PeopleCanFly_IC1-400x229-2ca700ade017af1f23aa5e6768c925a5.png",
+      "md5": "2ca700ade017af1f23aa5e6768c925a5",
+      "width": 400,
+      "height": 229,
+      "size": 275572,
+      "uploadedDate": "2020-08-14T15:58:52.022Z"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/c6e54ebd92da4ee8819c1c0956cebdc4/item/EGS_OUTRIDERS_PeopleCanFly_S2-1200x1600-1e019175a39f3cac61549f0d543baec0.jpg",
+      "md5": "1e019175a39f3cac61549f0d543baec0",
+      "width": 1200,
+      "height": 1600,
+      "size": 915704,
+      "uploadedDate": "2020-08-14T15:59:01.411Z"
+    },
+    {
+      "type": "DieselGameBoxWide",
+      "url": "https://cdn1.epicgames.com/c6e54ebd92da4ee8819c1c0956cebdc4/item/EGS_OUTRIDERS_PeopleCanFly_IC1-400x229-2ca700ade017af1f23aa5e6768c925a5.png",
+      "md5": "2ca700ade017af1f23aa5e6768c925a5",
+      "width": 400,
+      "height": 229,
+      "size": 275572,
+      "uploadedDate": "2020-08-14T15:59:12.815Z"
+    }
+  ],
+  "creationDate": "2020-08-14T15:01:10.775+00:00",
+  "lastModifiedDate": "2022-04-21T15:57:43.324+00:00",
+  "developer": "Square Enix",
+  "developerId": "o-7petn7mrlk8g86ktqm7uglcr7lfaja",
+  "applicationId": null
+}

@@ -1,0 +1,32 @@
+{
+  "id": "71b763897fb54a07ae06ffc55497f804",
+  "title": "Suzerain",
+  "description": "Suzerain",
+  "namespace": "4586d456108e4a03810c5927453ce6da",
+  "categories": "public/games/applications",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_Suzerain_TorporGames_S1_2560x1440-c03f515d18be9c6153e87a375b16ef6f",
+      "md5": "c03f515d18be9c6153e87a375b16ef6f",
+      "width": 2560,
+      "height": 1440,
+      "size": 523590,
+      "uploadedDate": "2021-05-13T19:48:38.304Z"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_Suzerain_TorporGames_S2_1200x1600-aa0c6d39951fd588ca7e92ffb79f8e39",
+      "md5": "aa0c6d39951fd588ca7e92ffb79f8e39",
+      "width": 1200,
+      "height": 1600,
+      "size": 283148,
+      "uploadedDate": "2021-05-13T19:48:48.414Z"
+    }
+  ],
+  "creationDate": "2021-03-25T14:45:28.64+00:00",
+  "lastModifiedDate": "2023-01-16T20:01:59.645+00:00",
+  "developer": "Surprise Attack Pty Ltd DBA Fellow Traveller Games",
+  "developerId": "o-22uq4lnmzc6kmlbbaf5gp8yvysnn3t",
+  "applicationId": ""
+}

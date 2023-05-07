@@ -1,0 +1,23 @@
+{
+  "id": "ec8f601a877a4b8d832a9792dbf9438e",
+  "title": "Jackbox4GeneralAudience",
+  "description": "Jackbox4GeneralAudience",
+  "namespace": "snowdrop",
+  "categories": "",
+  "keyImages": [
+    {
+      "type": "ESRB",
+      "url": "https://cdn1.epicgames.com/snowdrop/item/ESRB_Jackbox4-842x485-920238713a907424bd9998793647aef2.jpg",
+      "md5": "920238713a907424bd9998793647aef2",
+      "width": 842,
+      "height": 485,
+      "size": 114405,
+      "uploadedDate": "2020-01-09T19:06:00.655Z"
+    }
+  ],
+  "creationDate": "2019-01-16T13:58:08.111+00:00",
+  "lastModifiedDate": "2020-01-09T19:06:04.184+00:00",
+  "developer": "Jackbox Games, Inc.",
+  "developerId": "o-2m9ap45qzvalaepjz6wclpcffeq4aj",
+  "applicationId": null
+}

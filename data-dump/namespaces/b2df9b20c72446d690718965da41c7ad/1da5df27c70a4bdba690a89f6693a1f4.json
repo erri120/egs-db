@@ -1,0 +1,32 @@
+{
+  "id": "1da5df27c70a4bdba690a89f6693a1f4",
+  "title": "Amnesia: Rebirth Pre-Purchase",
+  "description": "Amnesia: Rebirth Pre-Purchase",
+  "namespace": "b2df9b20c72446d690718965da41c7ad",
+  "categories": "public/games/applications",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/b2df9b20c72446d690718965da41c7ad/item/EGS_AmnesiaRebirth_FrictionalGames_S1-2560x1440-7d6c96d8e0ab6bfd7347f6730a7260a1.jpg",
+      "md5": "7d6c96d8e0ab6bfd7347f6730a7260a1",
+      "width": 2560,
+      "height": 1440,
+      "size": 1006522,
+      "uploadedDate": "2020-10-19T21:39:30.086Z"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/b2df9b20c72446d690718965da41c7ad/item/EGS_AmnesiaRebirth_FrictionalGames_S2-1200x1600-06261861317a4d878f0391cbcf127a5a.jpg",
+      "md5": "06261861317a4d878f0391cbcf127a5a",
+      "width": 1200,
+      "height": 1600,
+      "size": 960451,
+      "uploadedDate": "2020-10-19T21:39:39.261Z"
+    }
+  ],
+  "creationDate": "2020-09-10T19:18:19.012+00:00",
+  "lastModifiedDate": "2020-10-20T14:57:53.672+00:00",
+  "developer": "Frictional Games",
+  "developerId": "o-aclcw9pm582trqsqg66qfkfp9u9nw7",
+  "applicationId": null
+}

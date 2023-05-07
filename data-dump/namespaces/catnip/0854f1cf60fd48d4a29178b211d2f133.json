@@ -1,0 +1,32 @@
+{
+  "id": "0854f1cf60fd48d4a29178b211d2f133",
+  "title": "Borderlands 3 Bounty of Blood",
+  "description": "Borderlands 3 Bounty of Blood",
+  "namespace": "catnip",
+  "categories": "application/games/applications",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/catnip/item/2KGMKT_BL3_BOUNTY_OF_BLOOD_EPIC_2560x1440-2560x1440-7e8718f8820f2ab9ee9f1f94258054e3.jpg",
+      "md5": "7e8718f8820f2ab9ee9f1f94258054e3",
+      "width": 2560,
+      "height": 1440,
+      "size": 1586269,
+      "uploadedDate": "2020-06-25T14:08:06.726Z"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/item/catnip/2KGMKT_BL3_BOUNTY_OF_BLOOD_EPIC_1200x1600_1200x1600-28138d6a86fc1d7e7a77e637c58dedb4",
+      "md5": "28138d6a86fc1d7e7a77e637c58dedb4",
+      "width": 1200,
+      "height": 1600,
+      "size": 973711,
+      "uploadedDate": "2023-01-19T20:14:01.422Z"
+    }
+  ],
+  "creationDate": "2020-02-19T22:44:20.732+00:00",
+  "lastModifiedDate": "2023-01-19T21:12:26.553+00:00",
+  "developer": "2K Games, Inc.",
+  "developerId": "o-37m6jbj5wcvrcvm4wusv7nazdfvbjk",
+  "applicationId": ""
+}

@@ -1,0 +1,50 @@
+{
+  "id": "6ab3fccba1b045a6b77eebefb5b65fc4",
+  "title": "Transistor",
+  "description": "Transistor",
+  "namespace": "bc81d1e7d1794d3a94e4dbf26e92166d",
+  "categories": "",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/bc81d1e7d1794d3a94e4dbf26e92166d/item/Transistor_Primary_Promo-2580x1450-80b4204d1dbee38616e1484a262f1a94.jpg",
+      "md5": "80b4204d1dbee38616e1484a262f1a94",
+      "width": 2580,
+      "height": 1450,
+      "size": 278179,
+      "uploadedDate": "2019-04-04T01:37:20.245Z"
+    },
+    {
+      "type": "DieselGameBoxLogo",
+      "url": "https://cdn1.epicgames.com/bc81d1e7d1794d3a94e4dbf26e92166d/item/Transistor_Logo_Color_Optimized-1920x983-0b765c8299dcd1198c2d1ebc1b94f6c5.png",
+      "md5": "0b765c8299dcd1198c2d1ebc1b94f6c5",
+      "width": 1920,
+      "height": 983,
+      "size": 231518,
+      "uploadedDate": "2019-04-04T01:37:31.459Z"
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/bc81d1e7d1794d3a94e4dbf26e92166d/item/Transistor_Thumbnail-400x400-1f99976dca8ff8828794939830af2ab0.png",
+      "md5": "1f99976dca8ff8828794939830af2ab0",
+      "width": 400,
+      "height": 400,
+      "size": 31422,
+      "uploadedDate": "2019-04-04T14:30:46.926Z"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/bc81d1e7d1794d3a94e4dbf26e92166d/item/Transistor_Portrait_Promo-1280x1420-cb8c25f61f7c2b27e0c20e45859278e6.jpg",
+      "md5": "cb8c25f61f7c2b27e0c20e45859278e6",
+      "width": 1280,
+      "height": 1420,
+      "size": 177118,
+      "uploadedDate": "2019-10-22T09:41:44.79Z"
+    }
+  ],
+  "creationDate": "2019-04-04T01:42:40.951+00:00",
+  "lastModifiedDate": "2019-11-19T17:04:09.745+00:00",
+  "developer": "Supergiant Games LLC",
+  "developerId": "o-vwkp2e2azz3ybr7ckg7pfnxhwezd4a",
+  "applicationId": null
+}

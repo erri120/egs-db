@@ -1,0 +1,32 @@
+{
+  "id": "fbd7b395d7d64b9882f447e751dfe598",
+  "title": "Back 4 Blood",
+  "description": "Back 4 Blood",
+  "namespace": "57dfd95548214a138218e56cd9e5b9d8",
+  "categories": "public/games/applications",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/57dfd95548214a138218e56cd9e5b9d8/item/EGS_Back4Blood_TurtleRockStudios_S1-2560x1440-c50bb45e4f6f4805a26914e28491c15a.jpg",
+      "md5": "c50bb45e4f6f4805a26914e28491c15a",
+      "width": 2560,
+      "height": 1440,
+      "size": 734071,
+      "uploadedDate": "2020-12-07T13:26:17.362Z"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/57dfd95548214a138218e56cd9e5b9d8/item/EGS_Back4Blood_TurtleRockStudios_S2-1200x1600-0cd4ac84bb5491a81aa6ebfcbea9dfbf.jpg",
+      "md5": "0cd4ac84bb5491a81aa6ebfcbea9dfbf",
+      "width": 1200,
+      "height": 1600,
+      "size": 673952,
+      "uploadedDate": "2020-12-07T13:26:25.496Z"
+    }
+  ],
+  "creationDate": "2020-11-20T19:27:03.02+00:00",
+  "lastModifiedDate": "2022-12-06T18:04:05.119+00:00",
+  "developer": "Warner Bros.",
+  "developerId": "o-7kyv8uwtz74njnl544kbxzt5xqephw",
+  "applicationId": "fghi4567h8WSc3J5M7M2nfWFiZhZCspV"
+}

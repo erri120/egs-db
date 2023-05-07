@@ -1,0 +1,23 @@
+{
+  "id": "e461c084de344ee3913f8617eaca61e8",
+  "title": "Vampire: The Masquerade \u2013 Bloodlines 2 General Audience",
+  "description": "Vampire: The Masquerade \u2013 Bloodlines 2 General Audience",
+  "namespace": "nemesia",
+  "categories": "",
+  "keyImages": [
+    {
+      "type": "ESRB",
+      "url": "https://cdn1.epicgames.com/nemesia/item/VampireBloodlines2-842x404-e25740f35341fe9c4da2f6d8fc4aa9e6.png",
+      "md5": "e25740f35341fe9c4da2f6d8fc4aa9e6",
+      "width": 842,
+      "height": 404,
+      "size": 66425,
+      "uploadedDate": "2019-04-23T20:54:59.912Z"
+    }
+  ],
+  "creationDate": "2019-03-13T12:16:08.285+00:00",
+  "lastModifiedDate": "2019-08-06T17:38:45.624+00:00",
+  "developer": "Paradox Interactive",
+  "developerId": "o-tjvfg6rejs6h86qa7k9aa64rrgbxxb",
+  "applicationId": null
+}

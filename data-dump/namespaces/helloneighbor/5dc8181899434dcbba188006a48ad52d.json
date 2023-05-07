@@ -1,0 +1,23 @@
+{
+  "id": "5dc8181899434dcbba188006a48ad52d",
+  "title": "UrsusGeneralAudience",
+  "description": "UrsusGeneralAudience",
+  "namespace": "helloneighbor",
+  "categories": "",
+  "keyImages": [
+    {
+      "type": "ESRB",
+      "url": "https://cdn1.epicgames.com/helloneighbor/item/HelloNeighbor_rating-417x200-69dcdc9af259374164e03fab838a9ffc.png",
+      "md5": "69dcdc9af259374164e03fab838a9ffc",
+      "width": 417,
+      "height": 200,
+      "size": 6539,
+      "uploadedDate": "2019-12-30T15:28:09.161Z"
+    }
+  ],
+  "creationDate": "2019-12-18T23:06:27.635+00:00",
+  "lastModifiedDate": "2019-12-30T15:51:25.677+00:00",
+  "developer": "tinyBuild Games",
+  "developerId": "o-t682p59y2u8tr9bxcm6cmw9w7mmz5t",
+  "applicationId": null
+}

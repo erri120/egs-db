@@ -1,0 +1,41 @@
+{
+  "id": "22a7b503221442daa2fb16ad37b6ccbf",
+  "title": "Red Dead Redemption 2",
+  "description": "Red Dead Redemption 2",
+  "namespace": "b30b6d1b4dfd4dcc93b5490be5e094e5",
+  "categories": "public/games/applications",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/b30b6d1b4dfd4dcc93b5490be5e094e5/item/Diesel_productv2_heather_home_EGS_RockstarGames_RedDeadRedemption2_S1-2560x1440-d5fade458c9ba3c3726d578b18486f08e1a47999-2560x1440-c352abb41c52c8152d2688727ff647f1.jpg",
+      "md5": "c352abb41c52c8152d2688727ff647f1",
+      "width": 2560,
+      "height": 1440,
+      "size": 223898,
+      "uploadedDate": "2019-10-23T12:57:14.579Z"
+    },
+    {
+      "type": "DieselGameBoxLogo",
+      "url": "https://cdn1.epicgames.com/b30b6d1b4dfd4dcc93b5490be5e094e5/item/Diesel_productv2_heather_home_EGS_RockstarGames_RedDeadRedemption2_IC1-625x625-38ae1bca6b89370d01ac3ed3a17daf7dd004f9f5-625x625-fad569ac284f270b2cfb860e7f834f4f.png",
+      "md5": "fad569ac284f270b2cfb860e7f834f4f",
+      "width": 625,
+      "height": 625,
+      "size": 20222,
+      "uploadedDate": "2019-10-23T12:57:21.744Z"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/b30b6d1b4dfd4dcc93b5490be5e094e5/item/EGS_RockstarGames_RedDeadRedemption2_S2-1280x1440-43b9260015986b748e616f399c6de4dc.jpg",
+      "md5": "43b9260015986b748e616f399c6de4dc",
+      "width": 1280,
+      "height": 1440,
+      "size": 453252,
+      "uploadedDate": "2019-10-22T09:41:44.79Z"
+    }
+  ],
+  "creationDate": "2019-07-24T21:49:28.603+00:00",
+  "lastModifiedDate": "2020-12-01T16:47:00.309+00:00",
+  "developer": "Rockstar Games",
+  "developerId": "o-dhz7kpvrvqngzdpnx5vn3jrljj53ca",
+  "applicationId": null
+}

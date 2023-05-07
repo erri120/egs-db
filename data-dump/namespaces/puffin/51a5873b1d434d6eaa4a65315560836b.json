@@ -1,0 +1,23 @@
+{
+  "id": "51a5873b1d434d6eaa4a65315560836b",
+  "title": "PuffinGeneralAudience",
+  "description": "PuffinGeneralAudience",
+  "namespace": "puffin",
+  "categories": "audience",
+  "keyImages": [
+    {
+      "type": "ESRB",
+      "url": "https://cdn1.epicgames.com/puffin/item/ESRB_AxiomVerge-842x404-7d107471480b615d3ac69288bd7d8205.jpg",
+      "md5": "7d107471480b615d3ac69288bd7d8205",
+      "width": 842,
+      "height": 404,
+      "size": 82387,
+      "uploadedDate": "2020-01-08T21:55:00.944Z"
+    }
+  ],
+  "creationDate": "2019-01-24T12:37:26.221+00:00",
+  "lastModifiedDate": "2021-01-14T00:08:17.089+00:00",
+  "developer": "Thomas Happ Games LLC",
+  "developerId": "o-4c6aeklnh4xk4m9h9gmr52tk5v2l8r",
+  "applicationId": null
+}

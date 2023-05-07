@@ -1,0 +1,32 @@
+{
+  "id": "31fb1b9a91414ee7a0b50e0d58619222",
+  "title": "Dread Nautical",
+  "description": "Dread Nautical",
+  "namespace": "30bf97ae13f74c3d87c9f3fe04d507ba",
+  "categories": "public/games/applications",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/30bf97ae13f74c3d87c9f3fe04d507ba/item/EGS_DradNautical_ZenStudios_S1-2560x1440-541b2817a7acf4fb4c71dd31b6e3e340-2560x1440-541b2817a7acf4fb4c71dd31b6e3e340.jpg",
+      "md5": "541b2817a7acf4fb4c71dd31b6e3e340",
+      "width": 2560,
+      "height": 1440,
+      "size": 438638,
+      "uploadedDate": "2020-03-20T19:57:18.989Z"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/30bf97ae13f74c3d87c9f3fe04d507ba/item/EGS_DradNautical_ZenStudios_S2-860x1148-c0f2aef20a80be1aa32f424bfe82810f-860x1148-c0f2aef20a80be1aa32f424bfe82810f.jpg",
+      "md5": "c0f2aef20a80be1aa32f424bfe82810f",
+      "width": 860,
+      "height": 1148,
+      "size": 359599,
+      "uploadedDate": "2020-03-20T19:57:47.369Z"
+    }
+  ],
+  "creationDate": "2020-01-27T15:04:37.834+00:00",
+  "lastModifiedDate": "2020-10-28T14:54:59.987+00:00",
+  "developer": "Zen Studios",
+  "developerId": "o-r7rf64mtq3yr8uhhvdf8sba3hpqbj2",
+  "applicationId": null
+}

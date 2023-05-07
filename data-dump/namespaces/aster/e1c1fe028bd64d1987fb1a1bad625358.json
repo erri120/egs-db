@@ -1,0 +1,41 @@
+{
+  "id": "e1c1fe028bd64d1987fb1a1bad625358",
+  "title": "AsterStagingJA",
+  "description": "AsterStagingJA",
+  "namespace": "aster",
+  "categories": "",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/aster/item/HeavyRain_PrimaryPromo-2580x1450-db16cce61af8f1e3daa73ce3ba6b002b.jpg",
+      "md5": "db16cce61af8f1e3daa73ce3ba6b002b",
+      "width": 2580,
+      "height": 1450,
+      "size": 137730,
+      "uploadedDate": "2019-04-24T17:37:20.076Z"
+    },
+    {
+      "type": "DieselGameBoxLogo",
+      "url": "https://cdn1.epicgames.com/aster/item/HeavyRain_Logo-1920x315-0940421774203f1c2a2c31be98945626.png",
+      "md5": "0940421774203f1c2a2c31be98945626",
+      "width": 1920,
+      "height": 315,
+      "size": 101216,
+      "uploadedDate": "2019-04-24T17:37:26.787Z"
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/aster/item/HeavyRain_GameIcon-400x400-d6532494c9e1c90d07f2fcabf20e00b3.png",
+      "md5": "d6532494c9e1c90d07f2fcabf20e00b3",
+      "width": 400,
+      "height": 400,
+      "size": 102366,
+      "uploadedDate": "2019-04-24T17:37:35.828Z"
+    }
+  ],
+  "creationDate": "2019-03-29T21:05:30.208+00:00",
+  "lastModifiedDate": "2019-10-16T14:38:42.278+00:00",
+  "developer": "Quantic Dream",
+  "developerId": "o-m8v47d762atphw94knus7ezawefpcu",
+  "applicationId": null
+}

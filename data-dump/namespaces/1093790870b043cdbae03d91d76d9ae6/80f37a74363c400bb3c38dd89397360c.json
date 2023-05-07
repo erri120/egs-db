@@ -1,0 +1,32 @@
+{
+  "id": "80f37a74363c400bb3c38dd89397360c",
+  "title": "Rainbow Six Extraction",
+  "description": "Rainbow Six Extraction",
+  "namespace": "1093790870b043cdbae03d91d76d9ae6",
+  "categories": "public/games/applications",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/EN_R6E_STD_EPIC_Store Landscape_2560x1440_UK_2560x1440-b7c3e5d9f7443f7f4a33a6b5d128a832",
+      "md5": "b7c3e5d9f7443f7f4a33a6b5d128a832",
+      "width": 2560,
+      "height": 1440,
+      "size": 1294432,
+      "uploadedDate": "2021-06-11T16:00:46.189Z"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/EN_R6E_STD_EPIC_Store Portrait_1200x1600_UK_1200x1600-9859512196094e740761af80c09a41d6",
+      "md5": "9859512196094e740761af80c09a41d6",
+      "width": 1200,
+      "height": 1600,
+      "size": 641767,
+      "uploadedDate": "2021-06-11T16:02:09.543Z"
+    }
+  ],
+  "creationDate": "2019-09-19T18:20:55.354+00:00",
+  "lastModifiedDate": "2022-12-01T16:00:36.962+00:00",
+  "developer": "Ubisoft Entertainment",
+  "developerId": "o-3efjudxdtgsqnulml4bkeq3v9nec38",
+  "applicationId": ""
+}

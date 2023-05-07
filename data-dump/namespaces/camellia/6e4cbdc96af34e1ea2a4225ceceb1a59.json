@@ -1,0 +1,23 @@
+{
+  "id": "6e4cbdc96af34e1ea2a4225ceceb1a59",
+  "title": "TCOP_DLC_Audience_marker",
+  "description": "TCOP_DLC_Audience_marker",
+  "namespace": "camellia",
+  "categories": "",
+  "keyImages": [
+    {
+      "type": "ESRB",
+      "url": "https://cdn1.epicgames.com/camellia/item/ACORating-842x404-3192940fd03ce42a91bec04ef222e1ec.png",
+      "md5": "3192940fd03ce42a91bec04ef222e1ec",
+      "width": 842,
+      "height": 404,
+      "size": 76578,
+      "uploadedDate": "2019-04-23T21:04:14.71Z"
+    }
+  ],
+  "creationDate": "2019-10-28T15:13:53.748+00:00",
+  "lastModifiedDate": "2019-11-27T15:28:33.806+00:00",
+  "developer": "Devolver Digital, Inc.",
+  "developerId": "o-plnhdz2wfx5etjjeh88szjqy2gx8gw",
+  "applicationId": null
+}

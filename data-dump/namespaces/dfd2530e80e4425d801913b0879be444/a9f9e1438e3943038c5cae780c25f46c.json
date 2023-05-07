@@ -1,0 +1,32 @@
+{
+  "id": "a9f9e1438e3943038c5cae780c25f46c",
+  "title": "Zombie Army 4: Mission 2 - Blood Count",
+  "description": "Zombie Army 4: Mission 2 - Blood Count",
+  "namespace": "dfd2530e80e4425d801913b0879be444",
+  "categories": "public/games/applications",
+  "keyImages": [
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/dfd2530e80e4425d801913b0879be444/item/CodeRedemption_Zombie4-330x440-3102dff3377403c09f5bd5c9e43a3ad3-330x440-3102dff3377403c09f5bd5c9e43a3ad3.jpg",
+      "md5": "3102dff3377403c09f5bd5c9e43a3ad3",
+      "width": 330,
+      "height": 440,
+      "size": 85825,
+      "uploadedDate": "2020-02-03T19:15:03.788Z"
+    },
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/dfd2530e80e4425d801913b0879be444/item/EGS_REBELLION_ZOMBIEARMY4_DLCCAPSULE_BloodCount-900x450-70c915063a125a074c0106a0a96f2b10-900x450-70c915063a125a074c0106a0a96f2b10.png",
+      "md5": "70c915063a125a074c0106a0a96f2b10",
+      "width": 900,
+      "height": 450,
+      "size": 706168,
+      "uploadedDate": "2020-06-23T14:07:23.779Z"
+    }
+  ],
+  "creationDate": "2020-03-30T17:13:09.117+00:00",
+  "lastModifiedDate": "2022-02-17T14:01:38.353+00:00",
+  "developer": "Rebellion",
+  "developerId": "o-7ytxfydj7f9a2uv4bmg3s5wfl2epsm",
+  "applicationId": ""
+}

@@ -1,0 +1,32 @@
+{
+  "id": "12dc5714be7e4094a543d6e68d98ed2f",
+  "title": "CobraStaging",
+  "description": "CobraStaging",
+  "namespace": "cobra",
+  "categories": "",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/cobra/item/gamebox-2580x1450-2a3cf138aa51508f3f37f69540d659e5.jpg",
+      "md5": "2a3cf138aa51508f3f37f69540d659e5",
+      "width": 2580,
+      "height": 1450,
+      "size": 254412,
+      "uploadedDate": "2019-01-14T20:16:17.999Z"
+    },
+    {
+      "type": "DieselGameBoxLogo",
+      "url": "https://cdn1.epicgames.com/cobra/item/MyTimeAtPortia_Logo-507x507-8eb12a26295afde02e48a44e72ad3f69.png",
+      "md5": "8eb12a26295afde02e48a44e72ad3f69",
+      "width": 507,
+      "height": 507,
+      "size": 27318,
+      "uploadedDate": "2019-01-14T20:59:44.324Z"
+    }
+  ],
+  "creationDate": "2019-01-04T19:36:27.598+00:00",
+  "lastModifiedDate": "2020-02-07T14:41:22.716+00:00",
+  "developer": "Team17 Digital Ltd",
+  "developerId": "o-uvtztrtfjdn3xgrwyhbuwwb5z42mbv",
+  "applicationId": null
+}

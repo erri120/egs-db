@@ -1,0 +1,32 @@
+{
+  "id": "cd3839fef2e4421c96d7d29f91e733d3",
+  "title": "Crystal Crisis",
+  "description": "Crystal Crisis",
+  "namespace": "5493b8894a4b4f49984240f298a8ef06",
+  "categories": "public/games/applications",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_CrystalCrisis_NicalisInc_S1_2560x1440-9664b4aead711c660e8db2e58d44d333",
+      "md5": "9664b4aead711c660e8db2e58d44d333",
+      "width": 2560,
+      "height": 1440,
+      "size": 969123,
+      "uploadedDate": "2021-06-25T19:33:29.024Z"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_CrystalCrisis_NicalisInc_S2_1200x1600-5151871a0a4f248d070a0b18acf4e8af",
+      "md5": "5151871a0a4f248d070a0b18acf4e8af",
+      "width": 1200,
+      "height": 1600,
+      "size": 962359,
+      "uploadedDate": "2021-06-25T19:33:31.762Z"
+    }
+  ],
+  "creationDate": "2021-01-27T19:47:33.159+00:00",
+  "lastModifiedDate": "2021-07-08T08:20:49.679+00:00",
+  "developer": "Nicalis",
+  "developerId": "o-ybzxtem8hqs87ahht3w4vtf6eqd2zh",
+  "applicationId": "fghi4567nbJP9lAUDsBHcGYNAyKdDxJ6"
+}

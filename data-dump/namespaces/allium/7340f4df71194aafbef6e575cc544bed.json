@@ -1,0 +1,23 @@
+{
+  "id": "7340f4df71194aafbef6e575cc544bed",
+  "title": "Observation General Audience",
+  "description": "Observation General Audience",
+  "namespace": "allium",
+  "categories": "",
+  "keyImages": [
+    {
+      "type": "ESRB",
+      "url": "https://cdn1.epicgames.com/allium/item/RP_FOR_T_M_AO-842x404-e685858d6f01213bedf5b2abec53be94.png",
+      "md5": "e685858d6f01213bedf5b2abec53be94",
+      "width": 842,
+      "height": 404,
+      "size": 55379,
+      "uploadedDate": "2019-04-23T20:24:25.845Z"
+    }
+  ],
+  "creationDate": "2019-03-25T20:38:51.889+00:00",
+  "lastModifiedDate": "2020-01-06T15:16:55.769+00:00",
+  "developer": "Devolver Digital, Inc.",
+  "developerId": "o-plnhdz2wfx5etjjeh88szjqy2gx8gw",
+  "applicationId": null
+}

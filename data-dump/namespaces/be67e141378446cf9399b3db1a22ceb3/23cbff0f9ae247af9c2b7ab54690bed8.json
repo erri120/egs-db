@@ -1,0 +1,32 @@
+{
+  "id": "23cbff0f9ae247af9c2b7ab54690bed8",
+  "title": "Tharsis (72a75d5e43e44a1699f85dc9cb342e01)",
+  "description": "Tharsis (72a75d5e43e44a1699f85dc9cb342e01)",
+  "namespace": "be67e141378446cf9399b3db1a22ceb3",
+  "categories": "public/games/applications",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_Tharsis_ChoiceProvisions_S1_2560x1440-f2bafbbf1629a48af6e394261b2dc3e7",
+      "md5": "f2bafbbf1629a48af6e394261b2dc3e7",
+      "width": 2560,
+      "height": 1440,
+      "size": 558719,
+      "uploadedDate": "2021-09-09T14:45:12.209Z"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_Tharsis_ChoiceProvisions_S2_1200x1600-964435f30c36b3f9d4bdcd0d90fcfca2",
+      "md5": "964435f30c36b3f9d4bdcd0d90fcfca2",
+      "width": 1200,
+      "height": 1600,
+      "size": 276352,
+      "uploadedDate": "2021-09-09T14:45:15.118Z"
+    }
+  ],
+  "creationDate": "2021-03-09T23:36:26.716+00:00",
+  "lastModifiedDate": "2021-09-16T16:25:01.533+00:00",
+  "developer": "Choice Provisions, Inc",
+  "developerId": "o-ec6d787ft4ctrcyve22qqtgmkdpsr4",
+  "applicationId": "fghi4567H6CBRZBsk27fyisSz5Hw0JTO"
+}

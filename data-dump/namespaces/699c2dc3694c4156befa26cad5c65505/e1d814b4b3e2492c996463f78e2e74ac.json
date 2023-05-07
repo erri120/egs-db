@@ -1,0 +1,23 @@
+{
+  "id": "e1d814b4b3e2492c996463f78e2e74ac",
+  "title": "ErosGeneralPreOrderAudience",
+  "description": "ErosGeneralPreOrderAudience",
+  "namespace": "699c2dc3694c4156befa26cad5c65505",
+  "categories": "",
+  "keyImages": [
+    {
+      "type": "ESRB",
+      "url": "https://cdn1.epicgames.com/699c2dc3694c4156befa26cad5c65505/item/Diesel_productv2_sherlock-holmes-chapter-one_home_EGS_SherlockHolmesChapterOne_Frogwares_RA1-450x200-d9899b53c376f10622c0edd11382bcfe7d11db83-450x200-6181a6b2d2a1bb89c993410d7a9b97a1.png",
+      "md5": "6181a6b2d2a1bb89c993410d7a9b97a1",
+      "width": 450,
+      "height": 200,
+      "size": 11574,
+      "uploadedDate": "2020-05-22T19:43:11.952Z"
+    }
+  ],
+  "creationDate": "2020-05-08T16:42:28.754+00:00",
+  "lastModifiedDate": "2021-10-01T07:12:48.601+00:00",
+  "developer": "Frogwares",
+  "developerId": "o-rlw9u3sem84g2hc3ur36dqnp7wul3j",
+  "applicationId": ""
+}

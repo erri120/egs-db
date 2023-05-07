@@ -1,0 +1,32 @@
+{
+  "id": "a1e8ca8fea6040b3916077a94bc9e5a4",
+  "title": "CurryStaging",
+  "description": "CurryStaging",
+  "namespace": "7af7476ff9eb4a8d9cd9d6486224de76",
+  "categories": "public/games/applications",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/7af7476ff9eb4a8d9cd9d6486224de76/item/Abzu_PRIMARYPROMO_2580x1450-2580x1450-1df5bc4d1ebbf73ff8e4e1fdb70011d0.jpg",
+      "md5": "1df5bc4d1ebbf73ff8e4e1fdb70011d0",
+      "width": 2580,
+      "height": 1450,
+      "size": 273765,
+      "uploadedDate": "2019-08-20T17:18:00.019Z"
+    },
+    {
+      "type": "DieselGameBoxLogo",
+      "url": "https://cdn1.epicgames.com/7af7476ff9eb4a8d9cd9d6486224de76/item/AbzuLogo-3366x1158-bb53cbd189bef0cebbc1eece00eaa96a.png",
+      "md5": "bb53cbd189bef0cebbc1eece00eaa96a",
+      "width": 3366,
+      "height": 1158,
+      "size": 62869,
+      "uploadedDate": "2019-08-20T17:18:10.148Z"
+    }
+  ],
+  "creationDate": "2019-06-03T20:59:05.338+00:00",
+  "lastModifiedDate": "2022-11-09T14:58:57.208+00:00",
+  "developer": "505 Games",
+  "developerId": "o-cul2z53mrw3bxltv63v68rgd4b3w52",
+  "applicationId": ""
+}

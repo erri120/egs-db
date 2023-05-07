@@ -1,0 +1,23 @@
+{
+  "id": "40ebffbbc5a548faa81b3af36f39cf17",
+  "title": "ShoebillDeluxeDevAudience",
+  "description": "ShoebillDeluxeDevAudience",
+  "namespace": "e509c16d53714b13ba8e393966507255",
+  "categories": "",
+  "keyImages": [
+    {
+      "type": "ESRB",
+      "url": "https://cdn1.epicgames.com/e509c16d53714b13ba8e393966507255/item/ESRB_Jedi-842x404-03a8a1dc98ab180071931c3942ee6a93.png",
+      "md5": "03a8a1dc98ab180071931c3942ee6a93",
+      "width": 842,
+      "height": 404,
+      "size": 44265,
+      "uploadedDate": "2019-11-15T05:37:52.801Z"
+    }
+  ],
+  "creationDate": "2019-10-17T23:27:05.791+00:00",
+  "lastModifiedDate": "2019-11-15T05:37:55.154+00:00",
+  "developer": "Electronic Arts",
+  "developerId": "o-vtqh9b4lk8n4jpadfv6cphqs9hsly9",
+  "applicationId": null
+}

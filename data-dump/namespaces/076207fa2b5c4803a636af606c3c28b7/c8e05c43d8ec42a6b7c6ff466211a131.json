@@ -1,0 +1,32 @@
+{
+  "id": "c8e05c43d8ec42a6b7c6ff466211a131",
+  "title": "SMITE Internal PTS",
+  "description": "SMITE Internal PTS",
+  "namespace": "076207fa2b5c4803a636af606c3c28b7",
+  "categories": "public/games/applications",
+  "keyImages": [
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/076207fa2b5c4803a636af606c3c28b7/item/Smite-EGS-7.12-Danzaburou-FeaturedCarousel-Mobile-510x680-510x680-24788121c782f46463309aea8551e476.jpg",
+      "md5": "24788121c782f46463309aea8551e476",
+      "width": 510,
+      "height": 680,
+      "size": 363718,
+      "uploadedDate": "2020-12-15T02:53:23.696Z"
+    },
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/076207fa2b5c4803a636af606c3c28b7/item/Smite-EGS-7.12-Danzaburou-FeaturedCarousel-Desktop-1360x766-1360x766-422214e6517a5f718f340f7589cf3a01.jpg",
+      "md5": "422214e6517a5f718f340f7589cf3a01",
+      "width": 1360,
+      "height": 766,
+      "size": 167748,
+      "uploadedDate": "2020-12-15T02:53:32.497Z"
+    }
+  ],
+  "creationDate": "2020-05-04T16:55:10.217+00:00",
+  "lastModifiedDate": "2020-12-15T11:57:40.079+00:00",
+  "developer": "Hi-Rez Studios",
+  "developerId": "o-7aklpapnk74p66sqs6hm5byt29wp66",
+  "applicationId": null
+}

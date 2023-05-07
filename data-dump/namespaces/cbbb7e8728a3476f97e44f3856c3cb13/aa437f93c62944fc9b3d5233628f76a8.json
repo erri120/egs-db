@@ -1,0 +1,41 @@
+{
+  "id": "aa437f93c62944fc9b3d5233628f76a8",
+  "title": "Anno 2205",
+  "description": "Anno 2205",
+  "namespace": "cbbb7e8728a3476f97e44f3856c3cb13",
+  "categories": "public/games/applications",
+  "keyImages": [
+    {
+      "type": "DieselGameBoxWide",
+      "url": "https://cdn1.epicgames.com/cbbb7e8728a3476f97e44f3856c3cb13/item/ATTZF_Edition_Capsule_1920X1080-1920x1080-674b207081b22977440cc3dab2f21098.jpg",
+      "md5": "674b207081b22977440cc3dab2f21098",
+      "width": 1920,
+      "height": 1080,
+      "size": 549009,
+      "uploadedDate": "2020-02-10T17:28:46.361Z"
+    },
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/cbbb7e8728a3476f97e44f3856c3cb13/item/ATTZF_Store_Landscape_2580x1450-2580x1450-d472d10770bdc1e444beffb2a8a6e7a7.jpg",
+      "md5": "d472d10770bdc1e444beffb2a8a6e7a7",
+      "width": 2580,
+      "height": 1450,
+      "size": 888759,
+      "uploadedDate": "2020-03-09T15:29:52.57Z"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/item/cbbb7e8728a3476f97e44f3856c3cb13/Anno2205StandardPortrait_1200x1600-94fe65d01c6366107a6b51e175667210",
+      "md5": "94fe65d01c6366107a6b51e175667210",
+      "width": 1200,
+      "height": 1600,
+      "size": 339627,
+      "uploadedDate": "2022-11-18T17:41:37.093Z"
+    }
+  ],
+  "creationDate": "2020-01-13T15:48:51.366+00:00",
+  "lastModifiedDate": "2022-11-18T17:41:42.762+00:00",
+  "developer": "Ubisoft Entertainment",
+  "developerId": "o-3efjudxdtgsqnulml4bkeq3v9nec38",
+  "applicationId": ""
+}

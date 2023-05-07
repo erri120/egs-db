@@ -1,0 +1,41 @@
+{
+  "id": "40ece0e20b224dc69d310b9bb35d8f2a",
+  "title": "DaisyDevAudience",
+  "description": "DaisyDevAudience",
+  "namespace": "daisy",
+  "categories": "",
+  "keyImages": [
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/daisy/item/Drawful2_Icon-400x400-8c2006c8dc78feace8c5306821d60221.png",
+      "md5": "8c2006c8dc78feace8c5306821d60221",
+      "width": 400,
+      "height": 400,
+      "size": 207612,
+      "uploadedDate": "2019-02-05T15:58:39.683Z"
+    },
+    {
+      "type": "DieselGameBoxLogo",
+      "url": "https://cdn1.epicgames.com/daisy/item/Drawful2_Logo-1180x1035-ac2814fad78ad10f96a37ffc6ca4cf9d.png",
+      "md5": "ac2814fad78ad10f96a37ffc6ca4cf9d",
+      "width": 1180,
+      "height": 1035,
+      "size": 112577,
+      "uploadedDate": "2019-02-05T15:58:47.54Z"
+    },
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/daisy/item/Drawful2_Hero_Landscape-2580x1450-0fb79148be5e4c7d08901d27b7051e2c.jpg",
+      "md5": "0fb79148be5e4c7d08901d27b7051e2c",
+      "width": 2580,
+      "height": 1450,
+      "size": 348727,
+      "uploadedDate": "2019-02-05T15:59:24.465Z"
+    }
+  ],
+  "creationDate": "2019-01-29T19:09:11.846+00:00",
+  "lastModifiedDate": "2019-02-07T14:48:34.405+00:00",
+  "developer": "Jackbox Games, Inc.",
+  "developerId": "o-2m9ap45qzvalaepjz6wclpcffeq4aj",
+  "applicationId": null
+}

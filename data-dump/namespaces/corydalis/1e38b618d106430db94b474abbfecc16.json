@@ -1,0 +1,41 @@
+{
+  "id": "1e38b618d106430db94b474abbfecc16",
+  "title": "Slime Rancher",
+  "description": "Slime Rancher",
+  "namespace": "corydalis",
+  "categories": "",
+  "keyImages": [
+    {
+      "type": "DieselGameBoxLogo",
+      "url": "https://cdn1.epicgames.com/corydalis/item/SR_logo_source-4000x1527-4464ca1018834321dfcad9ef70fd984c.png",
+      "md5": "4464ca1018834321dfcad9ef70fd984c",
+      "width": 4000,
+      "height": 1527,
+      "size": 351336,
+      "uploadedDate": "2019-02-18T19:12:55.06Z"
+    },
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/corydalis/item/SlimeRancher_PrimaryPromo_1920-1920x1079-81ac1ff1db1478a08adc0dc2e182e866.jpg",
+      "md5": "81ac1ff1db1478a08adc0dc2e182e866",
+      "width": 1920,
+      "height": 1079,
+      "size": 256207,
+      "uploadedDate": "2019-02-27T20:05:28.101Z"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/corydalis/item/SlimeRancher-Keyart_Portrait-Promo-1280x1420-aca38e046b5272b458e75462a604d977.jpg",
+      "md5": "aca38e046b5272b458e75462a604d977",
+      "width": 1280,
+      "height": 1420,
+      "size": 149446,
+      "uploadedDate": "2019-10-22T09:41:44.79Z"
+    }
+  ],
+  "creationDate": "2019-02-18T19:25:01.293+00:00",
+  "lastModifiedDate": "2023-02-22T17:41:53.587+00:00",
+  "developer": "Monomi Park",
+  "developerId": "o-zaqwbfdrp3pwhlqsnwvjfsmjdpsj3a",
+  "applicationId": null
+}

@@ -1,0 +1,32 @@
+{
+  "id": "db7bd4862cf84fc582c5a1a3978e02d6",
+  "title": "BIOMUTANT",
+  "description": "BIOMUTANT",
+  "namespace": "f7dc2f3c915444f1a6ba4105bc00d592",
+  "categories": "public/games/applications",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/f7dc2f3c915444f1a6ba4105bc00d592/item/EGS_BIOMUTANT_Experiment101_S1-2560x1440-75bad76d237c52c7d59571111b670938-2560x1440-75bad76d237c52c7d59571111b670938.jpeg",
+      "md5": "75bad76d237c52c7d59571111b670938",
+      "width": 2560,
+      "height": 1440,
+      "size": 885346,
+      "uploadedDate": "2021-03-22T22:26:11.815Z"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/f7dc2f3c915444f1a6ba4105bc00d592/item/EGS_BIOMUTANT_Experiment101_S2-1200x1600-7f18bf0433d6631ea0383abb74e6392a-1200x1600-7f18bf0433d6631ea0383abb74e6392a.jpeg",
+      "md5": "7f18bf0433d6631ea0383abb74e6392a",
+      "width": 1200,
+      "height": 1600,
+      "size": 465367,
+      "uploadedDate": "2021-03-22T22:26:25.177Z"
+    }
+  ],
+  "creationDate": "2021-02-18T18:27:32.729+00:00",
+  "lastModifiedDate": "2021-05-25T16:50:28.733+00:00",
+  "developer": "THQ Nordic GmbH",
+  "developerId": "o-jywxgemg3dagnv6fymcngq3g29mc4j",
+  "applicationId": "fghi4567Tn5LKqJXS5AlLCZ0GQgkHHz4"
+}

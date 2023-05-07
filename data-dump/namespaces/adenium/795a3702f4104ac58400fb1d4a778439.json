@@ -1,0 +1,41 @@
+{
+  "id": "795a3702f4104ac58400fb1d4a778439",
+  "title": "Afterparty Pre-Purchase",
+  "description": "Afterparty Pre-Purchase",
+  "namespace": "adenium",
+  "categories": "",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/adenium/item/Afterparty_PrimaryPromoImage_2580x1450-2580x1450-be4bf4f974e89762d519cc2f2a289d3a.jpg",
+      "md5": "be4bf4f974e89762d519cc2f2a289d3a",
+      "width": 2580,
+      "height": 1450,
+      "size": 278370,
+      "uploadedDate": "2019-03-15T15:57:27.51Z"
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/adenium/item/Afterparty_GameIcon_400x400-400x400-fba79aa463578d60e74badc171dc8157.png",
+      "md5": "fba79aa463578d60e74badc171dc8157",
+      "width": 400,
+      "height": 400,
+      "size": 11881,
+      "uploadedDate": "2019-03-15T15:57:55.555Z"
+    },
+    {
+      "type": "DieselGameBoxLogo",
+      "url": "https://cdn1.epicgames.com/adenium/item/AfterpartyLogo_wSkull_DarkVersion_RGB-1184x567-c56f496e37c57229fb5649a99b6b323c.png",
+      "md5": "c56f496e37c57229fb5649a99b6b323c",
+      "width": 1184,
+      "height": 567,
+      "size": 117422,
+      "uploadedDate": "2019-05-15T15:08:51.196Z"
+    }
+  ],
+  "creationDate": "2019-05-14T14:40:14.73+00:00",
+  "lastModifiedDate": "2019-10-29T13:00:02.669+00:00",
+  "developer": "Night School Studio, LLC",
+  "developerId": "o-8bhctnyt9qetgnjd4nssqse58c2589",
+  "applicationId": null
+}

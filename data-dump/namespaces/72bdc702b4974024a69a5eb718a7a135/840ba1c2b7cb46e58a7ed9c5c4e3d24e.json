@@ -1,0 +1,23 @@
+{
+  "id": "840ba1c2b7cb46e58a7ed9c5c4e3d24e",
+  "title": "AssassinsCreedUnityGeneralAudience",
+  "description": "AssassinsCreedUnityGeneralAudience",
+  "namespace": "72bdc702b4974024a69a5eb718a7a135",
+  "categories": "",
+  "keyImages": [
+    {
+      "type": "ESRB",
+      "url": "https://cdn1.epicgames.com/72bdc702b4974024a69a5eb718a7a135/item/ESRB_M_ACUnity.jpg-842x485-25f1e71e4374bd89d7a70d136f287902.png",
+      "md5": "25f1e71e4374bd89d7a70d136f287902",
+      "width": 842,
+      "height": 485,
+      "size": 35389,
+      "uploadedDate": "2020-03-10T15:27:21.52Z"
+    }
+  ],
+  "creationDate": "2020-02-10T04:58:41.932+00:00",
+  "lastModifiedDate": "2020-03-10T15:27:24.329+00:00",
+  "developer": "Ubisoft Entertainment",
+  "developerId": "o-3efjudxdtgsqnulml4bkeq3v9nec38",
+  "applicationId": null
+}

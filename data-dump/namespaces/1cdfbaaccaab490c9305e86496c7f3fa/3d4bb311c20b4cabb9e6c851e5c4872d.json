@@ -1,0 +1,32 @@
+{
+  "id": "3d4bb311c20b4cabb9e6c851e5c4872d",
+  "title": "Splinter Cell Double Agent",
+  "description": "Splinter Cell Double Agent",
+  "namespace": "1cdfbaaccaab490c9305e86496c7f3fa",
+  "categories": "public/games/applications",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/1cdfbaaccaab490c9305e86496c7f3fa/item/SCL4_UCS17159_EGST_Store_Landscape_2560x1440-2560x1440-6af04b83653761c83351dcb18363fa9a.jpg",
+      "md5": "6af04b83653761c83351dcb18363fa9a",
+      "width": 2560,
+      "height": 1440,
+      "size": 478540,
+      "uploadedDate": "2021-03-08T22:32:04.575Z"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/1cdfbaaccaab490c9305e86496c7f3fa/item/SCL4_UCS17159_EGST_Store_Portrait_1200x1600-1200x1600-2cb5091f3265104c378c90378f36c83f.jpg",
+      "md5": "2cb5091f3265104c378c90378f36c83f",
+      "width": 1200,
+      "height": 1600,
+      "size": 362803,
+      "uploadedDate": "2021-03-08T22:32:07.099Z"
+    }
+  ],
+  "creationDate": "2020-08-12T18:22:46.81+00:00",
+  "lastModifiedDate": "2021-08-24T16:27:31.173+00:00",
+  "developer": "Ubisoft Entertainment",
+  "developerId": "o-3efjudxdtgsqnulml4bkeq3v9nec38",
+  "applicationId": ""
+}

@@ -1,0 +1,32 @@
+{
+  "id": "abd862e2fc4b4042ab3231466f46ff27",
+  "title": "JackalMainline",
+  "description": "JackalMainline",
+  "namespace": "jackal",
+  "categories": "",
+  "keyImages": [
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/jackal/item/EGS_MAINLINE-1200x1600-3c75a9a169cb0582b974e061865dfa00.jpg",
+      "md5": "3c75a9a169cb0582b974e061865dfa00",
+      "width": 1200,
+      "height": 1600,
+      "size": 983642,
+      "uploadedDate": "2020-10-05T14:17:18.038Z"
+    },
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/jackal/item/EGS_MAINLINE-2560x1440-02554d17e19354a559ad8b6a28e3d12c.jpg",
+      "md5": "02554d17e19354a559ad8b6a28e3d12c",
+      "width": 2560,
+      "height": 1440,
+      "size": 2074153,
+      "uploadedDate": "2020-10-07T19:24:11.332Z"
+    }
+  ],
+  "creationDate": "2019-04-25T12:46:12.572+00:00",
+  "lastModifiedDate": "2020-10-07T19:24:22.169+00:00",
+  "developer": "Phoenix Labs",
+  "developerId": "o-krlzxj88qrtb69fredeuaf887bl5az",
+  "applicationId": null
+}

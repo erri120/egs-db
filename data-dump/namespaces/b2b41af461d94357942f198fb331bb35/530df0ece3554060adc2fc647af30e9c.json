@@ -1,0 +1,23 @@
+{
+  "id": "530df0ece3554060adc2fc647af30e9c",
+  "title": "CapricornGeneralAudience",
+  "description": "CapricornGeneralAudience",
+  "namespace": "b2b41af461d94357942f198fb331bb35",
+  "categories": "",
+  "keyImages": [
+    {
+      "type": "ESRB",
+      "url": "https://cdn1.epicgames.com/b2b41af461d94357942f198fb331bb35/item/ESRB_Chronos-842x404-efe9811d2327baabc5ad6c2d7559f5f5.png",
+      "md5": "efe9811d2327baabc5ad6c2d7559f5f5",
+      "width": 842,
+      "height": 404,
+      "size": 49036,
+      "uploadedDate": "2020-11-18T13:25:51.688Z"
+    }
+  ],
+  "creationDate": "2020-11-11T14:11:42.887+00:00",
+  "lastModifiedDate": "2020-12-01T17:55:01.98+00:00",
+  "developer": "THQ Nordic GmbH",
+  "developerId": "o-jywxgemg3dagnv6fymcngq3g29mc4j",
+  "applicationId": null
+}

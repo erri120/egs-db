@@ -1,0 +1,23 @@
+{
+  "id": "6a7a4b772466468c96932a531be9c32b",
+  "title": "CondorGeneralAudience",
+  "description": "CondorGeneralAudience",
+  "namespace": "4d2a12aff0484d699b1806ab104d259b",
+  "categories": "",
+  "keyImages": [
+    {
+      "type": "ESRB",
+      "url": "https://cdn1.epicgames.com/4d2a12aff0484d699b1806ab104d259b/item/AlanWakeAmericanNightmare_T_ESRB-842x404-de7c3efaab04f1843c4d1691963970e9.jpg",
+      "md5": "de7c3efaab04f1843c4d1691963970e9",
+      "width": 842,
+      "height": 404,
+      "size": 29570,
+      "uploadedDate": "2019-10-08T20:04:31.56Z"
+    }
+  ],
+  "creationDate": "2019-07-22T19:15:19.901+00:00",
+  "lastModifiedDate": "2019-10-17T13:46:35.574+00:00",
+  "developer": "Remedy Entertainment",
+  "developerId": "o-sdmmvl8pftrkwfy86bjp286kuwhnsq",
+  "applicationId": null
+}

@@ -1,0 +1,41 @@
+{
+  "id": "07e451ddd65f44eba67eda2cc9b8c7c1",
+  "title": "Assassin\u0027s Creed Origins",
+  "description": "Assassin\u0027s Creed Origins",
+  "namespace": "camellia",
+  "categories": "",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/camellia/item/Store_Primary_Promo_2580x1450-1920x1079-4f0dab598c837cc83e898d6c5918bcf7.jpg",
+      "md5": "4f0dab598c837cc83e898d6c5918bcf7",
+      "width": 1920,
+      "height": 1079,
+      "size": 212458,
+      "uploadedDate": "2019-11-18T23:16:43.152Z"
+    },
+    {
+      "type": "DieselGameBoxLogo",
+      "url": "https://cdn1.epicgames.com/camellia/item/ACOrigins_Color_1000x375-1000x375-26c55748d7937aebc02e8084b7fa4f06.png",
+      "md5": "26c55748d7937aebc02e8084b7fa4f06",
+      "width": 1000,
+      "height": 375,
+      "size": 392238,
+      "uploadedDate": "2019-11-18T23:17:49.718Z"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/item/camellia/ACOrigins_STD_Store_Portrait_1200x1600_1200x1600-4a79f9f393f7a3a9e5be3a0ae581f3d5",
+      "md5": "4a79f9f393f7a3a9e5be3a0ae581f3d5",
+      "width": 1200,
+      "height": 1600,
+      "size": 539598,
+      "uploadedDate": "2022-11-18T17:37:04.74Z"
+    }
+  ],
+  "creationDate": "2019-02-08T21:51:12.594+00:00",
+  "lastModifiedDate": "2022-11-18T17:37:23.742+00:00",
+  "developer": "Epic Dev Test Account",
+  "developerId": "o-ufmrk5furrrxgsp5tdngefzt5rxdcn",
+  "applicationId": ""
+}

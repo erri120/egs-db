@@ -1,0 +1,23 @@
+{
+  "id": "19a1a0c6ac7e46bf8bf0eebb47a6bf94",
+  "title": "Blazing Kick Audience",
+  "description": "Blazing Kick Audience",
+  "namespace": "5d582c08e31a43128a61093a2c3ff7f0",
+  "categories": "audience",
+  "keyImages": [
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/5d582c08e31a43128a61093a2c3ff7f0/item/Shenmue3_portraitpromo-1280x1420-1e524e5b26f65dfb4dcd44d3a7821419.jpg",
+      "md5": "1e524e5b26f65dfb4dcd44d3a7821419",
+      "width": 1280,
+      "height": 1420,
+      "size": 315411,
+      "uploadedDate": "2019-10-22T09:41:44.79Z"
+    }
+  ],
+  "creationDate": "2019-06-03T21:00:33.547+00:00",
+  "lastModifiedDate": "2022-09-20T14:54:23.314+00:00",
+  "developer": "Plaion",
+  "developerId": "o-jskfz28ywm2l56px6h9rlxplaysrtl",
+  "applicationId": ""
+}

@@ -1,0 +1,23 @@
+{
+  "id": "45a4c7e63a8b4db29274414a23d95e1c",
+  "title": "SherlockHolmesGeneralAudience",
+  "description": "SherlockHolmesGeneralAudience",
+  "namespace": "cinnamon",
+  "categories": "",
+  "keyImages": [
+    {
+      "type": "ESRB",
+      "url": "https://cdn1.epicgames.com/cinnamon/item/Sherlock_ESRB-842x485-d9212732ce7423281a3f58c6f6ed369a.jpg",
+      "md5": "d9212732ce7423281a3f58c6f6ed369a",
+      "width": 842,
+      "height": 485,
+      "size": 126035,
+      "uploadedDate": "2020-01-07T18:48:53.212Z"
+    }
+  ],
+  "creationDate": "2019-03-20T03:11:54.479+00:00",
+  "lastModifiedDate": "2021-07-12T21:12:21.793+00:00",
+  "developer": "Frogwares",
+  "developerId": "o-rlw9u3sem84g2hc3ur36dqnp7wul3j",
+  "applicationId": ""
+}

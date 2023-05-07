@@ -1,0 +1,32 @@
+{
+  "id": "dbd496361f0a46a99c70b7c61b53f367",
+  "title": "Immortals: Fenyx Rising",
+  "description": "Immortals: Fenyx Rising",
+  "namespace": "4b35838425c74992ad42e1276b2161ca",
+  "categories": "public/games/applications",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/4b35838425c74992ad42e1276b2161ca/item/IFR_EPIC_STD_Store_Landscape_2560x1440_UK-2560x1440-4586f116e7b9be1c051793647b3dea3d.jpg",
+      "md5": "4586f116e7b9be1c051793647b3dea3d",
+      "width": 2560,
+      "height": 1440,
+      "size": 436670,
+      "uploadedDate": "2020-09-09T16:53:14.743Z"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/4b35838425c74992ad42e1276b2161ca/item/IFR_EPIC_STD_Store_Portrait_1200x1600_UK-1200x1600-160024289fd98b6a67a4dec9fadf9774.jpg",
+      "md5": "160024289fd98b6a67a4dec9fadf9774",
+      "width": 1200,
+      "height": 1600,
+      "size": 278775,
+      "uploadedDate": "2020-09-09T16:53:20.511Z"
+    }
+  ],
+  "creationDate": "2019-06-08T17:13:02.483+00:00",
+  "lastModifiedDate": "2021-08-25T18:29:06.986+00:00",
+  "developer": "Ubisoft Entertainment",
+  "developerId": "o-3efjudxdtgsqnulml4bkeq3v9nec38",
+  "applicationId": ""
+}

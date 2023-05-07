@@ -1,0 +1,32 @@
+{
+  "id": "1727c3bb5bdd41df87bb333070ffc82c",
+  "title": "HOLMER Terra Variant DLC",
+  "description": "HOLMER Terra Variant DLC",
+  "namespace": "493e9ad801e8487497fe7840cb8404bb",
+  "categories": "public/games/applications",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/493e9ad801e8487497fe7840cb8404bb/item/Diesel_productv2_farming-simulator-19_holmer-terra-variant-dlc_EGS-GIANTS-FS19-2560x1440_Holmer-2560x1440-c5caee09148d1951cc75a8ee716076dbd5b8863e-2560x1440-e963966684757750075e94aa6bad91ab.jpg",
+      "md5": "e963966684757750075e94aa6bad91ab",
+      "width": 2560,
+      "height": 1440,
+      "size": 252345,
+      "uploadedDate": "2020-01-23T14:37:24.183Z"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/493e9ad801e8487497fe7840cb8404bb/item/Diesel_productv2_farming-simulator-19_holmer-terra-variant-dlc_EGS-GIANTS-FS19-1280x1440_Holmer-1280x1440-c5b4a34a91a940a31e96da436730ce049c2d70fd-1280x1440-8c08bfb76c31314a083a1e3e98060dc5.jpg",
+      "md5": "8c08bfb76c31314a083a1e3e98060dc5",
+      "width": 1280,
+      "height": 1440,
+      "size": 175970,
+      "uploadedDate": "2020-01-23T14:37:39.334Z"
+    }
+  ],
+  "creationDate": "2019-11-20T21:50:56.542+00:00",
+  "lastModifiedDate": "2020-11-12T14:01:03.772+00:00",
+  "developer": "Focus Home",
+  "developerId": "o-wt4zxeetmq6jem7qp4pkssr46aenj5",
+  "applicationId": null
+}

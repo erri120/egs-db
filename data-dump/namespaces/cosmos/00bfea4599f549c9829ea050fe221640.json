@@ -1,0 +1,32 @@
+{
+  "id": "00bfea4599f549c9829ea050fe221640",
+  "title": "RUNE II: Decapitation Edition",
+  "description": "RUNE II: Decapitation Edition",
+  "namespace": "cosmos",
+  "categories": "",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/cosmos/item/EGS_RUNEIIDecapitationEdition_Studio369_S3-2560x1440-36ff8d8a9ca5679705db90c06039f359.jpg",
+      "md5": "36ff8d8a9ca5679705db90c06039f359",
+      "width": 2560,
+      "height": 1440,
+      "size": 911845,
+      "uploadedDate": "2020-11-13T15:49:24.656Z"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/cosmos/item/EGS_RUNEIIDecapitationEdition_Studio369_S4-1200x1600-e8b6e6b24b07cabec4ea4b78feb6fb2c.jpg",
+      "md5": "e8b6e6b24b07cabec4ea4b78feb6fb2c",
+      "width": 1200,
+      "height": 1600,
+      "size": 632263,
+      "uploadedDate": "2020-11-13T15:49:38.424Z"
+    }
+  ],
+  "creationDate": "2019-03-04T20:09:37.098+00:00",
+  "lastModifiedDate": "2020-11-14T13:10:53.467+00:00",
+  "developer": "Ragnarok Game, LLC",
+  "developerId": "o-peysvmw9hg6a5s86ehl8a5dbz8fddp",
+  "applicationId": null
+}

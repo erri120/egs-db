@@ -1,0 +1,23 @@
+{
+  "id": "c67bc6eebd4c47db899443036a6eb1e3",
+  "title": "Closed Beta Audience",
+  "description": "Closed Beta Audience",
+  "namespace": "b9def67e597b4be7a16146146a044d02",
+  "categories": "",
+  "keyImages": [
+    {
+      "type": "ESRB",
+      "url": "https://cdn1.epicgames.com/b9def67e597b4be7a16146146a044d02/item/RP_FOR_E-842x404-fce4fa7233ed80170a8e36079d1e1bde.png",
+      "md5": "fce4fa7233ed80170a8e36079d1e1bde",
+      "width": 842,
+      "height": 404,
+      "size": 51194,
+      "uploadedDate": "2019-07-24T21:07:05.943Z"
+    }
+  ],
+  "creationDate": "2019-10-21T15:35:06.196+00:00",
+  "lastModifiedDate": "2020-11-06T13:39:01.29+00:00",
+  "developer": "Piranha Games",
+  "developerId": "o-muad9pj32k67stc4ycpgpplwq84sgq",
+  "applicationId": null
+}

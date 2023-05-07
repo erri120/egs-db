@@ -1,0 +1,32 @@
+{
+  "id": "f5d84259a95a4b11ade74a7e4e0bde66",
+  "title": "Rogue Legacy 2",
+  "description": "Rogue Legacy 2",
+  "namespace": "4966d5da285c4f2c876937844b0e23ee",
+  "categories": "public/games/applications",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/item/4966d5da285c4f2c876937844b0e23ee/EGS_RogueLegacy2_CellarDoorGames_S1_2560x1440-ef7a194aa6599659475289bc2fa9bfd0",
+      "md5": "ef7a194aa6599659475289bc2fa9bfd0",
+      "width": 2560,
+      "height": 1440,
+      "size": 981576,
+      "uploadedDate": "2023-04-27T12:46:36.064Z"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/item/4966d5da285c4f2c876937844b0e23ee/EGS_RogueLegacy2_CellarDoorGames_S2_1200x1600-849995ee49ae434171bf746d71a26415",
+      "md5": "849995ee49ae434171bf746d71a26415",
+      "width": 1200,
+      "height": 1600,
+      "size": 979504,
+      "uploadedDate": "2023-04-27T12:46:39.608Z"
+    }
+  ],
+  "creationDate": "2020-06-23T12:42:05.81+00:00",
+  "lastModifiedDate": "2023-04-28T15:48:45.552+00:00",
+  "developer": "Cellar Door Games",
+  "developerId": "o-aajwdms75r9jlekaktgsnxe6zw2ldj",
+  "applicationId": "fghi4567hZtnxOvWAKZ2wqCO6VWberyY"
+}

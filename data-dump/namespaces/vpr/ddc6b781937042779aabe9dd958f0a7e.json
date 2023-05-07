@@ -1,0 +1,23 @@
+{
+  "id": "ddc6b781937042779aabe9dd958f0a7e",
+  "title": "Call_To_Action_01",
+  "description": "SHADOW COMPLEX NEWS\n\u003Cinverted-tiny-body\u003EREAD MORE\u003C/\u003E",
+  "namespace": "vpr",
+  "categories": "layout",
+  "keyImages": [
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/vpr/item/vpr_img1-1280x720-668881575c799929cf86d6c987898a6c.png",
+      "md5": "668881575c799929cf86d6c987898a6c",
+      "width": 1280,
+      "height": 720,
+      "size": 1604118,
+      "uploadedDate": "2017-03-15T20:29:00.152Z"
+    }
+  ],
+  "creationDate": "2017-03-15T20:19:15.177+00:00",
+  "lastModifiedDate": "2017-06-26T19:23:55.319+00:00",
+  "developer": "Epic Games",
+  "developerId": "o-aa83a0a9bc45e98c80c1b1c9d92e9e",
+  "applicationId": null
+}

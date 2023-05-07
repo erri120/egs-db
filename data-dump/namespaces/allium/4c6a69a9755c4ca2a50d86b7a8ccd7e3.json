@@ -1,0 +1,32 @@
+{
+  "id": "4c6a69a9755c4ca2a50d86b7a8ccd7e3",
+  "title": "AlliumStaging",
+  "description": "AlliumStaging",
+  "namespace": "allium",
+  "categories": "",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/allium/item/Observation_PrimaryPromo-1920x1080-515772930cdd49854eedd42128215ffc.jpg",
+      "md5": "515772930cdd49854eedd42128215ffc",
+      "width": 1920,
+      "height": 1080,
+      "size": 351193,
+      "uploadedDate": "2019-03-25T20:45:47.317Z"
+    },
+    {
+      "type": "DieselGameBoxLogo",
+      "url": "https://cdn1.epicgames.com/allium/item/Observation_Logo_Color-2496x560-b4b1a805027ea44d3e5018fe13036576.png",
+      "md5": "b4b1a805027ea44d3e5018fe13036576",
+      "width": 2496,
+      "height": 560,
+      "size": 15068,
+      "uploadedDate": "2019-03-25T20:46:07.353Z"
+    }
+  ],
+  "creationDate": "2019-03-25T20:36:02.959+00:00",
+  "lastModifiedDate": "2019-10-09T16:11:22.361+00:00",
+  "developer": "Devolver Digital, Inc.",
+  "developerId": "o-plnhdz2wfx5etjjeh88szjqy2gx8gw",
+  "applicationId": null
+}

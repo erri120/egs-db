@@ -1,0 +1,32 @@
+{
+  "id": "ffcb62ae06414583b0fb41d95db65cae",
+  "title": "Mutant Year Zero Seed of Evil",
+  "description": "Mutant Year Zero Seed of Evil",
+  "namespace": "4756b80eb0f74d45b77922e54052cfed",
+  "categories": "public/games/dlc/applications",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/4756b80eb0f74d45b77922e54052cfed/item/EGS_THEBEARDEDLADIES_MUTANTYEARZERO_S1_DLC_KEYART-2560x1440-1b424da6ffeca94871cb48614f22ab6e.jpg",
+      "md5": "1b424da6ffeca94871cb48614f22ab6e",
+      "width": 2560,
+      "height": 1440,
+      "size": 128648,
+      "uploadedDate": "2019-08-14T18:10:09.928Z"
+    },
+    {
+      "type": "DieselGameBoxLogo",
+      "url": "https://cdn1.epicgames.com/4756b80eb0f74d45b77922e54052cfed/item/EGS_THEBEARDEDLADIES_MUTANTYEARZERO_IC1_DLCLOGO-920x500-57c85a68061636540dde5739e94144ae.png",
+      "md5": "57c85a68061636540dde5739e94144ae",
+      "width": 920,
+      "height": 500,
+      "size": 113595,
+      "uploadedDate": "2019-08-14T18:10:26.224Z"
+    }
+  ],
+  "creationDate": "2019-08-08T14:28:09.696+00:00",
+  "lastModifiedDate": "2019-08-15T20:14:46.684+00:00",
+  "developer": "Funcom",
+  "developerId": "o-fyyejcaw8f65b74sfwudhays6t3cuz",
+  "applicationId": null
+}

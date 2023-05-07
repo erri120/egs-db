@@ -1,0 +1,41 @@
+{
+  "id": "93d2aeffecba447d900773b7fad299eb",
+  "title": "Afterparty",
+  "description": "Afterparty",
+  "namespace": "adenium",
+  "categories": "",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/adenium/item/Afterparty_PrimaryPromoImage_2580x1450-2580x1450-be4bf4f974e89762d519cc2f2a289d3a.jpg",
+      "md5": "be4bf4f974e89762d519cc2f2a289d3a",
+      "width": 2580,
+      "height": 1450,
+      "size": 278370,
+      "uploadedDate": "2019-03-15T15:57:27.51Z"
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/adenium/item/Afterparty_GameIcon_400x400-400x400-fba79aa463578d60e74badc171dc8157.png",
+      "md5": "fba79aa463578d60e74badc171dc8157",
+      "width": 400,
+      "height": 400,
+      "size": 11881,
+      "uploadedDate": "2019-03-15T15:57:55.555Z"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/adenium/item/Afterparty_PortraitPromoImage_1280x1420_FrontPage-1280x1420-b6e39c5bbbdeae68f7df6a33f51a0f4f-1280x1420-b6e39c5bbbdeae68f7df6a33f51a0f4f-1280x1420-b6e39c5bbbdeae68f7df6a33f51a0f4f.jpg",
+      "md5": "b6e39c5bbbdeae68f7df6a33f51a0f4f",
+      "width": 1280,
+      "height": 1420,
+      "size": 139976,
+      "uploadedDate": "2019-11-20T20:45:08.133Z"
+    }
+  ],
+  "creationDate": "2019-03-15T15:34:58.179+00:00",
+  "lastModifiedDate": "2020-03-25T13:16:01.433+00:00",
+  "developer": "Night School Studio, LLC",
+  "developerId": "o-8bhctnyt9qetgnjd4nssqse58c2589",
+  "applicationId": null
+}

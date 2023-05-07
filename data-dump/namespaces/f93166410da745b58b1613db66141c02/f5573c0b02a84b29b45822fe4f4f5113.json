@@ -1,0 +1,23 @@
+{
+  "id": "f5573c0b02a84b29b45822fe4f4f5113",
+  "title": "BravoGeneralAudience",
+  "description": "BravoGeneralAudience",
+  "namespace": "f93166410da745b58b1613db66141c02",
+  "categories": "",
+  "keyImages": [
+    {
+      "type": "ESRB",
+      "url": "https://cdn1.epicgames.com/f93166410da745b58b1613db66141c02/item/ELEX ESRB-398x190-67ed39fdacc6b0941c34b6c0736492df.png",
+      "md5": "67ed39fdacc6b0941c34b6c0736492df",
+      "width": 398,
+      "height": 190,
+      "size": 13508,
+      "uploadedDate": "2021-02-23T05:34:47.451Z"
+    }
+  ],
+  "creationDate": "2021-02-18T17:52:04.45+00:00",
+  "lastModifiedDate": "2021-03-24T21:12:57.343+00:00",
+  "developer": "THQ Nordic GmbH",
+  "developerId": "o-jywxgemg3dagnv6fymcngq3g29mc4j",
+  "applicationId": null
+}

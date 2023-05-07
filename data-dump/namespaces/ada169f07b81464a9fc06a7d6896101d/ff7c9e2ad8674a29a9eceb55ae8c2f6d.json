@@ -1,0 +1,32 @@
+{
+  "id": "ff7c9e2ad8674a29a9eceb55ae8c2f6d",
+  "title": "The Sojourn Pre-Purchase",
+  "description": "The Sojourn Pre-Purchase",
+  "namespace": "ada169f07b81464a9fc06a7d6896101d",
+  "categories": "",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/ada169f07b81464a9fc06a7d6896101d/item/TheSojourn_StorePromo-1440x810-2ca5aca20db18c69c75264477ee21e04.jpg",
+      "md5": "2ca5aca20db18c69c75264477ee21e04",
+      "width": 1440,
+      "height": 810,
+      "size": 354802,
+      "uploadedDate": "2019-06-13T18:34:32.219Z"
+    },
+    {
+      "type": "DieselGameBoxLogo",
+      "url": "https://cdn1.epicgames.com/ada169f07b81464a9fc06a7d6896101d/item/TheSojourn_Logo-1920x879-3a7bc87f37dd0059f11691533701bf1f.png",
+      "md5": "3a7bc87f37dd0059f11691533701bf1f",
+      "width": 1920,
+      "height": 879,
+      "size": 263150,
+      "uploadedDate": "2019-06-13T18:34:40.44Z"
+    }
+  ],
+  "creationDate": "2019-06-13T18:35:14.581+00:00",
+  "lastModifiedDate": "2019-09-20T14:57:16.886+00:00",
+  "developer": "Iceberg Interactive",
+  "developerId": "o-ftmts7pjfvdywkby885rdzl4hdbtys",
+  "applicationId": null
+}

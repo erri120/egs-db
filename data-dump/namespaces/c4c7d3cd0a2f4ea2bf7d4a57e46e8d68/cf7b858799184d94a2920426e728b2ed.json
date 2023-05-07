@@ -1,0 +1,32 @@
+{
+  "id": "cf7b858799184d94a2920426e728b2ed",
+  "title": "Neko Ghost, Jump!",
+  "description": "Neko Ghost, Jump!",
+  "namespace": "c4c7d3cd0a2f4ea2bf7d4a57e46e8d68",
+  "categories": "public/games/applications",
+  "keyImages": [
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/item/c4c7d3cd0a2f4ea2bf7d4a57e46e8d68/EGS_NekoGhostJump_BurgosGames_S2_1200x1600-b754b5c67827936697227849596d4829",
+      "md5": "b754b5c67827936697227849596d4829",
+      "width": 1200,
+      "height": 1600,
+      "size": 342061,
+      "uploadedDate": "2022-01-10T16:17:23.759Z"
+    },
+    {
+      "type": "DieselGameBoxWide",
+      "url": "https://cdn1.epicgames.com/item/c4c7d3cd0a2f4ea2bf7d4a57e46e8d68/EGS_NekoGhostJump_BurgosGames_S1_2560x1440-cd6248aeb6b664dc044ad6219d7f3608",
+      "md5": "cd6248aeb6b664dc044ad6219d7f3608",
+      "width": 2560,
+      "height": 1440,
+      "size": 540057,
+      "uploadedDate": "2022-01-10T16:17:33.604Z"
+    }
+  ],
+  "creationDate": "2021-05-04T16:45:13.33+00:00",
+  "lastModifiedDate": "2022-01-10T16:31:58.463+00:00",
+  "developer": "Burgos Games",
+  "developerId": "o-94sy2ptcstesqlae8luap66hgs8dbb",
+  "applicationId": ""
+}

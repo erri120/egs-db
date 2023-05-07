@@ -1,0 +1,32 @@
+{
+  "id": "a1f821e771d24d6bba719670728c7f2a",
+  "title": "Manifold Garden Pre-Purchase",
+  "description": "Manifold Garden Pre-Purchase",
+  "namespace": "015763e579d4479cb1ef7780bf91804f",
+  "categories": "public/games/applications",
+  "keyImages": [
+    {
+      "type": "DieselGameBoxLogo",
+      "url": "https://cdn1.epicgames.com/015763e579d4479cb1ef7780bf91804f/item/ManifoldGarden_IC1_GameLogo-2827x200-1f48759d0f4cd703122d0e38be48dce2-2827x200-1f48759d0f4cd703122d0e38be48dce2.png",
+      "md5": "1f48759d0f4cd703122d0e38be48dce2",
+      "width": 2827,
+      "height": 200,
+      "size": 12304,
+      "uploadedDate": "2019-10-16T23:11:25.59Z"
+    },
+    {
+      "type": "DieselGameBoxLogo",
+      "url": "https://cdn1.epicgames.com/015763e579d4479cb1ef7780bf91804f/item/ManifoldGarden_S1_PrimaryPromoImage-2560x1440-0f1b461b6649fe9334e6dcae2bff5ee5-2560x1440-0f1b461b6649fe9334e6dcae2bff5ee5.jpg",
+      "md5": "0f1b461b6649fe9334e6dcae2bff5ee5",
+      "width": 2560,
+      "height": 1440,
+      "size": 532212,
+      "uploadedDate": "2019-10-16T23:11:38.305Z"
+    }
+  ],
+  "creationDate": "2019-10-16T23:14:42.19+00:00",
+  "lastModifiedDate": "2019-10-18T12:58:41.288+00:00",
+  "developer": "William Chyr Studio",
+  "developerId": "o-9j6lnh9adzvfntd9d8ypjc39wb9d3k",
+  "applicationId": null
+}

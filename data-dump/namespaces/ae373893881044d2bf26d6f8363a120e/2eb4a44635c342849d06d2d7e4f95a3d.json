@@ -1,0 +1,32 @@
+{
+  "id": "2eb4a44635c342849d06d2d7e4f95a3d",
+  "title": "Supraland",
+  "description": "Supraland",
+  "namespace": "ae373893881044d2bf26d6f8363a120e",
+  "categories": "public/games/applications",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_Supraland_SupraGames_S5_1920x1080-3d9ef81461113b21916c011f1d131469",
+      "md5": "3d9ef81461113b21916c011f1d131469",
+      "width": 1920,
+      "height": 1080,
+      "size": 626067,
+      "uploadedDate": "2021-06-21T15:59:28.416Z"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_Supraland_SupraGames_S4_1200x1600-a6d4a615d97e0e784f93dbde64daa345",
+      "md5": "a6d4a615d97e0e784f93dbde64daa345",
+      "width": 1200,
+      "height": 1600,
+      "size": 586730,
+      "uploadedDate": "2021-06-21T15:59:35.407Z"
+    }
+  ],
+  "creationDate": "2021-02-18T22:32:13.258+00:00",
+  "lastModifiedDate": "2022-03-30T18:37:39.225+00:00",
+  "developer": "Supra Games",
+  "developerId": "o-gfmarfnj9jh4jucwvuubpjv4nwb66x",
+  "applicationId": "fghi4567ynLXRpiOq356xo0zfaGHOXnk"
+}

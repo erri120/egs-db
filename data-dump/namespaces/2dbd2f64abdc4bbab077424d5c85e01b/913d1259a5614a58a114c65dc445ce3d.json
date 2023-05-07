@@ -1,0 +1,23 @@
+{
+  "id": "913d1259a5614a58a114c65dc445ce3d",
+  "title": "Ghost Recon Breakpoint Standard Edition Audience",
+  "description": "Ghost Recon Breakpoint Standard Edition Audience",
+  "namespace": "2dbd2f64abdc4bbab077424d5c85e01b",
+  "categories": "",
+  "keyImages": [
+    {
+      "type": "ESRB",
+      "url": "https://cdn1.epicgames.com/2dbd2f64abdc4bbab077424d5c85e01b/item/ESRB_GhostReconBreakpoint-842x485-605e6ef12cb58888785aa30ecd659294.jpg",
+      "md5": "605e6ef12cb58888785aa30ecd659294",
+      "width": 842,
+      "height": 485,
+      "size": 63449,
+      "uploadedDate": "2019-09-20T17:06:14.892Z"
+    }
+  ],
+  "creationDate": "2019-05-02T01:23:20.999+00:00",
+  "lastModifiedDate": "2021-09-29T14:56:38.285+00:00",
+  "developer": "Ubisoft Entertainment",
+  "developerId": "o-3efjudxdtgsqnulml4bkeq3v9nec38",
+  "applicationId": null
+}

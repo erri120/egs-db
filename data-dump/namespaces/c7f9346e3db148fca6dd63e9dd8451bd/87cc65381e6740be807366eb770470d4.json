@@ -1,0 +1,32 @@
+{
+  "id": "87cc65381e6740be807366eb770470d4",
+  "title": "theHunter: Call of the Wild\u2122 Audience",
+  "description": "theHunter: Call of the Wild\u2122 Audience",
+  "namespace": "c7f9346e3db148fca6dd63e9dd8451bd",
+  "categories": "",
+  "keyImages": [
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_theHunterCalloftheWild_ExpansiveWorlds_S2_1200x1600-1e9b46aaabc33fe0a08cf5b418e76ba2",
+      "md5": "1e9b46aaabc33fe0a08cf5b418e76ba2",
+      "width": 1200,
+      "height": 1600,
+      "size": 321518,
+      "uploadedDate": "2021-10-21T13:11:17.166Z"
+    },
+    {
+      "type": "DieselGameBoxWide",
+      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_theHunterCalloftheWild_ExpansiveWorlds_S1_2560x1440-69120885e0b3acfb87f34ac0bad68ec6",
+      "md5": "69120885e0b3acfb87f34ac0bad68ec6",
+      "width": 2560,
+      "height": 1440,
+      "size": 578266,
+      "uploadedDate": "2021-10-21T13:11:26.754Z"
+    }
+  ],
+  "creationDate": "2020-06-12T16:57:54.224+00:00",
+  "lastModifiedDate": "2022-11-21T09:55:25.298+00:00",
+  "developer": "Expansive Worlds AB",
+  "developerId": "o-s22ys6lvw4qa9tvpqsnwkqmtug2ey7",
+  "applicationId": ""
+}

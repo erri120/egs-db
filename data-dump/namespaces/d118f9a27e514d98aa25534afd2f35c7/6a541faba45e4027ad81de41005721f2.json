@@ -1,0 +1,32 @@
+{
+  "id": "6a541faba45e4027ad81de41005721f2",
+  "title": "Sonic Colors: Ultimate",
+  "description": "Sonic Colors: Ultimate",
+  "namespace": "d118f9a27e514d98aa25534afd2f35c7",
+  "categories": "public/games/applications",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_SonicColorsUltimate_BlindSquirrelEntertainment_S1_2560x1440-4d840648b08d02b1475e6829db4f884b",
+      "md5": "4d840648b08d02b1475e6829db4f884b",
+      "width": 2560,
+      "height": 1440,
+      "size": 990871,
+      "uploadedDate": "2021-08-31T21:17:53.477Z"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_SonicColorsUltimate_BlindSquirrelEntertainment_S2_1200x1600-cb900631d297eb52062bd1fc18904083",
+      "md5": "cb900631d297eb52062bd1fc18904083",
+      "width": 1200,
+      "height": 1600,
+      "size": 983812,
+      "uploadedDate": "2021-08-31T21:18:02.835Z"
+    }
+  ],
+  "creationDate": "2020-06-30T02:31:24.322+00:00",
+  "lastModifiedDate": "2022-01-10T18:01:13.436+00:00",
+  "developer": "Sega of America",
+  "developerId": "o-5gbgsfvsrt9wlx9gu868mrxmhq6dlv",
+  "applicationId": ""
+}

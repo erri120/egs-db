@@ -1,0 +1,32 @@
+{
+  "id": "7a7d3396af7e4931b88a6e63f221c013",
+  "title": "PumaStaging",
+  "description": "PumaStaging",
+  "namespace": "puma",
+  "categories": "",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/puma/item/dieselbox-2580x1456-214b84a12a664c4955a9b5628bc85dec-2580x1456-214b84a12a664c4955a9b5628bc85dec.jpg",
+      "md5": "214b84a12a664c4955a9b5628bc85dec",
+      "width": 2580,
+      "height": 1456,
+      "size": 8196497,
+      "uploadedDate": "2018-12-12T20:55:35.928Z"
+    },
+    {
+      "type": "DieselGameBoxLogo",
+      "url": "https://cdn1.epicgames.com/puma/item/Genesis_Alpha_One_diesel-6782x1640-3687549254bfb07ad237b59f5e61e3e5-6782x1640-3687549254bfb07ad237b59f5e61e3e5-6782x1640-3687549254bfb07ad237b59f5e61e3e5.png",
+      "md5": "3687549254bfb07ad237b59f5e61e3e5",
+      "width": 6782,
+      "height": 1640,
+      "size": 500862,
+      "uploadedDate": "2018-12-12T20:55:50.413Z"
+    }
+  ],
+  "creationDate": "2018-12-12T18:18:34.081+00:00",
+  "lastModifiedDate": "2019-10-09T15:23:39.645+00:00",
+  "developer": "Team17 Digital Ltd",
+  "developerId": "o-uvtztrtfjdn3xgrwyhbuwwb5z42mbv",
+  "applicationId": null
+}

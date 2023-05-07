@@ -1,0 +1,32 @@
+{
+  "id": "9f8b358c04674a719564b1f65f95a601",
+  "title": "Neon Abyss",
+  "description": "Neon Abyss",
+  "namespace": "b0ebefb11a9145488af78f6d2488afff",
+  "categories": "public/games/applications",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/b0ebefb11a9145488af78f6d2488afff/item/EGS_NeonAbyss_VeewoGames_S1-2560x1440-a5d38c2d5a422a1c7682082d64343e2b.jpg",
+      "md5": "a5d38c2d5a422a1c7682082d64343e2b",
+      "width": 2560,
+      "height": 1440,
+      "size": 801447,
+      "uploadedDate": "2020-07-09T16:48:04.377Z"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/b0ebefb11a9145488af78f6d2488afff/item/EGS_NeonAbyss_VeewoGames_S2-1200x1600-938641f8dd1d12f01c673524e11866d0.jpg",
+      "md5": "938641f8dd1d12f01c673524e11866d0",
+      "width": 1200,
+      "height": 1600,
+      "size": 767328,
+      "uploadedDate": "2020-07-09T16:48:14.203Z"
+    }
+  ],
+  "creationDate": "2020-06-29T03:53:41.562+00:00",
+  "lastModifiedDate": "2022-04-05T22:21:45.712+00:00",
+  "developer": "Team17 Digital Ltd",
+  "developerId": "o-uvtztrtfjdn3xgrwyhbuwwb5z42mbv",
+  "applicationId": "fghi456786IR3j1McoO3q36KE70Fs17f"
+}

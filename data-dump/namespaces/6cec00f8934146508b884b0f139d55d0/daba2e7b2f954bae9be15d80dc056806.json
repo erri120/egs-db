@@ -1,0 +1,41 @@
+{
+  "id": "daba2e7b2f954bae9be15d80dc056806",
+  "title": "WigeonStaging",
+  "description": "WigeonStaging",
+  "namespace": "6cec00f8934146508b884b0f139d55d0",
+  "categories": "public/games/applications",
+  "keyImages": [
+    {
+      "type": "DieselStoreFrontTall",
+      "url": "https://cdn1.epicgames.com/6cec00f8934146508b884b0f139d55d0/item/SUPERLIMINAL_Portrait-1280x1440-2b9075e3ced4c21fe439579af5b37332.jpg",
+      "md5": "2b9075e3ced4c21fe439579af5b37332",
+      "width": 1280,
+      "height": 1440,
+      "size": 591634,
+      "uploadedDate": "2019-11-07T14:48:48.558Z"
+    },
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/6cec00f8934146508b884b0f139d55d0/item/EGS_PILLOW_CASTLE_SUPERLIMINAL_CAROUSEL_1_Revised-1920x1080-6419adb52f1aa0cd290fb6571cf8d87f.jpg",
+      "md5": "6419adb52f1aa0cd290fb6571cf8d87f",
+      "width": 1920,
+      "height": 1080,
+      "size": 105405,
+      "uploadedDate": "2019-11-07T18:31:24.973Z"
+    },
+    {
+      "type": "DieselGameBoxLogo",
+      "url": "https://cdn1.epicgames.com/6cec00f8934146508b884b0f139d55d0/item/Superliminal_Logo_White-Transparent-4094x883-d81577c2fa43baafe852501f319bd400.png",
+      "md5": "d81577c2fa43baafe852501f319bd400",
+      "width": 4094,
+      "height": 883,
+      "size": 60663,
+      "uploadedDate": "2019-11-07T18:31:50.736Z"
+    }
+  ],
+  "creationDate": "2019-08-15T16:16:20.45+00:00",
+  "lastModifiedDate": "2020-11-04T14:58:15.145+00:00",
+  "developer": "Pillow Castle",
+  "developerId": "o-jvpl9untxcrsellbhbwjb2ralrg9z9",
+  "applicationId": null
+}

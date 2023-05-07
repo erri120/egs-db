@@ -1,0 +1,32 @@
+{
+  "id": "f94e053885e3489aacad2a6f8f981616",
+  "title": "The Big Cheese",
+  "description": "The Big Cheese",
+  "namespace": "7015c51a49be4592b5ba3ae2577723c5",
+  "categories": "public/games/applications",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/7015c51a49be4592b5ba3ae2577723c5/item/EGS_TheBigCheese_HaemimontGames_DLC_S1-2560x1440-0b7159ed76acde4a7101243bd62e1a6d.jpg",
+      "md5": "0b7159ed76acde4a7101243bd62e1a6d",
+      "width": 2560,
+      "height": 1440,
+      "size": 987818,
+      "uploadedDate": "2020-11-16T15:29:43.064Z"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/7015c51a49be4592b5ba3ae2577723c5/item/EGS_TheBigCheese_HaemimontGames_DLC_S2-1200x1600-47583ccb4f8d2a01596261ad53540fce.jpg",
+      "md5": "47583ccb4f8d2a01596261ad53540fce",
+      "width": 1200,
+      "height": 1600,
+      "size": 1011576,
+      "uploadedDate": "2020-11-16T15:29:55.178Z"
+    }
+  ],
+  "creationDate": "2020-05-08T17:23:21.131+00:00",
+  "lastModifiedDate": "2020-12-16T18:21:41.183+00:00",
+  "developer": "Kalypso Media Group GmbH",
+  "developerId": "o-37ss7wypkskvyj58j9s7hhltxtujac",
+  "applicationId": null
+}

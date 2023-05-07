@@ -1,0 +1,32 @@
+{
+  "id": "32bee0727be540b39de0ef46bcc7451d",
+  "title": "Galactic Civilizations III",
+  "description": "Galactic Civilizations III",
+  "namespace": "3c52fbac843d4375803187739db84801",
+  "categories": "public/games/applications",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/3c52fbac843d4375803187739db84801/item/EGS_GalacticCivilizationsIIICoreEdition_StardockEntertainment_S1-2560x1440-54fd03f3d8441c3f43ad347e7c64da04.jpg",
+      "md5": "54fd03f3d8441c3f43ad347e7c64da04",
+      "width": 2560,
+      "height": 1440,
+      "size": 932063,
+      "uploadedDate": "2021-01-20T22:17:12.378Z"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/3c52fbac843d4375803187739db84801/item/EGS_GalacticCivilizationsIIICoreEdition_StardockEntertainment_S2-1200x1600-ef8767dbf731cda94a457c4a543341c1.jpg",
+      "md5": "ef8767dbf731cda94a457c4a543341c1",
+      "width": 1200,
+      "height": 1600,
+      "size": 577518,
+      "uploadedDate": "2021-01-20T22:17:45.783Z"
+    }
+  ],
+  "creationDate": "2020-11-06T07:29:49.825+00:00",
+  "lastModifiedDate": "2021-01-21T15:11:42.139+00:00",
+  "developer": "Stardock Entertainment, Inc",
+  "developerId": "o-l69v3ppj5zgdpwtuvq6sgjew5yjt5w",
+  "applicationId": "fghi4567FfYiK5XL6dRY365lXXeJMDvh"
+}

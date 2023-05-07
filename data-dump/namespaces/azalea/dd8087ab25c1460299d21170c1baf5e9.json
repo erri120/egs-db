@@ -1,0 +1,41 @@
+{
+  "id": "dd8087ab25c1460299d21170c1baf5e9",
+  "title": "AzaleaPTSDev",
+  "description": "AzaleaPTSDev",
+  "namespace": "azalea",
+  "categories": "",
+  "keyImages": [
+    {
+      "type": "DieselGameBoxLogo",
+      "url": "https://cdn1.epicgames.com/azalea/item/Cycle_updatedLogoWhite-1134x1134-5043330ffaccd28ebe0a16a65fcc0a04.png",
+      "md5": "5043330ffaccd28ebe0a16a65fcc0a04",
+      "width": 1134,
+      "height": 1134,
+      "size": 40782,
+      "uploadedDate": "2019-07-05T16:55:15.942Z"
+    },
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/azalea/item/KA_2_2560_x_1440-2560x1440-996d0a141be3394943fad48198c30239.jpg",
+      "md5": "996d0a141be3394943fad48198c30239",
+      "width": 2560,
+      "height": 1440,
+      "size": 462321,
+      "uploadedDate": "2019-10-28T16:47:55.278Z"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/azalea/item/KA_2_1280_x_1440_centered-1280x1440-939dcecdea3693ba895f159d1ab89660.jpg",
+      "md5": "939dcecdea3693ba895f159d1ab89660",
+      "width": 1280,
+      "height": 1440,
+      "size": 506059,
+      "uploadedDate": "2019-10-22T09:41:44.79Z"
+    }
+  ],
+  "creationDate": "2020-01-09T15:40:18.655+00:00",
+  "lastModifiedDate": "2021-04-08T16:05:26.487+00:00",
+  "developer": "YAGER",
+  "developerId": "o-w7z3vpqhq54t3gbwybuzlmx7xh3355",
+  "applicationId": null
+}

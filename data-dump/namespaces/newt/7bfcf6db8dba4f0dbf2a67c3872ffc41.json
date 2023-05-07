@@ -1,0 +1,41 @@
+{
+  "id": "7bfcf6db8dba4f0dbf2a67c3872ffc41",
+  "title": "Spellbreak",
+  "description": "Spellbreak",
+  "namespace": "newt",
+  "categories": "",
+  "keyImages": [
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/newt/item/EGS_ProletariatInc_Spellbreak_IC2-128x128-f2d69ef550d3718937e61621a70d9a35.png",
+      "md5": "f2d69ef550d3718937e61621a70d9a35",
+      "width": 128,
+      "height": 128,
+      "size": 13506,
+      "uploadedDate": "2020-02-28T20:37:30.401Z"
+    },
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/c74b31cd-8f4e-4a54-85b0-6603e0782429_2560x1440-d13a8f18f9eca744e911eb9891a62feb",
+      "md5": "d13a8f18f9eca744e911eb9891a62feb",
+      "width": 2560,
+      "height": 1440,
+      "size": 1020648,
+      "uploadedDate": "2021-07-22T18:49:09.01Z"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/14cfd60d-7423-4326-82f3-5dc699e88776_1200x1600-eb640310bbedc2e3d7ddfb90b40020ee",
+      "md5": "eb640310bbedc2e3d7ddfb90b40020ee",
+      "width": 1200,
+      "height": 1600,
+      "size": 971251,
+      "uploadedDate": "2021-07-22T18:49:20.246Z"
+    }
+  ],
+  "creationDate": "2018-12-13T21:44:29.162+00:00",
+  "lastModifiedDate": "2021-08-25T13:56:04.984+00:00",
+  "developer": "Proletariat, Inc.",
+  "developerId": "o-umuuzpzyfsw8wvcn4xpyh7ksmyhflg",
+  "applicationId": ""
+}

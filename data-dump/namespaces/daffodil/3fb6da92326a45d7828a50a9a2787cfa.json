@@ -1,0 +1,32 @@
+{
+  "id": "3fb6da92326a45d7828a50a9a2787cfa",
+  "title": "Omen of Sorrow",
+  "description": "Omen of Sorrow",
+  "namespace": "daffodil",
+  "categories": "",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/daffodil/item/background_epic_fullgame-2560x1440-222352d2f6b8b99f5607adc1ed01befe.png",
+      "md5": "222352d2f6b8b99f5607adc1ed01befe",
+      "width": 2560,
+      "height": 1440,
+      "size": 4517531,
+      "uploadedDate": "2020-04-21T14:07:58.485Z"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/daffodil/item/portrait_epicgames_full-860x1148-90c34fae2eec55fed474ad3c11e9fbb0.png",
+      "md5": "90c34fae2eec55fed474ad3c11e9fbb0",
+      "width": 860,
+      "height": 1148,
+      "size": 1894768,
+      "uploadedDate": "2020-04-21T14:08:17.44Z"
+    }
+  ],
+  "creationDate": "2019-02-22T22:48:40.236+00:00",
+  "lastModifiedDate": "2020-04-21T14:09:07.507+00:00",
+  "developer": "AOne Games",
+  "developerId": "o-ee2mpv5fbfg9j22arjrh7vjmypew5q",
+  "applicationId": null
+}

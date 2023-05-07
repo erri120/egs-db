@@ -1,0 +1,32 @@
+{
+  "id": "aa0a2862248840ffb3bb1c94aab75015",
+  "title": "Asemblance",
+  "description": "Asemblance",
+  "namespace": "c2091e25d1cb42ce8fc93136ad484f05",
+  "categories": "public/games/applications",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_Asemblance_NiloStudios_S1_2560x1440-89355c16c1339a6c5eeaa967f1588165",
+      "md5": "89355c16c1339a6c5eeaa967f1588165",
+      "width": 2560,
+      "height": 1440,
+      "size": 875911,
+      "uploadedDate": "2021-06-10T01:35:15.904Z"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_Asemblance_NiloStudios_S2_1200x1600-8c1bb7e2b1dae32b7756b7932edfc7d0",
+      "md5": "8c1bb7e2b1dae32b7756b7932edfc7d0",
+      "width": 1200,
+      "height": 1600,
+      "size": 729062,
+      "uploadedDate": "2021-06-10T01:35:18.905Z"
+    }
+  ],
+  "creationDate": "2021-05-12T19:45:40.26+00:00",
+  "lastModifiedDate": "2021-08-19T20:19:42.888+00:00",
+  "developer": "Nilo Studios",
+  "developerId": "o-rfjl93umbemmtt5juyrx7v63r4h8mf",
+  "applicationId": ""
+}

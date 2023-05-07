@@ -1,0 +1,23 @@
+{
+  "id": "a2da9caf845d40fb9f14ed59b57ef09b",
+  "title": "OberonGeneralAudience",
+  "description": "OberonGeneralAudience",
+  "namespace": "3e7e7c2bc1644a25a99b3a4c4ef1ff33",
+  "categories": "",
+  "keyImages": [
+    {
+      "type": "ESRB",
+      "url": "https://cdn1.epicgames.com/3e7e7c2bc1644a25a99b3a4c4ef1ff33/item/Diesel_product_ratings_RP_FOR_E-388x190-2b6aa92035599db2ca1517a036cb974a.png",
+      "md5": "2b6aa92035599db2ca1517a036cb974a",
+      "width": 388,
+      "height": 190,
+      "size": 4433,
+      "uploadedDate": "2020-06-15T22:11:26.281Z"
+    }
+  ],
+  "creationDate": "2020-06-02T15:12:40.843+00:00",
+  "lastModifiedDate": "2021-10-19T20:37:35.503+00:00",
+  "developer": "Playtonic Ltd",
+  "developerId": "o-qg5pfv55aq3xfvsvgyqhkdasezmsyn",
+  "applicationId": ""
+}

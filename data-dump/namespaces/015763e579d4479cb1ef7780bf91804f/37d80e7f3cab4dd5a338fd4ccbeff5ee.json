@@ -1,0 +1,32 @@
+{
+  "id": "37d80e7f3cab4dd5a338fd4ccbeff5ee",
+  "title": "Manifold Garden Soundtrack",
+  "description": "Manifold Garden Soundtrack",
+  "namespace": "015763e579d4479cb1ef7780bf91804f",
+  "categories": "public/games/applications",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/015763e579d4479cb1ef7780bf91804f/item/egs-manifoldgardenoriginalsoundtrack-williamchyrstudio-digitalextras-g1a-00-1920x1080-621799797-1920x1080-76637c077693feb2081161a8e09efe09.jpg",
+      "md5": "76637c077693feb2081161a8e09efe09",
+      "width": 1920,
+      "height": 1080,
+      "size": 372274,
+      "uploadedDate": "2020-08-06T17:46:31.791Z"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/015763e579d4479cb1ef7780bf91804f/item/EGS_ManifoldGardenOriginalSoundtrack_WilliamChyrStudio_DigitalExtras_S2-1200x1600-07fe2494e98acadb72b49f82ebabbb53.jpg",
+      "md5": "07fe2494e98acadb72b49f82ebabbb53",
+      "width": 1200,
+      "height": 1600,
+      "size": 797377,
+      "uploadedDate": "2020-08-11T16:28:36.979Z"
+    }
+  ],
+  "creationDate": "2020-03-16T15:28:20.202+00:00",
+  "lastModifiedDate": "2020-08-11T16:28:55.982+00:00",
+  "developer": "William Chyr Studio",
+  "developerId": "o-9j6lnh9adzvfntd9d8ypjc39wb9d3k",
+  "applicationId": null
+}

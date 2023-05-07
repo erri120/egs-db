@@ -1,0 +1,32 @@
+{
+  "id": "84686da593b24598803ffbe7f9b1bb5e",
+  "title": "Kerbal Space Program",
+  "description": "Kerbal Space Program",
+  "namespace": "ca0530b485754032be50cb6f27be0c2c",
+  "categories": "",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/item/ca0530b485754032be50cb6f27be0c2c/EGS_KerbalSpaceProgram_Squad_S1_2560x1440-380681e19358cb3d1e1162ce755e5e01",
+      "md5": "380681e19358cb3d1e1162ce755e5e01",
+      "width": 2560,
+      "height": 1440,
+      "size": 481692,
+      "uploadedDate": "2022-12-06T12:04:09.811Z"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/item/ca0530b485754032be50cb6f27be0c2c/EGS_KerbalSpaceProgram_Squad_S2_1200x1600-7442f5c8047e6ef3d062ea731b60f443",
+      "md5": "7442f5c8047e6ef3d062ea731b60f443",
+      "width": 1200,
+      "height": 1600,
+      "size": 297622,
+      "uploadedDate": "2022-12-06T12:04:13.432Z"
+    }
+  ],
+  "creationDate": "2022-08-31T17:32:52.208+00:00",
+  "lastModifiedDate": "2023-02-09T17:26:20.704+00:00",
+  "developer": "Private Division",
+  "developerId": "o-6emrb2lpzacm9ued3z37u42x56wkaz",
+  "applicationId": ""
+}

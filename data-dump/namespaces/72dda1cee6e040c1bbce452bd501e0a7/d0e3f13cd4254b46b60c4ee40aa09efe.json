@@ -1,0 +1,41 @@
+{
+  "id": "d0e3f13cd4254b46b60c4ee40aa09efe",
+  "title": "Diesel Brothers Truck Building Simulator Editor",
+  "description": "Diesel Brothers Truck Building Simulator Editor",
+  "namespace": "72dda1cee6e040c1bbce452bd501e0a7",
+  "categories": "",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/72dda1cee6e040c1bbce452bd501e0a7/item/epic_store_a-704x445-937ec92abb8d34982453db808e2fd061.png",
+      "md5": "937ec92abb8d34982453db808e2fd061",
+      "width": 704,
+      "height": 445,
+      "size": 173542,
+      "uploadedDate": "2019-05-10T13:40:39.944Z"
+    },
+    {
+      "type": "DieselGameBoxLogo",
+      "url": "https://cdn1.epicgames.com/72dda1cee6e040c1bbce452bd501e0a7/item/LOGO_DB_TBS_white-3617x949-1e2111c089563b39f1b5aec008b10e9f.png",
+      "md5": "1e2111c089563b39f1b5aec008b10e9f",
+      "width": 3617,
+      "height": 949,
+      "size": 149388,
+      "uploadedDate": "2019-05-10T13:40:58.412Z"
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/72dda1cee6e040c1bbce452bd501e0a7/item/DieselBrothers-256x256-b81e1c6915635921f94ca4b34f0d7fd0.png",
+      "md5": "b81e1c6915635921f94ca4b34f0d7fd0",
+      "width": 256,
+      "height": 256,
+      "size": 15858,
+      "uploadedDate": "2019-05-10T14:47:21.298Z"
+    }
+  ],
+  "creationDate": "2019-04-08T17:15:20.859+00:00",
+  "lastModifiedDate": "2019-05-17T13:08:10.166+00:00",
+  "developer": "Code Horizon",
+  "developerId": "o-gvzm3vdwtv2avjdlnlv8rb5s94btuj",
+  "applicationId": null
+}

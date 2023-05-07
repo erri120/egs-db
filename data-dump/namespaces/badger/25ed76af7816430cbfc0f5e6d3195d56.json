@@ -1,0 +1,23 @@
+{
+  "id": "25ed76af7816430cbfc0f5e6d3195d56",
+  "title": "EdithFinchGeneralAudience",
+  "description": "EdithFinchGeneralAudience",
+  "namespace": "badger",
+  "categories": "",
+  "keyImages": [
+    {
+      "type": "ESRB",
+      "url": "https://cdn1.epicgames.com/badger/item/ESRB_WhatRemainsofEdithFinch-842x404-58d445de4b245d0d087d5fea6cd77f7f.jpg",
+      "md5": "58d445de4b245d0d087d5fea6cd77f7f",
+      "width": 842,
+      "height": 404,
+      "size": 82121,
+      "uploadedDate": "2020-01-08T16:12:07.496Z"
+    }
+  ],
+  "creationDate": "2019-01-09T16:00:07.071+00:00",
+  "lastModifiedDate": "2020-01-08T16:17:35.64+00:00",
+  "developer": "Annapurna Interactive",
+  "developerId": "o-bmeb3ztlbxkjc8vvpydava38yvmxlm",
+  "applicationId": null
+}

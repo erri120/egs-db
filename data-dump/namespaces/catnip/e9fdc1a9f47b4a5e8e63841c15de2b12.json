@@ -1,0 +1,23 @@
+{
+  "id": "e9fdc1a9f47b4a5e8e63841c15de2b12",
+  "title": "DLC 1 Audience",
+  "description": "DLC 1 Audience",
+  "namespace": "catnip",
+  "categories": "",
+  "keyImages": [
+    {
+      "type": "ESRB",
+      "url": "https://cdn1.epicgames.com/catnip/item/ESRB_M_Borderlands3-842x485-275d74057f4825477e1f7f17f8cf0abc.jpg",
+      "md5": "275d74057f4825477e1f7f17f8cf0abc",
+      "width": 842,
+      "height": 485,
+      "size": 134137,
+      "uploadedDate": "2020-01-07T22:54:03.329Z"
+    }
+  ],
+  "creationDate": "2019-04-02T22:53:00.215+00:00",
+  "lastModifiedDate": "2023-01-19T21:12:26.645+00:00",
+  "developer": "2K Games, Inc.",
+  "developerId": "o-37m6jbj5wcvrcvm4wusv7nazdfvbjk",
+  "applicationId": null
+}

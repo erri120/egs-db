@@ -1,0 +1,32 @@
+{
+  "id": "2d06b416a0954904b9fef86321eb0ecf",
+  "title": "PumpkinStaging",
+  "description": "PumpkinStaging",
+  "namespace": "4fd85a772cd5471aa5e38efcaa0d6f24",
+  "categories": "public/games/applications",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/4fd85a772cd5471aa5e38efcaa0d6f24/item/LDOJ_PrimaryPromo-2580x1450-efdd04f6be56ec18051a832e6caf8812.jpg",
+      "md5": "efdd04f6be56ec18051a832e6caf8812",
+      "width": 2580,
+      "height": 1450,
+      "size": 183050,
+      "uploadedDate": "2019-06-26T17:37:28.28Z"
+    },
+    {
+      "type": "DieselGameBoxLogo",
+      "url": "https://cdn1.epicgames.com/4fd85a772cd5471aa5e38efcaa0d6f24/item/LDOJ_Artwork_LOGO-1328x967-04d99362a1da2b2425bd5d63a63d2f4c.png",
+      "md5": "04d99362a1da2b2425bd5d63a63d2f4c",
+      "width": 1328,
+      "height": 967,
+      "size": 54058,
+      "uploadedDate": "2019-06-26T17:37:39.464Z"
+    }
+  ],
+  "creationDate": "2019-06-03T21:00:17.957+00:00",
+  "lastModifiedDate": "2019-07-23T16:25:37.444+00:00",
+  "developer": "505 Games S.r.l.",
+  "developerId": "o-cul2z53mrw3bxltv63v68rgd4b3w52",
+  "applicationId": null
+}

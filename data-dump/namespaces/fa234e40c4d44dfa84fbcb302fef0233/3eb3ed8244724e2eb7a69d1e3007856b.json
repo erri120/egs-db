@@ -1,0 +1,41 @@
+{
+  "id": "3eb3ed8244724e2eb7a69d1e3007856b",
+  "title": "City of Brass",
+  "description": "City of Brass",
+  "namespace": "fa234e40c4d44dfa84fbcb302fef0233",
+  "categories": "",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/fa234e40c4d44dfa84fbcb302fef0233/item/DEVELOPER_CITYOFBRASS-2560x1440-10a228823a6be8c175ccbc1d34249a90.jpg",
+      "md5": "10a228823a6be8c175ccbc1d34249a90",
+      "width": 2560,
+      "height": 1440,
+      "size": 194028,
+      "uploadedDate": "2019-05-23T14:48:10.848Z"
+    },
+    {
+      "type": "DieselGameBoxLogo",
+      "url": "https://cdn1.epicgames.com/fa234e40c4d44dfa84fbcb302fef0233/item/DEVELOPER_CITYOFBRASS_IC1_LOGO-2000x632-b84ac18cc6710a2341e6cb9fe9273505.png",
+      "md5": "b84ac18cc6710a2341e6cb9fe9273505",
+      "width": 2000,
+      "height": 632,
+      "size": 440326,
+      "uploadedDate": "2019-05-23T14:48:18.787Z"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/fa234e40c4d44dfa84fbcb302fef0233/item/EGS_DEVELOPER_CITYOFBRASS_S3_DESCRIPTION-1280x1440-b700c2cc1193dd2ef3906ca918c9d627.jpg",
+      "md5": "b700c2cc1193dd2ef3906ca918c9d627",
+      "width": 1280,
+      "height": 1440,
+      "size": 119214,
+      "uploadedDate": "2019-10-22T09:41:44.79Z"
+    }
+  ],
+  "creationDate": "2019-04-08T19:18:18.989+00:00",
+  "lastModifiedDate": "2019-11-19T17:02:29.587+00:00",
+  "developer": "Uppercut Games",
+  "developerId": "o-hpdh9zjxpuz4quu95cagfzhgcavmjt",
+  "applicationId": null
+}

@@ -1,0 +1,32 @@
+{
+  "id": "9e557d6a661d4a49a1089f1084e91e65",
+  "title": "ProteaInternal",
+  "description": "ProteaInternal",
+  "namespace": "protea",
+  "categories": "",
+  "keyImages": [
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/protea/item/IoT-OfferImage_Portrait_860x1148-860x1148-903e5ece6796820a7e5bdd82dfa5505d.jpg",
+      "md5": "903e5ece6796820a7e5bdd82dfa5505d",
+      "width": 860,
+      "height": 1148,
+      "size": 657872,
+      "uploadedDate": "2020-03-23T23:40:35.657Z"
+    },
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/protea/item/IoT-OfferImage_Landscape_2560x1440-2560x1440-da0ca42dfb21502d97539cf1a91c8dd2.jpg",
+      "md5": "da0ca42dfb21502d97539cf1a91c8dd2",
+      "width": 2560,
+      "height": 1440,
+      "size": 2044192,
+      "uploadedDate": "2020-03-23T23:40:55.765Z"
+    }
+  ],
+  "creationDate": "2019-03-18T05:19:12.788+00:00",
+  "lastModifiedDate": "2020-03-23T23:41:03.338+00:00",
+  "developer": "Epic Dev Test Account",
+  "developerId": "o-ufmrk5furrrxgsp5tdngefzt5rxdcn",
+  "applicationId": null
+}

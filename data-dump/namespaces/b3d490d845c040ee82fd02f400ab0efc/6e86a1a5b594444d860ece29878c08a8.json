@@ -1,0 +1,23 @@
+{
+  "id": "6e86a1a5b594444d860ece29878c08a8",
+  "title": "CylleneGeneralAudience",
+  "description": "CylleneGeneralAudience",
+  "namespace": "b3d490d845c040ee82fd02f400ab0efc",
+  "categories": "",
+  "keyImages": [
+    {
+      "type": "ESRB",
+      "url": "https://cdn1.epicgames.com/b3d490d845c040ee82fd02f400ab0efc/item/esrb-spongebob-842x404-197306212-842x404-123af8fcc9fd0bf09fe74ed1a3dd8acc.png",
+      "md5": "123af8fcc9fd0bf09fe74ed1a3dd8acc",
+      "width": 842,
+      "height": 404,
+      "size": 16387,
+      "uploadedDate": "2020-06-23T17:07:20.697Z"
+    }
+  ],
+  "creationDate": "2020-05-27T15:11:53.398+00:00",
+  "lastModifiedDate": "2020-06-23T17:07:23.709+00:00",
+  "developer": "THQ Nordic GmbH",
+  "developerId": "o-jywxgemg3dagnv6fymcngq3g29mc4j",
+  "applicationId": null
+}

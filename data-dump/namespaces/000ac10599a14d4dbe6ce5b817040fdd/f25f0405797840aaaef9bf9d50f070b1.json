@@ -1,0 +1,32 @@
+{
+  "id": "f25f0405797840aaaef9bf9d50f070b1",
+  "title": "NeuroNet: Mendax Proxy",
+  "description": "NeuroNet: Mendax Proxy",
+  "namespace": "000ac10599a14d4dbe6ce5b817040fdd",
+  "categories": "public/games/applications",
+  "keyImages": [
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_NeuroNetMendaxProxy_DreamHarvest_S2_1200x1600-d051ed38194334c3abc1cc68bcef7089",
+      "md5": "d051ed38194334c3abc1cc68bcef7089",
+      "width": 1200,
+      "height": 1600,
+      "size": 895531,
+      "uploadedDate": "2021-05-14T17:06:10.938Z"
+    },
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_NeuroNetMendaxProxy_DreamHarvest_S1_2560x1440-06fb95d3a63f5fdcac402c4be975eace",
+      "md5": "06fb95d3a63f5fdcac402c4be975eace",
+      "width": 2560,
+      "height": 1440,
+      "size": 759906,
+      "uploadedDate": "2021-05-14T17:06:22.635Z"
+    }
+  ],
+  "creationDate": "2021-01-08T23:20:14.131+00:00",
+  "lastModifiedDate": "2023-05-03T20:04:54.819+00:00",
+  "developer": "Dream Harvest",
+  "developerId": "o-5p9wf3299un2mk98xkvtfvwm3dk22v",
+  "applicationId": ""
+}

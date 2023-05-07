@@ -1,0 +1,23 @@
+{
+  "id": "0aeea472014c492bac5e5b487d1a56bb",
+  "title": "CatnipStaging2",
+  "description": "CatnipStaging2",
+  "namespace": "catnip",
+  "categories": "",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/catnip/item/2kgmkt_bl3_key_art_horiz_standard-1000x477-9fe53b07eaeb3c17723aae682893d745.png",
+      "md5": "9fe53b07eaeb3c17723aae682893d745",
+      "width": 1000,
+      "height": 477,
+      "size": 969562,
+      "uploadedDate": "2019-09-06T14:25:50.99Z"
+    }
+  ],
+  "creationDate": "2019-07-02T18:33:45.67+00:00",
+  "lastModifiedDate": "2020-06-15T20:52:55.764+00:00",
+  "developer": "2K Games, Inc.",
+  "developerId": "o-37m6jbj5wcvrcvm4wusv7nazdfvbjk",
+  "applicationId": null
+}

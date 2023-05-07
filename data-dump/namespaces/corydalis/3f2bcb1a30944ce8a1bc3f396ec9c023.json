@@ -1,0 +1,32 @@
+{
+  "id": "3f2bcb1a30944ce8a1bc3f396ec9c023",
+  "title": "CorydalisStaging",
+  "description": "CorydalisStaging",
+  "namespace": "corydalis",
+  "categories": "",
+  "keyImages": [
+    {
+      "type": "DieselGameBoxLogo",
+      "url": "https://cdn1.epicgames.com/corydalis/item/SR_logo_source-4000x1527-4464ca1018834321dfcad9ef70fd984c.png",
+      "md5": "4464ca1018834321dfcad9ef70fd984c",
+      "width": 4000,
+      "height": 1527,
+      "size": 351336,
+      "uploadedDate": "2019-02-18T19:40:16.256Z"
+    },
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/corydalis/item/SlimeRancher_PrimaryPromo_1920-1920x1079-81ac1ff1db1478a08adc0dc2e182e866.jpg",
+      "md5": "81ac1ff1db1478a08adc0dc2e182e866",
+      "width": 1920,
+      "height": 1079,
+      "size": 256207,
+      "uploadedDate": "2019-02-27T20:08:41.638Z"
+    }
+  ],
+  "creationDate": "2019-02-18T19:42:25.622+00:00",
+  "lastModifiedDate": "2019-06-17T17:11:29.977+00:00",
+  "developer": "Monomi Park",
+  "developerId": "o-zaqwbfdrp3pwhlqsnwvjfsmjdpsj3a",
+  "applicationId": null
+}

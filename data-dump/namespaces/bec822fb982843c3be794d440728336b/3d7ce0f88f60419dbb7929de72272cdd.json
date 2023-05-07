@@ -1,0 +1,32 @@
+{
+  "id": "3d7ce0f88f60419dbb7929de72272cdd",
+  "title": "EagleDLCStaging",
+  "description": "EagleDLCStaging",
+  "namespace": "bec822fb982843c3be794d440728336b",
+  "categories": "games/dlc/applications",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/bec822fb982843c3be794d440728336b/item/EGS_11bitstudios_Moonlighter_L1-2560x1440-7c89de5a74c1936a7c6f65338a0023d5.jpg",
+      "md5": "7c89de5a74c1936a7c6f65338a0023d5",
+      "width": 2560,
+      "height": 1440,
+      "size": 168963,
+      "uploadedDate": "2019-07-16T18:24:44.834Z"
+    },
+    {
+      "type": "DieselGameBoxLogo",
+      "url": "https://cdn1.epicgames.com/bec822fb982843c3be794d440728336b/item/EGS_11bitstudios_Moonlighter_IC1_White-9543x2160-305693e0b369d31af6f97ce21eb05a2e.png",
+      "md5": "305693e0b369d31af6f97ce21eb05a2e",
+      "width": 9543,
+      "height": 2160,
+      "size": 75772,
+      "uploadedDate": "2019-07-16T18:24:57.579Z"
+    }
+  ],
+  "creationDate": "2019-07-10T18:47:00.081+00:00",
+  "lastModifiedDate": "2019-07-31T16:24:21.474+00:00",
+  "developer": "11 Bit Studios",
+  "developerId": "o-z8janbuqt5zvnkqwm35kc9wtdzxkhr",
+  "applicationId": null
+}

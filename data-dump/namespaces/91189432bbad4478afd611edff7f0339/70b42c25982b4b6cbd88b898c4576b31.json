@@ -1,0 +1,32 @@
+{
+  "id": "70b42c25982b4b6cbd88b898c4576b31",
+  "title": "CardinalStaging",
+  "description": "CardinalStaging",
+  "namespace": "91189432bbad4478afd611edff7f0339",
+  "categories": "public/games/applications",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/91189432bbad4478afd611edff7f0339/item/EGS_11bitstudios_TWOM_L1-2560x1440-d08b1d2f6ebc1963f159db8debf35990.jpg",
+      "md5": "d08b1d2f6ebc1963f159db8debf35990",
+      "width": 2560,
+      "height": 1440,
+      "size": 350058,
+      "uploadedDate": "2019-07-17T17:56:43.42Z"
+    },
+    {
+      "type": "DieselGameBoxLogo",
+      "url": "https://cdn1.epicgames.com/91189432bbad4478afd611edff7f0339/item/EGS_11bitstudios_TWOM_IC2-400x400-bd7b04915cccc18df7d5a81c8716fbb0.png",
+      "md5": "bd7b04915cccc18df7d5a81c8716fbb0",
+      "width": 400,
+      "height": 400,
+      "size": 84805,
+      "uploadedDate": "2019-07-17T17:56:51.326Z"
+    }
+  ],
+  "creationDate": "2019-07-10T17:36:07.074+00:00",
+  "lastModifiedDate": "2019-10-09T14:14:43.827+00:00",
+  "developer": "11 Bit Studios",
+  "developerId": "o-z8janbuqt5zvnkqwm35kc9wtdzxkhr",
+  "applicationId": null
+}

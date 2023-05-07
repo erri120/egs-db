@@ -1,0 +1,32 @@
+{
+  "id": "3c0b736e09f6413ba333ac66be8cd44c",
+  "title": "Dauntless Community",
+  "description": "Dauntless Community",
+  "namespace": "jackal",
+  "categories": "",
+  "keyImages": [
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/jackal/item/EGS_COMMUNITY-1200x1600-25fa0bf2b11742d3a00b330e642b5954.jpg",
+      "md5": "25fa0bf2b11742d3a00b330e642b5954",
+      "width": 1200,
+      "height": 1600,
+      "size": 996892,
+      "uploadedDate": "2020-10-05T14:16:46.522Z"
+    },
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/jackal/item/EGS_COMMUNITY-2560x1440-2b98d5dc296d32d3cbd1bb4a383dd2bc.jpg",
+      "md5": "2b98d5dc296d32d3cbd1bb4a383dd2bc",
+      "width": 2560,
+      "height": 1440,
+      "size": 2083866,
+      "uploadedDate": "2020-10-07T19:22:51.996Z"
+    }
+  ],
+  "creationDate": "2019-06-19T02:25:33.164+00:00",
+  "lastModifiedDate": "2020-10-07T19:22:56.397+00:00",
+  "developer": "Phoenix Labs",
+  "developerId": "o-krlzxj88qrtb69fredeuaf887bl5az",
+  "applicationId": null
+}

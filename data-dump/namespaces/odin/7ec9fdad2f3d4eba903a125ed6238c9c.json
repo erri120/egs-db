@@ -1,0 +1,32 @@
+{
+  "id": "7ec9fdad2f3d4eba903a125ed6238c9c",
+  "title": "Robo Recall",
+  "description": "ROBO RECALL",
+  "namespace": "odin",
+  "categories": "layoutcontent",
+  "keyImages": [
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/odin/item/LauncherBanner-1536x862-318c7879e7b974e3f60390cd02acaa7f.png",
+      "md5": "318c7879e7b974e3f60390cd02acaa7f",
+      "width": 1536,
+      "height": 862,
+      "size": 1773734,
+      "uploadedDate": "2017-02-28T22:14:54.306Z"
+    },
+    {
+      "type": "DieselStoreFrontTall",
+      "url": "https://cdn1.epicgames.com/odin/item/fb_rr-1920x1080-5f7d6bc442e88fa501f9279fd3c903c8-1920x1080-627c486c9cfad875b5c89cced93c8a3d.jpg",
+      "md5": "627c486c9cfad875b5c89cced93c8a3d",
+      "width": 1920,
+      "height": 1080,
+      "size": 207487,
+      "uploadedDate": "2019-11-20T16:29:21.067Z"
+    }
+  ],
+  "creationDate": "2017-01-16T19:54:04.236+00:00",
+  "lastModifiedDate": "2019-11-20T16:29:37.793+00:00",
+  "developer": "Epic Games",
+  "developerId": "o-aa83a0a9bc45e98c80c1b1c9d92e9e",
+  "applicationId": null
+}

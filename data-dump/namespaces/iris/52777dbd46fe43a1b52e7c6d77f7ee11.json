@@ -1,0 +1,23 @@
+{
+  "id": "52777dbd46fe43a1b52e7c6d77f7ee11",
+  "title": "Phoenix Point Blood and Titanium",
+  "description": "Phoenix Point Blood and Titanium",
+  "namespace": "iris",
+  "categories": "",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/iris/item/phoenix-point_blood-and-titanium-2560x1440-81064fd86bf384bf2de69266683a96de.png",
+      "md5": "81064fd86bf384bf2de69266683a96de",
+      "width": 2560,
+      "height": 1440,
+      "size": 1334315,
+      "uploadedDate": "2019-12-03T18:56:42.852Z"
+    }
+  ],
+  "creationDate": "2019-11-12T19:48:28.552+00:00",
+  "lastModifiedDate": "2020-12-11T01:07:10.474+00:00",
+  "developer": "Snapshot Games",
+  "developerId": "o-dc63tr2khr4scc36nj3htbpmh3gda6",
+  "applicationId": null
+}

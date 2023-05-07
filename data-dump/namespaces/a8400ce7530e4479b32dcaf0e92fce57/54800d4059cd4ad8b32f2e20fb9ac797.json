@@ -1,0 +1,23 @@
+{
+  "id": "54800d4059cd4ad8b32f2e20fb9ac797",
+  "title": "Shadowrun Returns Deluxe Edition Upgrade DLC",
+  "description": "Shadowrun Returns Deluxe Edition Upgrade DLC",
+  "namespace": "a8400ce7530e4479b32dcaf0e92fce57",
+  "categories": "public/addons/addons/durable/applications",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/a8400ce7530e4479b32dcaf0e92fce57/item/EGS_ShadowrunReturnsDeluxeEditionUpgradeDLC_HarebrainedSchemes_AddOn_S1-2560x1440-8c9b42f50c7fbaaadbf43d9dc14c0ee4.jpg",
+      "md5": "8c9b42f50c7fbaaadbf43d9dc14c0ee4",
+      "width": 2560,
+      "height": 1440,
+      "size": 735876,
+      "uploadedDate": "2020-08-27T03:29:50.302Z"
+    }
+  ],
+  "creationDate": "2020-08-17T20:02:31.594+00:00",
+  "lastModifiedDate": "2020-09-03T14:48:14.96+00:00",
+  "developer": "Paradox Interactive",
+  "developerId": "o-tjvfg6rejs6h86qa7k9aa64rrgbxxb",
+  "applicationId": null
+}

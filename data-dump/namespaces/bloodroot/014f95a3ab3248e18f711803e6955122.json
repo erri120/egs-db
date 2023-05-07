@@ -1,0 +1,23 @@
+{
+  "id": "014f95a3ab3248e18f711803e6955122",
+  "title": "BloodrootDevAudience",
+  "description": "BloodrootDevAudience",
+  "namespace": "bloodroot",
+  "categories": "",
+  "keyImages": [
+    {
+      "type": "ESRB",
+      "url": "https://cdn1.epicgames.com/bloodroot/item/Diesel_product_bloodroot_ESRB_TheWalkingDeadSeason1_M-842x404-2f5352d1c2333ad458282e2c4edd2a63e1d90750-842x404-f7f5be821ae60dab68ad09767320570c.png",
+      "md5": "f7f5be821ae60dab68ad09767320570c",
+      "width": 842,
+      "height": 404,
+      "size": 66906,
+      "uploadedDate": "2019-04-23T20:14:35.592Z"
+    }
+  ],
+  "creationDate": "2019-03-08T22:28:58.647+00:00",
+  "lastModifiedDate": "2023-02-14T20:58:43.118+00:00",
+  "developer": "Skybound Interactive",
+  "developerId": "o-rqvssgn2hhj58wv5bc6eueqswz2un4",
+  "applicationId": null
+}

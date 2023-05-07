@@ -1,0 +1,41 @@
+{
+  "id": "609bc8db41a74114a16a420e85d2ed02",
+  "title": "Close to the Sun Digital Extras",
+  "description": "Close to the Sun Digital Extras",
+  "namespace": "silene",
+  "categories": "",
+  "keyImages": [
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/silene/item/CloseToTheSun_PurchaseImage-330x550-e87752609589150cd9a43a9e185a6850.jpg",
+      "md5": "e87752609589150cd9a43a9e185a6850",
+      "width": 330,
+      "height": 550,
+      "size": 74684,
+      "uploadedDate": "2019-04-11T16:58:03.628Z"
+    },
+    {
+      "type": "DieselGameBoxLogo",
+      "url": "https://cdn1.epicgames.com/silene/item/CloseToTheSun_Logo_Yellow-2001x1363-f393190354b7513952a3ff1295469f95.png",
+      "md5": "f393190354b7513952a3ff1295469f95",
+      "width": 2001,
+      "height": 1363,
+      "size": 38185,
+      "uploadedDate": "2019-04-11T17:41:48.354Z"
+    },
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/silene/item/CloseToTheSun_PrimaryPromo-2580x1450-a5f970b17ab00d1d99e8cd78155a6092.jpg",
+      "md5": "a5f970b17ab00d1d99e8cd78155a6092",
+      "width": 2580,
+      "height": 1450,
+      "size": 283141,
+      "uploadedDate": "2019-04-11T17:41:58.829Z"
+    }
+  ],
+  "creationDate": "2019-04-11T17:00:51.12+00:00",
+  "lastModifiedDate": "2019-05-06T16:57:28.086+00:00",
+  "developer": "Wired Productions",
+  "developerId": "o-r83qbqhwd8y5y5r6e9x62vtrsd9mqm",
+  "applicationId": null
+}

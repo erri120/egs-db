@@ -1,0 +1,23 @@
+{
+  "id": "dfd93ac920ba4348b2faa902b01d472d",
+  "title": "Heavy Rain Test Audience",
+  "description": "Heavy Rain Test Audience",
+  "namespace": "aster",
+  "categories": "",
+  "keyImages": [
+    {
+      "type": "ESRB",
+      "url": "https://cdn1.epicgames.com/aster/item/ESRB_HeavyRain-842x404-652e87edc9f6928b3ea37b8479d85de3.jpg",
+      "md5": "652e87edc9f6928b3ea37b8479d85de3",
+      "width": 842,
+      "height": 404,
+      "size": 114631,
+      "uploadedDate": "2019-07-29T15:40:28.009Z"
+    }
+  ],
+  "creationDate": "2019-06-21T11:12:04.736+00:00",
+  "lastModifiedDate": "2019-10-16T14:38:42.278+00:00",
+  "developer": "Quantic Dream",
+  "developerId": "o-m8v47d762atphw94knus7ezawefpcu",
+  "applicationId": null
+}

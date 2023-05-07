@@ -1,0 +1,32 @@
+{
+  "id": "81cde4781d794e649c31c940945a93f0",
+  "title": "Orwell\u0027s Animal Farm",
+  "description": "Orwell\u0027s Animal Farm",
+  "namespace": "9c39a79dfeb84f98a4bd7c1cac1e4bb3",
+  "categories": "public/games/applications",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/9c39a79dfeb84f98a4bd7c1cac1e4bb3/item/EGS_OrwellsAnimalFarm_Nerial_S1-2560x1440-eab98e2b47aae638eed596cc536df64f.jpg",
+      "md5": "eab98e2b47aae638eed596cc536df64f",
+      "width": 2560,
+      "height": 1440,
+      "size": 202159,
+      "uploadedDate": "2020-12-09T19:23:23.211Z"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/9c39a79dfeb84f98a4bd7c1cac1e4bb3/item/EGS_OrwellsAnimalFarm_Nerial_S2-1200x1600-3af38665b5369f7620a5dff4e2efe5ca.jpg",
+      "md5": "3af38665b5369f7620a5dff4e2efe5ca",
+      "width": 1200,
+      "height": 1600,
+      "size": 129187,
+      "uploadedDate": "2020-12-09T19:23:34.99Z"
+    }
+  ],
+  "creationDate": "2020-11-10T20:37:41.561+00:00",
+  "lastModifiedDate": "2020-12-10T16:50:39.164+00:00",
+  "developer": "The Dairymen",
+  "developerId": "o-4vjch4baptvp8ls84kq85l3zjdrgyn",
+  "applicationId": null
+}

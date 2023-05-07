@@ -1,0 +1,32 @@
+{
+  "id": "816162090138489e93503b75c4a61e64",
+  "title": "Killing Floor 2 Artbook",
+  "description": "Killing Floor 2 Artbook",
+  "namespace": "affc33b82405457595a032f00284abd2",
+  "categories": "public/games/applications",
+  "keyImages": [
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/affc33b82405457595a032f00284abd2/item/KF2_EGS_ArtBook_1200x1600-1200x1600-f3731f51afad25817759fc339a053ab5.jpg",
+      "md5": "f3731f51afad25817759fc339a053ab5",
+      "width": 1200,
+      "height": 1600,
+      "size": 398877,
+      "uploadedDate": "2020-07-09T12:48:40.485Z"
+    },
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/affc33b82405457595a032f00284abd2/item/KF2_EGS_ArtBook_2560x1440-2560x1440-25db2156e32075dfd2c70c4a5592725a.jpg",
+      "md5": "25db2156e32075dfd2c70c4a5592725a",
+      "width": 2560,
+      "height": 1440,
+      "size": 663692,
+      "uploadedDate": "2020-07-09T12:49:05.77Z"
+    }
+  ],
+  "creationDate": "2020-06-17T20:19:29.343+00:00",
+  "lastModifiedDate": "2020-07-09T14:57:55.853+00:00",
+  "developer": "Tripwire Interactive",
+  "developerId": "o-2baznhy8tfh7fmyb55ul656v7ggt7r",
+  "applicationId": null
+}

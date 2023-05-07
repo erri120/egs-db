@@ -1,0 +1,32 @@
+{
+  "id": "2b2d819381174b5b8f0d51ff3fab34a5",
+  "title": "Civilization VI : Poland Civilization \u0026 Scenario Pack",
+  "description": "Civilization VI : Poland Civilization \u0026 Scenario Pack",
+  "namespace": "cd14dcaa4f3443f19f7169a980559c62",
+  "categories": "addons",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/cd14dcaa4f3443f19f7169a980559c62/item/EGS_SidMeiersCivilizationVI_FiraxisGames_S5-1360x766-43ec615712394b3c4acbe77bce54975c.jpg",
+      "md5": "43ec615712394b3c4acbe77bce54975c",
+      "width": 1360,
+      "height": 766,
+      "size": 475027,
+      "uploadedDate": "2020-05-19T21:37:42.842Z"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/cd14dcaa4f3443f19f7169a980559c62/item/EGS_SidMeiersCivilizationVI_FiraxisGames_S6-510x680-7bca651712a1c939a86f767c65160461.jpg",
+      "md5": "7bca651712a1c939a86f767c65160461",
+      "width": 510,
+      "height": 680,
+      "size": 309610,
+      "uploadedDate": "2020-05-19T21:37:53.413Z"
+    }
+  ],
+  "creationDate": "2020-01-17T16:00:39.522+00:00",
+  "lastModifiedDate": "2022-12-06T22:22:01.501+00:00",
+  "developer": "2K Games, Inc.",
+  "developerId": "o-37m6jbj5wcvrcvm4wusv7nazdfvbjk",
+  "applicationId": ""
+}

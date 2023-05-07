@@ -1,0 +1,23 @@
+{
+  "id": "cc4033a1f8a949be881a007f35d7069d",
+  "title": "SmallLogo",
+  "description": "eom",
+  "namespace": "vpr",
+  "categories": "applications/prod/applications/prod/content/applications",
+  "keyImages": [
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/vpr/item/StarLogosmall-400x432-c7d5a2b636c88020f9ab7aceff019aa0.png",
+      "md5": "c7d5a2b636c88020f9ab7aceff019aa0",
+      "width": 400,
+      "height": 432,
+      "size": 101568,
+      "uploadedDate": "2015-10-22T18:06:56.354Z"
+    }
+  ],
+  "creationDate": "2015-10-19T18:35:37.038+00:00",
+  "lastModifiedDate": "2017-08-04T19:17:07.295+00:00",
+  "developer": "Epic Games",
+  "developerId": "o-aa83a0a9bc45e98c80c1b1c9d92e9e",
+  "applicationId": null
+}

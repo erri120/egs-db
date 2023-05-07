@@ -1,0 +1,23 @@
+{
+  "id": "bb4abc5cd7614a1f9529a1f2af377842",
+  "title": "Zombie Army 4: Berserker Boris Outfit",
+  "description": "Zombie Army 4: Berserker Boris Outfit",
+  "namespace": "dfd2530e80e4425d801913b0879be444",
+  "categories": "",
+  "keyImages": [
+    {
+      "type": "ESRB",
+      "url": "https://cdn1.epicgames.com/dfd2530e80e4425d801913b0879be444/item/ESRB_ZombieArmy4-842x485-a5dfa6a6da7e7dd4b0b2c9e1e5458bf5.jpg",
+      "md5": "a5dfa6a6da7e7dd4b0b2c9e1e5458bf5",
+      "width": 842,
+      "height": 485,
+      "size": 109719,
+      "uploadedDate": "2020-05-05T14:37:11.413Z"
+    }
+  ],
+  "creationDate": "2020-09-04T12:04:58.704+00:00",
+  "lastModifiedDate": "2021-07-27T02:14:07.775+00:00",
+  "developer": "Rebellion",
+  "developerId": "o-7ytxfydj7f9a2uv4bmg3s5wfl2epsm",
+  "applicationId": null
+}

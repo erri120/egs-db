@@ -1,0 +1,32 @@
+{
+  "id": "eb7e9e3f9f9542568de71d140524b172",
+  "title": "Borderlands 3 Moxxi\u0027s Heist of the Handsome Jackpot",
+  "description": "Borderlands 3 Moxxi\u0027s Heist of the Handsome Jackpot",
+  "namespace": "catnip",
+  "categories": "",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/item/catnip/2KGMKT_BL3_Moxxi_Epic_L1_Library_Primary_2560x1440-2560x1440-2504be018ff34752c781216a9c56ad542f417aa5_2560x1440-f72a7ad100acf57d8ceba53c8aaf6237",
+      "md5": "f72a7ad100acf57d8ceba53c8aaf6237",
+      "width": 2560,
+      "height": 1440,
+      "size": 811521,
+      "uploadedDate": "2023-01-19T17:46:38.961Z"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/item/catnip/2KGMKT_BL3_Moxxi_Epic_L1_Library_Primary_1200x1600_1200x1600-71109c6ecbe3f6ead52924dcf6b09c94",
+      "md5": "71109c6ecbe3f6ead52924dcf6b09c94",
+      "width": 1200,
+      "height": 1600,
+      "size": 962695,
+      "uploadedDate": "2023-01-19T17:46:42.823Z"
+    }
+  ],
+  "creationDate": "2019-12-06T15:07:03.902+00:00",
+  "lastModifiedDate": "2023-01-19T21:12:26.648+00:00",
+  "developer": "2K Games, Inc.",
+  "developerId": "o-37m6jbj5wcvrcvm4wusv7nazdfvbjk",
+  "applicationId": ""
+}

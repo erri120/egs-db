@@ -1,0 +1,32 @@
+{
+  "id": "1dd2d2d4d38e4964a2ebcb3e3a9d10e5",
+  "title": "Saturnalia",
+  "description": "Saturnalia",
+  "namespace": "c749cd78da34408d8434a46271f4bb79",
+  "categories": "public/games/applications",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/item/c749cd78da34408d8434a46271f4bb79/EpicCoverLandscapeSaturnalia_2560x1440-54891524f6479f44cef864c4b48a2a30",
+      "md5": "54891524f6479f44cef864c4b48a2a30",
+      "width": 2560,
+      "height": 1440,
+      "size": 2928365,
+      "uploadedDate": "2022-10-05T17:29:08.381Z"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/item/c749cd78da34408d8434a46271f4bb79/EpicCoverPortraitSaturnalia_1200x1600-6db04b612d53e62b761111c15a7162fb",
+      "md5": "6db04b612d53e62b761111c15a7162fb",
+      "width": 1200,
+      "height": 1600,
+      "size": 1513307,
+      "uploadedDate": "2022-10-05T17:29:12.948Z"
+    }
+  ],
+  "creationDate": "2020-03-19T20:34:51.378+00:00",
+  "lastModifiedDate": "2022-10-27T14:22:41.548+00:00",
+  "developer": "Santa Ragione",
+  "developerId": "o-cjwnkas5rn476tzk72fbh2ftutnc2y",
+  "applicationId": "fghi4567XskjjxtYCs03T3JazfSdPDmA"
+}

@@ -1,0 +1,32 @@
+{
+  "id": "4039426bcb55408c9665350ab2200d46",
+  "title": "AzaleaMain",
+  "description": "AzaleaMain",
+  "namespace": "azalea",
+  "categories": "",
+  "keyImages": [
+    {
+      "type": "DieselGameBoxLogo",
+      "url": "https://cdn1.epicgames.com/azalea/item/Updated Logo - white-1134x1134-5043330ffaccd28ebe0a16a65fcc0a04.png",
+      "md5": "5043330ffaccd28ebe0a16a65fcc0a04",
+      "width": 1134,
+      "height": 1134,
+      "size": 40782,
+      "uploadedDate": "2019-07-04T02:53:59.54Z"
+    },
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/azalea/item/YT_Cover_2560_x_1440-2560x1440-17d8baed51461c5daac9aa3abf7fa108.jpg",
+      "md5": "17d8baed51461c5daac9aa3abf7fa108",
+      "width": 2560,
+      "height": 1440,
+      "size": 433773,
+      "uploadedDate": "2019-06-20T17:55:50.39Z"
+    }
+  ],
+  "creationDate": "2020-09-08T14:56:16.531+00:00",
+  "lastModifiedDate": "2021-04-09T16:43:11.675+00:00",
+  "developer": "YAGER",
+  "developerId": "o-w7z3vpqhq54t3gbwybuzlmx7xh3355",
+  "applicationId": null
+}

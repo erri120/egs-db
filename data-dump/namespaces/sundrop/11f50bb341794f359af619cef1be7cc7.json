@@ -1,0 +1,32 @@
+{
+  "id": "11f50bb341794f359af619cef1be7cc7",
+  "title": "SundropStaging",
+  "description": "SundropStaging",
+  "namespace": "sundrop",
+  "categories": "",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/sundrop/item/FH_Background-1298x809-22f5217701a68ad96ff5dcf26d1dc9d3.png",
+      "md5": "22f5217701a68ad96ff5dcf26d1dc9d3",
+      "width": 1298,
+      "height": 809,
+      "size": 626179,
+      "uploadedDate": "2019-07-26T19:29:37.701Z"
+    },
+    {
+      "type": "DieselGameBoxLogo",
+      "url": "https://cdn1.epicgames.com/sundrop/item/fh-logo-1900x1825-efb91b2fc8c56c1c698471472f244150.png",
+      "md5": "efb91b2fc8c56c1c698471472f244150",
+      "width": 1900,
+      "height": 1825,
+      "size": 282425,
+      "uploadedDate": "2019-07-26T19:29:50.552Z"
+    }
+  ],
+  "creationDate": "2019-02-11T17:27:27.895+00:00",
+  "lastModifiedDate": "2020-12-10T15:22:04.267+00:00",
+  "developer": "Ubisoft Entertainment",
+  "developerId": "o-3efjudxdtgsqnulml4bkeq3v9nec38",
+  "applicationId": null
+}

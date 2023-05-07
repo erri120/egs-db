@@ -1,0 +1,32 @@
+{
+  "id": "095dc54be53648aab01acd4d45de33e4",
+  "title": "Trials Rising Demo",
+  "description": "Trials Rising Demo",
+  "namespace": "argyle",
+  "categories": "",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/argyle/item/Store_Primary_Promo-2580x1450-113e06f40cef53b2fa5850fa905a2daa.jpg",
+      "md5": "113e06f40cef53b2fa5850fa905a2daa",
+      "width": 2580,
+      "height": 1450,
+      "size": 318984,
+      "uploadedDate": "2019-09-10T04:48:14.172Z"
+    },
+    {
+      "type": "DieselGameBoxLogo",
+      "url": "https://cdn1.epicgames.com/argyle/item/Game_Logo_Color_1000x375-1000x375-3019c9c1f8cb1aa225878c9eeb95ac3c.png",
+      "md5": "3019c9c1f8cb1aa225878c9eeb95ac3c",
+      "width": 1000,
+      "height": 375,
+      "size": 163114,
+      "uploadedDate": "2019-09-10T04:48:37.803Z"
+    }
+  ],
+  "creationDate": "2019-09-03T22:12:32.727+00:00",
+  "lastModifiedDate": "2020-11-18T15:52:24.414+00:00",
+  "developer": "Ubisoft Entertainment",
+  "developerId": "o-3efjudxdtgsqnulml4bkeq3v9nec38",
+  "applicationId": null
+}

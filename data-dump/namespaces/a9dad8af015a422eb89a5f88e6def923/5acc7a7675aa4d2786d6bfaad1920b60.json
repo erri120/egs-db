@@ -1,0 +1,32 @@
+{
+  "id": "5acc7a7675aa4d2786d6bfaad1920b60",
+  "title": "The Pathless",
+  "description": "The Pathless",
+  "namespace": "a9dad8af015a422eb89a5f88e6def923",
+  "categories": "public/games/applications",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/a9dad8af015a422eb89a5f88e6def923/item/EGS_ThePathless_GiantSquid_S1-2560x1440-6c316f9b9ab9a6f98d54ae7a59868e1f.jpg",
+      "md5": "6c316f9b9ab9a6f98d54ae7a59868e1f",
+      "width": 2560,
+      "height": 1440,
+      "size": 744300,
+      "uploadedDate": "2020-10-29T05:24:26.405Z"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/a9dad8af015a422eb89a5f88e6def923/item/EGS_ThePathless_GiantSquid_S2-1200x1600-e1f5f32474fcd2c16210b5e36dd8664b.jpg",
+      "md5": "e1f5f32474fcd2c16210b5e36dd8664b",
+      "width": 1200,
+      "height": 1600,
+      "size": 468910,
+      "uploadedDate": "2020-10-29T05:24:29.621Z"
+    }
+  ],
+  "creationDate": "2019-05-02T19:22:07.847+00:00",
+  "lastModifiedDate": "2020-11-12T16:59:32.372+00:00",
+  "developer": "Annapurna Interactive",
+  "developerId": "o-bmeb3ztlbxkjc8vvpydava38yvmxlm",
+  "applicationId": "fghi4567u3a2wPM9Um15wOUf0pwdOg0X"
+}

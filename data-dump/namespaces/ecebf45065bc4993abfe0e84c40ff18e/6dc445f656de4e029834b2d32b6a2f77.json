@@ -1,0 +1,32 @@
+{
+  "id": "6dc445f656de4e029834b2d32b6a2f77",
+  "title": "Watch Dogs",
+  "description": "Watch Dogs",
+  "namespace": "ecebf45065bc4993abfe0e84c40ff18e",
+  "categories": "public/games/applications",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/ecebf45065bc4993abfe0e84c40ff18e/item/WDOG_STD_Store_Landscape_2580x1450-2580x1450-3fd07dcc02e65aca288d794c177c7512.jpg",
+      "md5": "3fd07dcc02e65aca288d794c177c7512",
+      "width": 2580,
+      "height": 1450,
+      "size": 485271,
+      "uploadedDate": "2020-03-18T22:18:36.583Z"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/ecebf45065bc4993abfe0e84c40ff18e/item/WDOG_STD_Store_Portrait_1280x1420-1280x1420-7678e6c2b81692027935c7c2b685438d.jpg",
+      "md5": "7678e6c2b81692027935c7c2b685438d",
+      "width": 1280,
+      "height": 1420,
+      "size": 487998,
+      "uploadedDate": "2020-03-18T22:18:50.56Z"
+    }
+  ],
+  "creationDate": "2020-02-13T19:28:26.229+00:00",
+  "lastModifiedDate": "2021-08-25T19:22:58.04+00:00",
+  "developer": "Ubisoft Entertainment",
+  "developerId": "o-3efjudxdtgsqnulml4bkeq3v9nec38",
+  "applicationId": ""
+}

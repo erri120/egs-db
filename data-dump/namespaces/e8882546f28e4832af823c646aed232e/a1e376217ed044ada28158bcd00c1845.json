@@ -1,0 +1,32 @@
+{
+  "id": "a1e376217ed044ada28158bcd00c1845",
+  "title": "Market Corrections",
+  "description": "Market Corrections",
+  "namespace": "e8882546f28e4832af823c646aed232e",
+  "categories": "public/games/applications",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/e8882546f28e4832af823c646aed232e/item/EGS_OffworldTradingCompanyMarketCorrections_MohawkGames_DLC_IC1_A-320x180-493ed4c4e4def942230c44af5f5b021e.jpg",
+      "md5": "493ed4c4e4def942230c44af5f5b021e",
+      "width": 320,
+      "height": 180,
+      "size": 78608,
+      "uploadedDate": "2020-03-05T15:58:17.633Z"
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/e8882546f28e4832af823c646aed232e/item/Offworld_Portrait-510x680-7a9909ce27ac1d94813f6f49f6632871.jpg",
+      "md5": "7a9909ce27ac1d94813f6f49f6632871",
+      "width": 510,
+      "height": 680,
+      "size": 60952,
+      "uploadedDate": "2020-03-05T15:58:32.275Z"
+    }
+  ],
+  "creationDate": "2020-02-17T21:43:38.884+00:00",
+  "lastModifiedDate": "2022-12-13T18:52:53.909+00:00",
+  "developer": "Stardock Entertainment, Inc",
+  "developerId": "o-l69v3ppj5zgdpwtuvq6sgjew5yjt5w",
+  "applicationId": null
+}

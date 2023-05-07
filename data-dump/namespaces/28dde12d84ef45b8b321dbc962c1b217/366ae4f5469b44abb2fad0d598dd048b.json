@@ -1,0 +1,23 @@
+{
+  "id": "366ae4f5469b44abb2fad0d598dd048b",
+  "title": "Falcon Age Pre-Purchase Audience",
+  "description": "Falcon Age Pre-Purchase Audience",
+  "namespace": "28dde12d84ef45b8b321dbc962c1b217",
+  "categories": "",
+  "keyImages": [
+    {
+      "type": "ESRB",
+      "url": "https://cdn1.epicgames.com/28dde12d84ef45b8b321dbc962c1b217/item/ESRB_FalconAge-842x404-002c16eaacdd5fe8078f9cd1c3cc3c65.jpg",
+      "md5": "002c16eaacdd5fe8078f9cd1c3cc3c65",
+      "width": 842,
+      "height": 404,
+      "size": 95971,
+      "uploadedDate": "2019-09-06T12:43:39.153Z"
+    }
+  ],
+  "creationDate": "2019-06-13T19:27:10.579+00:00",
+  "lastModifiedDate": "2019-09-06T12:56:53.7+00:00",
+  "developer": "Outerloop Games LLC",
+  "developerId": "o-jp8nn3fnwlecen2ew5l6fv8agjzaf7",
+  "applicationId": null
+}

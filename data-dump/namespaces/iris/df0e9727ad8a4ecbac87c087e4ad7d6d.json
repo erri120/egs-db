@@ -1,0 +1,23 @@
+{
+  "id": "df0e9727ad8a4ecbac87c087e4ad7d6d",
+  "title": "DLC 2 Audience",
+  "description": "Legacy of the Ancients Audience",
+  "namespace": "iris",
+  "categories": "",
+  "keyImages": [
+    {
+      "type": "ESRB",
+      "url": "https://cdn1.epicgames.com/iris/item/ESRB_RP-842x404-728bf175b519ada5e5a4400e8f1df7cf.png",
+      "md5": "728bf175b519ada5e5a4400e8f1df7cf",
+      "width": 842,
+      "height": 404,
+      "size": 66425,
+      "uploadedDate": "2019-11-08T14:49:37.715Z"
+    }
+  ],
+  "creationDate": "2019-11-01T20:13:37.469+00:00",
+  "lastModifiedDate": "2022-07-19T23:24:19.048+00:00",
+  "developer": "Snapshot Games",
+  "developerId": "o-dc63tr2khr4scc36nj3htbpmh3gda6",
+  "applicationId": null
+}

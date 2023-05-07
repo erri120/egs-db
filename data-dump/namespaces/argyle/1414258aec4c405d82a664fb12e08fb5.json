@@ -1,0 +1,23 @@
+{
+  "id": "1414258aec4c405d82a664fb12e08fb5",
+  "title": "Trials Rising Expansion Pass",
+  "description": "Trials Rising Expansion Pass",
+  "namespace": "argyle",
+  "categories": "hidden/games/applications",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/argyle/item/trials-rising_expansion-pass-2580x1450-da382ab4a8c6ded473677691e87df7ef.jpg",
+      "md5": "da382ab4a8c6ded473677691e87df7ef",
+      "width": 2580,
+      "height": 1450,
+      "size": 396056,
+      "uploadedDate": "2019-09-11T15:08:48.615Z"
+    }
+  ],
+  "creationDate": "2019-09-03T21:48:19.965+00:00",
+  "lastModifiedDate": "2020-11-18T15:52:24.414+00:00",
+  "developer": "Ubisoft Entertainment",
+  "developerId": "o-3efjudxdtgsqnulml4bkeq3v9nec38",
+  "applicationId": null
+}

@@ -1,0 +1,32 @@
+{
+  "id": "58d79b3146d14ad38e8b0a045d7e1afe",
+  "title": "Necromunda: Hired Gun",
+  "description": "Necromunda: Hired Gun",
+  "namespace": "8c8bd44c4f8a4948800b27d9c1248c0c",
+  "categories": "public/games/applications",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_NecromundaHiredGun_StreumOnStudio_S1-2560x1440_2560x1440-3be8bb3344268054fd9ca5ac427afde3",
+      "md5": "3be8bb3344268054fd9ca5ac427afde3",
+      "width": 2560,
+      "height": 1440,
+      "size": 937485,
+      "uploadedDate": "2021-05-31T17:48:06.665Z"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_NecromundaHiredGun_StreumOnStudio_S2-1200x1600_1200x1600-ef93e959fe00d4df8fdff4fded84c295",
+      "md5": "ef93e959fe00d4df8fdff4fded84c295",
+      "width": 1200,
+      "height": 1600,
+      "size": 919299,
+      "uploadedDate": "2021-05-31T17:48:11.538Z"
+    }
+  ],
+  "creationDate": "2021-02-24T20:58:58.448+00:00",
+  "lastModifiedDate": "2021-05-31T21:57:15.417+00:00",
+  "developer": "Focus Home",
+  "developerId": "o-wt4zxeetmq6jem7qp4pkssr46aenj5",
+  "applicationId": "fghi4567D3GPqOPcbVeZLBD6piUuFgWQ"
+}

@@ -1,0 +1,32 @@
+{
+  "id": "d0222bdb82344ab1bd8f707b1cbfcc3c",
+  "title": "Kine",
+  "description": "Kine",
+  "namespace": "rose",
+  "categories": "",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/item/rose/BrandedLandscape_2560x1440-e617a391cf56f5d69c83262c3a5bfc8a",
+      "md5": "e617a391cf56f5d69c83262c3a5bfc8a",
+      "width": 2560,
+      "height": 1440,
+      "size": 4467273,
+      "uploadedDate": "2023-02-10T18:32:27.759Z"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/item/rose/BrandedPortrait_1200x1600-edd893141f34b46b64c2b140778f7c6c",
+      "md5": "edd893141f34b46b64c2b140778f7c6c",
+      "width": 1200,
+      "height": 1600,
+      "size": 2300116,
+      "uploadedDate": "2023-02-10T18:32:25.061Z"
+    }
+  ],
+  "creationDate": "2019-03-18T15:19:54.165+00:00",
+  "lastModifiedDate": "2023-02-10T18:33:15.343+00:00",
+  "developer": "Gwen Frey",
+  "developerId": "o-na388hs5k2ak86akfejt2es246vaa2",
+  "applicationId": ""
+}

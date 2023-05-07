@@ -1,0 +1,41 @@
+{
+  "id": "a2eb1f683784461b8573beec0365cdde",
+  "title": "Bloodroots Soundtrack",
+  "description": "Bloodroots Soundtrack",
+  "namespace": "25ef88acc7f34afc8ac6669e11573882",
+  "categories": "public/digitalextras/games/applications",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/25ef88acc7f34afc8ac6669e11573882/item/EGS_PaperCult_Bloodroots_S1-2560x1440-80572938a127a5e726ec2b1a5a24bdc1.jpg",
+      "md5": "80572938a127a5e726ec2b1a5a24bdc1",
+      "width": 2560,
+      "height": 1440,
+      "size": 501662,
+      "uploadedDate": "2019-12-11T18:11:57.558Z"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/25ef88acc7f34afc8ac6669e11573882/item/EGS_PaperCult_Bloodroots_S2-1280x1440-4c8abb411cd696297b34d4436c912d54.jpg",
+      "md5": "4c8abb411cd696297b34d4436c912d54",
+      "width": 1280,
+      "height": 1440,
+      "size": 264974,
+      "uploadedDate": "2019-12-11T18:12:10.255Z"
+    },
+    {
+      "type": "DieselGameBoxLogo",
+      "url": "https://cdn1.epicgames.com/25ef88acc7f34afc8ac6669e11573882/item/EGS_PaperCult_Bloodroots_IC1-200x69-cd04379387462a1f16a8b90524fd48a8.png",
+      "md5": "cd04379387462a1f16a8b90524fd48a8",
+      "width": 200,
+      "height": 69,
+      "size": 15160,
+      "uploadedDate": "2019-12-11T18:12:17.979Z"
+    }
+  ],
+  "creationDate": "2020-02-26T15:04:33.399+00:00",
+  "lastModifiedDate": "2020-05-26T20:44:10.648+00:00",
+  "developer": "Paper Cult",
+  "developerId": "o-6fych9fc46deb48wb6fw8th6695pnl",
+  "applicationId": null
+}

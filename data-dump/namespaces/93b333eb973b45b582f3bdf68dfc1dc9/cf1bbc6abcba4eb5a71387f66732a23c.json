@@ -1,0 +1,32 @@
+{
+  "id": "cf1bbc6abcba4eb5a71387f66732a23c",
+  "title": "Railway Empire",
+  "description": "Railway Empire",
+  "namespace": "93b333eb973b45b582f3bdf68dfc1dc9",
+  "categories": "public/games/applications",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/93b333eb973b45b582f3bdf68dfc1dc9/item/EGS_RailwayEmpire_GamingMindsStudios_S1-2560x1440-917cc700b5437febee4981a1d40ebefc-2560x1440-917cc700b5437febee4981a1d40ebefc.jpg",
+      "md5": "917cc700b5437febee4981a1d40ebefc",
+      "width": 2560,
+      "height": 1440,
+      "size": 999464,
+      "uploadedDate": "2020-08-31T14:56:58.973Z"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/93b333eb973b45b582f3bdf68dfc1dc9/item/EGS_RailwayEmpire_GamingMindsStudios_S2-1200x1600-aa3f6d77c91bd7801de2f530ca7faca6-1200x1600-aa3f6d77c91bd7801de2f530ca7faca6.jpg",
+      "md5": "aa3f6d77c91bd7801de2f530ca7faca6",
+      "width": 1200,
+      "height": 1600,
+      "size": 684481,
+      "uploadedDate": "2020-08-31T14:57:17.26Z"
+    }
+  ],
+  "creationDate": "2020-06-18T21:00:55.118+00:00",
+  "lastModifiedDate": "2021-05-07T15:02:53.254+00:00",
+  "developer": "Kalypso Media Group GmbH",
+  "developerId": "o-37ss7wypkskvyj58j9s7hhltxtujac",
+  "applicationId": "fghi4567IlbWDAaC63FygrTw1xIzO6qL"
+}

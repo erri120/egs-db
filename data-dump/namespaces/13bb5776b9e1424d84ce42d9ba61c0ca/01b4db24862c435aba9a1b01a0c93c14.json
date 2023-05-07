@@ -1,0 +1,32 @@
+{
+  "id": "01b4db24862c435aba9a1b01a0c93c14",
+  "title": "MarigoldStaging",
+  "description": "MarigoldStaging",
+  "namespace": "13bb5776b9e1424d84ce42d9ba61c0ca",
+  "categories": "public/games/applications",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/13bb5776b9e1424d84ce42d9ba61c0ca/item/PLAYDEAD_INSIDE-PROMO-2560x1440-8980f5681b4e521ab357910a1ee3f83b.jpg",
+      "md5": "8980f5681b4e521ab357910a1ee3f83b",
+      "width": 2560,
+      "height": 1440,
+      "size": 56516,
+      "uploadedDate": "2019-07-23T15:52:19.242Z"
+    },
+    {
+      "type": "DieselGameBoxLogo",
+      "url": "https://cdn1.epicgames.com/13bb5776b9e1424d84ce42d9ba61c0ca/item/LIMBO_LOGO_NEW-6054x1989-f61e16b909507c909f0eb305c2b71cd1.png",
+      "md5": "f61e16b909507c909f0eb305c2b71cd1",
+      "width": 6054,
+      "height": 1989,
+      "size": 95973,
+      "uploadedDate": "2019-08-15T13:49:12.974Z"
+    }
+  ],
+  "creationDate": "2019-06-14T16:20:24.783+00:00",
+  "lastModifiedDate": "2020-09-08T11:43:21.977+00:00",
+  "developer": "Playdead",
+  "developerId": "o-t88sw9ly7ajm3wz7tll53xt3cmypx8",
+  "applicationId": null
+}

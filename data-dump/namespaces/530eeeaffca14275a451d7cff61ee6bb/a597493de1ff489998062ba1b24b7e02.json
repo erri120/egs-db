@@ -1,0 +1,32 @@
+{
+  "id": "a597493de1ff489998062ba1b24b7e02",
+  "title": "StaticeStaging",
+  "description": "StaticeStaging",
+  "namespace": "530eeeaffca14275a451d7cff61ee6bb",
+  "categories": "public/games/applications",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/530eeeaffca14275a451d7cff61ee6bb/item/N2-2560x1440-f1875f631fc6870253c48d26a7175c86.jpg",
+      "md5": "f1875f631fc6870253c48d26a7175c86",
+      "width": 2560,
+      "height": 1440,
+      "size": 724915,
+      "uploadedDate": "2019-08-27T20:04:02.565Z"
+    },
+    {
+      "type": "DieselGameBoxLogo",
+      "url": "https://cdn1.epicgames.com/530eeeaffca14275a451d7cff61ee6bb/item/Game Logo-200x76-61e3c50fa63f74e5575a08ab4718b8a7.png",
+      "md5": "61e3c50fa63f74e5575a08ab4718b8a7",
+      "width": 200,
+      "height": 76,
+      "size": 1140,
+      "uploadedDate": "2019-08-27T20:04:10.75Z"
+    }
+  ],
+  "creationDate": "2019-08-24T06:23:21.003+00:00",
+  "lastModifiedDate": "2019-09-06T17:45:05.754+00:00",
+  "developer": "Edmund McMillen, Tyler Glaiel",
+  "developerId": "o-h8c7zcwt24ey84nvxfbgzqpvth9vpz",
+  "applicationId": null
+}

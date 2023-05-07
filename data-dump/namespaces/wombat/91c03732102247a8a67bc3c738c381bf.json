@@ -1,0 +1,23 @@
+{
+  "id": "91c03732102247a8a67bc3c738c381bf",
+  "title": "AMD Bundle Audience",
+  "description": "AMD Bundle Audience",
+  "namespace": "wombat",
+  "categories": "",
+  "keyImages": [
+    {
+      "type": "ESRB",
+      "url": "https://cdn1.epicgames.com/wombat/item/Diesel_product_ratings_WWZ-ESRB-842x404-594cfb6eef57d34c86a259ce28a7eb0c113ebf35-842x404-816f6c7f1140d5d08750de13e3d81d9c.jpg",
+      "md5": "816f6c7f1140d5d08750de13e3d81d9c",
+      "width": 842,
+      "height": 404,
+      "size": 80166,
+      "uploadedDate": "2019-04-23T21:12:40.284Z"
+    }
+  ],
+  "creationDate": "2019-03-27T14:29:35.761+00:00",
+  "lastModifiedDate": "2021-09-21T13:00:30.165+00:00",
+  "developer": "Saber Interactive",
+  "developerId": "o-2xlz78ngz5ubvus9sff9blglee43uk",
+  "applicationId": null
+}

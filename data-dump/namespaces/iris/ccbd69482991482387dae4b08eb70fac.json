@@ -1,0 +1,23 @@
+{
+  "id": "ccbd69482991482387dae4b08eb70fac",
+  "title": "Phoenix Point Pre-Purchase Audience",
+  "description": "Phoenix Point Pre-Purchase Audience",
+  "namespace": "iris",
+  "categories": "",
+  "keyImages": [
+    {
+      "type": "ESRB",
+      "url": "https://cdn1.epicgames.com/iris/item/ESRB_UnrealTournament_RP-842x404-728bf175b519ada5e5a4400e8f1df7cf.png",
+      "md5": "728bf175b519ada5e5a4400e8f1df7cf",
+      "width": 842,
+      "height": 404,
+      "size": 66425,
+      "uploadedDate": "2019-04-23T20:20:39.863Z"
+    }
+  ],
+  "creationDate": "2019-03-11T17:46:30.552+00:00",
+  "lastModifiedDate": "2022-07-19T23:24:19.033+00:00",
+  "developer": "Snapshot Games",
+  "developerId": "o-dc63tr2khr4scc36nj3htbpmh3gda6",
+  "applicationId": null
+}

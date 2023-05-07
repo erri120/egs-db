@@ -1,0 +1,23 @@
+{
+  "id": "4ed43a1f88db44e28abd6101aaa3c88f",
+  "title": "PeacockPressAudience",
+  "description": "PeacockPressAudience",
+  "namespace": "7f498fbf0a4e43239d58eee6615ae806",
+  "categories": "",
+  "keyImages": [
+    {
+      "type": "ESRB",
+      "url": "https://cdn1.epicgames.com/7f498fbf0a4e43239d58eee6615ae806/item/ESRB_ReadySet-842x404-7f94c3fc84835f24b6e7728427b999b0.jpg",
+      "md5": "7f94c3fc84835f24b6e7728427b999b0",
+      "width": 842,
+      "height": 404,
+      "size": 91499,
+      "uploadedDate": "2019-08-14T15:43:19.289Z"
+    }
+  ],
+  "creationDate": "2019-09-17T18:22:10.997+00:00",
+  "lastModifiedDate": "2019-12-19T15:57:54.501+00:00",
+  "developer": "Sony Interactive Entertainment",
+  "developerId": "o-sby9x4c2zlm5mb2z5r9ajue9pcqfs5",
+  "applicationId": null
+}

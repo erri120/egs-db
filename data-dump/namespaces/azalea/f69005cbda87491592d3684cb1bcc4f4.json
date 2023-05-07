@@ -1,0 +1,32 @@
+{
+  "id": "f69005cbda87491592d3684cb1bcc4f4",
+  "title": "AzaleaTesting",
+  "description": "AzaleaTesting",
+  "namespace": "azalea",
+  "categories": "",
+  "keyImages": [
+    {
+      "type": "DieselGameBoxLogo",
+      "url": "https://cdn1.epicgames.com/azalea/item/The_Cycle_logo_White-615x478-2fe411db4bd7325782a6b92733e52659-615x478-2fe411db4bd7325782a6b92733e52659.png",
+      "md5": "2fe411db4bd7325782a6b92733e52659",
+      "width": 615,
+      "height": 478,
+      "size": 20577,
+      "uploadedDate": "2019-05-02T20:52:05.45Z"
+    },
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/azalea/item/YT_Cover-2560x1440-17d8baed51461c5daac9aa3abf7fa108.jpg",
+      "md5": "17d8baed51461c5daac9aa3abf7fa108",
+      "width": 2560,
+      "height": 1440,
+      "size": 433773,
+      "uploadedDate": "2019-06-28T13:19:43.162Z"
+    }
+  ],
+  "creationDate": "2019-05-02T20:17:39.039+00:00",
+  "lastModifiedDate": "2021-04-08T16:05:26.487+00:00",
+  "developer": "YAGER",
+  "developerId": "o-w7z3vpqhq54t3gbwybuzlmx7xh3355",
+  "applicationId": null
+}

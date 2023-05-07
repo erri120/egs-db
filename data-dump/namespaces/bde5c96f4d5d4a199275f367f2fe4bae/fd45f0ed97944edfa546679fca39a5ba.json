@@ -1,0 +1,32 @@
+{
+  "id": "fd45f0ed97944edfa546679fca39a5ba",
+  "title": "Truck Driver",
+  "description": "Truck Driver",
+  "namespace": "bde5c96f4d5d4a199275f367f2fe4bae",
+  "categories": "",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_TruckDriver_SOEDESCOStudios_S1_2560x1440-74798f9c6a68d2d34ad2cf5304bf27ba",
+      "md5": "74798f9c6a68d2d34ad2cf5304bf27ba",
+      "width": 2560,
+      "height": 1440,
+      "size": 542140,
+      "uploadedDate": "2021-05-10T00:15:24.242Z"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_TruckDriver_SOEDESCOStudios_S2_1200x1600-b704edbab4970cdf1a01925aba1f2149",
+      "md5": "b704edbab4970cdf1a01925aba1f2149",
+      "width": 1200,
+      "height": 1600,
+      "size": 285019,
+      "uploadedDate": "2021-05-10T00:15:33.497Z"
+    }
+  ],
+  "creationDate": "2021-04-26T09:42:42.907+00:00",
+  "lastModifiedDate": "2021-07-12T22:21:00.257+00:00",
+  "developer": "SOEDESCO",
+  "developerId": "o-9uf2bsrkptwqbkpy867grcbj5jxrta",
+  "applicationId": "fghi4567xUzbwquYzP5JXoc5UvWmeZuc"
+}

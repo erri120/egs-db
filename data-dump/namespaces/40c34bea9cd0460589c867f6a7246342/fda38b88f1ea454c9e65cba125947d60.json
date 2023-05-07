@@ -1,0 +1,41 @@
+{
+  "id": "fda38b88f1ea454c9e65cba125947d60",
+  "title": "Batman\u2122 Arkham City - Game of the Year Edition",
+  "description": "Batman\u2122 Arkham City - Game of the Year Edition",
+  "namespace": "40c34bea9cd0460589c867f6a7246342",
+  "categories": "public/games/applications",
+  "keyImages": [
+    {
+      "type": "DieselGameBoxLogo",
+      "url": "https://cdn1.epicgames.com/40c34bea9cd0460589c867f6a7246342/item/batman_arkham_city-216x141-c89eda3c8964c7790066d04d283f2f3d.png",
+      "md5": "c89eda3c8964c7790066d04d283f2f3d",
+      "width": 216,
+      "height": 141,
+      "size": 24078,
+      "uploadedDate": "2019-09-16T20:32:46.343Z"
+    },
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/40c34bea9cd0460589c867f6a7246342/item/batman_arkham_city_promo-1920x1067-801f04c20303931bd4507f33532abb50.jpg",
+      "md5": "801f04c20303931bd4507f33532abb50",
+      "width": 1920,
+      "height": 1067,
+      "size": 252078,
+      "uploadedDate": "2019-09-16T20:40:27.387Z"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/40c34bea9cd0460589c867f6a7246342/item/batman-arkham-city_portrait-1258x1440-c502194fea40db03d838fa0368b67427.jpg",
+      "md5": "c502194fea40db03d838fa0368b67427",
+      "width": 1258,
+      "height": 1440,
+      "size": 292427,
+      "uploadedDate": "2019-10-22T09:41:44.79Z"
+    }
+  ],
+  "creationDate": "2019-08-27T22:18:29.298+00:00",
+  "lastModifiedDate": "2019-11-19T17:02:22.949+00:00",
+  "developer": "Warner Brothers",
+  "developerId": "o-7kyv8uwtz74njnl544kbxzt5xqephw",
+  "applicationId": null
+}

@@ -1,0 +1,32 @@
+{
+  "id": "ef45aef1a0ed4c88857b5befb3d14545",
+  "title": "Fall Guys Creative Press",
+  "description": "Fall Guys Creative Press",
+  "namespace": "50118b7f954e450f8823df1614b24e80",
+  "categories": "",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/item/50118b7f954e450f8823df1614b24e80/FGSS04_KeyArt_StorefrontImageLandscape_2560x1440_2560x1440-56c5a3288eeee8e5c1de3932894eca53",
+      "md5": "56c5a3288eeee8e5c1de3932894eca53",
+      "width": 2560,
+      "height": 1440,
+      "size": 1007033,
+      "uploadedDate": "2023-03-23T23:21:11.022Z"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/item/50118b7f954e450f8823df1614b24e80/FGSS04_KeyArt_OfferImagePortrait_1200x1600_1200x1600-f8dd257a8537df053a64c4e5063e62ea",
+      "md5": "f8dd257a8537df053a64c4e5063e62ea",
+      "width": 1200,
+      "height": 1600,
+      "size": 986768,
+      "uploadedDate": "2023-03-23T23:21:14.231Z"
+    }
+  ],
+  "creationDate": "2023-03-21T19:33:32.365+00:00",
+  "lastModifiedDate": "2023-03-23T23:23:11.994+00:00",
+  "developer": "EGFG LLC",
+  "developerId": "o-4m3t3rbr8yw4rpfdlb6yjppdf6ztbf",
+  "applicationId": ""
+}

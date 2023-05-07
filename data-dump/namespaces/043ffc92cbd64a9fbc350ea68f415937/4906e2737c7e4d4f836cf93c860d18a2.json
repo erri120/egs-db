@@ -1,0 +1,32 @@
+{
+  "id": "4906e2737c7e4d4f836cf93c860d18a2",
+  "title": "DubniumStaging",
+  "description": "DubniumStaging",
+  "namespace": "043ffc92cbd64a9fbc350ea68f415937",
+  "categories": "public/games/applications",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/043ffc92cbd64a9fbc350ea68f415937/item/DubniumStaging-1200x1600-2b6e0223aa4599bef3aa3f8f62fd7011.jpg",
+      "md5": "2b6e0223aa4599bef3aa3f8f62fd7011",
+      "width": 1200,
+      "height": 1600,
+      "size": 396852,
+      "uploadedDate": "2021-04-20T15:58:15.938Z"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/043ffc92cbd64a9fbc350ea68f415937/item/DubniumStaging-1200x1600-2b6e0223aa4599bef3aa3f8f62fd7011.jpg",
+      "md5": "2b6e0223aa4599bef3aa3f8f62fd7011",
+      "width": 1200,
+      "height": 1600,
+      "size": 396852,
+      "uploadedDate": "2021-04-20T15:58:32.066Z"
+    }
+  ],
+  "creationDate": "2021-02-11T17:27:41.618+00:00",
+  "lastModifiedDate": "2022-07-05T16:00:40.646+00:00",
+  "developer": "Illfonic",
+  "developerId": "o-93q5dt93b5gscqsj927vaqntszq9qc",
+  "applicationId": "fghi4567h0YkEh1OfU82exCyNv0z8OCp"
+}

@@ -1,0 +1,23 @@
+{
+  "id": "de829d3c422347c594903e6d50dc0dd6",
+  "title": "StelluaPlatinumEditionAudience",
+  "description": "StelluaPlatinumEditionAudience",
+  "namespace": "493e9ad801e8487497fe7840cb8404bb",
+  "categories": "",
+  "keyImages": [
+    {
+      "type": "ESRB",
+      "url": "https://cdn1.epicgames.com/493e9ad801e8487497fe7840cb8404bb/item/ESRB_NoDescriptors_UsersInteract-842x485-c55c3b08996eb8487d4a6956c84d6d66.jpg",
+      "md5": "c55c3b08996eb8487d4a6956c84d6d66",
+      "width": 842,
+      "height": 485,
+      "size": 86271,
+      "uploadedDate": "2020-01-23T14:38:17.635Z"
+    }
+  ],
+  "creationDate": "2020-01-22T16:45:02.995+00:00",
+  "lastModifiedDate": "2022-04-19T20:46:01.141+00:00",
+  "developer": "Focus Home",
+  "developerId": "o-wt4zxeetmq6jem7qp4pkssr46aenj5",
+  "applicationId": null
+}

@@ -1,0 +1,32 @@
+{
+  "id": "b121cb05aa38460fba4b6aac60e2fdfd",
+  "title": "Alluris",
+  "description": "Alluris",
+  "namespace": "0b9773fa2e964cf7bb5346925c162cb5",
+  "categories": "public/games/applications",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/0b9773fa2e964cf7bb5346925c162cb5/item/EGS_Alluris_562Interactive_S1-2560x1440-974ec93edf8a585c9e85210b107d38e1.jpg",
+      "md5": "974ec93edf8a585c9e85210b107d38e1",
+      "width": 2560,
+      "height": 1440,
+      "size": 961632,
+      "uploadedDate": "2020-08-06T19:27:11.738Z"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/0b9773fa2e964cf7bb5346925c162cb5/item/EGS_Alluris_562Interactive_S2-1200x1600-c6f4800b1cbfebb7383d73a01ada2e8f.jpg",
+      "md5": "c6f4800b1cbfebb7383d73a01ada2e8f",
+      "width": 1200,
+      "height": 1600,
+      "size": 268162,
+      "uploadedDate": "2020-08-06T19:27:23.058Z"
+    }
+  ],
+  "creationDate": "2020-07-20T18:18:44.129+00:00",
+  "lastModifiedDate": "2020-09-24T11:29:36.872+00:00",
+  "developer": "562 Interactive LLC",
+  "developerId": "o-3fwjhd84kkymslexsxxhea2lrtsj68",
+  "applicationId": null
+}

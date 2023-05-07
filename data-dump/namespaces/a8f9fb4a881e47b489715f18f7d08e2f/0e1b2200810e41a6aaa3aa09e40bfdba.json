@@ -1,0 +1,23 @@
+{
+  "id": "0e1b2200810e41a6aaa3aa09e40bfdba",
+  "title": "CobblerGeneralAudience",
+  "description": "CobblerGeneralAudience",
+  "namespace": "a8f9fb4a881e47b489715f18f7d08e2f",
+  "categories": "",
+  "keyImages": [
+    {
+      "type": "ESRB",
+      "url": "https://cdn1.epicgames.com/a8f9fb4a881e47b489715f18f7d08e2f/item/ESRB_WolfAmongUs-842x404-364295c21337e267e08c7983977aa2a5.jpg",
+      "md5": "364295c21337e267e08c7983977aa2a5",
+      "width": 842,
+      "height": 404,
+      "size": 51318,
+      "uploadedDate": "2019-12-11T21:41:43.744Z"
+    }
+  ],
+  "creationDate": "2019-12-11T01:58:26.124+00:00",
+  "lastModifiedDate": "2021-01-06T01:02:48.5+00:00",
+  "developer": "LCG Entertainment, Inc.",
+  "developerId": "o-w6l7l9e6c93j85x29twne9ae6su4jt",
+  "applicationId": null
+}

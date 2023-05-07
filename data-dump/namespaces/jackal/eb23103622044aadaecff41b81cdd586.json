@@ -1,0 +1,32 @@
+{
+  "id": "eb23103622044aadaecff41b81cdd586",
+  "title": "JackalStaging",
+  "description": "JackalStaging",
+  "namespace": "jackal",
+  "categories": "",
+  "keyImages": [
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/jackal/item/EGS_STAGING-1200x1600-388cc04abf23fa45de41dd9577a145e4.jpg",
+      "md5": "388cc04abf23fa45de41dd9577a145e4",
+      "width": 1200,
+      "height": 1600,
+      "size": 990811,
+      "uploadedDate": "2020-10-05T14:19:42.502Z"
+    },
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/jackal/item/EGS_STAGING-2560x1440-2e39d8934b5898270034c67a2fba0415.jpg",
+      "md5": "2e39d8934b5898270034c67a2fba0415",
+      "width": 2560,
+      "height": 1440,
+      "size": 2082817,
+      "uploadedDate": "2020-10-07T19:25:55.056Z"
+    }
+  ],
+  "creationDate": "2019-01-28T20:41:12.612+00:00",
+  "lastModifiedDate": "2020-10-07T19:25:58.622+00:00",
+  "developer": "Epic Dev Test Account",
+  "developerId": "o-ufmrk5furrrxgsp5tdngefzt5rxdcn",
+  "applicationId": null
+}

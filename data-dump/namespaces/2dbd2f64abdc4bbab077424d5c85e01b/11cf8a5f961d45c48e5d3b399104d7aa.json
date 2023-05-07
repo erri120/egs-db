@@ -1,0 +1,23 @@
+{
+  "id": "11cf8a5f961d45c48e5d3b399104d7aa",
+  "title": "SaffronClosedBetaAudience",
+  "description": "SaffronClosedBetaAudience",
+  "namespace": "2dbd2f64abdc4bbab077424d5c85e01b",
+  "categories": "",
+  "keyImages": [
+    {
+      "type": "ESRB",
+      "url": "https://cdn1.epicgames.com/2dbd2f64abdc4bbab077424d5c85e01b/item/Diesel_product_ratings_RP_FOR_T_M_AO-842x404-e685858d6f01213bedf5b2abec53be94.png",
+      "md5": "e685858d6f01213bedf5b2abec53be94",
+      "width": 842,
+      "height": 404,
+      "size": 55379,
+      "uploadedDate": "2019-05-09T04:36:42.916Z"
+    }
+  ],
+  "creationDate": "2019-08-29T14:35:50.031+00:00",
+  "lastModifiedDate": "2021-01-19T17:21:56.339+00:00",
+  "developer": "Ubisoft Entertainment",
+  "developerId": "o-3efjudxdtgsqnulml4bkeq3v9nec38",
+  "applicationId": null
+}

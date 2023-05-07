@@ -1,0 +1,23 @@
+{
+  "id": "a07c7f65867e435dac277e0284e19a5a",
+  "title": "OsmiumGeneralAudience",
+  "description": "OsmiumGeneralAudience",
+  "namespace": "08ae29e4f70a4b62aa055e383381aa82",
+  "categories": "",
+  "keyImages": [
+    {
+      "type": "ESRB",
+      "url": "https://cdn1.epicgames.com/08ae29e4f70a4b62aa055e383381aa82/item/Breathedge-398x190-302e2a60424c46282314f069ba2ff3f7.png",
+      "md5": "302e2a60424c46282314f069ba2ff3f7",
+      "width": 398,
+      "height": 190,
+      "size": 13980,
+      "uploadedDate": "2021-02-04T14:25:54.847Z"
+    }
+  ],
+  "creationDate": "2021-02-01T19:37:45.222+00:00",
+  "lastModifiedDate": "2021-02-25T17:55:18.051+00:00",
+  "developer": "Hypetrain Digital",
+  "developerId": "o-p9883lvrpllhyd7sad6tgxv53mdyh5",
+  "applicationId": null
+}

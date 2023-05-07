@@ -1,0 +1,32 @@
+{
+  "id": "48171393707541359f3a7dd7257b2757",
+  "title": "Gone Home",
+  "description": "Gone Home",
+  "namespace": "52326e805bac4619a4a8fac165363a42",
+  "categories": "public/games/applications",
+  "keyImages": [
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/52326e805bac4619a4a8fac165363a42/item/EGS_GoneHome_TheFullbrightCompany_S4-510x680-3f3615932db3d3822e5f5da78b2dcd74-510x680-3f3615932db3d3822e5f5da78b2dcd74.jpg",
+      "md5": "3f3615932db3d3822e5f5da78b2dcd74",
+      "width": 510,
+      "height": 680,
+      "size": 98870,
+      "uploadedDate": "2020-03-26T14:29:13.356Z"
+    },
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/52326e805bac4619a4a8fac165363a42/item/GoneHome_QuickLaunch-4267x2400-5799b134c7134b4aa477b0949c451cb8.jpg",
+      "md5": "5799b134c7134b4aa477b0949c451cb8",
+      "width": 4267,
+      "height": 2400,
+      "size": 1964666,
+      "uploadedDate": "2020-03-27T17:27:04.394Z"
+    }
+  ],
+  "creationDate": "2019-12-05T18:21:48.048+00:00",
+  "lastModifiedDate": "2020-03-27T17:27:22.311+00:00",
+  "developer": "The Fullbright Company",
+  "developerId": "o-3nbn496fvhxljkjn7fwgvhaq4znt37",
+  "applicationId": null
+}

@@ -1,0 +1,23 @@
+{
+  "id": "cd95e989ab994d439b41ad4dbb80a856",
+  "title": "DarksidersIIIGeneralAudience",
+  "description": "DarksidersIIIGeneralAudience",
+  "namespace": "springbok",
+  "categories": "audience",
+  "keyImages": [
+    {
+      "type": "ESRB",
+      "url": "https://cdn1.epicgames.com/springbok/item/Darksiders3-842x404-ae7a2909804d96414b049264244c56c6.png",
+      "md5": "ae7a2909804d96414b049264244c56c6",
+      "width": 842,
+      "height": 404,
+      "size": 58959,
+      "uploadedDate": "2019-04-23T20:31:13.623Z"
+    }
+  ],
+  "creationDate": "2018-12-06T01:33:45.162+00:00",
+  "lastModifiedDate": "2019-07-25T22:07:39.696+00:00",
+  "developer": "THQ Nordic GmbH",
+  "developerId": "o-jywxgemg3dagnv6fymcngq3g29mc4j",
+  "applicationId": null
+}

@@ -1,0 +1,41 @@
+{
+  "id": "9decaf63022a4c72bd9897f7f8713f3e",
+  "title": "Offworld Trading Company: The Patron and the Patriot DLC",
+  "description": "The Patron and the Patriot",
+  "namespace": "e8882546f28e4832af823c646aed232e",
+  "categories": "",
+  "keyImages": [
+    {
+      "type": "OfferImageTall",
+      "url": "https://cdn1.epicgames.com/e8882546f28e4832af823c646aed232e/offer/otc-thepandpdlc-portrait-img-1200x1600-1200x1600-973f006d22750fd314267fc44bb13cb0.jpg",
+      "md5": "973f006d22750fd314267fc44bb13cb0",
+      "width": 1200,
+      "height": 1600,
+      "size": 777418,
+      "uploadedDate": "2020-08-05T15:46:50.073Z"
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/e8882546f28e4832af823c646aed232e/offer/otc-thepandpdlc-portrait-img-1200x1600-1200x1600-973f006d22750fd314267fc44bb13cb0.jpg",
+      "md5": "973f006d22750fd314267fc44bb13cb0",
+      "width": 1200,
+      "height": 1600,
+      "size": 777418,
+      "uploadedDate": "2020-08-05T15:47:01.933Z"
+    },
+    {
+      "type": "OfferImageWide",
+      "url": "https://cdn1.epicgames.com/e8882546f28e4832af823c646aed232e/offer/otc-thepandpdlc-landscape-img-2560x1440-9329d26f8633066de37fda7d5adffe98.jpg",
+      "md5": "9329d26f8633066de37fda7d5adffe98",
+      "width": 2560,
+      "height": 1440,
+      "size": 1007612,
+      "uploadedDate": "2020-08-05T15:47:11.437Z"
+    }
+  ],
+  "creationDate": "2020-02-17T22:09:14.64+00:00",
+  "lastModifiedDate": "2022-12-13T18:52:53.896+00:00",
+  "developer": "Stardock Entertainment, Inc",
+  "developerId": "o-l69v3ppj5zgdpwtuvq6sgjew5yjt5w",
+  "applicationId": ""
+}

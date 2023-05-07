@@ -1,0 +1,23 @@
+{
+  "id": "d54cbf15fb82442e8f7a99852b188854",
+  "title": "Stellaris Dome Set Audience",
+  "description": "Stellaris Dome Set Audience",
+  "namespace": "d759128018124dcabb1fbee9bb28e178",
+  "categories": "",
+  "keyImages": [
+    {
+      "type": "ESRB",
+      "url": "https://cdn1.epicgames.com/d759128018124dcabb1fbee9bb28e178/item/ESRB_SurvivingMars-842x485-622107fc6de41234aa85e91e25e2795b.jpg",
+      "md5": "622107fc6de41234aa85e91e25e2795b",
+      "width": 842,
+      "height": 485,
+      "size": 123217,
+      "uploadedDate": "2020-01-07T14:47:41.515Z"
+    }
+  ],
+  "creationDate": "2019-09-12T20:10:22.71+00:00",
+  "lastModifiedDate": "2021-03-15T10:54:22.838+00:00",
+  "developer": "Paradox Interactive",
+  "developerId": "o-tjvfg6rejs6h86qa7k9aa64rrgbxxb",
+  "applicationId": null
+}

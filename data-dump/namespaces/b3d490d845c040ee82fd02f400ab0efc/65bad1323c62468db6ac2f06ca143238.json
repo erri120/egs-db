@@ -1,0 +1,32 @@
+{
+  "id": "65bad1323c62468db6ac2f06ca143238",
+  "title": "SpongeBob SquarePants: Battle for Bikini Bottom - Rehydrated",
+  "description": "SpongeBob SquarePants: Battle for Bikini Bottom - Rehydrated",
+  "namespace": "b3d490d845c040ee82fd02f400ab0efc",
+  "categories": "public/games/applications",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/b3d490d845c040ee82fd02f400ab0efc/item/SB_BfBB-KEY_ART-11253x6000-89f4a3ad42544743411af84e37ec4986.jpg",
+      "md5": "89f4a3ad42544743411af84e37ec4986",
+      "width": 11253,
+      "height": 6000,
+      "size": 3714161,
+      "uploadedDate": "2020-06-15T22:21:44.599Z"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/b3d490d845c040ee82fd02f400ab0efc/item/SpongebobPortrait-1200x1600-2f2eff0c423e7eaa3248500d67e3ba63.jpg",
+      "md5": "2f2eff0c423e7eaa3248500d67e3ba63",
+      "width": 1200,
+      "height": 1600,
+      "size": 492522,
+      "uploadedDate": "2020-07-01T19:36:53.454Z"
+    }
+  ],
+  "creationDate": "2020-05-27T15:11:53.483+00:00",
+  "lastModifiedDate": "2020-07-01T19:36:59.952+00:00",
+  "developer": "THQ Nordic GmbH",
+  "developerId": "o-jywxgemg3dagnv6fymcngq3g29mc4j",
+  "applicationId": null
+}

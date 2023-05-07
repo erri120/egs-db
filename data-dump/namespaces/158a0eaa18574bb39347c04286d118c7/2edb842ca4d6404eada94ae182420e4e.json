@@ -1,0 +1,32 @@
+{
+  "id": "2edb842ca4d6404eada94ae182420e4e",
+  "title": "Sludge Life",
+  "description": "Sludge Life",
+  "namespace": "158a0eaa18574bb39347c04286d118c7",
+  "categories": "public/games/applications",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/158a0eaa18574bb39347c04286d118c7/item/EGS_SLUDGELIFE_TerriVellmannDoseone_S1-2560x1440-d9ff8e9ba3ea57e017f1e7b94290d290.jpg",
+      "md5": "d9ff8e9ba3ea57e017f1e7b94290d290",
+      "width": 2560,
+      "height": 1440,
+      "size": 508632,
+      "uploadedDate": "2020-02-26T15:22:00.046Z"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/158a0eaa18574bb39347c04286d118c7/item/EGS_SLUDGELIFE_TerriVellmannDoseone_S2-860x1148-7f59d1693efaf43bbab23d485b8d7a68.jpg",
+      "md5": "7f59d1693efaf43bbab23d485b8d7a68",
+      "width": 860,
+      "height": 1148,
+      "size": 234275,
+      "uploadedDate": "2020-02-26T15:22:15.532Z"
+    }
+  ],
+  "creationDate": "2020-02-18T21:49:47.54+00:00",
+  "lastModifiedDate": "2020-05-28T13:21:34.723+00:00",
+  "developer": "Devolver Digital, Inc.",
+  "developerId": "o-plnhdz2wfx5etjjeh88szjqy2gx8gw",
+  "applicationId": null
+}

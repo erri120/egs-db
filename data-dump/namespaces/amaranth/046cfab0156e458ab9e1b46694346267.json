@@ -1,0 +1,32 @@
+{
+  "id": "046cfab0156e458ab9e1b46694346267",
+  "title": "Ancestors The Humankind Odyssey",
+  "description": "Ancestors The Humankind Odyssey",
+  "namespace": "amaranth",
+  "categories": "",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/amaranth/item/Ancestors_EGS_LandscapeProductImage_2560x1440-2560x1440-9d85873bedb2885c6cdef5f17b2426f7.jpg",
+      "md5": "9d85873bedb2885c6cdef5f17b2426f7",
+      "width": 2560,
+      "height": 1440,
+      "size": 292438,
+      "uploadedDate": "2020-10-20T17:35:03.971Z"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/amaranth/item/Ancestors_EGS_PortraitProductImage_1200x1600-1200x1600-ddddb93fd9f6c66a1a34d4be4673bf17.jpg",
+      "md5": "ddddb93fd9f6c66a1a34d4be4673bf17",
+      "width": 1200,
+      "height": 1600,
+      "size": 202522,
+      "uploadedDate": "2020-10-20T17:35:32.691Z"
+    }
+  ],
+  "creationDate": "2019-03-18T03:55:03.231+00:00",
+  "lastModifiedDate": "2020-10-20T17:35:38.331+00:00",
+  "developer": "Private Division",
+  "developerId": "o-6emrb2lpzacm9ued3z37u42x56wkaz",
+  "applicationId": null
+}

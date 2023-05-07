@@ -1,0 +1,41 @@
+{
+  "id": "752deefc5b3d43b9998a700ca3bef543",
+  "title": "Bee Simulator Pre-Purchase",
+  "description": "Bee Simulator Pre-Purchase",
+  "namespace": "b69961c88cb446a395ace83341dd94cc",
+  "categories": "public/games/applications",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/b69961c88cb446a395ace83341dd94cc/item/EGS_Bigben_BeeSimulator_L1_Library_Promo-2560x1440-2eb98aa8b29f111801f44b1d2cc9e4a0.jpg",
+      "md5": "2eb98aa8b29f111801f44b1d2cc9e4a0",
+      "width": 2560,
+      "height": 1440,
+      "size": 288331,
+      "uploadedDate": "2019-10-08T17:19:23.305Z"
+    },
+    {
+      "type": "DieselGameBoxLogo",
+      "url": "https://cdn1.epicgames.com/b69961c88cb446a395ace83341dd94cc/item/EGS_Bigben_BeeSimulator_IC1_GameLogo-200x110-a8585fbe9746c4572d086f59fe3ff8bf.png",
+      "md5": "a8585fbe9746c4572d086f59fe3ff8bf",
+      "width": 200,
+      "height": 110,
+      "size": 10828,
+      "uploadedDate": "2019-10-08T17:19:33.863Z"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/b69961c88cb446a395ace83341dd94cc/item/EGS_Bigben_BeeSimulator_S2_Store_Primary_Promo-1280x1440-252835ff190484d0fea40728c5bbea13.jpg",
+      "md5": "252835ff190484d0fea40728c5bbea13",
+      "width": 1280,
+      "height": 1440,
+      "size": 212361,
+      "uploadedDate": "2019-10-22T09:41:44.79Z"
+    }
+  ],
+  "creationDate": "2019-10-08T14:14:05.216+00:00",
+  "lastModifiedDate": "2020-01-06T15:27:14.951+00:00",
+  "developer": "Bigben Interactive",
+  "developerId": "o-wubu848ps2xcxuwv2m3bhet9gbhdbp",
+  "applicationId": null
+}

@@ -1,0 +1,32 @@
+{
+  "id": "667e9987946046af92f4b8b3a54ed417",
+  "title": "Sundered Eldritch Edition",
+  "description": "Sundered Eldritch Edition",
+  "namespace": "ca8077d80493497188e0ca5bca3ebe60",
+  "categories": "public/games/applications",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/ca8077d80493497188e0ca5bca3ebe60/item/Diesel_productv2_sundered-eldritch-edition_home_EGS_ThunderLotus_SunderedEldritchEdition_S1-2560x1440-d54465fa29a48ca1e83009788f47152e8a8e03c5-2560x1440-a0e453024c831c7d7f9812899582101e.jpg",
+      "md5": "a0e453024c831c7d7f9812899582101e",
+      "width": 2560,
+      "height": 1440,
+      "size": 160966,
+      "uploadedDate": "2020-01-04T02:43:42.934Z"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/ca8077d80493497188e0ca5bca3ebe60/item/Diesel_productv2_sundered-eldritch-edition_home_EGS_ThunderLotus_SunderedEldritchEdition_S2-860x1148-48ef3608363f199d2ed175451d08a29cf71414c3-860x1148-5eddf34fa16245497122e3c9a7954cbe.jpg",
+      "md5": "5eddf34fa16245497122e3c9a7954cbe",
+      "width": 860,
+      "height": 1148,
+      "size": 105218,
+      "uploadedDate": "2020-01-04T02:43:57.296Z"
+    }
+  ],
+  "creationDate": "2019-09-12T18:10:13.655+00:00",
+  "lastModifiedDate": "2020-01-06T18:28:36.313+00:00",
+  "developer": "Thunder Lotus Games",
+  "developerId": "o-k5nhue2lw5nkaqutyhkwrdl5qjkcd5",
+  "applicationId": null
+}

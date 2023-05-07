@@ -1,0 +1,32 @@
+{
+  "id": "a41a8ab340924001b662078d1fb79273",
+  "title": "Speed Brawl",
+  "description": "Speed Brawl",
+  "namespace": "d3f34b351df646e0ab932fd8d8e5dfc2",
+  "categories": "public/games/applications",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/3bc192d2-c308-49ff-b381-a4833b954cec_2560x1440-5b2cec10a59f7594e863eff0a51ecc37",
+      "md5": "5b2cec10a59f7594e863eff0a51ecc37",
+      "width": 2560,
+      "height": 1440,
+      "size": 591400,
+      "uploadedDate": "2021-07-28T19:53:11.128Z"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/0f93df9a-9113-4a7f-b244-bd350b0340f4_1200x1600-aa86e5269bbe48de601f1f9eca76598e",
+      "md5": "aa86e5269bbe48de601f1f9eca76598e",
+      "width": 1200,
+      "height": 1600,
+      "size": 270773,
+      "uploadedDate": "2021-07-28T19:53:16.588Z"
+    }
+  ],
+  "creationDate": "2020-12-18T19:30:51.927+00:00",
+  "lastModifiedDate": "2021-07-28T19:57:54.693+00:00",
+  "developer": "Double Stallion Games",
+  "developerId": "o-xg2qys7ndgf4m9xk9ce9tytwr3778u",
+  "applicationId": "fghi4567P1WtygWTw20zwyL3xUjGkRlu"
+}

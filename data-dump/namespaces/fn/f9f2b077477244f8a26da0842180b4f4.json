@@ -1,0 +1,23 @@
+{
+  "id": "f9f2b077477244f8a26da0842180b4f4",
+  "title": "Message of the Day - Old",
+  "description": "\u003Cimg src=\u0022https://cdn1.epicgames.com/fn/item/EmbeddedImage-01-410x134-7159182b3747a192e872b42eadaaaa9e.png\u0022/\u003E This is the Message of the day for Fortnite",
+  "namespace": "fn",
+  "categories": "applications/prod/applications/prod/content/applications",
+  "keyImages": [
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/fn/item/EmbeddedImage-01-410x134-7159182b3747a192e872b42eadaaaa9e.png",
+      "md5": "7159182b3747a192e872b42eadaaaa9e",
+      "width": 410,
+      "height": 134,
+      "size": 117909,
+      "uploadedDate": "2014-10-24T19:52:51.964Z"
+    }
+  ],
+  "creationDate": "2014-10-22T16:06:17.377+00:00",
+  "lastModifiedDate": "2017-06-07T18:31:10.306+00:00",
+  "developer": "Epic Games",
+  "developerId": "o-aa83a0a9bc45e98c80c1b1c9d92e9e",
+  "applicationId": null
+}

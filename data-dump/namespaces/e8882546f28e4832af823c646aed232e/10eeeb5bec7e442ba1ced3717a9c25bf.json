@@ -1,0 +1,32 @@
+{
+  "id": "10eeeb5bec7e442ba1ced3717a9c25bf",
+  "title": "Offworld Trading Company",
+  "description": "Offworld Trading Company",
+  "namespace": "e8882546f28e4832af823c646aed232e",
+  "categories": "public/games/applications",
+  "keyImages": [
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/e8882546f28e4832af823c646aed232e/item/EGS_MohawkGames_OffworldTradingCompany_Portrait-510x680-7a9909ce27ac1d94813f6f49f6632871.jpg",
+      "md5": "7a9909ce27ac1d94813f6f49f6632871",
+      "width": 510,
+      "height": 680,
+      "size": 60952,
+      "uploadedDate": "2020-03-05T03:05:30.78Z"
+    },
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/e8882546f28e4832af823c646aed232e/item/Diesel_productv2_offworld-trading-company_home_EGS_MohawkGames_OffworldTradingCompany_S1-2560x1440-836395b78496a58a1e2b2ce21f9084a0.jpg",
+      "md5": "836395b78496a58a1e2b2ce21f9084a0",
+      "width": 2560,
+      "height": 1440,
+      "size": 143942,
+      "uploadedDate": "2020-03-10T23:45:13.583Z"
+    }
+  ],
+  "creationDate": "2020-01-23T07:07:21.001+00:00",
+  "lastModifiedDate": "2022-12-13T18:52:53.879+00:00",
+  "developer": "Stardock Entertainment, Inc",
+  "developerId": "o-l69v3ppj5zgdpwtuvq6sgjew5yjt5w",
+  "applicationId": null
+}

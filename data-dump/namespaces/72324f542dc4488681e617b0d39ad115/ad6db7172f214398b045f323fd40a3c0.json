@@ -1,0 +1,32 @@
+{
+  "id": "ad6db7172f214398b045f323fd40a3c0",
+  "title": "SpellForce 3: Versus",
+  "description": "SpellForce 3: Versus",
+  "namespace": "72324f542dc4488681e617b0d39ad115",
+  "categories": "public/games/applications",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/72324f542dc4488681e617b0d39ad115/item/EGS_SpellForce3VersusEdition_GrimloreGames_S1-2560x1440-4ba29abefa9bf7f5c3646fbf3440be86.jpg",
+      "md5": "4ba29abefa9bf7f5c3646fbf3440be86",
+      "width": 2560,
+      "height": 1440,
+      "size": 184598,
+      "uploadedDate": "2020-10-29T13:14:34.83Z"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/72324f542dc4488681e617b0d39ad115/item/EGS_SpellForce3VersusEdition_GrimloreGames_S2-1200x1600-9a12662da22ce51a12ef1733846b9548.jpg",
+      "md5": "9a12662da22ce51a12ef1733846b9548",
+      "width": 1200,
+      "height": 1600,
+      "size": 103105,
+      "uploadedDate": "2020-10-29T13:14:42.266Z"
+    }
+  ],
+  "creationDate": "2020-10-28T15:27:48.136+00:00",
+  "lastModifiedDate": "2020-12-14T13:53:02.985+00:00",
+  "developer": "THQ Nordic GmbH",
+  "developerId": "o-jywxgemg3dagnv6fymcngq3g29mc4j",
+  "applicationId": "fghi4567znkhWAj3VE9jSR6d5YXzLpsF"
+}

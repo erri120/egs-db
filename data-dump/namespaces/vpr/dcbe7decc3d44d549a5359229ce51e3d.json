@@ -1,0 +1,23 @@
+{
+  "id": "dcbe7decc3d44d549a5359229ce51e3d",
+  "title": "MAC Message of the Day",
+  "description": "Viper MOTD TEXT",
+  "namespace": "vpr",
+  "categories": "applications/prod/applications/prod/content/applications",
+  "keyImages": [
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/vpr/item/comp-MOTD-mac-440x90-8f03dfce005d1ad449140bbb5e4b9036.png",
+      "md5": "8f03dfce005d1ad449140bbb5e4b9036",
+      "width": 440,
+      "height": 90,
+      "size": 4968,
+      "uploadedDate": "2015-12-10T00:19:11.749Z"
+    }
+  ],
+  "creationDate": "2015-12-09T20:18:28.904+00:00",
+  "lastModifiedDate": "2017-08-04T19:16:58.878+00:00",
+  "developer": "Epic Games",
+  "developerId": "o-aa83a0a9bc45e98c80c1b1c9d92e9e",
+  "applicationId": null
+}

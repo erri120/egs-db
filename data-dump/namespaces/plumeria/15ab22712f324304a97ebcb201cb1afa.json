@@ -1,0 +1,32 @@
+{
+  "id": "15ab22712f324304a97ebcb201cb1afa",
+  "title": "Shakedown Hawaii Pre-Purchase",
+  "description": "Shakedown Hawaii Pre-Purchase",
+  "namespace": "plumeria",
+  "categories": "dummy/games/applications",
+  "keyImages": [
+    {
+      "type": "DieselGameBoxLogo",
+      "url": "https://cdn1.epicgames.com/plumeria/item/ShakedownHawaii-Logo-1459x600-3d7a42af873503ae6c55e2083c1e5537.png",
+      "md5": "3d7a42af873503ae6c55e2083c1e5537",
+      "width": 1459,
+      "height": 600,
+      "size": 104786,
+      "uploadedDate": "2019-05-06T19:50:14.662Z"
+    },
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/plumeria/item/ShakedownHawaii_Promo-2580x1450-5b87fc84c5720ea869db7e18dd746a3b.jpg",
+      "md5": "5b87fc84c5720ea869db7e18dd746a3b",
+      "width": 2580,
+      "height": 1450,
+      "size": 312038,
+      "uploadedDate": "2019-05-06T19:50:22.735Z"
+    }
+  ],
+  "creationDate": "2019-05-06T19:53:57.12+00:00",
+  "lastModifiedDate": "2019-05-08T08:55:50.382+00:00",
+  "developer": "Vblank Entertainment",
+  "developerId": "o-xyhkq3r6skdr6tbhalgcbp3264asl3",
+  "applicationId": null
+}

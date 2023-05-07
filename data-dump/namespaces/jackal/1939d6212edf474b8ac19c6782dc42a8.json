@@ -1,0 +1,32 @@
+{
+  "id": "1939d6212edf474b8ac19c6782dc42a8",
+  "title": "Dauntless - Platinum \u002B Oculus Umbra Booster Bundle",
+  "description": "Dauntless - Platinum \u002B Oculus Umbra Booster Bundle",
+  "namespace": "jackal",
+  "categories": "",
+  "keyImages": [
+    {
+      "type": "ESRB",
+      "url": "https://cdn1.epicgames.com/jackal/item/ESRB_Dauntless_T-1080x516-23b23f06c04aa11263b4f2e9fd9deb0c.jpg",
+      "md5": "23b23f06c04aa11263b4f2e9fd9deb0c",
+      "width": 1080,
+      "height": 516,
+      "size": 36613,
+      "uploadedDate": "2019-05-21T13:19:03.387Z"
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/jackal/item/Epic_oculus_umbra_booster_bundle_LandscapeOffer-2560x1440-a5ab94fe14c9d1c363ad130026d6a966.jpg",
+      "md5": "a5ab94fe14c9d1c363ad130026d6a966",
+      "width": 2560,
+      "height": 1440,
+      "size": 573305,
+      "uploadedDate": "2020-06-10T13:58:26.769Z"
+    }
+  ],
+  "creationDate": "2020-06-10T13:55:59.43+00:00",
+  "lastModifiedDate": "2020-09-17T16:58:56.249+00:00",
+  "developer": "Phoenix Labs",
+  "developerId": "o-krlzxj88qrtb69fredeuaf887bl5az",
+  "applicationId": null
+}

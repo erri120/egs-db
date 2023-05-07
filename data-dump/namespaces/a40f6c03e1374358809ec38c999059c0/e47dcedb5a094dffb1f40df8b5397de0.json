@@ -1,0 +1,32 @@
+{
+  "id": "e47dcedb5a094dffb1f40df8b5397de0",
+  "title": "Foregone Review Build",
+  "description": "Foregone Review Build",
+  "namespace": "a40f6c03e1374358809ec38c999059c0",
+  "categories": "public/games/applications",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/a40f6c03e1374358809ec38c999059c0/item/EGS_Foregone_BigBlueBubble_S5-1920x1080-b92831431aa732b9996c99c5419711e2-1920x1080-b92831431aa732b9996c99c5419711e2.jpg",
+      "md5": "b92831431aa732b9996c99c5419711e2",
+      "width": 1920,
+      "height": 1080,
+      "size": 961423,
+      "uploadedDate": "2020-09-22T16:01:47.109Z"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/a40f6c03e1374358809ec38c999059c0/item/EGS_Foregone_BigBlueBubble_S6-1200x1600-48824e208dcf5f4a692a8804f0f7d441-1200x1600-48824e208dcf5f4a692a8804f0f7d441.jpg",
+      "md5": "48824e208dcf5f4a692a8804f0f7d441",
+      "width": 1200,
+      "height": 1600,
+      "size": 955146,
+      "uploadedDate": "2020-09-22T16:01:57.365Z"
+    }
+  ],
+  "creationDate": "2020-06-09T20:02:37.029+00:00",
+  "lastModifiedDate": "2020-09-22T16:02:31.915+00:00",
+  "developer": "Big Blue Bubble, Inc.",
+  "developerId": "o-r7nfesqr4qcafkmfwmp9hpu492f228",
+  "applicationId": null
+}

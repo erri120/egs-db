@@ -1,0 +1,32 @@
+{
+  "id": "88b0946279d143fd82f636d3b653215c",
+  "title": "OcelotStaging",
+  "description": "OcelotStaging",
+  "namespace": "ocelot",
+  "categories": "",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/ocelot/item/WD4-GAME-PAGE-PROMOTION-1032x580-fc8d3354944365448c18712eaf5497c7.jpg",
+      "md5": "fc8d3354944365448c18712eaf5497c7",
+      "width": 1032,
+      "height": 580,
+      "size": 258526,
+      "uploadedDate": "2019-01-12T17:32:20.117Z"
+    },
+    {
+      "type": "DieselGameBoxLogo",
+      "url": "https://cdn1.epicgames.com/ocelot/item/WD4_GAME-LOGO_COLOR-604x431-a22d75c31995c89f405f8a1b7d7f84d5.png",
+      "md5": "a22d75c31995c89f405f8a1b7d7f84d5",
+      "width": 604,
+      "height": 431,
+      "size": 204380,
+      "uploadedDate": "2019-01-12T17:32:27.32Z"
+    }
+  ],
+  "creationDate": "2018-12-13T22:22:59.139+00:00",
+  "lastModifiedDate": "2019-01-12T17:32:43.502+00:00",
+  "developer": "Skybound Interactive",
+  "developerId": "o-rqvssgn2hhj58wv5bc6eueqswz2un4",
+  "applicationId": null
+}

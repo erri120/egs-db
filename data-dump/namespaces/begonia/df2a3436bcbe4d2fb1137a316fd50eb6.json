@@ -1,0 +1,41 @@
+{
+  "id": "df2a3436bcbe4d2fb1137a316fd50eb6",
+  "title": "BegoniaStaging",
+  "description": "BegoniaStaging",
+  "namespace": "begonia",
+  "categories": "",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/begonia/item/EGS_SKYBOUND_TWD3_1068x601-1068x601-f049413e8200bd6cffe66b1927df50f2.jpg",
+      "md5": "f049413e8200bd6cffe66b1927df50f2",
+      "width": 1068,
+      "height": 601,
+      "size": 121974,
+      "uploadedDate": "2019-03-26T02:11:22.473Z"
+    },
+    {
+      "type": "DieselGameBoxLogo",
+      "url": "https://cdn1.epicgames.com/begonia/item/WD3-Logo-600x425-d59ca44ca424e139ab104c4bfbacde84.png",
+      "md5": "d59ca44ca424e139ab104c4bfbacde84",
+      "width": 600,
+      "height": 425,
+      "size": 275514,
+      "uploadedDate": "2019-03-26T02:11:30.85Z"
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/begonia/item/TWD3_GameIcon-400x400-6304e701fa33387d8487463c40c3f607.png",
+      "md5": "6304e701fa33387d8487463c40c3f607",
+      "width": 400,
+      "height": 400,
+      "size": 41952,
+      "uploadedDate": "2019-03-26T02:11:41.165Z"
+    }
+  ],
+  "creationDate": "2019-03-08T18:26:41.998+00:00",
+  "lastModifiedDate": "2019-05-06T16:57:20.892+00:00",
+  "developer": "Skybound Interactive",
+  "developerId": "o-rqvssgn2hhj58wv5bc6eueqswz2un4",
+  "applicationId": null
+}

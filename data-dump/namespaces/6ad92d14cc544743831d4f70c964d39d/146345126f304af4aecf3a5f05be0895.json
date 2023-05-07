@@ -1,0 +1,32 @@
+{
+  "id": "146345126f304af4aecf3a5f05be0895",
+  "title": "SpellForce 3: Fallen God",
+  "description": "SpellForce 3: Fallen God",
+  "namespace": "6ad92d14cc544743831d4f70c964d39d",
+  "categories": "public/games/applications",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/6ad92d14cc544743831d4f70c964d39d/item/EGS_SpellForce3FallenGod_GrimloreGames_S1-2560x1440-165fecf687d3d41c629810a4ea1f91fc.jpg",
+      "md5": "165fecf687d3d41c629810a4ea1f91fc",
+      "width": 2560,
+      "height": 1440,
+      "size": 510071,
+      "uploadedDate": "2020-10-27T17:15:54.755Z"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/6ad92d14cc544743831d4f70c964d39d/item/EGS_SpellForce3FallenGod_GrimloreGames_S2-1200x1600-3d4bb77f9ccb857720875076707bd7a7.jpg",
+      "md5": "3d4bb77f9ccb857720875076707bd7a7",
+      "width": 1200,
+      "height": 1600,
+      "size": 316395,
+      "uploadedDate": "2020-10-27T17:16:05.497Z"
+    }
+  ],
+  "creationDate": "2020-10-27T11:50:49.884+00:00",
+  "lastModifiedDate": "2020-12-14T13:54:38.302+00:00",
+  "developer": "THQ Nordic GmbH",
+  "developerId": "o-jywxgemg3dagnv6fymcngq3g29mc4j",
+  "applicationId": "fghi4567z5LLoUQMeHY1iXdgg0f45qWO"
+}

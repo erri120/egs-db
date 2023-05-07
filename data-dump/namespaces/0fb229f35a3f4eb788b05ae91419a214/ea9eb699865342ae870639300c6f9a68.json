@@ -1,0 +1,32 @@
+{
+  "id": "ea9eb699865342ae870639300c6f9a68",
+  "title": "Arise Soundtrack - Bonus DLC",
+  "description": "Arise Soundtrack - Bonus DLC",
+  "namespace": "0fb229f35a3f4eb788b05ae91419a214",
+  "categories": "public/games/applications",
+  "keyImages": [
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/0fb229f35a3f4eb788b05ae91419a214/item/EGS_AriseASimpleStory_Piccolo_S2-1200x1600-a99acac35e6576f125862bdc212e8769.jpg",
+      "md5": "a99acac35e6576f125862bdc212e8769",
+      "width": 1200,
+      "height": 1600,
+      "size": 574669,
+      "uploadedDate": "2020-08-18T22:15:12.371Z"
+    },
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/0fb229f35a3f4eb788b05ae91419a214/item/EGS_AriseASimpleStory_Piccolo_S1-2560x1440-6aea478dd424286408af4faf8f5d72e0.jpg",
+      "md5": "6aea478dd424286408af4faf8f5d72e0",
+      "width": 2560,
+      "height": 1440,
+      "size": 784402,
+      "uploadedDate": "2020-08-18T22:15:22.391Z"
+    }
+  ],
+  "creationDate": "2019-09-23T14:55:20.061+00:00",
+  "lastModifiedDate": "2020-08-18T22:16:42.212+00:00",
+  "developer": "Techland",
+  "developerId": "o-2j5hh2gww8vepy62sf9dvqelweczxj",
+  "applicationId": null
+}

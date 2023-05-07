@@ -1,0 +1,32 @@
+{
+  "id": "6de90e98ba294bc6bb8d9215330f3987",
+  "title": "Telltale Batman Season 1",
+  "description": "The Telltale Batman Shadows Edition Season 1",
+  "namespace": "f2bfff793b224f6190a394f461c9a4b8",
+  "categories": "public/games/applications",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/f2bfff793b224f6190a394f461c9a4b8/item/TheTelltaleBatmanShadowsEdition-2560x1440-1ababb36a948b5c732ab85a330787e85.jpg",
+      "md5": "1ababb36a948b5c732ab85a330787e85",
+      "width": 2560,
+      "height": 1440,
+      "size": 404734,
+      "uploadedDate": "2019-12-16T16:29:42.628Z"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/f2bfff793b224f6190a394f461c9a4b8/item/EGS_LCGEntertainmentInc_TheTelltaleBatmanShadowsEdition_S2-1280x1440-fd5b112cdbb50096f95471aba82e18f9.jpg",
+      "md5": "fd5b112cdbb50096f95471aba82e18f9",
+      "width": 1280,
+      "height": 1440,
+      "size": 442544,
+      "uploadedDate": "2019-12-16T16:29:54.894Z"
+    }
+  ],
+  "creationDate": "2019-11-16T03:43:47.627+00:00",
+  "lastModifiedDate": "2021-01-06T02:14:08.165+00:00",
+  "developer": "LCG Entertainment, Inc.",
+  "developerId": "o-w6l7l9e6c93j85x29twne9ae6su4jt",
+  "applicationId": null
+}

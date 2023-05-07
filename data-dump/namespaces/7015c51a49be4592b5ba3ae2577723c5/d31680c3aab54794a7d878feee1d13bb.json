@@ -1,0 +1,32 @@
+{
+  "id": "d31680c3aab54794a7d878feee1d13bb",
+  "title": "Waterborne",
+  "description": "Waterborne",
+  "namespace": "7015c51a49be4592b5ba3ae2577723c5",
+  "categories": "public/games/applications",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/7015c51a49be4592b5ba3ae2577723c5/item/EGS_Waterborne_HaemimontGames_Expansion_S1-2560x1440-d616ad20a1e70b943487ffbfc9b99f62.jpg",
+      "md5": "d616ad20a1e70b943487ffbfc9b99f62",
+      "width": 2560,
+      "height": 1440,
+      "size": 984925,
+      "uploadedDate": "2020-11-16T16:05:13.549Z"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/7015c51a49be4592b5ba3ae2577723c5/item/EGS_Waterborne_HaemimontGames_Expansion_S2-1200x1600-be6c7a3134a61d8ee407ad8eacd50aba.jpg",
+      "md5": "be6c7a3134a61d8ee407ad8eacd50aba",
+      "width": 1200,
+      "height": 1600,
+      "size": 947644,
+      "uploadedDate": "2020-11-16T16:05:21.972Z"
+    }
+  ],
+  "creationDate": "2020-05-08T17:23:14.568+00:00",
+  "lastModifiedDate": "2020-12-16T18:21:41.176+00:00",
+  "developer": "Kalypso Media Group GmbH",
+  "developerId": "o-37ss7wypkskvyj58j9s7hhltxtujac",
+  "applicationId": null
+}

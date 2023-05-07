@@ -1,0 +1,23 @@
+{
+  "id": "8e50bce8811f4a43a9fd6038371271d9",
+  "title": "HiddeniteDeluxeEditionGeneralAudience",
+  "description": "HiddeniteDeluxeEditionGeneralAudience",
+  "namespace": "2736ab9fec9c4a93a7a2872ed5154d4b",
+  "categories": "",
+  "keyImages": [
+    {
+      "type": "ESRB",
+      "url": "https://cdn1.epicgames.com/2736ab9fec9c4a93a7a2872ed5154d4b/item/ESRB_Rage2-842x485-be4113c74a4ed5e9175d7273aeaa611e.png",
+      "md5": "be4113c74a4ed5e9175d7273aeaa611e",
+      "width": 842,
+      "height": 485,
+      "size": 83312,
+      "uploadedDate": "2021-02-18T16:07:48.574Z"
+    }
+  ],
+  "creationDate": "2020-11-04T19:39:03.082+00:00",
+  "lastModifiedDate": "2021-02-18T16:07:51.686+00:00",
+  "developer": "Bethesda Softworks LLC",
+  "developerId": "o-bthbhn6wd7fzj73v5p4436ucn3k37u",
+  "applicationId": null
+}

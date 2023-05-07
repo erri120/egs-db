@@ -1,0 +1,32 @@
+{
+  "id": "e72e41889bb543c59925d7cd31176d0c",
+  "title": "Sherlock Holmes: The Devil\u0027s Daughter",
+  "description": "Sherlock Holmes: The Devil\u0027s Daughter",
+  "namespace": "cinnamon",
+  "categories": "",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/item/cinnamon/EGS_SherlockHolmesTheDevilsDaughter_Frogwares_S1_2560x1440-3852321c809322210cb7522fc72cbf86_2560x1440-3852321c809322210cb7522fc72cbf86",
+      "md5": "3852321c809322210cb7522fc72cbf86",
+      "width": 2560,
+      "height": 1440,
+      "size": 804294,
+      "uploadedDate": "2023-03-31T18:02:18.376Z"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/item/cinnamon/EGS_SherlockHolmesTheDevilsDaughter_Frogwares_S2_1200x1600-f7135cf6cabd6b1d2b15cd94473bbebd_1200x1600-f7135cf6cabd6b1d2b15cd94473bbebd",
+      "md5": "f7135cf6cabd6b1d2b15cd94473bbebd",
+      "width": 1200,
+      "height": 1600,
+      "size": 459722,
+      "uploadedDate": "2023-03-31T18:02:21.236Z"
+    }
+  ],
+  "creationDate": "2019-03-20T03:10:05.66+00:00",
+  "lastModifiedDate": "2023-03-31T18:02:24.494+00:00",
+  "developer": "Frogwares",
+  "developerId": "o-rlw9u3sem84g2hc3ur36dqnp7wul3j",
+  "applicationId": ""
+}

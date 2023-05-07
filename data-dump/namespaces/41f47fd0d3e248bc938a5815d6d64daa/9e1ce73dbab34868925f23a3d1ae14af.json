@@ -1,0 +1,23 @@
+{
+  "id": "9e1ce73dbab34868925f23a3d1ae14af",
+  "title": "BluebirdDevAudience",
+  "description": "BluebirdDevAudience",
+  "namespace": "41f47fd0d3e248bc938a5815d6d64daa",
+  "categories": "",
+  "keyImages": [
+    {
+      "type": "ESRB",
+      "url": "https://cdn1.epicgames.com/41f47fd0d3e248bc938a5815d6d64daa/item/ESRB_Fez-800x450-1303859e5a0f931464a6f08df94537a0.png",
+      "md5": "1303859e5a0f931464a6f08df94537a0",
+      "width": 800,
+      "height": 450,
+      "size": 6139,
+      "uploadedDate": "2019-08-14T13:56:46.552Z"
+    }
+  ],
+  "creationDate": "2019-08-09T14:07:34.596+00:00",
+  "lastModifiedDate": "2019-08-22T15:00:05.495+00:00",
+  "developer": "Polytron Corporation, Inc",
+  "developerId": "o-yh6xe9ws2y6xcgrbr27lvspn3ulb5e",
+  "applicationId": null
+}

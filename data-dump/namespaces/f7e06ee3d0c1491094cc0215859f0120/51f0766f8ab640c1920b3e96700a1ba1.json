@@ -1,0 +1,32 @@
+{
+  "id": "51f0766f8ab640c1920b3e96700a1ba1",
+  "title": "FlourStaging",
+  "description": "FlourStaging",
+  "namespace": "f7e06ee3d0c1491094cc0215859f0120",
+  "categories": "public/games/applications",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/f7e06ee3d0c1491094cc0215859f0120/item/EGS_HouseHouse_UntitledGooseGame_N2-2560x1440-fa34d0c12f4e4200d78e7fc8a4a95233.jpg",
+      "md5": "fa34d0c12f4e4200d78e7fc8a4a95233",
+      "width": 2560,
+      "height": 1440,
+      "size": 497776,
+      "uploadedDate": "2019-06-07T16:16:22.222Z"
+    },
+    {
+      "type": "DieselGameBoxLogo",
+      "url": "https://cdn1.epicgames.com/f7e06ee3d0c1491094cc0215859f0120/item/EGS_HouseHouse_UntitledGooseGame_IC1_SVGColourLight-1108x367-ae5e6b33b09a3924991b2ff29fd57891.png",
+      "md5": "ae5e6b33b09a3924991b2ff29fd57891",
+      "width": 1108,
+      "height": 367,
+      "size": 24281,
+      "uploadedDate": "2019-06-07T16:16:46.406Z"
+    }
+  ],
+  "creationDate": "2019-06-06T18:11:04.949+00:00",
+  "lastModifiedDate": "2019-09-23T17:14:49.611+00:00",
+  "developer": "Panic",
+  "developerId": "o-a62axwpwx275msq4yzhdhk9acaf8x3",
+  "applicationId": null
+}

@@ -1,0 +1,41 @@
+{
+  "id": "0c99562606ed4ef0a84fe08a6ddc8821",
+  "title": "NemesiaStaging",
+  "description": "NemesiaStaging",
+  "namespace": "nemesia",
+  "categories": "",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/nemesia/item/EGS_PDX_FRASIER_L1_LIBRARY-2560x1440-dc21e0da490f2d1020a099110fb7676d.jpg",
+      "md5": "dc21e0da490f2d1020a099110fb7676d",
+      "width": 2560,
+      "height": 1440,
+      "size": 322337,
+      "uploadedDate": "2019-03-18T19:46:35.878Z"
+    },
+    {
+      "type": "DieselGameBoxLogo",
+      "url": "https://cdn1.epicgames.com/nemesia/item/EGS_PDX_FRASIER_IC1_LOGO_WHITE-957x232-2a8443723956a3e7fbcae636c8e683cc.png",
+      "md5": "2a8443723956a3e7fbcae636c8e683cc",
+      "width": 957,
+      "height": 232,
+      "size": 36910,
+      "uploadedDate": "2019-03-18T19:47:03.928Z"
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/nemesia/item/EGS_PDX_FRASIER_IC2_ICON-400x400-d83103e26a8d3504d4984b2404dc513b.png",
+      "md5": "d83103e26a8d3504d4984b2404dc513b",
+      "width": 400,
+      "height": 400,
+      "size": 44433,
+      "uploadedDate": "2019-03-18T19:47:17.766Z"
+    }
+  ],
+  "creationDate": "2019-03-13T12:14:55.929+00:00",
+  "lastModifiedDate": "2019-05-06T20:59:08.155+00:00",
+  "developer": "Paradox Interactive",
+  "developerId": "o-tjvfg6rejs6h86qa7k9aa64rrgbxxb",
+  "applicationId": null
+}

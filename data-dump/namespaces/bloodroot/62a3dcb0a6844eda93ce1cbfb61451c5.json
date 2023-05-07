@@ -1,0 +1,41 @@
+{
+  "id": "62a3dcb0a6844eda93ce1cbfb61451c5",
+  "title": "BloodrootStaging",
+  "description": "BloodrootStaging",
+  "namespace": "bloodroot",
+  "categories": "",
+  "keyImages": [
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/bloodroot/item/TWD1_GameIcon_400x400-400x400-1a4275b696e8bbc01257e02f5470c0c9.png",
+      "md5": "1a4275b696e8bbc01257e02f5470c0c9",
+      "width": 400,
+      "height": 400,
+      "size": 180250,
+      "uploadedDate": "2019-03-26T01:44:35.24Z"
+    },
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/bloodroot/item/TWD1_Primary Promo_NoLogo_792x445-792x445-de860f6dc1ec5db943d28d6a7b37245e.jpg",
+      "md5": "de860f6dc1ec5db943d28d6a7b37245e",
+      "width": 792,
+      "height": 445,
+      "size": 28790,
+      "uploadedDate": "2019-03-26T01:44:47.801Z"
+    },
+    {
+      "type": "DieselGameBoxLogo",
+      "url": "https://cdn1.epicgames.com/bloodroot/item/EGS_SKYBOUND_WD1-Logo-color-704x514-6c8b2d8bee6ba282db9c21ea5383f4c6.png",
+      "md5": "6c8b2d8bee6ba282db9c21ea5383f4c6",
+      "width": 704,
+      "height": 514,
+      "size": 107753,
+      "uploadedDate": "2019-03-26T01:45:05.233Z"
+    }
+  ],
+  "creationDate": "2019-03-08T22:25:23.248+00:00",
+  "lastModifiedDate": "2019-05-06T16:57:20.515+00:00",
+  "developer": "Skybound Interactive",
+  "developerId": "o-rqvssgn2hhj58wv5bc6eueqswz2un4",
+  "applicationId": null
+}

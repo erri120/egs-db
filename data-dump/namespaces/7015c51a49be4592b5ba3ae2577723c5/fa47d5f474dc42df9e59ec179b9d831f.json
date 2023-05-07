@@ -1,0 +1,23 @@
+{
+  "id": "fa47d5f474dc42df9e59ec179b9d831f",
+  "title": "SiameseGeneralAudience",
+  "description": "SiameseGeneralAudience",
+  "namespace": "7015c51a49be4592b5ba3ae2577723c5",
+  "categories": "",
+  "keyImages": [
+    {
+      "type": "ESRB",
+      "url": "https://cdn1.epicgames.com/7015c51a49be4592b5ba3ae2577723c5/item/ESRB_Tropico5-842x485-e11734ae7c70a9c5f8be63aaad9e9819.png",
+      "md5": "e11734ae7c70a9c5f8be63aaad9e9819",
+      "width": 842,
+      "height": 485,
+      "size": 70470,
+      "uploadedDate": "2020-11-16T15:16:32.468Z"
+    }
+  ],
+  "creationDate": "2020-05-08T17:14:52.67+00:00",
+  "lastModifiedDate": "2020-12-16T18:21:41.184+00:00",
+  "developer": "Kalypso Media Group GmbH",
+  "developerId": "o-37ss7wypkskvyj58j9s7hhltxtujac",
+  "applicationId": null
+}

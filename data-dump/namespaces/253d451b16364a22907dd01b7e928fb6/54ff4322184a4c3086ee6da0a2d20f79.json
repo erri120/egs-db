@@ -1,0 +1,32 @@
+{
+  "id": "54ff4322184a4c3086ee6da0a2d20f79",
+  "title": "Horizon Chase Turbo",
+  "description": "Horizon Chase Turbo",
+  "namespace": "253d451b16364a22907dd01b7e928fb6",
+  "categories": "public/games/applications",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_HorizonChaseTurbo_AQUIRIS_S1_2560x1440-1e6041993df289505da364dfe77dd561",
+      "md5": "1e6041993df289505da364dfe77dd561",
+      "width": 2560,
+      "height": 1440,
+      "size": 1015493,
+      "uploadedDate": "2021-06-22T03:08:52.872Z"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_HorizonChaseTurbo_AQUIRIS_S2_1200x1600-7b51e6b8f8cf6ebd50f5fb77be96ad9d",
+      "md5": "7b51e6b8f8cf6ebd50f5fb77be96ad9d",
+      "width": 1200,
+      "height": 1600,
+      "size": 831526,
+      "uploadedDate": "2021-06-22T03:08:55.796Z"
+    }
+  ],
+  "creationDate": "2021-01-26T22:56:10.468+00:00",
+  "lastModifiedDate": "2021-06-23T14:48:18.562+00:00",
+  "developer": "AQUIRIS",
+  "developerId": "o-9vdp6e5ydhtqt23utprf59f8hg45se",
+  "applicationId": "fghi45675C1cu2PAvMQpN9ZV51TysurJ"
+}

@@ -1,0 +1,41 @@
+{
+  "id": "716245e44f694937b68792dcd090a15c",
+  "title": "World of Goo",
+  "description": "World of Goo",
+  "namespace": "anemone",
+  "categories": "",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/anemone/item/World-of-Goo-Primary-Promo-2580x1450-87541c2003ec70eb7e88f06024243758.jpg",
+      "md5": "87541c2003ec70eb7e88f06024243758",
+      "width": 2580,
+      "height": 1450,
+      "size": 107276,
+      "uploadedDate": "2019-04-17T18:12:39.248Z"
+    },
+    {
+      "type": "DieselGameBoxLogo",
+      "url": "https://cdn1.epicgames.com/anemone/item/World-of-Goo-Logo-Black-2008x1127-2496166c92c6a710d0bf72f1132e5411-2008x1127-2496166c92c6a710d0bf72f1132e5411.png",
+      "md5": "2496166c92c6a710d0bf72f1132e5411",
+      "width": 2008,
+      "height": 1127,
+      "size": 287556,
+      "uploadedDate": "2019-05-02T15:14:24.022Z"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/anemone/item/World-of-Goo-Portrait-Promo-1280x1420-446b7c423ee27ac17a5637b84eb8aa39.jpg",
+      "md5": "446b7c423ee27ac17a5637b84eb8aa39",
+      "width": 1280,
+      "height": 1420,
+      "size": 92398,
+      "uploadedDate": "2019-10-22T09:41:44.79Z"
+    }
+  ],
+  "creationDate": "2019-02-14T19:01:43.178+00:00",
+  "lastModifiedDate": "2019-11-19T17:04:18.386+00:00",
+  "developer": "2D Boy",
+  "developerId": "o-fdxn5bcapezptpk6s97ksd6hg6rkls",
+  "applicationId": null
+}

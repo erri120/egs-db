@@ -1,0 +1,23 @@
+{
+  "id": "b232c16ad45e4f2eb135be5177a18f38",
+  "title": "KestrelGeneralAudience",
+  "description": "KestrelGeneralAudience",
+  "namespace": "kestrel",
+  "categories": "audience",
+  "keyImages": [
+    {
+      "type": "ESRB",
+      "url": "https://cdn1.epicgames.com/kestrel/item/ESRB_DonutCounty_E-842x404-14a3fdd5c48cb5de0b4aa1cbeece8deb.png",
+      "md5": "14a3fdd5c48cb5de0b4aa1cbeece8deb",
+      "width": 842,
+      "height": 404,
+      "size": 46130,
+      "uploadedDate": "2020-01-08T21:25:11.241Z"
+    }
+  ],
+  "creationDate": "2018-12-17T15:30:08.991+00:00",
+  "lastModifiedDate": "2020-01-08T21:25:15.378+00:00",
+  "developer": "Annapurna Interactive",
+  "developerId": "o-bmeb3ztlbxkjc8vvpydava38yvmxlm",
+  "applicationId": null
+}

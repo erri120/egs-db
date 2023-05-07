@@ -1,0 +1,23 @@
+{
+  "id": "f66cb777ae35406d9e83f11673fdb6b1",
+  "title": "BanjoGeneralAudience",
+  "description": "BanjoGeneralAudience",
+  "namespace": "270e1d648a5e4060b7b441615c4da4d9",
+  "categories": "",
+  "keyImages": [
+    {
+      "type": "ESRB",
+      "url": "https://cdn1.epicgames.com/270e1d648a5e4060b7b441615c4da4d9/item/Diesel_productv2_figment_ESRB_Figment-842x404-5647f3179b22070e80c1ef80ffee36b67396a88e-842x404-de0c5db3adbc8147f98f97a93c0dda09.jpg",
+      "md5": "de0c5db3adbc8147f98f97a93c0dda09",
+      "width": 842,
+      "height": 404,
+      "size": 33504,
+      "uploadedDate": "2020-03-26T15:04:03.716Z"
+    }
+  ],
+  "creationDate": "2019-11-06T20:59:29.113+00:00",
+  "lastModifiedDate": "2020-05-15T02:43:09.766+00:00",
+  "developer": "Bedtime Digital Games ApS",
+  "developerId": "o-bdq65kgy9hhkz5n4gkjlyt3uju86hw",
+  "applicationId": null
+}

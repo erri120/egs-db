@@ -1,0 +1,32 @@
+{
+  "id": "7bb4410220684425b9d58ea8c5a2b9d2",
+  "title": "SpellForce 3: Fallen God Soundtrack",
+  "description": "SpellForce 3: Fallen God Soundtrack",
+  "namespace": "6ad92d14cc544743831d4f70c964d39d",
+  "categories": "public/games/applications",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/6ad92d14cc544743831d4f70c964d39d/item/EGS_SpellForce3FallenGodSoundtrack_GrimloreGames_DigitalExtras_S1-2560x1440-f602c58ae73482d8f49575e3f667a897.jpg",
+      "md5": "f602c58ae73482d8f49575e3f667a897",
+      "width": 2560,
+      "height": 1440,
+      "size": 514048,
+      "uploadedDate": "2020-10-27T18:23:43.88Z"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/6ad92d14cc544743831d4f70c964d39d/item/EGS_SpellForce3FallenGodSoundtrack_GrimloreGames_DigitalExtras_S2-1200x1600-21a5d9c59cf730a90dd2a8fb501e3ca1.jpg",
+      "md5": "21a5d9c59cf730a90dd2a8fb501e3ca1",
+      "width": 1200,
+      "height": 1600,
+      "size": 321429,
+      "uploadedDate": "2020-10-27T18:23:52.577Z"
+    }
+  ],
+  "creationDate": "2020-10-27T11:51:48.879+00:00",
+  "lastModifiedDate": "2020-12-14T13:54:38.314+00:00",
+  "developer": "THQ Nordic GmbH",
+  "developerId": "o-jywxgemg3dagnv6fymcngq3g29mc4j",
+  "applicationId": null
+}

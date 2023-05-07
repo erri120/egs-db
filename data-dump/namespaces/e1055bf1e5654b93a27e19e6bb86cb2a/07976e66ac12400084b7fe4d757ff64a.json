@@ -1,0 +1,32 @@
+{
+  "id": "07976e66ac12400084b7fe4d757ff64a",
+  "title": "Prez",
+  "description": "Prez",
+  "namespace": "e1055bf1e5654b93a27e19e6bb86cb2a",
+  "categories": "public/games/applications",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/e1055bf1e5654b93a27e19e6bb86cb2a/item/wide-2560x1440-72cbb35f9176cd1cdf0064584af932df.jpg",
+      "md5": "72cbb35f9176cd1cdf0064584af932df",
+      "width": 2560,
+      "height": 1440,
+      "size": 804615,
+      "uploadedDate": "2020-12-15T21:20:26.98Z"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/e1055bf1e5654b93a27e19e6bb86cb2a/item/tall-1200x1600-0ac5b88d7bf76949d8f0057e4ca62413.jpg",
+      "md5": "0ac5b88d7bf76949d8f0057e4ca62413",
+      "width": 1200,
+      "height": 1600,
+      "size": 750766,
+      "uploadedDate": "2020-12-15T21:20:35.788Z"
+    }
+  ],
+  "creationDate": "2020-05-08T16:39:15.026+00:00",
+  "lastModifiedDate": "2021-08-11T15:00:10.289+00:00",
+  "developer": "Kalypso Media Group GmbH",
+  "developerId": "o-37ss7wypkskvyj58j9s7hhltxtujac",
+  "applicationId": null
+}

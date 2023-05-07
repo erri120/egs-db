@@ -1,0 +1,32 @@
+{
+  "id": "8a3efc056bf540f09e00118d6fa7adb5",
+  "title": "Dread Nautical Pre-Purchase DLC",
+  "description": "Dread Nautical Pre-Purchase DLC",
+  "namespace": "30bf97ae13f74c3d87c9f3fe04d507ba",
+  "categories": "public/games/applications",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/30bf97ae13f74c3d87c9f3fe04d507ba/item/EGS_DradNautical_ZenStudios_S1-2560x1440-541b2817a7acf4fb4c71dd31b6e3e340-2560x1440-541b2817a7acf4fb4c71dd31b6e3e340.jpg",
+      "md5": "541b2817a7acf4fb4c71dd31b6e3e340",
+      "width": 2560,
+      "height": 1440,
+      "size": 438638,
+      "uploadedDate": "2020-03-20T19:59:17.53Z"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/30bf97ae13f74c3d87c9f3fe04d507ba/item/EGS_DradNautical_ZenStudios_S2-860x1148-c0f2aef20a80be1aa32f424bfe82810f-860x1148-c0f2aef20a80be1aa32f424bfe82810f.jpg",
+      "md5": "c0f2aef20a80be1aa32f424bfe82810f",
+      "width": 860,
+      "height": 1148,
+      "size": 359599,
+      "uploadedDate": "2020-03-20T19:59:36.825Z"
+    }
+  ],
+  "creationDate": "2020-02-11T18:10:42.577+00:00",
+  "lastModifiedDate": "2020-04-29T14:47:37.197+00:00",
+  "developer": "Zen Studios",
+  "developerId": "o-r7rf64mtq3yr8uhhvdf8sba3hpqbj2",
+  "applicationId": null
+}

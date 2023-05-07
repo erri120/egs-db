@@ -1,0 +1,32 @@
+{
+  "id": "929a84bff8a34d80b490f71550ec782f",
+  "title": "In Sound Mind",
+  "description": "In Sound Mind",
+  "namespace": "fa9812acd30f46f8a69a75bf27addb5c",
+  "categories": "public/games/applications",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_InSoundMind_WeCreateStuff_S1_2560x1440-78d2b96f4772d724e6f003a1e88f4844",
+      "md5": "78d2b96f4772d724e6f003a1e88f4844",
+      "width": 2560,
+      "height": 1440,
+      "size": 494143,
+      "uploadedDate": "2021-09-23T20:39:40.58Z"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_InSoundMind_WeCreateStuff_S2_1200x1600-0f24e46356fc61bda653468a6afd6d49",
+      "md5": "0f24e46356fc61bda653468a6afd6d49",
+      "width": 1200,
+      "height": 1600,
+      "size": 507085,
+      "uploadedDate": "2021-09-23T20:39:46.854Z"
+    }
+  ],
+  "creationDate": "2021-03-08T23:55:30.706+00:00",
+  "lastModifiedDate": "2021-09-24T00:06:41.179+00:00",
+  "developer": "Maximum Games",
+  "developerId": "o-a6k23slslegbhbwtel4qx423kuzc3y",
+  "applicationId": ""
+}

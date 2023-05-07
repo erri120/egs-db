@@ -1,0 +1,32 @@
+{
+  "id": "4405df59a04549e28eae43b8e308b038",
+  "title": "Tropico 5",
+  "description": "Tropico 5",
+  "namespace": "7015c51a49be4592b5ba3ae2577723c5",
+  "categories": "public/games/applications",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/7015c51a49be4592b5ba3ae2577723c5/item/EGS_Tropico5_HaemimontGames_S5-1920x1080-bc07360268fcba08b9368670d7d8a40b.jpg",
+      "md5": "bc07360268fcba08b9368670d7d8a40b",
+      "width": 1920,
+      "height": 1080,
+      "size": 928326,
+      "uploadedDate": "2020-11-16T15:17:32.184Z"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/7015c51a49be4592b5ba3ae2577723c5/item/EGS_Tropico5_HaemimontGames_S6-1200x1600-e61be120538ecdbc6e43c24605d8eac5.jpg",
+      "md5": "e61be120538ecdbc6e43c24605d8eac5",
+      "width": 1200,
+      "height": 1600,
+      "size": 946922,
+      "uploadedDate": "2020-11-16T15:17:42.585Z"
+    }
+  ],
+  "creationDate": "2020-05-08T17:15:17.74+00:00",
+  "lastModifiedDate": "2021-04-09T16:21:06.794+00:00",
+  "developer": "Kalypso Media Group GmbH",
+  "developerId": "o-37ss7wypkskvyj58j9s7hhltxtujac",
+  "applicationId": "fghi4567KDng4Sro7eeq1vIr7Bw5wyh1"
+}

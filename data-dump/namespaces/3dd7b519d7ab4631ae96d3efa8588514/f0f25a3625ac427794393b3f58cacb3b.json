@@ -1,0 +1,32 @@
+{
+  "id": "f0f25a3625ac427794393b3f58cacb3b",
+  "title": "Halcyon 6",
+  "description": "Halcyon 6",
+  "namespace": "3dd7b519d7ab4631ae96d3efa8588514",
+  "categories": "public/games/applications",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/3dd7b519d7ab4631ae96d3efa8588514/item/egs-halcyon6starbasecommanderlightspeededition-massivedamageinc-s1-2560x1440-93175c05e6e9-2560x1440-5f46f77b1b82d8c5d169a4d9734a3043-2560x1440-5f46f77b1b82d8c5d169a4d9734a3043.jpg",
+      "md5": "5f46f77b1b82d8c5d169a4d9734a3043",
+      "width": 2560,
+      "height": 1440,
+      "size": 208540,
+      "uploadedDate": "2021-02-11T02:43:46.194Z"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/3dd7b519d7ab4631ae96d3efa8588514/item/egs-halcyon6starbasecommanderlightspeededition-massivedamageinc-s2-1200x1600-e612ba915488-1200x1600-de7223f3cc553fb677476dcc18f7626a-1200x1600-de7223f3cc553fb677476dcc18f7626a.jpg",
+      "md5": "de7223f3cc553fb677476dcc18f7626a",
+      "width": 1200,
+      "height": 1600,
+      "size": 145187,
+      "uploadedDate": "2021-02-11T02:44:01.191Z"
+    }
+  ],
+  "creationDate": "2021-01-21T18:27:12.527+00:00",
+  "lastModifiedDate": "2021-02-23T14:58:21.28+00:00",
+  "developer": "Massive Damage",
+  "developerId": "o-nfrzd5cr4auuxqxmyzuezwhahtmstc",
+  "applicationId": null
+}

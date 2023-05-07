@@ -1,0 +1,41 @@
+{
+  "id": "a86bbe049ef14f519c69fdc27615d7f4",
+  "title": "Q.U.B.E. 2",
+  "description": "Q.U.B.E. 2",
+  "namespace": "4b5f1eb366dc45f0920d397c01b291ba",
+  "categories": "public/games/applications",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/4b5f1eb366dc45f0920d397c01b291ba/item/EGS_TOXICGAMES_QUBE2_G1-2560x1440-d2b89622979482c7b0a632306800b950.jpg",
+      "md5": "d2b89622979482c7b0a632306800b950",
+      "width": 2560,
+      "height": 1440,
+      "size": 312776,
+      "uploadedDate": "2019-10-16T23:29:44.519Z"
+    },
+    {
+      "type": "DieselGameBoxLogo",
+      "url": "https://cdn1.epicgames.com/4b5f1eb366dc45f0920d397c01b291ba/item/EGS_TOXICGAMES_QUBE2_IC1_COLOUR-1920x1080-891789d632a30ac0fd0a9c46069c53fe.png",
+      "md5": "891789d632a30ac0fd0a9c46069c53fe",
+      "width": 1920,
+      "height": 1080,
+      "size": 26596,
+      "uploadedDate": "2019-10-16T23:29:57.895Z"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/4b5f1eb366dc45f0920d397c01b291ba/item/EGS_TOXICGAMES_QUBE2_S3-1280x1440-46972907facb08bd09cf75ec31c27168.jpg",
+      "md5": "46972907facb08bd09cf75ec31c27168",
+      "width": 1280,
+      "height": 1440,
+      "size": 156131,
+      "uploadedDate": "2019-10-22T09:41:44.79Z"
+    }
+  ],
+  "creationDate": "2019-09-10T21:05:47.637+00:00",
+  "lastModifiedDate": "2019-11-19T17:03:32.367+00:00",
+  "developer": "Ten Hut Games",
+  "developerId": "o-kk34ewvmscclj5a2ukx49ff6qknn7a",
+  "applicationId": null
+}

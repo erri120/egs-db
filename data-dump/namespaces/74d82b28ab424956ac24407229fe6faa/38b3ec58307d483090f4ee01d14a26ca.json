@@ -1,0 +1,23 @@
+{
+  "id": "38b3ec58307d483090f4ee01d14a26ca",
+  "title": "LaridaeDevAudience",
+  "description": "LaridaeDevAudience",
+  "namespace": "74d82b28ab424956ac24407229fe6faa",
+  "categories": "",
+  "keyImages": [
+    {
+      "type": "ESRB",
+      "url": "https://cdn1.epicgames.com/74d82b28ab424956ac24407229fe6faa/item/EGS_ReikonGames_RUINER_RA-423x200-8159f9c6c00d105d70f01c77ee01df9b.png",
+      "md5": "8159f9c6c00d105d70f01c77ee01df9b",
+      "width": 423,
+      "height": 200,
+      "size": 13703,
+      "uploadedDate": "2019-10-30T21:06:47.742Z"
+    }
+  ],
+  "creationDate": "2019-09-10T21:04:09.543+00:00",
+  "lastModifiedDate": "2019-11-14T15:59:43.478+00:00",
+  "developer": "Devolver Digital, Inc.",
+  "developerId": "o-plnhdz2wfx5etjjeh88szjqy2gx8gw",
+  "applicationId": null
+}

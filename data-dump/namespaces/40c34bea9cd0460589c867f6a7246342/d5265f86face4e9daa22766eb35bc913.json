@@ -1,0 +1,32 @@
+{
+  "id": "d5265f86face4e9daa22766eb35bc913",
+  "title": "EgretStaging",
+  "description": "EgretStaging",
+  "namespace": "40c34bea9cd0460589c867f6a7246342",
+  "categories": "public/games/applications",
+  "keyImages": [
+    {
+      "type": "DieselGameBoxLogo",
+      "url": "https://cdn1.epicgames.com/40c34bea9cd0460589c867f6a7246342/item/batman_arkham_city-216x139-3283430ea2cc7dfd38a6884c20124234.png",
+      "md5": "3283430ea2cc7dfd38a6884c20124234",
+      "width": 216,
+      "height": 139,
+      "size": 24058,
+      "uploadedDate": "2019-09-16T20:44:44.25Z"
+    },
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/40c34bea9cd0460589c867f6a7246342/item/batman_arkham_city_promo-1920x1071-5d5de72af8472cc12dc457ffaeaffb3f.jpg",
+      "md5": "5d5de72af8472cc12dc457ffaeaffb3f",
+      "width": 1920,
+      "height": 1071,
+      "size": 252807,
+      "uploadedDate": "2019-09-16T20:45:17.073Z"
+    }
+  ],
+  "creationDate": "2019-08-27T22:18:29.351+00:00",
+  "lastModifiedDate": "2019-09-19T14:16:10.684+00:00",
+  "developer": "Warner Brothers",
+  "developerId": "o-7kyv8uwtz74njnl544kbxzt5xqephw",
+  "applicationId": null
+}

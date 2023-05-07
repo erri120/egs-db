@@ -1,0 +1,23 @@
+{
+  "id": "ef41a74eb6624fa7ac7af2550d955b4a",
+  "title": "RosemallowDevAudience",
+  "description": "RosemallowDevAudience",
+  "namespace": "rosemallow",
+  "categories": "",
+  "keyImages": [
+    {
+      "type": "ESRB",
+      "url": "https://cdn1.epicgames.com/rosemallow/item/TOW_ESRB_M_content_m-688x366-3cad213ee7c926f03d1d88a34a4ddffd.png",
+      "md5": "3cad213ee7c926f03d1d88a34a4ddffd",
+      "width": 688,
+      "height": 366,
+      "size": 26599,
+      "uploadedDate": "2019-08-21T13:47:43.822Z"
+    }
+  ],
+  "creationDate": "2019-03-16T06:28:18.071+00:00",
+  "lastModifiedDate": "2020-10-23T14:06:24.573+00:00",
+  "developer": "Private Division",
+  "developerId": "o-6emrb2lpzacm9ued3z37u42x56wkaz",
+  "applicationId": null
+}

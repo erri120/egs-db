@@ -1,0 +1,23 @@
+{
+  "id": "1740410901da40578aa96d5e856bc1c6",
+  "title": "Borderlands 3 Deluxe Edition Audience",
+  "description": "Borderlands 3 Deluxe Edition Audience",
+  "namespace": "catnip",
+  "categories": "",
+  "keyImages": [
+    {
+      "type": "ESRB",
+      "url": "https://cdn1.epicgames.com/catnip/item/ESRB_M_Borderlands3-842x485-275d74057f4825477e1f7f17f8cf0abc.jpg",
+      "md5": "275d74057f4825477e1f7f17f8cf0abc",
+      "width": 842,
+      "height": 485,
+      "size": 134137,
+      "uploadedDate": "2020-01-07T22:48:46.429Z"
+    }
+  ],
+  "creationDate": "2019-04-02T01:19:46.052+00:00",
+  "lastModifiedDate": "2021-04-08T16:59:49.648+00:00",
+  "developer": "2K Games, Inc.",
+  "developerId": "o-37m6jbj5wcvrcvm4wusv7nazdfvbjk",
+  "applicationId": null
+}

@@ -1,0 +1,32 @@
+{
+  "id": "a810f6af8ad4460fb9b4112ca0f9db21",
+  "title": "Industries of Titan",
+  "description": "Industries of Titan",
+  "namespace": "protea",
+  "categories": "",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/item/protea/EN_BYG_IOT_S1_2560x1440_2560x1440-5ea0bb92847b25f9c0450d8c1620577d",
+      "md5": "5ea0bb92847b25f9c0450d8c1620577d",
+      "width": 2560,
+      "height": 1440,
+      "size": 1018425,
+      "uploadedDate": "2023-01-26T19:19:26.621Z"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/item/protea/EN_BYG_IOT_S2_1200x1600_1200x1600-9d25bf255193967c6f2f28e405da7332",
+      "md5": "9d25bf255193967c6f2f28e405da7332",
+      "width": 1200,
+      "height": 1600,
+      "size": 658521,
+      "uploadedDate": "2023-01-26T19:19:31.95Z"
+    }
+  ],
+  "creationDate": "2019-03-18T05:15:08.763+00:00",
+  "lastModifiedDate": "2023-01-31T17:56:23.526+00:00",
+  "developer": "Brace Yourself Games",
+  "developerId": "o-5y95w2k7uu469v8lr4dyzeff447wfm",
+  "applicationId": ""
+}

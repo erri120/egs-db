@@ -1,0 +1,23 @@
+{
+  "id": "6f497455242046ca86887eedfd8b62b6",
+  "title": "PumpkinGeneralAudience",
+  "description": "PumpkinGeneralAudience",
+  "namespace": "4fd85a772cd5471aa5e38efcaa0d6f24",
+  "categories": "",
+  "keyImages": [
+    {
+      "type": "ESRB",
+      "url": "https://cdn1.epicgames.com/4fd85a772cd5471aa5e38efcaa0d6f24/item/esrb_last_day_june-842x404-81ad15ce2b1220c30c4b639938f45644.jpg",
+      "md5": "81ad15ce2b1220c30c4b639938f45644",
+      "width": 842,
+      "height": 404,
+      "size": 58983,
+      "uploadedDate": "2020-01-08T21:02:35.089Z"
+    }
+  ],
+  "creationDate": "2019-06-03T21:00:17.771+00:00",
+  "lastModifiedDate": "2020-01-08T21:02:52.217+00:00",
+  "developer": "505 Games S.r.l.",
+  "developerId": "o-cul2z53mrw3bxltv63v68rgd4b3w52",
+  "applicationId": null
+}

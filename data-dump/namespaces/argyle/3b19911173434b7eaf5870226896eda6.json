@@ -1,0 +1,23 @@
+{
+  "id": "3b19911173434b7eaf5870226896eda6",
+  "title": "ArgyleGoldAudience",
+  "description": "ArgyleGoldAudience",
+  "namespace": "argyle",
+  "categories": "",
+  "keyImages": [
+    {
+      "type": "ESRB",
+      "url": "https://cdn1.epicgames.com/argyle/item/ESRB_TrailsRising-842x485-7d841039f163b4d00b62b1ee92cc839c.jpg",
+      "md5": "7d841039f163b4d00b62b1ee92cc839c",
+      "width": 842,
+      "height": 485,
+      "size": 107625,
+      "uploadedDate": "2020-01-14T19:25:38.776Z"
+    }
+  ],
+  "creationDate": "2019-09-03T21:39:42.402+00:00",
+  "lastModifiedDate": "2020-11-18T15:58:58.269+00:00",
+  "developer": "Ubisoft Entertainment",
+  "developerId": "o-3efjudxdtgsqnulml4bkeq3v9nec38",
+  "applicationId": null
+}

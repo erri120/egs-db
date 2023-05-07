@@ -1,0 +1,32 @@
+{
+  "id": "35f529b3d6c544eea505462ff7020bf4",
+  "title": "SKULL AND BONES\u2122",
+  "description": "SKULL AND BONES\u2122\n",
+  "namespace": "0c05e0889c3e42a4be1d81077d6e653a",
+  "categories": "",
+  "keyImages": [
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/item/0c05e0889c3e42a4be1d81077d6e653a/SAB_Store_Portrait_1200x1600_1200x1600-121f3de29b692d333e0773c7d4a7a432",
+      "md5": "121f3de29b692d333e0773c7d4a7a432",
+      "width": 1200,
+      "height": 1600,
+      "size": 1429404,
+      "uploadedDate": "2022-06-27T18:42:40.998Z"
+    },
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/item/0c05e0889c3e42a4be1d81077d6e653a/SAB_Store_Landscape_2560x1440_2560x1440-00b4029199a7a6778fd27dec96f08a28",
+      "md5": "00b4029199a7a6778fd27dec96f08a28",
+      "width": 2560,
+      "height": 1440,
+      "size": 2449878,
+      "uploadedDate": "2022-07-12T20:27:46.712Z"
+    }
+  ],
+  "creationDate": "2022-06-24T10:23:10.273+00:00",
+  "lastModifiedDate": "2022-07-12T20:27:53.909+00:00",
+  "developer": "Ubisoft Entertainment",
+  "developerId": "o-3efjudxdtgsqnulml4bkeq3v9nec38",
+  "applicationId": ""
+}

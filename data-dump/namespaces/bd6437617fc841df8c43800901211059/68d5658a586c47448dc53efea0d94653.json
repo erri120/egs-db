@@ -1,0 +1,23 @@
+{
+  "id": "68d5658a586c47448dc53efea0d94653",
+  "title": "AlphaGeneralAudience",
+  "description": "AlphaGeneralAudience",
+  "namespace": "bd6437617fc841df8c43800901211059",
+  "categories": "",
+  "keyImages": [
+    {
+      "type": "ESRB",
+      "url": "https://cdn1.epicgames.com/bd6437617fc841df8c43800901211059/item/Battle Chasers ESRB-398x190-8983877f5dfde66578e0d39105865dd9.png",
+      "md5": "8983877f5dfde66578e0d39105865dd9",
+      "width": 398,
+      "height": 190,
+      "size": 14475,
+      "uploadedDate": "2021-02-23T05:03:57.563Z"
+    }
+  ],
+  "creationDate": "2021-02-18T19:06:55.471+00:00",
+  "lastModifiedDate": "2021-03-24T21:18:15.063+00:00",
+  "developer": "THQ Nordic GmbH",
+  "developerId": "o-jywxgemg3dagnv6fymcngq3g29mc4j",
+  "applicationId": null
+}

@@ -1,0 +1,41 @@
+{
+  "id": "49034acd5241476f95b6cd5d41c51c4e",
+  "title": "The Jackbox Party Pack 6",
+  "description": "The Jackbox Party Pack 6",
+  "namespace": "4fece418b513465d9416a700db869585",
+  "categories": "public/games/applications",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/4fece418b513465d9416a700db869585/item/EGS_JackboxGamesInc_TheJackboxPartyPack6_S1-2560x1440-2f34578afe36d88a536777d98bfca0b9.jpg",
+      "md5": "2f34578afe36d88a536777d98bfca0b9",
+      "width": 2560,
+      "height": 1440,
+      "size": 252493,
+      "uploadedDate": "2019-10-14T19:29:07.443Z"
+    },
+    {
+      "type": "DieselGameBoxLogo",
+      "url": "https://cdn1.epicgames.com/4fece418b513465d9416a700db869585/item/EGS_JackboxGamesInc_TheJackboxPartyPack6_IC1-200x200-9fb5a6cf02e8cefd1a47d9d64ce352e9.png",
+      "md5": "9fb5a6cf02e8cefd1a47d9d64ce352e9",
+      "width": 200,
+      "height": 200,
+      "size": 15579,
+      "uploadedDate": "2019-10-14T19:29:21.907Z"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/4fece418b513465d9416a700db869585/item/EGS_JackboxGamesInc_TheJackboxPartyPack6_S2-1280x1440-8f39977a92dcf52192b5c235840104ec.jpg",
+      "md5": "8f39977a92dcf52192b5c235840104ec",
+      "width": 1280,
+      "height": 1440,
+      "size": 161558,
+      "uploadedDate": "2019-10-22T09:41:44.79Z"
+    }
+  ],
+  "creationDate": "2019-10-03T21:16:36.89+00:00",
+  "lastModifiedDate": "2019-11-19T17:03:54.625+00:00",
+  "developer": "Jackbox Games, Inc.",
+  "developerId": "o-2m9ap45qzvalaepjz6wclpcffeq4aj",
+  "applicationId": null
+}

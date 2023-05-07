@@ -1,0 +1,32 @@
+{
+  "id": "c4e7b40a8b064a7a8e88e68b3c1e5da5",
+  "title": "Aerial_Knight\u0027s Never Yield",
+  "description": "Aerial_Knight\u0027s Never Yield",
+  "namespace": "2ed7ed64d8604265924b85bbd5670220",
+  "categories": "public/games/applications",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/item/2ed7ed64d8604265924b85bbd5670220/EGS_Aerial_KnightsNeverYield_Aerial_Knight_S1_2560x1440-9699d7ad1cbf87e6cb570cba7efb5fa6",
+      "md5": "9699d7ad1cbf87e6cb570cba7efb5fa6",
+      "width": 2560,
+      "height": 1440,
+      "size": 855323,
+      "uploadedDate": "2022-02-16T19:18:43.467Z"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/item/2ed7ed64d8604265924b85bbd5670220/EGS_Aerial_KnightsNeverYield_Aerial_Knight_S2_1200x1600-59f9c0d51a1810f5f864494fab3107d6",
+      "md5": "59f9c0d51a1810f5f864494fab3107d6",
+      "width": 1200,
+      "height": 1600,
+      "size": 765530,
+      "uploadedDate": "2022-02-16T19:18:47.434Z"
+    }
+  ],
+  "creationDate": "2020-12-10T17:28:04.307+00:00",
+  "lastModifiedDate": "2022-02-16T20:33:04.977+00:00",
+  "developer": "Headup Gmbh",
+  "developerId": "o-q5rkzbndnbcwu6t6gbs59pxydk6jn8",
+  "applicationId": ""
+}

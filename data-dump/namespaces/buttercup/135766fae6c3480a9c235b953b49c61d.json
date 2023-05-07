@@ -1,0 +1,32 @@
+{
+  "id": "135766fae6c3480a9c235b953b49c61d",
+  "title": "The Walking Dead: Season Two",
+  "description": "The Walking Dead: Season Two",
+  "namespace": "buttercup",
+  "categories": "",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/item/buttercup/TWD2_EPIC_Landscape_2560x1440_2560x1440-e99a790d2f6e4ee3026f8d2fd5d188de",
+      "md5": "e99a790d2f6e4ee3026f8d2fd5d188de",
+      "width": 2560,
+      "height": 1440,
+      "size": 1149195,
+      "uploadedDate": "2023-02-14T21:07:38.393Z"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/item/buttercup/WDS2_Portrait_1200x1600_1200x1600-655677a7a4207d3b2c0fe8ab3d8e9e87",
+      "md5": "655677a7a4207d3b2c0fe8ab3d8e9e87",
+      "width": 1200,
+      "height": 1600,
+      "size": 683400,
+      "uploadedDate": "2023-02-14T21:07:35.619Z"
+    }
+  ],
+  "creationDate": "2019-03-08T22:58:45.395+00:00",
+  "lastModifiedDate": "2023-02-14T21:07:55.71+00:00",
+  "developer": "Skybound Interactive",
+  "developerId": "o-rqvssgn2hhj58wv5bc6eueqswz2un4",
+  "applicationId": ""
+}

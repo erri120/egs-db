@@ -1,0 +1,32 @@
+{
+  "id": "ff1d9d6e36cb4c6cb365204fccda01e3",
+  "title": "AukGeneralAudience",
+  "description": "AukGeneralAudience",
+  "namespace": "4b5f1eb366dc45f0920d397c01b291ba",
+  "categories": "",
+  "keyImages": [
+    {
+      "type": "ESRB",
+      "url": "https://cdn1.epicgames.com/4b5f1eb366dc45f0920d397c01b291ba/item/ESRB_Q.U.B.E.2-842x404-5058e49857149fad2c513a3222e10d51.jpg",
+      "md5": "5058e49857149fad2c513a3222e10d51",
+      "width": 842,
+      "height": 404,
+      "size": 57827,
+      "uploadedDate": "2019-10-16T23:31:40.427Z"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/4b5f1eb366dc45f0920d397c01b291ba/item/EGS_TOXICGAMES_QUBE2_S3-1280x1440-46972907facb08bd09cf75ec31c27168.jpg",
+      "md5": "46972907facb08bd09cf75ec31c27168",
+      "width": 1280,
+      "height": 1440,
+      "size": 156131,
+      "uploadedDate": "2019-10-22T09:41:44.79Z"
+    }
+  ],
+  "creationDate": "2019-09-10T21:05:47.559+00:00",
+  "lastModifiedDate": "2019-11-04T16:40:12.013+00:00",
+  "developer": "Epic Dev Test Account",
+  "developerId": "o-ufmrk5furrrxgsp5tdngefzt5rxdcn",
+  "applicationId": null
+}

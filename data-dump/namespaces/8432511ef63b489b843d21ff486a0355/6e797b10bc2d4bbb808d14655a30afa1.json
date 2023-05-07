@@ -1,0 +1,32 @@
+{
+  "id": "6e797b10bc2d4bbb808d14655a30afa1",
+  "title": "Torchlight II",
+  "description": "Torchlight II",
+  "namespace": "8432511ef63b489b843d21ff486a0355",
+  "categories": "public/games/applications",
+  "keyImages": [
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/8432511ef63b489b843d21ff486a0355/item/EGS_TorchlightII_RunicGames_S2-1200x1600-39504450e62136e79307e2493e48ef8d.jpg",
+      "md5": "39504450e62136e79307e2493e48ef8d",
+      "width": 1200,
+      "height": 1600,
+      "size": 502274,
+      "uploadedDate": "2020-07-09T12:33:34.805Z"
+    },
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/8432511ef63b489b843d21ff486a0355/item/EGS_TorchlightII_RunicGames_S3-2560x1440-d8785a9ad9572e68e45d5a9471e4b81b.jpg",
+      "md5": "d8785a9ad9572e68e45d5a9471e4b81b",
+      "width": 2560,
+      "height": 1440,
+      "size": 767295,
+      "uploadedDate": "2020-07-09T12:33:51.323Z"
+    }
+  ],
+  "creationDate": "2020-05-12T21:19:14.125+00:00",
+  "lastModifiedDate": "2022-05-10T14:41:20.049+00:00",
+  "developer": "Gearbox Publishing San Francisco",
+  "developerId": "o-9nw6gkw2c9xlz6dk6z8vt7h5nbgm5w",
+  "applicationId": ""
+}

@@ -1,0 +1,23 @@
+{
+  "id": "5fdac1a88f4643eca380bef8917184c1",
+  "title": "CarpoGeneralAudience",
+  "description": "CarpoGeneralAudience",
+  "namespace": "c12a5687fb024192999b2d22c555d4c6",
+  "categories": "",
+  "keyImages": [
+    {
+      "type": "ESRB",
+      "url": "https://cdn1.epicgames.com/c12a5687fb024192999b2d22c555d4c6/item/esrb-samuraijack-842x404-525603996-842x404-00991186a67f6bb5a31c91b2613cc754.png",
+      "md5": "00991186a67f6bb5a31c91b2613cc754",
+      "width": 842,
+      "height": 404,
+      "size": 16171,
+      "uploadedDate": "2020-07-28T17:02:49.6Z"
+    }
+  ],
+  "creationDate": "2020-05-27T15:11:34.189+00:00",
+  "lastModifiedDate": "2020-07-28T17:02:53.929+00:00",
+  "developer": "THQ Nordic GmbH",
+  "developerId": "o-jywxgemg3dagnv6fymcngq3g29mc4j",
+  "applicationId": null
+}

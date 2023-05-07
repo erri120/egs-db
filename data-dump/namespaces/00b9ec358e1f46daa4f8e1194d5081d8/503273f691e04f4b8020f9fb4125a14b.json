@@ -1,0 +1,41 @@
+{
+  "id": "503273f691e04f4b8020f9fb4125a14b",
+  "title": "Alan Wake",
+  "description": "Alan Wake",
+  "namespace": "00b9ec358e1f46daa4f8e1194d5081d8",
+  "categories": "public/games/applications",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/00b9ec358e1f46daa4f8e1194d5081d8/item/Alan_Wake_PrimaryPromo_2580x1450-2580x1450-50ac27e1221d7f78e8330a88f251b559.jpg",
+      "md5": "50ac27e1221d7f78e8330a88f251b559",
+      "width": 2580,
+      "height": 1450,
+      "size": 289814,
+      "uploadedDate": "2019-07-22T21:42:48.963Z"
+    },
+    {
+      "type": "DieselGameBoxLogo",
+      "url": "https://cdn1.epicgames.com/00b9ec358e1f46daa4f8e1194d5081d8/item/Alan_Wake_logo_black-2602x1550-ca3ce856f2b25674041373af907678fe.png",
+      "md5": "ca3ce856f2b25674041373af907678fe",
+      "width": 2602,
+      "height": 1550,
+      "size": 63734,
+      "uploadedDate": "2019-07-22T21:43:05.297Z"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/00b9ec358e1f46daa4f8e1194d5081d8/item/AlanWake_Portrait_Promo_1280x1420-1280x1420-77de69029fd93cdcab3f9af52c550cad.jpg",
+      "md5": "77de69029fd93cdcab3f9af52c550cad",
+      "width": 1280,
+      "height": 1420,
+      "size": 200950,
+      "uploadedDate": "2019-10-22T09:41:44.79Z"
+    }
+  ],
+  "creationDate": "2019-07-22T19:13:35.168+00:00",
+  "lastModifiedDate": "2020-05-14T22:01:14.835+00:00",
+  "developer": "Remedy Entertainment",
+  "developerId": "o-sdmmvl8pftrkwfy86bjp286kuwhnsq",
+  "applicationId": null
+}

@@ -1,0 +1,32 @@
+{
+  "id": "427cfe986b32463c9b123e528642b9cf",
+  "title": "SnowRunner Pre-Purchase",
+  "description": "SnowRunner Pre-Purchase",
+  "namespace": "2744acda6a2e493e9894b389b6564df7",
+  "categories": "public/games/applications",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/2744acda6a2e493e9894b389b6564df7/item/Diesel_productv2_snowrunner_home_SnowRunner_EpicGames_Desktop-Horizontal-1360x766-1360x766-aec1e67e70958d183bff5513a80106bc1302eaa4-1360x766-c25e9f4a45c51a067598da2374e51ac4.jpg",
+      "md5": "c25e9f4a45c51a067598da2374e51ac4",
+      "width": 1360,
+      "height": 766,
+      "size": 407815,
+      "uploadedDate": "2020-02-14T18:57:33.665Z"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/2744acda6a2e493e9894b389b6564df7/item/Diesel_productv2_snowrunner_home_SnowRunner_EpicGames_PortraitImage_860x1148-860x1148-bdf591a23e5a348671dc2a77465d0ba6c5871d68-860x1148-5a5adeae2140a3f0b5586750f70bf8e2.jpg",
+      "md5": "5a5adeae2140a3f0b5586750f70bf8e2",
+      "width": 860,
+      "height": 1148,
+      "size": 349717,
+      "uploadedDate": "2020-02-14T18:57:43.663Z"
+    }
+  ],
+  "creationDate": "2020-02-14T18:56:40.161+00:00",
+  "lastModifiedDate": "2020-11-16T13:59:35.762+00:00",
+  "developer": "Focus Home",
+  "developerId": "o-wt4zxeetmq6jem7qp4pkssr46aenj5",
+  "applicationId": null
+}

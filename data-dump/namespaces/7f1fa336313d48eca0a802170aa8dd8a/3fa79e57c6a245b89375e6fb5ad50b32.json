@@ -1,0 +1,32 @@
+{
+  "id": "3fa79e57c6a245b89375e6fb5ad50b32",
+  "title": "Surgeon Simulator 2 Pre-Purchase",
+  "description": "Surgeon Simulator 2 Pre-Purchase",
+  "namespace": "7f1fa336313d48eca0a802170aa8dd8a",
+  "categories": "public/games/applications",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/7f1fa336313d48eca0a802170aa8dd8a/item/EGS_SurgeonSimulator2_Bossa_S1-2560x1440-0221e4d4a1df30014ac53b5f0b385e69.jpg",
+      "md5": "0221e4d4a1df30014ac53b5f0b385e69",
+      "width": 2560,
+      "height": 1440,
+      "size": 783824,
+      "uploadedDate": "2020-06-02T13:18:23.548Z"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/7f1fa336313d48eca0a802170aa8dd8a/item/EGS_SurgeonSimulator2_Bossa_S2-1200x1600-99d66a022d13667e009dfa5aab59dbaf.jpg",
+      "md5": "99d66a022d13667e009dfa5aab59dbaf",
+      "width": 1200,
+      "height": 1600,
+      "size": 800919,
+      "uploadedDate": "2020-06-02T13:18:46.74Z"
+    }
+  ],
+  "creationDate": "2020-06-01T18:46:48.625+00:00",
+  "lastModifiedDate": "2020-08-21T22:59:43.301+00:00",
+  "developer": "Bossa Studios",
+  "developerId": "o-2xhhr8jdtcqt7uprgbpvf7g9k2vppu",
+  "applicationId": null
+}

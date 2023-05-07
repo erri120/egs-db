@@ -1,0 +1,41 @@
+{
+  "id": "60472ebcd47c4688b43961b392a4e5fe",
+  "title": "Poly Bridge 2",
+  "description": "Poly Bridge 2",
+  "namespace": "9b31326adff64c7fa7bbac6e8d4a9e6e",
+  "categories": "public/games/applications",
+  "keyImages": [
+    {
+      "type": "DieselGameBoxWide",
+      "url": "https://cdn1.epicgames.com/9b31326adff64c7fa7bbac6e8d4a9e6e/item/EGS_PolyBridge2_DryCactus_S1-2560x1440-b57527fe6ae45ce43eba64848b097b84-2560x1440-b57527fe6ae45ce43eba64848b097b84.jpg",
+      "md5": "b57527fe6ae45ce43eba64848b097b84",
+      "width": 2560,
+      "height": 1440,
+      "size": 945768,
+      "uploadedDate": "2020-05-27T16:58:01.967Z"
+    },
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/9b31326adff64c7fa7bbac6e8d4a9e6e/item/EGS_PolyBridge2_DryCactus_S1-2560x1440-b57527fe6ae45ce43eba64848b097b84-2560x1440-b57527fe6ae45ce43eba64848b097b84-2560x1440-b57527fe6ae45ce43eba64848b097b84.jpg",
+      "md5": "b57527fe6ae45ce43eba64848b097b84",
+      "width": 2560,
+      "height": 1440,
+      "size": 945768,
+      "uploadedDate": "2020-05-28T16:56:01.303Z"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/9b31326adff64c7fa7bbac6e8d4a9e6e/item/PB2-Portrait-1200x1600-1200x1600-b1f9a2391c4a111cb3f5616e564a5b28.jpg",
+      "md5": "b1f9a2391c4a111cb3f5616e564a5b28",
+      "width": 1200,
+      "height": 1600,
+      "size": 703502,
+      "uploadedDate": "2020-05-29T13:35:56.223Z"
+    }
+  ],
+  "creationDate": "2020-04-23T19:03:05.84+00:00",
+  "lastModifiedDate": "2020-08-17T21:29:51.183+00:00",
+  "developer": "Dry Cactus",
+  "developerId": "o-h3tscjk3a6qqrftdkrtl8w352rxceg",
+  "applicationId": "fghi4567AYxMzgAi27tNOMgVgEdTu7Ry"
+}

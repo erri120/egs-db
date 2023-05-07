@@ -1,0 +1,32 @@
+{
+  "id": "49beebd4c5d84527a8015fcfe804f3b4",
+  "title": "Hob",
+  "description": "Hob",
+  "namespace": "e1067ce994e24a4abbe36247eaa26bfd",
+  "categories": "public/games/applications",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/e1067ce994e24a4abbe36247eaa26bfd/item/HOB_storefront_epic_20200309_wishlist_2560x1440-2560x1440-7d0cc955fcee93ab9c55bd891b7b23db-2560x1440-7d0cc955fcee93ab9c55bd891b7b23db.jpg",
+      "md5": "7d0cc955fcee93ab9c55bd891b7b23db",
+      "width": 2560,
+      "height": 1440,
+      "size": 1648954,
+      "uploadedDate": "2020-03-20T18:51:07.772Z"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/e1067ce994e24a4abbe36247eaa26bfd/item/HOB_storefront_epic_20200309_wishlist_860x1148-860x1148-b34298a75b82a08527060f43bb719965-860x1148-b34298a75b82a08527060f43bb719965.jpg",
+      "md5": "b34298a75b82a08527060f43bb719965",
+      "width": 860,
+      "height": 1148,
+      "size": 655157,
+      "uploadedDate": "2020-03-20T18:51:24.425Z"
+    }
+  ],
+  "creationDate": "2019-10-17T18:38:20.221+00:00",
+  "lastModifiedDate": "2022-05-10T14:59:34.468+00:00",
+  "developer": "Gearbox Publishing San Francisco",
+  "developerId": "o-9nw6gkw2c9xlz6dk6z8vt7h5nbgm5w",
+  "applicationId": ""
+}

@@ -1,0 +1,32 @@
+{
+  "id": "bf2f3f45f8e64e3fa130529d06356109",
+  "title": "The Crew 2",
+  "description": "The Crew 2",
+  "namespace": "599d248ca46b45a8b40a3b4e484712cb",
+  "categories": "public/games/applications",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/UK_TC2_STD_EPIC_Store_Landscape_2560x1440_UK_2560x1440-6e2b5c0cbe6d1e0fefab2da7530c5abe",
+      "md5": "6e2b5c0cbe6d1e0fefab2da7530c5abe",
+      "width": 2560,
+      "height": 1440,
+      "size": 453374,
+      "uploadedDate": "2021-07-01T22:38:44.361Z"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/UK_TC2_STD_EPIC_Store_Portrait_1200x1600_UK_1200x1600-53de0001cbf86324b0c7d2be18666011",
+      "md5": "53de0001cbf86324b0c7d2be18666011",
+      "width": 1200,
+      "height": 1600,
+      "size": 904121,
+      "uploadedDate": "2021-07-01T22:38:51.435Z"
+    }
+  ],
+  "creationDate": "2019-10-01T23:40:40.565+00:00",
+  "lastModifiedDate": "2021-12-14T17:12:18.717+00:00",
+  "developer": "Epic Dev Test Account",
+  "developerId": "o-ufmrk5furrrxgsp5tdngefzt5rxdcn",
+  "applicationId": ""
+}

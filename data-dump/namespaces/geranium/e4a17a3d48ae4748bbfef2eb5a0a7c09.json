@@ -1,0 +1,23 @@
+{
+  "id": "e4a17a3d48ae4748bbfef2eb5a0a7c09",
+  "title": "Jackbox5GeneralAudience",
+  "description": "Jackbox5GeneralAudience",
+  "namespace": "geranium",
+  "categories": "",
+  "keyImages": [
+    {
+      "type": "ESRB",
+      "url": "https://cdn1.epicgames.com/geranium/item/ESRB_JackboxPartyPack5_T-842x485-08736650f3d58c5295ac0a558a754205.png",
+      "md5": "08736650f3d58c5295ac0a558a754205",
+      "width": 842,
+      "height": 485,
+      "size": 50591,
+      "uploadedDate": "2020-01-09T19:21:29.103Z"
+    }
+  ],
+  "creationDate": "2019-01-16T14:08:30.021+00:00",
+  "lastModifiedDate": "2020-01-09T19:23:36.9+00:00",
+  "developer": "Jackbox Games, Inc.",
+  "developerId": "o-2m9ap45qzvalaepjz6wclpcffeq4aj",
+  "applicationId": null
+}

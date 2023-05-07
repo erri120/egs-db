@@ -1,0 +1,32 @@
+{
+  "id": "29998428e6db42d9b5289b83f42a2f98",
+  "title": "Destroy all Humans!",
+  "description": "Destroy all Humans!",
+  "namespace": "c12a5687fb024192999b2d22c555d4c6",
+  "categories": "public/games/applications",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/c12a5687fb024192999b2d22c555d4c6/item/EGSNewsfeed_1920x1080-1920x1080-6fb20a72dfcd9bc2006e4c1b74a239b7.png",
+      "md5": "6fb20a72dfcd9bc2006e4c1b74a239b7",
+      "width": 1920,
+      "height": 1080,
+      "size": 2357947,
+      "uploadedDate": "2020-07-14T17:17:36.073Z"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/c12a5687fb024192999b2d22c555d4c6/item/DAH_Portrait-1200x1600-2e2b6bca291228e4df252c4857664408.jpg",
+      "md5": "2e2b6bca291228e4df252c4857664408",
+      "width": 1200,
+      "height": 1600,
+      "size": 1205440,
+      "uploadedDate": "2020-07-14T17:17:47.616Z"
+    }
+  ],
+  "creationDate": "2020-05-27T15:11:34.278+00:00",
+  "lastModifiedDate": "2020-07-28T16:36:41.583+00:00",
+  "developer": "THQ Nordic GmbH",
+  "developerId": "o-jywxgemg3dagnv6fymcngq3g29mc4j",
+  "applicationId": "fghi4567hwKrfeemMZVhr3ujitcko9Pq"
+}

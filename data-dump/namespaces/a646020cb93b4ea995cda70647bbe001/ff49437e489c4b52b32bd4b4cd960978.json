@@ -1,0 +1,23 @@
+{
+  "id": "ff49437e489c4b52b32bd4b4cd960978",
+  "title": "BarracudaRWDLCAudience",
+  "description": "BarracudaRWDLCAudience",
+  "namespace": "a646020cb93b4ea995cda70647bbe001",
+  "categories": "",
+  "keyImages": [
+    {
+      "type": "ESRB",
+      "url": "https://cdn1.epicgames.com/a646020cb93b4ea995cda70647bbe001/item/ESRB_T_Steep-842x485-5366d4730b97ad989423860c8589a078.jpg",
+      "md5": "5366d4730b97ad989423860c8589a078",
+      "width": 842,
+      "height": 485,
+      "size": 92870,
+      "uploadedDate": "2020-01-14T19:36:44.326Z"
+    }
+  ],
+  "creationDate": "2019-12-09T19:26:27.922+00:00",
+  "lastModifiedDate": "2020-08-07T22:57:03.422+00:00",
+  "developer": "Ubisoft Entertainment",
+  "developerId": "o-3efjudxdtgsqnulml4bkeq3v9nec38",
+  "applicationId": null
+}

@@ -1,0 +1,23 @@
+{
+  "id": "00f95653c9e04f1bbce081fa0f977618",
+  "title": "1000 Fortnite Points",
+  "description": "1000 Fortnite Points",
+  "namespace": "fn",
+  "categories": "points",
+  "keyImages": [
+    {
+      "type": "ESRB",
+      "url": "https://cdn1.epicgames.com/fn/item/ESRB-369x217-12ce933005895ab9e61fb66a30485c90.png",
+      "md5": "12ce933005895ab9e61fb66a30485c90",
+      "width": 369,
+      "height": 217,
+      "size": 8558,
+      "uploadedDate": "2019-12-13T21:35:40.713Z"
+    }
+  ],
+  "creationDate": "2015-05-20T19:11:16.002+00:00",
+  "lastModifiedDate": "2022-05-17T14:05:31.523+00:00",
+  "developer": "Epic Games",
+  "developerId": "o-aa83a0a9bc45e98c80c1b1c9d92e9e",
+  "applicationId": null
+}

@@ -1,0 +1,23 @@
+{
+  "id": "b8027699678a42ca8d72ac18d9da3834",
+  "title": "MinSoundtrackAudience",
+  "description": "MinSoundtrackAudience",
+  "namespace": "min",
+  "categories": "audience",
+  "keyImages": [
+    {
+      "type": "ESRB",
+      "url": "https://cdn1.epicgames.com/min/item/HadesESRB-200x103-5f4d6b58b155dbed4ac0f1d97f2d7a57.png",
+      "md5": "5f4d6b58b155dbed4ac0f1d97f2d7a57",
+      "width": 200,
+      "height": 103,
+      "size": 6165,
+      "uploadedDate": "2021-03-17T23:24:58.77Z"
+    }
+  ],
+  "creationDate": "2019-11-14T22:50:37.916+00:00",
+  "lastModifiedDate": "2020-09-17T14:59:12.61+00:00",
+  "developer": "Supergiant Games LLC",
+  "developerId": "o-vwkp2e2azz3ybr7ckg7pfnxhwezd4a",
+  "applicationId": null
+}

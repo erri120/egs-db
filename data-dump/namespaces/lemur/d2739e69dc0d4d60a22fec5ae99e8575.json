@@ -1,0 +1,41 @@
+{
+  "id": "d2739e69dc0d4d60a22fec5ae99e8575",
+  "title": "Journey",
+  "description": "Journey",
+  "namespace": "lemur",
+  "categories": "",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/lemur/item/Journey_SmallSize-2580x1450-2580x1450-ab0647844614f045b2bb795431259138.png",
+      "md5": "ab0647844614f045b2bb795431259138",
+      "width": 2580,
+      "height": 1450,
+      "size": 844492,
+      "uploadedDate": "2018-12-05T20:37:03.73Z"
+    },
+    {
+      "type": "DieselGameBoxLogo",
+      "url": "https://cdn1.epicgames.com/lemur/item/JourneyLogoLanguages_1024x306-1024x306-8cdcd8293b033d483962e30e9f1163e7.png",
+      "md5": "8cdcd8293b033d483962e30e9f1163e7",
+      "width": 1024,
+      "height": 306,
+      "size": 10941,
+      "uploadedDate": "2018-12-05T20:37:16.541Z"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/lemur/item/Journey_tall-853x960-857c2689f49d11d93ab146d73f74e850.png",
+      "md5": "857c2689f49d11d93ab146d73f74e850",
+      "width": 853,
+      "height": 960,
+      "size": 236543,
+      "uploadedDate": "2019-10-22T09:41:44.79Z"
+    }
+  ],
+  "creationDate": "2018-11-30T00:51:47.622+00:00",
+  "lastModifiedDate": "2019-11-19T17:02:59.183+00:00",
+  "developer": "Annapurna Interactive",
+  "developerId": "o-bmeb3ztlbxkjc8vvpydava38yvmxlm",
+  "applicationId": null
+}

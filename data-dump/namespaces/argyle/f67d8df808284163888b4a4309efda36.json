@@ -1,0 +1,32 @@
+{
+  "id": "f67d8df808284163888b4a4309efda36",
+  "title": "ArgyleStaging",
+  "description": "ArgyleStaging",
+  "namespace": "argyle",
+  "categories": "",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/argyle/item/Store_Primary_Promo-2580x1450-7a6ad58621031b4b6e3ee2f82e47684b.jpg",
+      "md5": "7a6ad58621031b4b6e3ee2f82e47684b",
+      "width": 2580,
+      "height": 1450,
+      "size": 287462,
+      "uploadedDate": "2019-09-11T15:10:13.498Z"
+    },
+    {
+      "type": "DieselGameBoxLogo",
+      "url": "https://cdn1.epicgames.com/argyle/item/trials-rising_home_TRR-1000x375-943595a848bbfab92d2b83c5511beefc.png",
+      "md5": "943595a848bbfab92d2b83c5511beefc",
+      "width": 1000,
+      "height": 375,
+      "size": 53317,
+      "uploadedDate": "2019-09-11T15:10:23.323Z"
+    }
+  ],
+  "creationDate": "2019-04-02T21:37:56.81+00:00",
+  "lastModifiedDate": "2020-11-18T15:52:24.414+00:00",
+  "developer": "Ubisoft Entertainment",
+  "developerId": "o-3efjudxdtgsqnulml4bkeq3v9nec38",
+  "applicationId": null
+}

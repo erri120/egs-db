@@ -1,0 +1,23 @@
+{
+  "id": "76b96604b0394c78bde24a86e710ae18",
+  "title": "Catnip E3 Demo Dev Audience",
+  "description": "Catnip E3 Demo Dev Audience",
+  "namespace": "catnip",
+  "categories": "",
+  "keyImages": [
+    {
+      "type": "ESRB",
+      "url": "https://cdn1.epicgames.com/catnip/item/ESRB_M_Borderlands3-398x190-16bd32be8aea54545f11dcea9d14243c.jpg",
+      "md5": "16bd32be8aea54545f11dcea9d14243c",
+      "width": 398,
+      "height": 190,
+      "size": 11537,
+      "uploadedDate": "2019-09-12T18:58:20.847Z"
+    }
+  ],
+  "creationDate": "2019-05-21T19:25:00.457+00:00",
+  "lastModifiedDate": "2019-12-19T16:57:35.424+00:00",
+  "developer": "2K Games, Inc.",
+  "developerId": "o-37m6jbj5wcvrcvm4wusv7nazdfvbjk",
+  "applicationId": null
+}

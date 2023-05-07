@@ -1,0 +1,41 @@
+{
+  "id": "6efea4a9591045ae82c5beed63e59327",
+  "title": "My Time at Portia",
+  "description": "My Time at Portia",
+  "namespace": "cobra",
+  "categories": "",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/cobra/item/MyTimeAtPortia_SecondaryPromo-1032x580-910e41e751b04e8114c1826a5e98c3bc.png",
+      "md5": "910e41e751b04e8114c1826a5e98c3bc",
+      "width": 1032,
+      "height": 580,
+      "size": 188331,
+      "uploadedDate": "2019-01-11T21:49:00.447Z"
+    },
+    {
+      "type": "DieselGameBoxLogo",
+      "url": "https://cdn1.epicgames.com/cobra/item/MyTimeAtPortia_GameLogoColour_PNGNewSize-2235x960-337267f3a1fbf1e0d6b3370c1edfba52.png",
+      "md5": "337267f3a1fbf1e0d6b3370c1edfba52",
+      "width": 2235,
+      "height": 960,
+      "size": 384751,
+      "uploadedDate": "2019-03-11T15:48:52.937Z"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/cobra/item/MyTimeAtPortia_tall-865x960-8cf010d5d5a432a0f85c669e616baa1b.png",
+      "md5": "8cf010d5d5a432a0f85c669e616baa1b",
+      "width": 865,
+      "height": 960,
+      "size": 225130,
+      "uploadedDate": "2019-10-22T09:41:44.79Z"
+    }
+  ],
+  "creationDate": "2019-01-04T19:36:11.527+00:00",
+  "lastModifiedDate": "2020-04-07T15:11:20.335+00:00",
+  "developer": "Team17 Digital Ltd",
+  "developerId": "o-uvtztrtfjdn3xgrwyhbuwwb5z42mbv",
+  "applicationId": null
+}

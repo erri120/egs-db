@@ -1,0 +1,41 @@
+{
+  "id": "d5839b5bc6234742a1b5140b4b1a0446",
+  "title": "ANNO 1800 Beta",
+  "description": "ANNO 1800 Beta",
+  "namespace": "oregano",
+  "categories": "",
+  "keyImages": [
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/oregano/item/Icon_400x400_Anno-400x400-bda1437aa4ea0f532b819ec99f238723.jpg",
+      "md5": "bda1437aa4ea0f532b819ec99f238723",
+      "width": 400,
+      "height": 400,
+      "size": 40119,
+      "uploadedDate": "2019-03-29T14:52:59.969Z"
+    },
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/oregano/item/Store_Primary_Promo_2580x1450_GAME-2580x1450-26f480069385d630b1df5c967e026d29.jpg",
+      "md5": "26f480069385d630b1df5c967e026d29",
+      "width": 2580,
+      "height": 1450,
+      "size": 597051,
+      "uploadedDate": "2019-03-29T14:53:21.84Z"
+    },
+    {
+      "type": "DieselGameBoxLogo",
+      "url": "https://cdn1.epicgames.com/oregano/item/ANNO1800-LOGO-OB-white-1157x594-7d9bbe8a541dca82cb621a9637083f06.png",
+      "md5": "7d9bbe8a541dca82cb621a9637083f06",
+      "width": 1157,
+      "height": 594,
+      "size": 113539,
+      "uploadedDate": "2019-04-10T17:10:02.264Z"
+    }
+  ],
+  "creationDate": "2019-03-29T14:55:51.152+00:00",
+  "lastModifiedDate": "2020-05-27T21:47:43.337+00:00",
+  "developer": "Ubisoft Entertainment",
+  "developerId": "o-3efjudxdtgsqnulml4bkeq3v9nec38",
+  "applicationId": null
+}

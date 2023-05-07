@@ -1,0 +1,32 @@
+{
+  "id": "b17598ff49d84cd4ba9ca1635931cda3",
+  "title": "TurtleStaging",
+  "description": "TurtleStaging",
+  "namespace": "turtle",
+  "categories": "",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/turtle/item/maneaterWide-2580x1456-a66dd2422bbbb9feef9304933254bb78.jpg",
+      "md5": "a66dd2422bbbb9feef9304933254bb78",
+      "width": 2580,
+      "height": 1456,
+      "size": 414334,
+      "uploadedDate": "2019-10-24T01:52:03.608Z"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/item/turtle/Maneater_EGS_1200x1600_1200x1600-64753fed67a14f055ee4e7150fe34daf",
+      "md5": "64753fed67a14f055ee4e7150fe34daf",
+      "width": 1200,
+      "height": 1600,
+      "size": 830357,
+      "uploadedDate": "2022-11-03T15:52:18.129Z"
+    }
+  ],
+  "creationDate": "2019-05-01T16:54:16.623+00:00",
+  "lastModifiedDate": "2022-11-03T15:52:20.689+00:00",
+  "developer": "Tripwire Interactive",
+  "developerId": "o-2baznhy8tfh7fmyb55ul656v7ggt7r",
+  "applicationId": ""
+}

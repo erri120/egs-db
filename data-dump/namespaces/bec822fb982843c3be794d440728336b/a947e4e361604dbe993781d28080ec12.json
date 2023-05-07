@@ -1,0 +1,23 @@
+{
+  "id": "a947e4e361604dbe993781d28080ec12",
+  "title": "EagleGeneralAudience",
+  "description": "EagleGeneralAudience",
+  "namespace": "bec822fb982843c3be794d440728336b",
+  "categories": "",
+  "keyImages": [
+    {
+      "type": "ESRB",
+      "url": "https://cdn1.epicgames.com/bec822fb982843c3be794d440728336b/item/ESRB_E10_FantasyViolence-842x404-b69ee903026c7a87f4179c74360a65aa.jpg",
+      "md5": "b69ee903026c7a87f4179c74360a65aa",
+      "width": 842,
+      "height": 404,
+      "size": 21122,
+      "uploadedDate": "2019-07-16T15:43:18.055Z"
+    }
+  ],
+  "creationDate": "2019-07-09T15:35:38.164+00:00",
+  "lastModifiedDate": "2023-03-10T19:03:55.3+00:00",
+  "developer": "11 Bit Studios",
+  "developerId": "o-z8janbuqt5zvnkqwm35kc9wtdzxkhr",
+  "applicationId": ""
+}

@@ -1,0 +1,32 @@
+{
+  "id": "8aea74c201bc4a00bd101bd1f42f34f6",
+  "title": "GullStaging",
+  "description": "GullStaging",
+  "namespace": "83022e1b4c304addb2aadee1db854f8d",
+  "categories": "public/games/applications",
+  "keyImages": [
+    {
+      "type": "DieselGameBoxLogo",
+      "url": "https://cdn1.epicgames.com/83022e1b4c304addb2aadee1db854f8d/item/lego-batman-3-212x67-65c6a4a1e7fc88313d7d5fa53db09c37.png",
+      "md5": "65c6a4a1e7fc88313d7d5fa53db09c37",
+      "width": 212,
+      "height": 67,
+      "size": 15893,
+      "uploadedDate": "2019-09-16T20:08:08.561Z"
+    },
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/83022e1b4c304addb2aadee1db854f8d/item/lego-batman-3-promo-1536x864-95b599046d5092526a6862774e4d874c.jpg",
+      "md5": "95b599046d5092526a6862774e4d874c",
+      "width": 1536,
+      "height": 864,
+      "size": 339258,
+      "uploadedDate": "2019-09-16T20:08:19.026Z"
+    }
+  ],
+  "creationDate": "2019-08-27T22:19:30.442+00:00",
+  "lastModifiedDate": "2019-09-19T14:21:58.605+00:00",
+  "developer": "Warner Brothers",
+  "developerId": "o-7kyv8uwtz74njnl544kbxzt5xqephw",
+  "applicationId": null
+}

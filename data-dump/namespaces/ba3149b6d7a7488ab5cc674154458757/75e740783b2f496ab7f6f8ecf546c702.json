@@ -1,0 +1,32 @@
+{
+  "id": "75e740783b2f496ab7f6f8ecf546c702",
+  "title": "Jotun Valhalla Edition",
+  "description": "Jotun Valhalla Edition",
+  "namespace": "ba3149b6d7a7488ab5cc674154458757",
+  "categories": "public/games/applications",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/ba3149b6d7a7488ab5cc674154458757/item/EGS_ThunderLotus_JotunValhallaEdition_S1-2560x1440-3de6d0151b1c97a08a8579167814682c.jpg",
+      "md5": "3de6d0151b1c97a08a8579167814682c",
+      "width": 2560,
+      "height": 1440,
+      "size": 504256,
+      "uploadedDate": "2019-11-26T15:56:35.627Z"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/ba3149b6d7a7488ab5cc674154458757/item/EGS_ThunderLotus_JotunValhallaEdition_S2-1280x1440-eceef05b236cf920e419b4004d4993e7.jpg",
+      "md5": "eceef05b236cf920e419b4004d4993e7",
+      "width": 1280,
+      "height": 1440,
+      "size": 343052,
+      "uploadedDate": "2019-11-26T15:56:50.928Z"
+    }
+  ],
+  "creationDate": "2019-09-12T17:03:30.03+00:00",
+  "lastModifiedDate": "2019-12-05T15:55:14.711+00:00",
+  "developer": "Thunder Lotus Games",
+  "developerId": "o-k5nhue2lw5nkaqutyhkwrdl5qjkcd5",
+  "applicationId": null
+}

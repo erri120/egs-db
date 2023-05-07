@@ -1,0 +1,32 @@
+{
+  "id": "4a5737045a7047de9cbbb68169af5fbf",
+  "title": "TulipStaging",
+  "description": "TulipStaging",
+  "namespace": "tulip",
+  "categories": "",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/tulip/item/SecondaryPromo-2580x1450-f74d2d49f6f419bac5c859f87a65e097.jpg",
+      "md5": "f74d2d49f6f419bac5c859f87a65e097",
+      "width": 2580,
+      "height": 1450,
+      "size": 497715,
+      "uploadedDate": "2019-02-07T12:31:25.391Z"
+    },
+    {
+      "type": "DieselGameBoxLogo",
+      "url": "https://cdn1.epicgames.com/tulip/item/TWPlogo_colour-633x239-bb8751a3b2b3ca51c52f6e5b7c31f049.png",
+      "md5": "bb8751a3b2b3ca51c52f6e5b7c31f049",
+      "width": 633,
+      "height": 239,
+      "size": 77272,
+      "uploadedDate": "2019-02-07T12:31:41.059Z"
+    }
+  ],
+  "creationDate": "2019-02-01T14:52:45.28+00:00",
+  "lastModifiedDate": "2019-08-16T20:52:31.101+00:00",
+  "developer": "Terrible Toybox, Inc.",
+  "developerId": "o-phlj6meuxqgdhss58gcqnj86br8xrt",
+  "applicationId": null
+}

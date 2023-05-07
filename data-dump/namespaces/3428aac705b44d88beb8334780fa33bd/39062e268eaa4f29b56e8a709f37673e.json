@@ -1,0 +1,32 @@
+{
+  "id": "39062e268eaa4f29b56e8a709f37673e",
+  "title": "SEASON\u00AE: A letter to the future",
+  "description": "SEASON\u00AE: A letter to the future",
+  "namespace": "3428aac705b44d88beb8334780fa33bd",
+  "categories": "public/games/applications",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_Season_ScavengersStudio_S1_2560x1440-68fbb9666c5ee36d29ed416adb50ccd5",
+      "md5": "68fbb9666c5ee36d29ed416adb50ccd5",
+      "width": 2560,
+      "height": 1440,
+      "size": 992671,
+      "uploadedDate": "2021-06-24T05:49:37.951Z"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_Season_ScavengersStudio_S2 - Copy_1200x1600-542337d65888d4e1476676d8a628dfe9",
+      "md5": "542337d65888d4e1476676d8a628dfe9",
+      "width": 1200,
+      "height": 1600,
+      "size": 929251,
+      "uploadedDate": "2021-06-24T05:49:45.625Z"
+    }
+  ],
+  "creationDate": "2021-03-31T23:06:18.637+00:00",
+  "lastModifiedDate": "2023-01-31T19:03:31.592+00:00",
+  "developer": "Covalent Media dba Scavengers Studio",
+  "developerId": "o-8ykq8y3hshjj6nkjujjfwj9cfa5g6f",
+  "applicationId": "fghi4567dxzsXdhEJ7ZlONrAvnsUvjbN"
+}

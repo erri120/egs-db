@@ -1,0 +1,23 @@
+{
+  "id": "faf7a85eec7b4e9c8ec45956b4152104",
+  "title": "Launcher_Header",
+  "description": "FORTNITE",
+  "namespace": "fn",
+  "categories": "applications/prod/applications/prod/content/applications",
+  "keyImages": [
+    {
+      "type": "Featured",
+      "url": "https://cdn1.epicgames.com/fn/item/BR07_LegacyLauncher_CoverArt_3-Up_1920x640-1920x640-d2683cdfafc04fa691dfdff2f3467a08.png",
+      "md5": "d2683cdfafc04fa691dfdff2f3467a08",
+      "width": 1920,
+      "height": 640,
+      "size": 1326145,
+      "uploadedDate": "2018-12-06T10:07:59.231Z"
+    }
+  ],
+  "creationDate": "2017-04-04T19:41:16.361+00:00",
+  "lastModifiedDate": "2018-12-06T10:11:43.691+00:00",
+  "developer": "Epic Games",
+  "developerId": "o-aa83a0a9bc45e98c80c1b1c9d92e9e",
+  "applicationId": null
+}

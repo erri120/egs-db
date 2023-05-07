@@ -1,0 +1,23 @@
+{
+  "id": "b53089d48931406a8c8498b05058f7a7",
+  "title": "Nutmeg External",
+  "description": "Nutmeg External",
+  "namespace": "nutmeg",
+  "categories": "",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/nutmeg/item/SupermashEGS_L1 (1)-2560x1440-8d74801223d662459cfb79d19fb7f2bf.jpg",
+      "md5": "8d74801223d662459cfb79d19fb7f2bf",
+      "width": 2560,
+      "height": 1440,
+      "size": 1248638,
+      "uploadedDate": "2019-08-15T13:24:59.882Z"
+    }
+  ],
+  "creationDate": "2019-07-25T22:18:23.051+00:00",
+  "lastModifiedDate": "2019-12-10T18:14:36.998+00:00",
+  "developer": "Digital Continue",
+  "developerId": "o-qb7ry6eblsrnt28hxlcuw8w5j5t7y3",
+  "applicationId": null
+}

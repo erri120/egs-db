@@ -1,0 +1,41 @@
+{
+  "id": "3630e54aa9f44217ac3188197754fff0",
+  "title": "Outer Wilds Beta Staging",
+  "description": "Outer Wilds Beta Staging",
+  "namespace": "starfish",
+  "categories": "",
+  "keyImages": [
+    {
+      "type": "DieselGameBoxLogo",
+      "url": "https://cdn1.epicgames.com/starfish/item/OW_Logo_MainOrange-01-1501x700-bf592e4fe986130cee68604ec4059e03.png",
+      "md5": "bf592e4fe986130cee68604ec4059e03",
+      "width": 1501,
+      "height": 700,
+      "size": 70702,
+      "uploadedDate": "2018-11-30T01:19:44.847Z"
+    },
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/starfish/item/OuterWilds_PrimaryPromo-1290x725-930b33ddbd98f10b26d8d2bd72551095.png",
+      "md5": "930b33ddbd98f10b26d8d2bd72551095",
+      "width": 1290,
+      "height": 725,
+      "size": 215896,
+      "uploadedDate": "2019-04-30T19:17:32.992Z"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/starfish/item/Outerwilds_tall-853x960-58dc805f1fe053e7cad4406d3b801f8a.png",
+      "md5": "58dc805f1fe053e7cad4406d3b801f8a",
+      "width": 853,
+      "height": 960,
+      "size": 236287,
+      "uploadedDate": "2019-10-22T09:41:44.79Z"
+    }
+  ],
+  "creationDate": "2020-01-09T18:53:15.867+00:00",
+  "lastModifiedDate": "2021-07-23T15:23:44.342+00:00",
+  "developer": "Annapurna Interactive",
+  "developerId": "o-bmeb3ztlbxkjc8vvpydava38yvmxlm",
+  "applicationId": ""
+}

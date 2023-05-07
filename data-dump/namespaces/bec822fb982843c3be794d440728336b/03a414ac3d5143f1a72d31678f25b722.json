@@ -1,0 +1,32 @@
+{
+  "id": "03a414ac3d5143f1a72d31678f25b722",
+  "title": "EagleStaging",
+  "description": "EagleStaging",
+  "namespace": "bec822fb982843c3be794d440728336b",
+  "categories": "public/games/applications",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/bec822fb982843c3be794d440728336b/item/EGS_11bitstudios_Moonlighter_L1-2560x1440-3ef51db7fab2fde76235495edf783ed6.jpg",
+      "md5": "3ef51db7fab2fde76235495edf783ed6",
+      "width": 2560,
+      "height": 1440,
+      "size": 208094,
+      "uploadedDate": "2019-07-16T15:46:12.332Z"
+    },
+    {
+      "type": "DieselGameBoxLogo",
+      "url": "https://cdn1.epicgames.com/bec822fb982843c3be794d440728336b/item/EGS_11bitstudios_Moonlighter_IC1_White-9543x2160-8aa3fa0a9a8adc6e29104c3a628ba92d.png",
+      "md5": "8aa3fa0a9a8adc6e29104c3a628ba92d",
+      "width": 9543,
+      "height": 2160,
+      "size": 12466,
+      "uploadedDate": "2019-07-16T15:46:41.463Z"
+    }
+  ],
+  "creationDate": "2019-07-09T15:35:38.313+00:00",
+  "lastModifiedDate": "2019-07-25T15:02:42.625+00:00",
+  "developer": "11 Bit Studios",
+  "developerId": "o-z8janbuqt5zvnkqwm35kc9wtdzxkhr",
+  "applicationId": null
+}

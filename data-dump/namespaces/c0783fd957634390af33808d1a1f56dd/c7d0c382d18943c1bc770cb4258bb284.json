@@ -1,0 +1,32 @@
+{
+  "id": "c7d0c382d18943c1bc770cb4258bb284",
+  "title": "No Straight Roads - June Preview",
+  "description": "No Straight Roads - June Preview",
+  "namespace": "c0783fd957634390af33808d1a1f56dd",
+  "categories": "public/games/applications",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/c0783fd957634390af33808d1a1f56dd/item/NSRKeyArt1-602x338-fda3b865ae59a174c116afc3d172ea97.jpg",
+      "md5": "fda3b865ae59a174c116afc3d172ea97",
+      "width": 602,
+      "height": 338,
+      "size": 217630,
+      "uploadedDate": "2019-08-29T13:01:43.594Z"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/c0783fd957634390af33808d1a1f56dd/item/CodeRedemption_NSR-340x440-0547af550ea2d0512d501eeb2404e226-340x440-0547af550ea2d0512d501eeb2404e226.jpg",
+      "md5": "0547af550ea2d0512d501eeb2404e226",
+      "width": 340,
+      "height": 440,
+      "size": 167077,
+      "uploadedDate": "2020-03-26T19:44:23.729Z"
+    }
+  ],
+  "creationDate": "2020-03-26T19:48:11.523+00:00",
+  "lastModifiedDate": "2020-06-17T18:35:03.888+00:00",
+  "developer": "Sold Out",
+  "developerId": "o-gcm88kddcs2t3gtypyq9tvlx64bzyw",
+  "applicationId": null
+}

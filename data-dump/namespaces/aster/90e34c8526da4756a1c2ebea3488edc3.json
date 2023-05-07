@@ -1,0 +1,32 @@
+{
+  "id": "90e34c8526da4756a1c2ebea3488edc3",
+  "title": "Heavy Rain (Demo)",
+  "description": "Heavy Rain (Demo)",
+  "namespace": "aster",
+  "categories": "",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/aster/item/AsterDemo-2560x1440-a1fa80abd715b161ac8b71007d1bbf7d.png",
+      "md5": "a1fa80abd715b161ac8b71007d1bbf7d",
+      "width": 2560,
+      "height": 1440,
+      "size": 1234424,
+      "uploadedDate": "2019-05-23T20:59:18.357Z"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/aster/item/HEAVYRAIN2-860x1148-1bbec73268268bf6901efc1206f46462-860x1148-1bbec73268268bf6901efc1206f46462.jpg",
+      "md5": "1bbec73268268bf6901efc1206f46462",
+      "width": 860,
+      "height": 1148,
+      "size": 165439,
+      "uploadedDate": "2020-05-13T20:10:32.019Z"
+    }
+  ],
+  "creationDate": "2019-03-18T18:59:10.346+00:00",
+  "lastModifiedDate": "2020-05-13T20:10:36.408+00:00",
+  "developer": "Quantic Dream",
+  "developerId": "o-m8v47d762atphw94knus7ezawefpcu",
+  "applicationId": null
+}

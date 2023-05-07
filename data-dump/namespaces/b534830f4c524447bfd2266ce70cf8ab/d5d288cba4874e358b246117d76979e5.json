@@ -1,0 +1,41 @@
+{
+  "id": "d5d288cba4874e358b246117d76979e5",
+  "title": "TWD  The TellTale Definitive Series Pre-Purchase",
+  "description": "TWD  The TellTale Definitive Series Pre-Purchase",
+  "namespace": "b534830f4c524447bfd2266ce70cf8ab",
+  "categories": "public/games/applications",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/b534830f4c524447bfd2266ce70cf8ab/item/TTTWD-DS_Epic_About_1920x1080-1920x1080-0a8979b4ab012733a342540562b21e2d.jpg",
+      "md5": "0a8979b4ab012733a342540562b21e2d",
+      "width": 1920,
+      "height": 1080,
+      "size": 211453,
+      "uploadedDate": "2019-08-05T18:24:29.927Z"
+    },
+    {
+      "type": "DieselGameBoxLogo",
+      "url": "https://cdn1.epicgames.com/b534830f4c524447bfd2266ce70cf8ab/item/TTTWD-DS-EPIC_GameLogo-1448x966-5dd92e6a1235f0d5821c77d89ed0126e.png",
+      "md5": "5dd92e6a1235f0d5821c77d89ed0126e",
+      "width": 1448,
+      "height": 966,
+      "size": 489652,
+      "uploadedDate": "2019-08-05T18:24:39.79Z"
+    },
+    {
+      "type": "ESRB",
+      "url": "https://cdn1.epicgames.com/b534830f4c524447bfd2266ce70cf8ab/item/esrb_walking_dead_def-842x404-92b3c16338490a0f7e78d988976e2378.jpg",
+      "md5": "92b3c16338490a0f7e78d988976e2378",
+      "width": 842,
+      "height": 404,
+      "size": 132018,
+      "uploadedDate": "2019-08-06T14:20:38.838Z"
+    }
+  ],
+  "creationDate": "2019-08-05T18:23:18.255+00:00",
+  "lastModifiedDate": "2019-10-09T13:19:09.249+00:00",
+  "developer": "Skybound Interactive",
+  "developerId": "o-rqvssgn2hhj58wv5bc6eueqswz2un4",
+  "applicationId": null
+}

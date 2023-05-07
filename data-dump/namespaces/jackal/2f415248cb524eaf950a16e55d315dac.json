@@ -1,0 +1,32 @@
+{
+  "id": "2f415248cb524eaf950a16e55d315dac",
+  "title": "Dauntless",
+  "description": "Dauntless",
+  "namespace": "jackal",
+  "categories": "",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/item/jackal/EGS_LIVEFORTHEHUNT_PhoenixLabs_S1_2560x1440-bee1a2ffa0adadb1652d592016dc4032",
+      "md5": "bee1a2ffa0adadb1652d592016dc4032",
+      "width": 2560,
+      "height": 1440,
+      "size": 707502,
+      "uploadedDate": "2023-04-20T18:56:28.814Z"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/item/jackal/EGS_LIVEFORTHEHUNT_PhoenixLabs_S2_1200x1600-1319b1cbb431b9eda1bfdb37fcd76f06",
+      "md5": "1319b1cbb431b9eda1bfdb37fcd76f06",
+      "width": 1200,
+      "height": 1600,
+      "size": 414956,
+      "uploadedDate": "2023-04-20T18:56:31.749Z"
+    }
+  ],
+  "creationDate": "2019-01-28T20:38:56.842+00:00",
+  "lastModifiedDate": "2023-04-27T16:58:10.97+00:00",
+  "developer": "Phoenix Labs",
+  "developerId": "o-krlzxj88qrtb69fredeuaf887bl5az",
+  "applicationId": ""
+}

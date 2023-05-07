@@ -1,0 +1,32 @@
+{
+  "id": "5a0ba3b8d9b74b02b67a99a7859dca10",
+  "title": "Journey To The Savage Planet Pre-Purchase",
+  "description": "Journey To The Savage Planet Pre-Purchase",
+  "namespace": "oleander",
+  "categories": "",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/item/oleander/JTTSP_Landscape_Image_2560X1440_2560x1440-ffdd4fd9863cf7faaeac8cd7e8a6bbe0",
+      "md5": "ffdd4fd9863cf7faaeac8cd7e8a6bbe0",
+      "width": 2560,
+      "height": 1440,
+      "size": 1034867,
+      "uploadedDate": "2022-11-09T21:50:50Z"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/item/oleander/JTTSP_Portrait_Storefront_1200X1600_1200x1600-f58bcd2b76429be1313d10e9f63143a9",
+      "md5": "f58bcd2b76429be1313d10e9f63143a9",
+      "width": 1200,
+      "height": 1600,
+      "size": 542346,
+      "uploadedDate": "2022-11-09T21:50:47.433Z"
+    }
+  ],
+  "creationDate": "2019-08-12T20:16:29.927+00:00",
+  "lastModifiedDate": "2022-11-09T21:50:53.56+00:00",
+  "developer": "505 Games",
+  "developerId": "o-cul2z53mrw3bxltv63v68rgd4b3w52",
+  "applicationId": ""
+}

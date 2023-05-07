@@ -1,0 +1,32 @@
+{
+  "id": "2d96b990fa5249e5ade3e21590e403e6",
+  "title": "VanillaDevAudience",
+  "description": "VanillaDevAudience",
+  "namespace": "a9cb15d3362d43d585b8a5b13b8a4513",
+  "categories": "",
+  "keyImages": [
+    {
+      "type": "DieselGameBoxLogo",
+      "url": "https://cdn1.epicgames.com/a9cb15d3362d43d585b8a5b13b8a4513/item/EGS_BITHELL GAMES_JOHN WICK HEX_N3_PRIMARYTHUMB-2560x1440-0005e12ca7b33ba9eeca7c7daad35d8f-2560x1440-0005e12ca7b33ba9eeca7c7daad35d8f.jpg",
+      "md5": "0005e12ca7b33ba9eeca7c7daad35d8f",
+      "width": 2560,
+      "height": 1440,
+      "size": 192213,
+      "uploadedDate": "2019-09-25T22:02:19.138Z"
+    },
+    {
+      "type": "DieselGameBoxLogo",
+      "url": "https://cdn1.epicgames.com/a9cb15d3362d43d585b8a5b13b8a4513/item/EGS_BITHELL GAMES_JOHN WICK HEX_IC1_WHITE\u0026COLOR_WIDE-1856x1440-3c09d00056c8e9722f5cea7b7b5546ab-1856x1440-3c09d00056c8e9722f5cea7b7b5546ab.png",
+      "md5": "3c09d00056c8e9722f5cea7b7b5546ab",
+      "width": 1856,
+      "height": 1440,
+      "size": 46145,
+      "uploadedDate": "2019-09-25T22:02:36.505Z"
+    }
+  ],
+  "creationDate": "2019-05-09T18:28:52.385+00:00",
+  "lastModifiedDate": "2019-10-08T16:57:18.765+00:00",
+  "developer": "Good Shepherd Entertainment",
+  "developerId": "o-v3fdwkgaukftabrpt9292vr5tcwj2p",
+  "applicationId": null
+}

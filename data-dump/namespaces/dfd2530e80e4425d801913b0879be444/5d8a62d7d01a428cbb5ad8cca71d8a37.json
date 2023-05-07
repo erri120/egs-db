@@ -1,0 +1,32 @@
+{
+  "id": "5d8a62d7d01a428cbb5ad8cca71d8a37",
+  "title": "SparrowDebugDev",
+  "description": "SparrowDebugDev",
+  "namespace": "dfd2530e80e4425d801913b0879be444",
+  "categories": "games/developer/applications",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/dfd2530e80e4425d801913b0879be444/item/WWZ Promo-960x540-21a102c5a83358d4934b947d674e85dc.jpg",
+      "md5": "21a102c5a83358d4934b947d674e85dc",
+      "width": 960,
+      "height": 540,
+      "size": 109442,
+      "uploadedDate": "2019-10-24T19:38:30.609Z"
+    },
+    {
+      "type": "DieselGameBoxLogo",
+      "url": "https://cdn1.epicgames.com/dfd2530e80e4425d801913b0879be444/item/wwz_logo-400x400-0dc2a56a36635998206f055028192c7a.png",
+      "md5": "0dc2a56a36635998206f055028192c7a",
+      "width": 400,
+      "height": 400,
+      "size": 36562,
+      "uploadedDate": "2019-10-24T19:38:46.438Z"
+    }
+  ],
+  "creationDate": "2020-05-05T13:22:30.19+00:00",
+  "lastModifiedDate": "2021-07-27T02:14:07.774+00:00",
+  "developer": "Rebellion",
+  "developerId": "o-7ytxfydj7f9a2uv4bmg3s5wfl2epsm",
+  "applicationId": null
+}

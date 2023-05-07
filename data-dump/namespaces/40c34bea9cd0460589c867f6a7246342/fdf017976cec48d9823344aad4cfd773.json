@@ -1,0 +1,23 @@
+{
+  "id": "fdf017976cec48d9823344aad4cfd773",
+  "title": "EgretGeneralAudience",
+  "description": "EgretGeneralAudience",
+  "namespace": "40c34bea9cd0460589c867f6a7246342",
+  "categories": "",
+  "keyImages": [
+    {
+      "type": "ESRB",
+      "url": "https://cdn1.epicgames.com/40c34bea9cd0460589c867f6a7246342/item/ESRB_Arkham_City-842x403-4b08f2449255875eaaee37a76d6235f5.jpg",
+      "md5": "4b08f2449255875eaaee37a76d6235f5",
+      "width": 842,
+      "height": 403,
+      "size": 59545,
+      "uploadedDate": "2019-09-16T20:42:15.236Z"
+    }
+  ],
+  "creationDate": "2019-08-27T22:18:29.222+00:00",
+  "lastModifiedDate": "2019-09-19T14:25:14.698+00:00",
+  "developer": "Warner Brothers",
+  "developerId": "o-7kyv8uwtz74njnl544kbxzt5xqephw",
+  "applicationId": null
+}

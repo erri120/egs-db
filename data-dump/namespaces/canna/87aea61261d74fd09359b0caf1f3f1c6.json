@@ -1,0 +1,23 @@
+{
+  "id": "87aea61261d74fd09359b0caf1f3f1c6",
+  "title": "CannaGeneralAudience",
+  "description": "CannaGeneralAudience",
+  "namespace": "canna",
+  "categories": "",
+  "keyImages": [
+    {
+      "type": "ESRB",
+      "url": "https://cdn1.epicgames.com/canna/item/RollerCoasterTycoonAdventures-842x404-5fc05c1e53eae1acd973f0d638b2b798.jpg",
+      "md5": "5fc05c1e53eae1acd973f0d638b2b798",
+      "width": 842,
+      "height": 404,
+      "size": 46482,
+      "uploadedDate": "2019-04-23T20:49:17.029Z"
+    }
+  ],
+  "creationDate": "2019-02-27T18:30:04.051+00:00",
+  "lastModifiedDate": "2019-05-13T14:29:54.971+00:00",
+  "developer": "Atari",
+  "developerId": "o-bhpk86rgthezed539g3hb5avacecqt",
+  "applicationId": null
+}

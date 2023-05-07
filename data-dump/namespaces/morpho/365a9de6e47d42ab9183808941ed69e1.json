@@ -1,0 +1,50 @@
+{
+  "id": "365a9de6e47d42ab9183808941ed69e1",
+  "title": "Hello Neighbor Hide and Seek",
+  "description": "Hello Neighbor Hide and Seek",
+  "namespace": "morpho",
+  "categories": "",
+  "keyImages": [
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/morpho/item/Medium Size 1288 x 1450 (1)-1288x1450-89e000b255d99d495ba53b7d33b8f5c7.png",
+      "md5": "89e000b255d99d495ba53b7d33b8f5c7",
+      "width": 1288,
+      "height": 1450,
+      "size": 1732674,
+      "uploadedDate": "2018-11-28T22:19:02.864Z"
+    },
+    {
+      "type": "DieselGameBoxLogo",
+      "url": "https://cdn1.epicgames.com/morpho/item/2018-12-06-540x336-b72da4a7d7637fbbf09c4061dde784ff.png",
+      "md5": "b72da4a7d7637fbbf09c4061dde784ff",
+      "width": 540,
+      "height": 336,
+      "size": 60790,
+      "uploadedDate": "2018-12-06T21:24:14.622Z"
+    },
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/morpho/item/HelloNeighbor_HeroImage_1290x725-1290x725-ac10d115e946ba8f6329d8b354b11c71.jpg",
+      "md5": "ac10d115e946ba8f6329d8b354b11c71",
+      "width": 1290,
+      "height": 725,
+      "size": 181702,
+      "uploadedDate": "2018-12-06T23:29:53.19Z"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/morpho/item/HN_HS_Portrait-644x725-5afef6f77959d34a4b70e95410cc6277-644x725-5afef6f77959d34a4b70e95410cc6277.jpg",
+      "md5": "5afef6f77959d34a4b70e95410cc6277",
+      "width": 644,
+      "height": 725,
+      "size": 118310,
+      "uploadedDate": "2019-11-20T21:40:02.92Z"
+    }
+  ],
+  "creationDate": "2018-11-28T21:43:57.255+00:00",
+  "lastModifiedDate": "2019-11-20T21:40:05.712+00:00",
+  "developer": "tinyBuild Games",
+  "developerId": "o-t682p59y2u8tr9bxcm6cmw9w7mmz5t",
+  "applicationId": null
+}

@@ -1,0 +1,23 @@
+{
+  "id": "8a0b3aa0b66f4907ab3b29e7c84b0f5f",
+  "title": "MilanoGeneralAudience",
+  "description": "MilanoGeneralAudience",
+  "namespace": "116b93c8b15c4304b7629f0861523322",
+  "categories": "",
+  "keyImages": [
+    {
+      "type": "ESRB",
+      "url": "https://cdn1.epicgames.com/116b93c8b15c4304b7629f0861523322/item/ESRB_Teen-blood-mildlanguage-violence-842x404-0cb9c2cd5e0ea6e98cd4e03f4c2349e6.png",
+      "md5": "0cb9c2cd5e0ea6e98cd4e03f4c2349e6",
+      "width": 842,
+      "height": 404,
+      "size": 47733,
+      "uploadedDate": "2020-10-09T14:12:32.251Z"
+    }
+  ],
+  "creationDate": "2020-08-21T13:37:20.385+00:00",
+  "lastModifiedDate": "2020-10-20T13:27:39.93+00:00",
+  "developer": "THQ Nordic GmbH",
+  "developerId": "o-jywxgemg3dagnv6fymcngq3g29mc4j",
+  "applicationId": null
+}

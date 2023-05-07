@@ -1,0 +1,32 @@
+{
+  "id": "408c84b21b3d44ecbfbc835721587110",
+  "title": "CatnipStable3",
+  "description": "CatnipStable3",
+  "namespace": "catnip",
+  "categories": "",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/catnip/item/Oak_StandardEdition_S1-1920x1080-b2150080aa64b013ac8171622ddbcfd8.jpg",
+      "md5": "b2150080aa64b013ac8171622ddbcfd8",
+      "width": 1920,
+      "height": 1080,
+      "size": 219579,
+      "uploadedDate": "2019-05-17T14:09:14.285Z"
+    },
+    {
+      "type": "DieselGameBoxLogo",
+      "url": "https://cdn1.epicgames.com/catnip/item/Oak_Logo_Standard-720x209-8373e0df5612a9952fe79defb32e1322.png",
+      "md5": "8373e0df5612a9952fe79defb32e1322",
+      "width": 720,
+      "height": 209,
+      "size": 192732,
+      "uploadedDate": "2019-05-17T14:09:39.36Z"
+    }
+  ],
+  "creationDate": "2019-06-14T22:27:11.548+00:00",
+  "lastModifiedDate": "2020-06-15T20:52:55.764+00:00",
+  "developer": "2K Games, Inc.",
+  "developerId": "o-37m6jbj5wcvrcvm4wusv7nazdfvbjk",
+  "applicationId": null
+}

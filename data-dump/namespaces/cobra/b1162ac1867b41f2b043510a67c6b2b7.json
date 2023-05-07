@@ -1,0 +1,23 @@
+{
+  "id": "b1162ac1867b41f2b043510a67c6b2b7",
+  "title": "PortiaGeneralAudience",
+  "description": "PortiaGeneralAudience",
+  "namespace": "cobra",
+  "categories": "",
+  "keyImages": [
+    {
+      "type": "ESRB",
+      "url": "https://cdn1.epicgames.com/cobra/item/MyTimeAtPortia-1920x1080-2e3d318ba7bf5d1480681d364edd1e8d.png",
+      "md5": "2e3d318ba7bf5d1480681d364edd1e8d",
+      "width": 1920,
+      "height": 1080,
+      "size": 248291,
+      "uploadedDate": "2019-04-23T20:51:05.556Z"
+    }
+  ],
+  "creationDate": "2019-01-04T19:31:51.227+00:00",
+  "lastModifiedDate": "2020-04-07T15:06:19.061+00:00",
+  "developer": "Team17 Digital Ltd",
+  "developerId": "o-uvtztrtfjdn3xgrwyhbuwwb5z42mbv",
+  "applicationId": null
+}

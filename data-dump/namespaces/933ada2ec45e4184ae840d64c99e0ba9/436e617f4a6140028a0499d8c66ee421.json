@@ -1,0 +1,32 @@
+{
+  "id": "436e617f4a6140028a0499d8c66ee421",
+  "title": "Rogue Company Dev",
+  "description": "PeweeStaging",
+  "namespace": "933ada2ec45e4184ae840d64c99e0ba9",
+  "categories": "public/games/applications",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/933ada2ec45e4184ae840d64c99e0ba9/item/EGS_DEVELOPER_RogueCompany_G1_DESCRIPTION-2560x1440-4979a2c03bf95b992a9ba71086fc7e90.jpg",
+      "md5": "4979a2c03bf95b992a9ba71086fc7e90",
+      "width": 2560,
+      "height": 1440,
+      "size": 430307,
+      "uploadedDate": "2019-09-04T18:31:20.35Z"
+    },
+    {
+      "type": "DieselGameBoxLogo",
+      "url": "https://cdn1.epicgames.com/933ada2ec45e4184ae840d64c99e0ba9/item/EGS_DEVELOPER_RogueCompany_IC1_DESCRIPTION-200x200-02a2630eadb17cdcd9009ab52f2a1fb5.png",
+      "md5": "02a2630eadb17cdcd9009ab52f2a1fb5",
+      "width": 200,
+      "height": 200,
+      "size": 3748,
+      "uploadedDate": "2019-09-04T18:31:31.321Z"
+    }
+  ],
+  "creationDate": "2019-08-16T21:22:27.527+00:00",
+  "lastModifiedDate": "2020-11-23T15:14:23.057+00:00",
+  "developer": "Hi-Rez Studios",
+  "developerId": "o-7aklpapnk74p66sqs6hm5byt29wp66",
+  "applicationId": null
+}

@@ -1,0 +1,32 @@
+{
+  "id": "1d840530d39f484ba747b43a0b186ac7",
+  "title": "Aquanox Digital Extras",
+  "description": "Aquanox Digital Extras",
+  "namespace": "116b93c8b15c4304b7629f0861523322",
+  "categories": "public/games/applications",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/116b93c8b15c4304b7629f0861523322/item/EGS_AquanoxDeepDescent_DigitalArrow_S1-2560x1440-34de899bcf88f182fd05e5b5c23cfb5f-2560x1440-34de899bcf88f182fd05e5b5c23cfb5f.jpg",
+      "md5": "34de899bcf88f182fd05e5b5c23cfb5f",
+      "width": 2560,
+      "height": 1440,
+      "size": 439103,
+      "uploadedDate": "2020-10-19T13:20:58.488Z"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/116b93c8b15c4304b7629f0861523322/item/EGS_AquanoxDeepDescent_DigitalArrow_S2-1200x1600-712542c3f4513431f9c66c560e287d22-1200x1600-712542c3f4513431f9c66c560e287d22.jpg",
+      "md5": "712542c3f4513431f9c66c560e287d22",
+      "width": 1200,
+      "height": 1600,
+      "size": 282253,
+      "uploadedDate": "2020-10-19T13:21:07.161Z"
+    }
+  ],
+  "creationDate": "2020-10-16T18:30:00.283+00:00",
+  "lastModifiedDate": "2020-10-20T13:26:37.125+00:00",
+  "developer": "THQ Nordic GmbH",
+  "developerId": "o-jywxgemg3dagnv6fymcngq3g29mc4j",
+  "applicationId": null
+}

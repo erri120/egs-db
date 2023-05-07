@@ -1,0 +1,23 @@
+{
+  "id": "9e299377b33545b7a5d34d2797844723",
+  "title": "Far Cry Primal Apex Audience",
+  "description": "Far Cry Primal Apex Audience",
+  "namespace": "larkspur",
+  "categories": "",
+  "keyImages": [
+    {
+      "type": "ESRB",
+      "url": "https://cdn1.epicgames.com/larkspur/item/ESRB_FarCryPrimal-842x404-df9815122ebd6b0819e8a8d33a6a0d12.png",
+      "md5": "df9815122ebd6b0819e8a8d33a6a0d12",
+      "width": 842,
+      "height": 404,
+      "size": 67915,
+      "uploadedDate": "2019-04-23T19:45:18.905Z"
+    }
+  ],
+  "creationDate": "2019-02-13T17:27:37.371+00:00",
+  "lastModifiedDate": "2019-06-07T16:53:10.07+00:00",
+  "developer": "Ubisoft Entertainment",
+  "developerId": "o-3efjudxdtgsqnulml4bkeq3v9nec38",
+  "applicationId": null
+}

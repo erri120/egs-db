@@ -1,0 +1,32 @@
+{
+  "id": "4846b408b2e5424baecf1dc29683402e",
+  "title": "Rogue Company",
+  "description": "Rogue Company",
+  "namespace": "933ada2ec45e4184ae840d64c99e0ba9",
+  "categories": "public/games/applications",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/item/933ada2ec45e4184ae840d64c99e0ba9/RoCo_EGS_BaseGame_LandscapeProduct_2560x1440_2560x1440-9f12c620a340dd8b7a84d63135973817",
+      "md5": "9f12c620a340dd8b7a84d63135973817",
+      "width": 2560,
+      "height": 1440,
+      "size": 951419,
+      "uploadedDate": "2023-02-24T12:59:30.615Z"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/item/933ada2ec45e4184ae840d64c99e0ba9/RoCo_EGS_BaseGame_PortraitProduct_1200x1600_1200x1600-886450991cadd15b0e5e08b80f671556",
+      "md5": "886450991cadd15b0e5e08b80f671556",
+      "width": 1200,
+      "height": 1600,
+      "size": 477073,
+      "uploadedDate": "2023-02-24T12:59:33.742Z"
+    }
+  ],
+  "creationDate": "2019-08-16T21:22:27.462+00:00",
+  "lastModifiedDate": "2023-02-28T12:00:17.672+00:00",
+  "developer": "Hi-Rez Studios",
+  "developerId": "o-7aklpapnk74p66sqs6hm5byt29wp66",
+  "applicationId": ""
+}

@@ -1,0 +1,32 @@
+{
+  "id": "bb7fb50534db436e8874e03d77ea3474",
+  "title": "Foregone Pre-Purchase",
+  "description": "Foregone Pre-Purchase",
+  "namespace": "a40f6c03e1374358809ec38c999059c0",
+  "categories": "public/games/applications",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/a40f6c03e1374358809ec38c999059c0/item/EGS_BigBlueBubble_Foregone_S3-1360x766-98788636a8c0f9a6a50534d50c420683.jpg",
+      "md5": "98788636a8c0f9a6a50534d50c420683",
+      "width": 1360,
+      "height": 766,
+      "size": 501303,
+      "uploadedDate": "2019-12-11T18:34:15.995Z"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/a40f6c03e1374358809ec38c999059c0/item/EGS_BigBlueBubble_Foregone_S4-510x680-d2ea24d44a409f9f1cba0db7b4d6d930.jpg",
+      "md5": "d2ea24d44a409f9f1cba0db7b4d6d930",
+      "width": 510,
+      "height": 680,
+      "size": 345019,
+      "uploadedDate": "2019-12-11T18:34:25.525Z"
+    }
+  ],
+  "creationDate": "2019-12-09T18:23:39.905+00:00",
+  "lastModifiedDate": "2020-02-27T14:09:32.383+00:00",
+  "developer": "Big Blue Bubble, Inc.",
+  "developerId": "o-r7nfesqr4qcafkmfwmp9hpu492f228",
+  "applicationId": null
+}

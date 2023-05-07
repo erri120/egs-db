@@ -1,0 +1,32 @@
+{
+  "id": "97e8920391374cf39162aa89950562da",
+  "title": "Auto Chess Experimental",
+  "description": "Auto Chess Experimental",
+  "namespace": "37baf50c268d47779020d73143bb02b0",
+  "categories": "public/games/applications",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/37baf50c268d47779020d73143bb02b0/item/Autochess-promo-2560x1440-f041c389dafd6ff1466999a9bf804f3c.jpg",
+      "md5": "f041c389dafd6ff1466999a9bf804f3c",
+      "width": 2560,
+      "height": 1440,
+      "size": 243162,
+      "uploadedDate": "2019-06-10T00:01:51.392Z"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/37baf50c268d47779020d73143bb02b0/item/1200x1600-2-1200x1600-5effedf7c8afeb501d71c2cb5db93b50.jpg",
+      "md5": "5effedf7c8afeb501d71c2cb5db93b50",
+      "width": 1200,
+      "height": 1600,
+      "size": 1542602,
+      "uploadedDate": "2020-05-13T01:30:48.484Z"
+    }
+  ],
+  "creationDate": "2019-12-18T12:55:37.865+00:00",
+  "lastModifiedDate": "2022-04-27T14:03:56.165+00:00",
+  "developer": "Dragonest Game",
+  "developerId": "o-y5r3t7krqueavr2f5gk9g8g7pfmtsf",
+  "applicationId": null
+}

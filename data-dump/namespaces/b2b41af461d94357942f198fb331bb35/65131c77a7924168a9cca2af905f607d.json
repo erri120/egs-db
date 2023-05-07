@@ -1,0 +1,32 @@
+{
+  "id": "65131c77a7924168a9cca2af905f607d",
+  "title": "Chronos: Before the Ashes",
+  "description": "Chronos: Before the Ashes",
+  "namespace": "b2b41af461d94357942f198fb331bb35",
+  "categories": "public/games/applications",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/b2b41af461d94357942f198fb331bb35/item/EGS_ChronosBeforetheAshes_GunfireGames_S1-2560x1440-c9721453374a1be88790985f90abb571.jpg",
+      "md5": "c9721453374a1be88790985f90abb571",
+      "width": 2560,
+      "height": 1440,
+      "size": 589737,
+      "uploadedDate": "2020-11-18T13:26:19.724Z"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/b2b41af461d94357942f198fb331bb35/item/EGS_ChronosBeforetheAshes_GunfireGames_S2-1200x1600-197abc463e019b2fbb09f6c44d11e5c8.jpg",
+      "md5": "197abc463e019b2fbb09f6c44d11e5c8",
+      "width": 1200,
+      "height": 1600,
+      "size": 407448,
+      "uploadedDate": "2020-11-18T13:26:29.713Z"
+    }
+  ],
+  "creationDate": "2020-11-11T14:11:43.287+00:00",
+  "lastModifiedDate": "2020-12-01T17:53:59.095+00:00",
+  "developer": "THQ Nordic GmbH",
+  "developerId": "o-jywxgemg3dagnv6fymcngq3g29mc4j",
+  "applicationId": null
+}

@@ -1,0 +1,32 @@
+{
+  "id": "4e98aed621084001b89fc46a1aac236d",
+  "title": "Supervillain",
+  "description": "Supervillain",
+  "namespace": "7015c51a49be4592b5ba3ae2577723c5",
+  "categories": "public/games/applications",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/7015c51a49be4592b5ba3ae2577723c5/item/EGS_Supervillain_HaemimontGames_DLC_S1-2560x1440-7b55d08ccd0eea16eb06ef1f4fd16152.jpg",
+      "md5": "7b55d08ccd0eea16eb06ef1f4fd16152",
+      "width": 2560,
+      "height": 1440,
+      "size": 986181,
+      "uploadedDate": "2020-11-16T15:35:37.817Z"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/7015c51a49be4592b5ba3ae2577723c5/item/EGS_Supervillain_HaemimontGames_DLC_S2-1200x1600-7c7a1c1f79776a6d27e5f788fe2028fb.jpg",
+      "md5": "7c7a1c1f79776a6d27e5f788fe2028fb",
+      "width": 1200,
+      "height": 1600,
+      "size": 960068,
+      "uploadedDate": "2020-11-16T15:35:49.413Z"
+    }
+  ],
+  "creationDate": "2020-05-08T17:23:09.524+00:00",
+  "lastModifiedDate": "2020-12-16T18:21:41.151+00:00",
+  "developer": "Kalypso Media Group GmbH",
+  "developerId": "o-37ss7wypkskvyj58j9s7hhltxtujac",
+  "applicationId": null
+}

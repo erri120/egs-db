@@ -1,0 +1,32 @@
+{
+  "id": "40664250f8bb4fc5a258ef4728df449e",
+  "title": "The Cycle External PT",
+  "description": "The Cycle External PT",
+  "namespace": "azalea",
+  "categories": "",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/azalea/item/The_Cycle_Season3_carousel_image-1360x765-0de7ebe269b1b8224dec3e9fd7e6712e.jpg",
+      "md5": "0de7ebe269b1b8224dec3e9fd7e6712e",
+      "width": 1360,
+      "height": 765,
+      "size": 1189493,
+      "uploadedDate": "2020-07-08T12:36:46.361Z"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/azalea/item/final_egsstore_tile_S03_source_final_s-2149x2756-e1961840a3caddad186623059ed2a54c.jpg",
+      "md5": "e1961840a3caddad186623059ed2a54c",
+      "width": 2149,
+      "height": 2756,
+      "size": 2458240,
+      "uploadedDate": "2020-07-08T12:36:57.876Z"
+    }
+  ],
+  "creationDate": "2021-01-08T13:02:13.325+00:00",
+  "lastModifiedDate": "2021-04-08T16:06:18.84+00:00",
+  "developer": "YAGER",
+  "developerId": "o-w7z3vpqhq54t3gbwybuzlmx7xh3355",
+  "applicationId": null
+}

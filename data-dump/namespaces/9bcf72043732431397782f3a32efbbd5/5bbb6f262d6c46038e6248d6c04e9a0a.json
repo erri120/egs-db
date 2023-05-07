@@ -1,0 +1,32 @@
+{
+  "id": "5bbb6f262d6c46038e6248d6c04e9a0a",
+  "title": "Darksiders Genesis",
+  "description": "Darksiders Genesis",
+  "namespace": "9bcf72043732431397782f3a32efbbd5",
+  "categories": "public/games/applications",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/9bcf72043732431397782f3a32efbbd5/item/EGS_DarksidersGenesis_AirshipSyndicate_S1-2560x1440-e7093fd8102118b5012398a42ec50edb.jpg",
+      "md5": "e7093fd8102118b5012398a42ec50edb",
+      "width": 2560,
+      "height": 1440,
+      "size": 472969,
+      "uploadedDate": "2020-11-11T15:55:01.228Z"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/9bcf72043732431397782f3a32efbbd5/item/EGS_DarksidersGenesis_AirshipSyndicate_S2-1200x1600-7d9136a9cc2b8a14acd44e7b68b923fe.jpg",
+      "md5": "7d9136a9cc2b8a14acd44e7b68b923fe",
+      "width": 1200,
+      "height": 1600,
+      "size": 306465,
+      "uploadedDate": "2020-11-11T15:55:07.461Z"
+    }
+  ],
+  "creationDate": "2020-05-19T18:01:27.603+00:00",
+  "lastModifiedDate": "2021-05-18T20:26:35.475+00:00",
+  "developer": "THQ Nordic GmbH",
+  "developerId": "o-jywxgemg3dagnv6fymcngq3g29mc4j",
+  "applicationId": "fghi4567x5ILUN97U2je3buJ1FpcbVv9"
+}

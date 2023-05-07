@@ -1,0 +1,23 @@
+{
+  "id": "4466986d33b74f4e8518fe45d6d0366b",
+  "title": "Call_To_Action_02",
+  "description": "Satisfactory Website",
+  "namespace": "crab",
+  "categories": "layoutcontent",
+  "keyImages": [
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/crab/item/ResourceImage2_Website-960x497-ea1778f44ebad6188593eca9ac60fbe3.png",
+      "md5": "ea1778f44ebad6188593eca9ac60fbe3",
+      "width": 960,
+      "height": 497,
+      "size": 863030,
+      "uploadedDate": "2018-10-17T14:05:50.59Z"
+    }
+  ],
+  "creationDate": "2018-10-17T14:06:10.884+00:00",
+  "lastModifiedDate": "2019-05-14T17:02:13.352+00:00",
+  "developer": "Epic Games",
+  "developerId": "o-aa83a0a9bc45e98c80c1b1c9d92e9e",
+  "applicationId": null
+}

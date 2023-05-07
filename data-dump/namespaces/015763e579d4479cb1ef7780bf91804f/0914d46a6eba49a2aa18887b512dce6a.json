@@ -1,0 +1,32 @@
+{
+  "id": "0914d46a6eba49a2aa18887b512dce6a",
+  "title": "Manifold Garden",
+  "description": "Manifold Garden",
+  "namespace": "015763e579d4479cb1ef7780bf91804f",
+  "categories": "public/games/applications",
+  "keyImages": [
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/015763e579d4479cb1ef7780bf91804f/item/ManifoldGarden-EpicGames-BoxArt-860x1148-00858458c54412b369455ba5b7a40c9a.png",
+      "md5": "00858458c54412b369455ba5b7a40c9a",
+      "width": 860,
+      "height": 1148,
+      "size": 1920711,
+      "uploadedDate": "2020-06-11T19:19:51.485Z"
+    },
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/015763e579d4479cb1ef7780bf91804f/item/ManifoldGarden_ProductLandscapeImage_2560x1440-2560x1440-daa49cf6d0b7b263ea3f7cd596ef65ff.jpg",
+      "md5": "daa49cf6d0b7b263ea3f7cd596ef65ff",
+      "width": 2560,
+      "height": 1440,
+      "size": 941359,
+      "uploadedDate": "2020-07-15T19:27:14.248Z"
+    }
+  ],
+  "creationDate": "2019-07-12T21:26:47.629+00:00",
+  "lastModifiedDate": "2020-07-15T19:27:18.35+00:00",
+  "developer": "William Chyr Studio",
+  "developerId": "o-9j6lnh9adzvfntd9d8ypjc39wb9d3k",
+  "applicationId": null
+}

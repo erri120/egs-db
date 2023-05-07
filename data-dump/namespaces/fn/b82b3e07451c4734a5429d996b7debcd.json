@@ -1,0 +1,13 @@
+{
+  "id": "b82b3e07451c4734a5429d996b7debcd",
+  "title": "Test version of free audience access item",
+  "description": "Test version of free audience access item.  Meant for QA use to test access on non-Live apps",
+  "namespace": "fn",
+  "categories": "bundles",
+  "keyImages": [],
+  "creationDate": "2017-09-18T18:56:23.732+00:00",
+  "lastModifiedDate": "2017-09-18T18:56:23.732+00:00",
+  "developer": "Epic Games",
+  "developerId": "o-aa83a0a9bc45e98c80c1b1c9d92e9e",
+  "applicationId": null
+}

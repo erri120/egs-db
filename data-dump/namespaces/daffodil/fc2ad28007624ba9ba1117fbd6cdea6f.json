@@ -1,0 +1,23 @@
+{
+  "id": "fc2ad28007624ba9ba1117fbd6cdea6f",
+  "title": "Omen of Sorrow Demo Audience",
+  "description": "Omen of Sorrow Demo Audience",
+  "namespace": "daffodil",
+  "categories": "",
+  "keyImages": [
+    {
+      "type": "ESRB",
+      "url": "https://cdn1.epicgames.com/daffodil/item/ESRB_OmenOfSorrow-842x404-003e7e28a84a489d040161daf7e241ea.png",
+      "md5": "003e7e28a84a489d040161daf7e241ea",
+      "width": 842,
+      "height": 404,
+      "size": 39094,
+      "uploadedDate": "2019-06-14T22:04:27.529Z"
+    }
+  ],
+  "creationDate": "2019-06-14T22:00:17.429+00:00",
+  "lastModifiedDate": "2019-06-20T14:59:01.889+00:00",
+  "developer": "AOne Games",
+  "developerId": "o-ee2mpv5fbfg9j22arjrh7vjmypew5q",
+  "applicationId": null
+}

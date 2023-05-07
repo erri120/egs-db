@@ -1,0 +1,23 @@
+{
+  "id": "3163e86f676d4fc58f381c454c9e6b09",
+  "title": "Metro Exodus Humble Bundle Standard Audience",
+  "description": "Metro Exodus Humble Bundle Standard Audience",
+  "namespace": "snapdragon",
+  "categories": "",
+  "keyImages": [
+    {
+      "type": "ESRB",
+      "url": "https://cdn1.epicgames.com/snapdragon/item/ESRB_MetroExodus_M-842x404-ce507cc45e2abb059dadee1fd4cc397c.png",
+      "md5": "ce507cc45e2abb059dadee1fd4cc397c",
+      "width": 842,
+      "height": 404,
+      "size": 69269,
+      "uploadedDate": "2019-04-23T18:58:46.487Z"
+    }
+  ],
+  "creationDate": "2019-04-11T17:33:10.87+00:00",
+  "lastModifiedDate": "2023-03-06T17:20:11.782+00:00",
+  "developer": "Plaion",
+  "developerId": "o-jskfz28ywm2l56px6h9rlxplaysrtl",
+  "applicationId": ""
+}

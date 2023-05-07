@@ -1,0 +1,50 @@
+{
+  "id": "3be791725c2f4716bcaecb0197549993",
+  "title": "VR Funhouse Editor",
+  "description": "VR Funhouse Editor",
+  "namespace": "vrfunhouse",
+  "categories": "",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/vrfunhouse/item/vrfunhouse_bg-430x250-57255897027311603ba44be29809e86b.jpg",
+      "md5": "57255897027311603ba44be29809e86b",
+      "width": 430,
+      "height": 250,
+      "size": 113047,
+      "uploadedDate": "2018-09-17T20:54:24.907Z"
+    },
+    {
+      "type": "DieselGameBoxLogo",
+      "url": "https://cdn1.epicgames.com/vrfunhouse/item/VRFun_White_updated-1526x1000-9940690aa9a96dd410abb0acacc753ff.png",
+      "md5": "9940690aa9a96dd410abb0acacc753ff",
+      "width": 1526,
+      "height": 1000,
+      "size": 154009,
+      "uploadedDate": "2018-11-16T00:50:34.597Z"
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/vrfunhouse/item/vrfun-479x400-258e4afc3d1f51050a23c5e3b72b7cbc.png",
+      "md5": "258e4afc3d1f51050a23c5e3b72b7cbc",
+      "width": 479,
+      "height": 400,
+      "size": 219905,
+      "uploadedDate": "2018-12-06T23:07:52.862Z"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/vrfunhouse/item/vrfunhouse_bg-430x250-57255897027311603ba44be29809e86b-430x250-57255897027311603ba44be29809e86b.jpg",
+      "md5": "57255897027311603ba44be29809e86b",
+      "width": 430,
+      "height": 250,
+      "size": 113047,
+      "uploadedDate": "2019-11-20T21:14:21.852Z"
+    }
+  ],
+  "creationDate": "2016-08-18T14:47:14.746+00:00",
+  "lastModifiedDate": "2022-04-05T14:33:48.832+00:00",
+  "developer": "NVIDIA Lightspeed Studios",
+  "developerId": "o-defd2xb4j9vjkp63ysxzpqljrvd74d",
+  "applicationId": ""
+}

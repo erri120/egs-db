@@ -1,0 +1,32 @@
+{
+  "id": "cc4e45b9161f407a9a8dfb46c1ecac06",
+  "title": "Shenmue 3 Pre-Purchase",
+  "description": "Shenmue 3 Pre-Purchase",
+  "namespace": "5d582c08e31a43128a61093a2c3ff7f0",
+  "categories": "",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/item/5d582c08e31a43128a61093a2c3ff7f0/shenmue3_epic_tile_2560x1440_2560x1440-eacc114ddc68f89a33fc4a76d58f040f",
+      "md5": "eacc114ddc68f89a33fc4a76d58f040f",
+      "width": 2560,
+      "height": 1440,
+      "size": 2669741,
+      "uploadedDate": "2022-11-21T17:58:54.009Z"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/item/5d582c08e31a43128a61093a2c3ff7f0/shenmue3_epic_tile_1200x1600_1200x1600-ca14b64706b9415958c81ac0e6e16153",
+      "md5": "ca14b64706b9415958c81ac0e6e16153",
+      "width": 1200,
+      "height": 1600,
+      "size": 3028985,
+      "uploadedDate": "2022-11-21T17:58:51.958Z"
+    }
+  ],
+  "creationDate": "2019-06-03T21:29:28.324+00:00",
+  "lastModifiedDate": "2022-11-21T17:58:56.471+00:00",
+  "developer": "Plaion",
+  "developerId": "o-jskfz28ywm2l56px6h9rlxplaysrtl",
+  "applicationId": ""
+}

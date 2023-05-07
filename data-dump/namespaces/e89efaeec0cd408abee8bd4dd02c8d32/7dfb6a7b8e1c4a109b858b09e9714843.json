@@ -1,0 +1,32 @@
+{
+  "id": "7dfb6a7b8e1c4a109b858b09e9714843",
+  "title": "Port Royale 4 - Official Soundtrack",
+  "description": "Port Royale 4 - Official Soundtrack",
+  "namespace": "e89efaeec0cd408abee8bd4dd02c8d32",
+  "categories": "public/games/applications",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/e89efaeec0cd408abee8bd4dd02c8d32/item/Landscape_Offer_Image_2560x1440-2560x1440-17b26f15f35237e84bafb3dd81efc0e4.jpg",
+      "md5": "17b26f15f35237e84bafb3dd81efc0e4",
+      "width": 2560,
+      "height": 1440,
+      "size": 919819,
+      "uploadedDate": "2020-09-16T19:59:12.371Z"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/e89efaeec0cd408abee8bd4dd02c8d32/item/Portrait_Offer_Image_1200x1600-1200x1600-194c856970a1aa3d6917dd8a96a5e2cb.jpg",
+      "md5": "194c856970a1aa3d6917dd8a96a5e2cb",
+      "width": 1200,
+      "height": 1600,
+      "size": 705486,
+      "uploadedDate": "2020-09-16T19:59:26.051Z"
+    }
+  ],
+  "creationDate": "2020-09-10T12:36:54.645+00:00",
+  "lastModifiedDate": "2020-09-25T15:50:53.951+00:00",
+  "developer": "Kalypso Media Group GmbH",
+  "developerId": "o-37ss7wypkskvyj58j9s7hhltxtujac",
+  "applicationId": null
+}

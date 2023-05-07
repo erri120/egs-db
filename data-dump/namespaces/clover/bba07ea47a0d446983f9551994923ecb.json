@@ -1,0 +1,23 @@
+{
+  "id": "bba07ea47a0d446983f9551994923ecb",
+  "title": "CloverDevAudience",
+  "description": "CloverDevAudience",
+  "namespace": "clover",
+  "categories": "",
+  "keyImages": [
+    {
+      "type": "ESRB",
+      "url": "https://cdn1.epicgames.com/clover/item/RP_FOR_E-842x404-fce4fa7233ed80170a8e36079d1e1bde.png",
+      "md5": "fce4fa7233ed80170a8e36079d1e1bde",
+      "width": 842,
+      "height": 404,
+      "size": 51194,
+      "uploadedDate": "2019-05-14T13:31:47.143Z"
+    }
+  ],
+  "creationDate": "2019-02-14T22:04:05.465+00:00",
+  "lastModifiedDate": "2019-05-14T14:05:52.699+00:00",
+  "developer": "Tomorrow Corporation",
+  "developerId": "o-46fvj3lpt7r9n79axbrl8tkgfbe2j8",
+  "applicationId": null
+}

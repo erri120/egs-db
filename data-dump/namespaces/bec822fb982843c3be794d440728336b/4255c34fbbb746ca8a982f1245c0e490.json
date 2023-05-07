@@ -1,0 +1,32 @@
+{
+  "id": "4255c34fbbb746ca8a982f1245c0e490",
+  "title": "Moonlighter",
+  "description": "Moonlighter",
+  "namespace": "bec822fb982843c3be794d440728336b",
+  "categories": "public/games/applications",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/item/bec822fb982843c3be794d440728336b/Moonlighter_Landscape_Image_2560x1440_2560x1440-f29e5f2829eee173e9d0605d6715d8c0",
+      "md5": "f29e5f2829eee173e9d0605d6715d8c0",
+      "width": 2560,
+      "height": 1440,
+      "size": 854639,
+      "uploadedDate": "2023-03-10T19:03:33.195Z"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/item/bec822fb982843c3be794d440728336b/Moonlighter_Portrait_Image_1200x1600_1200x1600-5b427c1540fe681d319aedc8e494d598",
+      "md5": "5b427c1540fe681d319aedc8e494d598",
+      "width": 1200,
+      "height": 1600,
+      "size": 999753,
+      "uploadedDate": "2023-03-10T19:03:30.602Z"
+    }
+  ],
+  "creationDate": "2019-07-09T15:35:38.259+00:00",
+  "lastModifiedDate": "2023-03-10T19:03:38.815+00:00",
+  "developer": "11 Bit Studios",
+  "developerId": "o-z8janbuqt5zvnkqwm35kc9wtdzxkhr",
+  "applicationId": ""
+}

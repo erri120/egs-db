@@ -1,0 +1,32 @@
+{
+  "id": "5f40c0a408c64f3abae258af78cdb0b7",
+  "title": "Rosemallow12",
+  "description": "Rosemallow12",
+  "namespace": "rosemallow",
+  "categories": "",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/rosemallow/item/TheOuterWorlds_PrimaryPromo-2560x1440-b6b265a77a7ae55644f3bea2a0e9eeb2.jpg",
+      "md5": "b6b265a77a7ae55644f3bea2a0e9eeb2",
+      "width": 2560,
+      "height": 1440,
+      "size": 160299,
+      "uploadedDate": "2019-03-18T17:12:01.36Z"
+    },
+    {
+      "type": "DieselGameBoxLogo",
+      "url": "https://cdn1.epicgames.com/rosemallow/item/TheOuterWorlds_Logo-1558x730-90519fa5dc9d7baa45ad3afd7fdb4cb1.png",
+      "md5": "90519fa5dc9d7baa45ad3afd7fdb4cb1",
+      "width": 1558,
+      "height": 730,
+      "size": 120253,
+      "uploadedDate": "2019-03-18T17:12:11.149Z"
+    }
+  ],
+  "creationDate": "2020-02-24T17:49:06.095+00:00",
+  "lastModifiedDate": "2020-10-23T14:06:24.573+00:00",
+  "developer": "Private Division",
+  "developerId": "o-6emrb2lpzacm9ued3z37u42x56wkaz",
+  "applicationId": null
+}

@@ -1,0 +1,41 @@
+{
+  "id": "487c0d668f1345cc9a2e92cd89141d5d",
+  "title": "Showmaker Mod Kit",
+  "description": "Showmaker Mod Kit",
+  "namespace": "showmaker",
+  "categories": "layoutcontent",
+  "keyImages": [
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/showmaker/item/Stage_1920x983-1920x983-886902123f7ce7394c1d0ea42a975903.png",
+      "md5": "886902123f7ce7394c1d0ea42a975903",
+      "width": 1920,
+      "height": 983,
+      "size": 1934833,
+      "uploadedDate": "2018-09-04T15:55:18.929Z"
+    },
+    {
+      "type": "DieselGameBoxLogo",
+      "url": "https://cdn1.epicgames.com/showmaker/item/showmaker_White-3738x459-873fe388632f69e28e63f1d16270273c-3738x459-873fe388632f69e28e63f1d16270273c.png",
+      "md5": "873fe388632f69e28e63f1d16270273c",
+      "width": 3738,
+      "height": 459,
+      "size": 163960,
+      "uploadedDate": "2018-11-28T20:22:34.997Z"
+    },
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/showmaker/item/showmaker_box-2580x1450-dfb45a2734dd4e8ee4e62bfbc57be704-2580x1450-dfb45a2734dd4e8ee4e62bfbc57be704.jpg",
+      "md5": "dfb45a2734dd4e8ee4e62bfbc57be704",
+      "width": 2580,
+      "height": 1450,
+      "size": 1481948,
+      "uploadedDate": "2018-11-28T20:22:59.236Z"
+    }
+  ],
+  "creationDate": "2018-08-27T14:02:13.659+00:00",
+  "lastModifiedDate": "2018-12-12T15:15:58.746+00:00",
+  "developer": "Preapp Partners",
+  "developerId": "o-6scaa9jsj4mnlnn4dgcvdekny3xcag",
+  "applicationId": null
+}

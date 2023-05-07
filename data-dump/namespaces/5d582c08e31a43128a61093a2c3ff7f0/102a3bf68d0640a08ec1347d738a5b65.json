@@ -1,0 +1,32 @@
+{
+  "id": "102a3bf68d0640a08ec1347d738a5b65",
+  "title": "Shenmue 3 Pre-Purchase Audience",
+  "description": "Shenmue 3 Pre-Purchase Audience",
+  "namespace": "5d582c08e31a43128a61093a2c3ff7f0",
+  "categories": "",
+  "keyImages": [
+    {
+      "type": "ESRB",
+      "url": "https://cdn1.epicgames.com/5d582c08e31a43128a61093a2c3ff7f0/item/Diesel_product_ratings_RP-418x189-b886f081a21401b2aa02dfa48a72c383.png",
+      "md5": "b886f081a21401b2aa02dfa48a72c383",
+      "width": 418,
+      "height": 189,
+      "size": 6896,
+      "uploadedDate": "2019-06-03T21:30:34.521Z"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/5d582c08e31a43128a61093a2c3ff7f0/item/Shenmue3_portraitpromo-1280x1420-1e524e5b26f65dfb4dcd44d3a7821419.jpg",
+      "md5": "1e524e5b26f65dfb4dcd44d3a7821419",
+      "width": 1280,
+      "height": 1420,
+      "size": 315411,
+      "uploadedDate": "2019-10-22T09:41:44.79Z"
+    }
+  ],
+  "creationDate": "2019-06-03T21:31:06.558+00:00",
+  "lastModifiedDate": "2022-09-20T14:54:18.767+00:00",
+  "developer": "Plaion",
+  "developerId": "o-jskfz28ywm2l56px6h9rlxplaysrtl",
+  "applicationId": ""
+}

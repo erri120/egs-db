@@ -1,0 +1,32 @@
+{
+  "id": "0348214726fb472caa0d4f15b074b60c",
+  "title": "For The King Press",
+  "description": "For The King Press",
+  "namespace": "4492ce99b4124b74a0bb83f78b3d70b8",
+  "categories": "public/games/applications",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/4492ce99b4124b74a0bb83f78b3d70b8/item/Diesel_productv2_for-the-king_EGS_IronOakGames_ForTheKing_G1C_00-1920x1080-fe6c412cac9a22dd1a9df2eeab05d0a3cd34761b-1920x1080-60e45fce935660131ba319296fe00037-1920x1080-60e45fce935660131ba319296fe00037.jpg",
+      "md5": "60e45fce935660131ba319296fe00037",
+      "width": 1920,
+      "height": 1080,
+      "size": 177834,
+      "uploadedDate": "2020-12-15T20:32:01.563Z"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/4492ce99b4124b74a0bb83f78b3d70b8/item/EGS_IronOakGames_ForTheKing_S4-510x680-510x680-7591bc93f2768be40c30f242fc986cd0-510x680-7591bc93f2768be40c30f242fc986cd0.jpg",
+      "md5": "7591bc93f2768be40c30f242fc986cd0",
+      "width": 510,
+      "height": 680,
+      "size": 301709,
+      "uploadedDate": "2020-12-15T20:32:24.285Z"
+    }
+  ],
+  "creationDate": "2020-12-15T20:30:11.356+00:00",
+  "lastModifiedDate": "2020-12-15T20:34:55.546+00:00",
+  "developer": "Curve Digital",
+  "developerId": "o-ws89bsbfb8trgdl3zmerugg4rsuvvt",
+  "applicationId": null
+}

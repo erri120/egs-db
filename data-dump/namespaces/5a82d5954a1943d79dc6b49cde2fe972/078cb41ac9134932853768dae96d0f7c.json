@@ -1,0 +1,32 @@
+{
+  "id": "078cb41ac9134932853768dae96d0f7c",
+  "title": "Predator Hunters  Comic",
+  "description": "Predator Hunters  Comic",
+  "namespace": "5a82d5954a1943d79dc6b49cde2fe972",
+  "categories": "public/games/applications",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/5a82d5954a1943d79dc6b49cde2fe972/item/PHG_Wide-1920x1080-d2921f9b50dad7960d2b9fad22ae8d84.png",
+      "md5": "d2921f9b50dad7960d2b9fad22ae8d84",
+      "width": 1920,
+      "height": 1080,
+      "size": 2488692,
+      "uploadedDate": "2020-04-23T22:51:14.928Z"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/5a82d5954a1943d79dc6b49cde2fe972/item/PHG_Tall-1280x1440-21060c43debce23ca17d694f67298b03.jpg",
+      "md5": "21060c43debce23ca17d694f67298b03",
+      "width": 1280,
+      "height": 1440,
+      "size": 483818,
+      "uploadedDate": "2020-04-23T22:52:25.279Z"
+    }
+  ],
+  "creationDate": "2020-04-06T19:58:49.849+00:00",
+  "lastModifiedDate": "2020-12-02T07:00:39.192+00:00",
+  "developer": "Sony Interactive Entertainment",
+  "developerId": "o-sby9x4c2zlm5mb2z5r9ajue9pcqfs5",
+  "applicationId": null
+}

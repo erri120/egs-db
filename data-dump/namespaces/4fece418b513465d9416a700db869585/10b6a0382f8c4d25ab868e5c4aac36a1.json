@@ -1,0 +1,23 @@
+{
+  "id": "10b6a0382f8c4d25ab868e5c4aac36a1",
+  "title": "AstrapiaDevAudience",
+  "description": "AstrapiaDevAudience",
+  "namespace": "4fece418b513465d9416a700db869585",
+  "categories": "",
+  "keyImages": [
+    {
+      "type": "ESRB",
+      "url": "https://cdn1.epicgames.com/4fece418b513465d9416a700db869585/item/ESRB_Jackbox6-842x404-4f5450746d0d117cc251f9e0d1a5150a.jpg",
+      "md5": "4f5450746d0d117cc251f9e0d1a5150a",
+      "width": 842,
+      "height": 404,
+      "size": 37354,
+      "uploadedDate": "2019-10-16T21:38:38.832Z"
+    }
+  ],
+  "creationDate": "2019-10-03T21:16:36.862+00:00",
+  "lastModifiedDate": "2019-10-17T14:03:08.477+00:00",
+  "developer": "Jackbox Games, Inc.",
+  "developerId": "o-2m9ap45qzvalaepjz6wclpcffeq4aj",
+  "applicationId": null
+}

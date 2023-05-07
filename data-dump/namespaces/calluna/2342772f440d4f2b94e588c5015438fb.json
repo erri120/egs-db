@@ -1,0 +1,32 @@
+{
+  "id": "2342772f440d4f2b94e588c5015438fb",
+  "title": "CONTROL",
+  "description": "Control_F",
+  "namespace": "calluna",
+  "categories": "",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/item/calluna/Control_Landscape_Image_2560X1440_2560x1440-ec7b2eb03bb70f61d17ed01fa76d95a6",
+      "md5": "ec7b2eb03bb70f61d17ed01fa76d95a6",
+      "width": 2560,
+      "height": 1440,
+      "size": 586904,
+      "uploadedDate": "2022-11-09T16:15:21.484Z"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/item/calluna/Control_Portrait_Storefront_1200X1600_1200x1600-456c920cae7a0aa9b36670cd5e1237a1",
+      "md5": "456c920cae7a0aa9b36670cd5e1237a1",
+      "width": 1200,
+      "height": 1600,
+      "size": 455123,
+      "uploadedDate": "2022-11-09T16:15:10.27Z"
+    }
+  ],
+  "creationDate": "2019-02-28T13:58:39.728+00:00",
+  "lastModifiedDate": "2022-11-09T16:15:30.07+00:00",
+  "developer": "505 Games",
+  "developerId": "o-cul2z53mrw3bxltv63v68rgd4b3w52",
+  "applicationId": ""
+}

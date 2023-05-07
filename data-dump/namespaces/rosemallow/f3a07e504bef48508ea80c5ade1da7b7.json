@@ -1,0 +1,32 @@
+{
+  "id": "f3a07e504bef48508ea80c5ade1da7b7",
+  "title": "The Outer Worlds Pre-Purchase",
+  "description": "The Outer Worlds Pre-Purchase",
+  "namespace": "rosemallow",
+  "categories": "",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/rosemallow/item/TheOuterWorlds_PrimaryPromo-2560x1440-b6b265a77a7ae55644f3bea2a0e9eeb2.jpg",
+      "md5": "b6b265a77a7ae55644f3bea2a0e9eeb2",
+      "width": 2560,
+      "height": 1440,
+      "size": 160299,
+      "uploadedDate": "2019-03-18T17:12:37.36Z"
+    },
+    {
+      "type": "DieselGameBoxLogo",
+      "url": "https://cdn1.epicgames.com/rosemallow/item/TheOuterWorlds_Logo-1558x730-90519fa5dc9d7baa45ad3afd7fdb4cb1.png",
+      "md5": "90519fa5dc9d7baa45ad3afd7fdb4cb1",
+      "width": 1558,
+      "height": 730,
+      "size": 120253,
+      "uploadedDate": "2019-03-18T17:12:46.576Z"
+    }
+  ],
+  "creationDate": "2019-06-08T16:53:43.209+00:00",
+  "lastModifiedDate": "2020-10-23T14:06:24.573+00:00",
+  "developer": "Private Division",
+  "developerId": "o-6emrb2lpzacm9ued3z37u42x56wkaz",
+  "applicationId": null
+}

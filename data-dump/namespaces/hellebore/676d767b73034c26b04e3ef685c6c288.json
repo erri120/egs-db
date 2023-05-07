@@ -1,0 +1,41 @@
+{
+  "id": "676d767b73034c26b04e3ef685c6c288",
+  "title": "Far Cry 3",
+  "description": "Far Cry 3",
+  "namespace": "hellebore",
+  "categories": "",
+  "keyImages": [
+    {
+      "type": "DieselGameBoxLogo",
+      "url": "https://cdn1.epicgames.com/hellebore/item/FC3_Logo_Color_STD-1000x375-69cc72aac6a9c16c9935e038cf9379c2.png",
+      "md5": "69cc72aac6a9c16c9935e038cf9379c2",
+      "width": 1000,
+      "height": 375,
+      "size": 261910,
+      "uploadedDate": "2020-02-10T02:10:42.739Z"
+    },
+    {
+      "type": "DieselGameBoxWide",
+      "url": "https://cdn1.epicgames.com/hellebore/item/FC3_S1-FAR-CRY-3-2560x1440-5454e3b75f0535406b170546117dc576.jpg",
+      "md5": "5454e3b75f0535406b170546117dc576",
+      "width": 2560,
+      "height": 1440,
+      "size": 552604,
+      "uploadedDate": "2020-02-10T02:10:57.302Z"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/hellebore/item/FC3_S2-FAR-CRY-3-1280x1440-e6b5b5e28005a93a580179c7e4342247.jpg",
+      "md5": "e6b5b5e28005a93a580179c7e4342247",
+      "width": 1280,
+      "height": 1440,
+      "size": 324688,
+      "uploadedDate": "2020-02-10T02:11:08.732Z"
+    }
+  ],
+  "creationDate": "2019-02-08T20:39:31.035+00:00",
+  "lastModifiedDate": "2020-02-18T15:30:18.228+00:00",
+  "developer": "Ubisoft Entertainment",
+  "developerId": "o-3efjudxdtgsqnulml4bkeq3v9nec38",
+  "applicationId": null
+}

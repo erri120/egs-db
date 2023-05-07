@@ -1,0 +1,32 @@
+{
+  "id": "4cc2f6113b6949cf96965d3e180929ce",
+  "title": "Hood Outlaws and Legends",
+  "description": "Hood Outlaws and Legends",
+  "namespace": "5a2108f4db804040aaf44d139bd21bd1",
+  "categories": "public/games/applications",
+  "keyImages": [
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_HoodOutlawsLegends_SumoDigital_S2_1200x1600-64596c1b059d13feb5630b7c796042c1",
+      "md5": "64596c1b059d13feb5630b7c796042c1",
+      "width": 1200,
+      "height": 1600,
+      "size": 499807,
+      "uploadedDate": "2021-05-06T18:23:56.06Z"
+    },
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_HoodOutlawsLegends_SumoDigital_S1_2560x1440-8ba1f9be04e3d0c07f9890a0bb8860c7",
+      "md5": "8ba1f9be04e3d0c07f9890a0bb8860c7",
+      "width": 2560,
+      "height": 1440,
+      "size": 1026710,
+      "uploadedDate": "2021-05-06T18:24:11.046Z"
+    }
+  ],
+  "creationDate": "2020-10-22T20:30:57.573+00:00",
+  "lastModifiedDate": "2021-09-02T16:06:33.585+00:00",
+  "developer": "Focus Home",
+  "developerId": "o-wt4zxeetmq6jem7qp4pkssr46aenj5",
+  "applicationId": "fghi4567cdt2aUaVNutMqhzH52g4H1Km"
+}

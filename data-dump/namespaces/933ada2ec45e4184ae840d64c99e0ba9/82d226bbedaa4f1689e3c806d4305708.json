@@ -1,0 +1,41 @@
+{
+  "id": "82d226bbedaa4f1689e3c806d4305708",
+  "title": "Rogue Company Staging",
+  "description": "Rogue Company Staging",
+  "namespace": "933ada2ec45e4184ae840d64c99e0ba9",
+  "categories": "public/games/applications",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/933ada2ec45e4184ae840d64c99e0ba9/item/EGS_DEVELOPER_RogueCompany_L1_DESCRIPTION-2560x1440-d61294cb5d9d0d94f0199d95c461d78a.jpg",
+      "md5": "d61294cb5d9d0d94f0199d95c461d78a",
+      "width": 2560,
+      "height": 1440,
+      "size": 426007,
+      "uploadedDate": "2019-09-04T18:30:25.41Z"
+    },
+    {
+      "type": "DieselGameBoxLogo",
+      "url": "https://cdn1.epicgames.com/933ada2ec45e4184ae840d64c99e0ba9/item/EGS_DEVELOPER_RogueCompany_IC1_DESCRIPTION-200x200-02a2630eadb17cdcd9009ab52f2a1fb5.png",
+      "md5": "02a2630eadb17cdcd9009ab52f2a1fb5",
+      "width": 200,
+      "height": 200,
+      "size": 3748,
+      "uploadedDate": "2019-09-04T18:30:35.758Z"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/933ada2ec45e4184ae840d64c99e0ba9/item/EGS_DEVELOPER_RogueCompany_S3_DESCRIPTION-1280x1440-b2f263fb7bf7b74e9b761457d9447ac8.jpg",
+      "md5": "b2f263fb7bf7b74e9b761457d9447ac8",
+      "width": 1280,
+      "height": 1440,
+      "size": 257555,
+      "uploadedDate": "2019-10-22T09:41:44.79Z"
+    }
+  ],
+  "creationDate": "2020-06-18T20:58:11.234+00:00",
+  "lastModifiedDate": "2020-11-23T15:14:23.057+00:00",
+  "developer": "Hi-Rez Studios",
+  "developerId": "o-7aklpapnk74p66sqs6hm5byt29wp66",
+  "applicationId": null
+}

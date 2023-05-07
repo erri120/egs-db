@@ -1,0 +1,23 @@
+{
+  "id": "1482e73b68494b3c86137b62b65567a4",
+  "title": "Beyond Two Souls General Audience",
+  "description": "Beyond Two Souls General Audience",
+  "namespace": "lavender",
+  "categories": "",
+  "keyImages": [
+    {
+      "type": "ESRB",
+      "url": "https://cdn1.epicgames.com/lavender/item/ESRB_BeyondTwoSouls-842x404-e918930fa7a0d52460c8996f39d3cca8.jpg",
+      "md5": "e918930fa7a0d52460c8996f39d3cca8",
+      "width": 842,
+      "height": 404,
+      "size": 116644,
+      "uploadedDate": "2019-07-29T15:23:57.631Z"
+    }
+  ],
+  "creationDate": "2019-01-29T17:37:40.018+00:00",
+  "lastModifiedDate": "2019-10-16T14:25:56.303+00:00",
+  "developer": "Quantic Dream",
+  "developerId": "o-m8v47d762atphw94knus7ezawefpcu",
+  "applicationId": null
+}

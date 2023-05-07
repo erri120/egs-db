@@ -1,0 +1,41 @@
+{
+  "id": "444c93af141145b3a362e1a0a02f81ce",
+  "title": "What Remains of Edith Finch",
+  "description": "What Remains of Edith Finch",
+  "namespace": "badger",
+  "categories": "",
+  "keyImages": [
+    {
+      "type": "DieselGameBoxLogo",
+      "url": "https://cdn1.epicgames.com/badger/item/EdithFinch_Logo1-480x285-359c57ed579f9db1b5a7c4f9aadf0d94.png",
+      "md5": "359c57ed579f9db1b5a7c4f9aadf0d94",
+      "width": 480,
+      "height": 285,
+      "size": 47161,
+      "uploadedDate": "2019-01-08T01:28:23.531Z"
+    },
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/badger/item/EdithFinch_PrimaryPromo-2580x1450-afd336269dc16aa6971391cc48f0a57f.jpg",
+      "md5": "afd336269dc16aa6971391cc48f0a57f",
+      "width": 2580,
+      "height": 1450,
+      "size": 280199,
+      "uploadedDate": "2019-01-08T01:30:05.809Z"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/badger/item/Epic_EdithFinch_PortraitPromo1280x1420-8ce13d0028128729177daad2e3ec0481-1280x1420-8ce13d0028128729177daad2e3ec0481.jpg",
+      "md5": "8ce13d0028128729177daad2e3ec0481",
+      "width": 1280,
+      "height": 1420,
+      "size": 164652,
+      "uploadedDate": "2019-10-22T09:41:44.79Z"
+    }
+  ],
+  "creationDate": "2018-12-02T20:59:12.259+00:00",
+  "lastModifiedDate": "2019-11-19T17:04:16.822+00:00",
+  "developer": "Annapurna Interactive",
+  "developerId": "o-bmeb3ztlbxkjc8vvpydava38yvmxlm",
+  "applicationId": null
+}

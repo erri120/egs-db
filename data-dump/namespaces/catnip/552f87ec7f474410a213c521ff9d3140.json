@@ -1,0 +1,41 @@
+{
+  "id": "552f87ec7f474410a213c521ff9d3140",
+  "title": "Gearbox Cosmetic Pack Audience",
+  "description": "Gearbox Cosmetic Pack Audience",
+  "namespace": "catnip",
+  "categories": "",
+  "keyImages": [
+    {
+      "type": "ESRB",
+      "url": "https://cdn1.epicgames.com/catnip/item/ESRB_M_Borderlands3-842x485-275d74057f4825477e1f7f17f8cf0abc.jpg",
+      "md5": "275d74057f4825477e1f7f17f8cf0abc",
+      "width": 842,
+      "height": 485,
+      "size": 134137,
+      "uploadedDate": "2020-01-07T22:50:42.72Z"
+    },
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/item/catnip/2KGMKT_BL3_GBXPACK_EPIC_SOCIAL_490_276-490x276-64bf667e91563509e75db604616aa060989370ba_490x276-73f4b2c81929d2fee011c41d392a8e31",
+      "md5": "73f4b2c81929d2fee011c41d392a8e31",
+      "width": 490,
+      "height": 276,
+      "size": 76182,
+      "uploadedDate": "2023-01-19T17:35:24.525Z"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/item/catnip/2KGMKT_BL3_GB_PACK_SONY_P34_MASTER_1200x1600_1200x1600-a0ed77d2a35a262f245c8ad81b645872",
+      "md5": "a0ed77d2a35a262f245c8ad81b645872",
+      "width": 1200,
+      "height": 1600,
+      "size": 927571,
+      "uploadedDate": "2023-01-19T17:35:20.459Z"
+    }
+  ],
+  "creationDate": "2019-04-02T22:30:33.024+00:00",
+  "lastModifiedDate": "2023-01-19T21:12:26.587+00:00",
+  "developer": "2K Games, Inc.",
+  "developerId": "o-37m6jbj5wcvrcvm4wusv7nazdfvbjk",
+  "applicationId": ""
+}

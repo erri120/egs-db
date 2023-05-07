@@ -1,0 +1,32 @@
+{
+  "id": "784e5ff9c4f040a3b4d6bb5820e2df37",
+  "title": "The Cycle: Frontier",
+  "description": "The Cycle: Frontier",
+  "namespace": "azalea",
+  "categories": "",
+  "keyImages": [
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/item/azalea/Tall_1200x1600-9683c180c4902dccfd2d15af2bbe37c0",
+      "md5": "9683c180c4902dccfd2d15af2bbe37c0",
+      "width": 1200,
+      "height": 1600,
+      "size": 991995,
+      "uploadedDate": "2023-04-20T14:38:05.29Z"
+    },
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/item/azalea/Wide_2560x1440-df1d6ed7d85d48e927366eaf994b3a76",
+      "md5": "df1d6ed7d85d48e927366eaf994b3a76",
+      "width": 2560,
+      "height": 1440,
+      "size": 994617,
+      "uploadedDate": "2023-04-20T14:38:10.123Z"
+    }
+  ],
+  "creationDate": "2019-03-13T22:11:24.381+00:00",
+  "lastModifiedDate": "2023-04-20T14:38:26.587+00:00",
+  "developer": "YAGER",
+  "developerId": "o-w7z3vpqhq54t3gbwybuzlmx7xh3355",
+  "applicationId": ""
+}

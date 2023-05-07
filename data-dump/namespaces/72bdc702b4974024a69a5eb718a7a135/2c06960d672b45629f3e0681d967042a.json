@@ -1,0 +1,32 @@
+{
+  "id": "2c06960d672b45629f3e0681d967042a",
+  "title": "Assassin\u0027s Creed Unity",
+  "description": "Assassin\u0027s Creed Unity",
+  "namespace": "72bdc702b4974024a69a5eb718a7a135",
+  "categories": "public/games/applications",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/72bdc702b4974024a69a5eb718a7a135/item/ACU_UCS14913_EGST_BannerBundle_US_Store_Landscape_2560x1440-2560x1440-ebb9e996a79742b10079f72ccb955215.jpg",
+      "md5": "ebb9e996a79742b10079f72ccb955215",
+      "width": 2560,
+      "height": 1440,
+      "size": 758911,
+      "uploadedDate": "2020-02-21T20:54:17.32Z"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/item/72bdc702b4974024a69a5eb718a7a135/ACUnityStandardPortrait_1200x1600-9b1ee825bd7c781dfca625f60d5db91a",
+      "md5": "9b1ee825bd7c781dfca625f60d5db91a",
+      "width": 1200,
+      "height": 1600,
+      "size": 349729,
+      "uploadedDate": "2022-11-18T17:26:51.78Z"
+    }
+  ],
+  "creationDate": "2020-02-10T04:58:42.022+00:00",
+  "lastModifiedDate": "2022-11-18T17:26:56.011+00:00",
+  "developer": "Ubisoft Entertainment",
+  "developerId": "o-3efjudxdtgsqnulml4bkeq3v9nec38",
+  "applicationId": ""
+}

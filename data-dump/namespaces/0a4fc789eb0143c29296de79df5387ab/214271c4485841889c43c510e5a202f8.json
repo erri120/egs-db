@@ -1,0 +1,32 @@
+{
+  "id": "214271c4485841889c43c510e5a202f8",
+  "title": "Crying Suns Soundtrack",
+  "description": "Crying Suns Soundtrack",
+  "namespace": "0a4fc789eb0143c29296de79df5387ab",
+  "categories": "public/games/applications",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/0a4fc789eb0143c29296de79df5387ab/item/EGS_CryingSunsisatacticalroguelite_AltShift_S1-2560x1440-fe76927669c4b3d6e03da9d614693a9c-2560x1440-fe76927669c4b3d6e03da9d614693a9c.jpg",
+      "md5": "fe76927669c4b3d6e03da9d614693a9c",
+      "width": 2560,
+      "height": 1440,
+      "size": 527448,
+      "uploadedDate": "2021-01-04T16:42:53.743Z"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/0a4fc789eb0143c29296de79df5387ab/item/EGS_CryingSunsisatacticalroguelite_AltShift_S2-1200x1600-cade755556a8d2b988626591b9464449-1200x1600-cade755556a8d2b988626591b9464449.jpg",
+      "md5": "cade755556a8d2b988626591b9464449",
+      "width": 1200,
+      "height": 1600,
+      "size": 361774,
+      "uploadedDate": "2021-01-04T16:43:12.919Z"
+    }
+  ],
+  "creationDate": "2020-08-03T21:38:07.131+00:00",
+  "lastModifiedDate": "2021-01-07T15:11:18.092+00:00",
+  "developer": "Humble Bundle",
+  "developerId": "o-pldxyabsslnt6jth2z634mmr2pw8lu",
+  "applicationId": null
+}

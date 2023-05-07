@@ -1,0 +1,32 @@
+{
+  "id": "a49b30d7d04b4882b4874a7e0902847d",
+  "title": "For Honor Trial",
+  "description": "For Honor Trial",
+  "namespace": "sundrop",
+  "categories": "",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/item/sundrop/LOC_FH_EPIC_HeroBanner_3840x2160_US_3840x2160-27ae74bd9185c5b11455e952b4e69ab8",
+      "md5": "27ae74bd9185c5b11455e952b4e69ab8",
+      "width": 3840,
+      "height": 2160,
+      "size": 765451,
+      "uploadedDate": "2023-01-30T16:48:26.11Z"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/item/sundrop/LOC_FH_EPIC_Portrait_1200x1600_US_1200x1600-3aea2aca9fbb20d01075d1552aab4e32",
+      "md5": "3aea2aca9fbb20d01075d1552aab4e32",
+      "width": 1200,
+      "height": 1600,
+      "size": 443448,
+      "uploadedDate": "2023-01-30T16:48:30.856Z"
+    }
+  ],
+  "creationDate": "2020-07-20T20:15:05.717+00:00",
+  "lastModifiedDate": "2023-02-09T16:03:13.944+00:00",
+  "developer": "Ubisoft Entertainment",
+  "developerId": "o-3efjudxdtgsqnulml4bkeq3v9nec38",
+  "applicationId": ""
+}

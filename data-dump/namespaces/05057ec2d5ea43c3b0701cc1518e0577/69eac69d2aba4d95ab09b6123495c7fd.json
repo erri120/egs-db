@@ -1,0 +1,32 @@
+{
+  "id": "69eac69d2aba4d95ab09b6123495c7fd",
+  "title": "Gotham Knights",
+  "description": "Gotham Knights",
+  "namespace": "05057ec2d5ea43c3b0701cc1518e0577",
+  "categories": "public/games/applications",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/item/05057ec2d5ea43c3b0701cc1518e0577/EGS_GothamKnights_WarnerBrosGamesMontreal_S1_2560x1440-0c43d39faa7d02a599489d98b7678527",
+      "md5": "0c43d39faa7d02a599489d98b7678527",
+      "width": 2560,
+      "height": 1440,
+      "size": 1046234,
+      "uploadedDate": "2022-04-25T19:59:00.426Z"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/item/05057ec2d5ea43c3b0701cc1518e0577/EGS_GothamKnights_WarnerBrosGamesMontreal_S2_1200x1600-5a46b442e57afa637f013bbc09fe5487",
+      "md5": "5a46b442e57afa637f013bbc09fe5487",
+      "width": 1200,
+      "height": 1600,
+      "size": 1038410,
+      "uploadedDate": "2022-04-25T19:59:04.21Z"
+    }
+  ],
+  "creationDate": "2021-03-02T21:25:33.047+00:00",
+  "lastModifiedDate": "2023-04-04T21:39:10.242+00:00",
+  "developer": "Warner Bros.",
+  "developerId": "o-7kyv8uwtz74njnl544kbxzt5xqephw",
+  "applicationId": "fghi4567MkobcUJbijhu7sY8939yZn7P"
+}

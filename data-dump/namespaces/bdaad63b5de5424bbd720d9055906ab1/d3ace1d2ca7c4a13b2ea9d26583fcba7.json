@@ -1,0 +1,32 @@
+{
+  "id": "d3ace1d2ca7c4a13b2ea9d26583fcba7",
+  "title": "Fist-Fluffs",
+  "description": "Fist-Fluffs",
+  "namespace": "bdaad63b5de5424bbd720d9055906ab1",
+  "categories": "public/games/applications",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_FistiFluffs_PlayfellowStudio_S5_1920x1080-d315a1d5d0f7e890e8951bf2ce31c455",
+      "md5": "d315a1d5d0f7e890e8951bf2ce31c455",
+      "width": 1920,
+      "height": 1080,
+      "size": 709863,
+      "uploadedDate": "2021-09-23T12:49:31.786Z"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_FistiFluffs_PlayfellowStudio_S4_1200x1600-897cbe6be740921aec1f35f7c268dbcc",
+      "md5": "897cbe6be740921aec1f35f7c268dbcc",
+      "width": 1200,
+      "height": 1600,
+      "size": 548233,
+      "uploadedDate": "2021-09-23T12:49:37.778Z"
+    }
+  ],
+  "creationDate": "2021-04-07T00:16:11.585+00:00",
+  "lastModifiedDate": "2021-09-23T12:49:49.673+00:00",
+  "developer": "Rogue Games, Inc.",
+  "developerId": "o-uf2lr9jar96m9qssppdgmal3j6alyq",
+  "applicationId": ""
+}

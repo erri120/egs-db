@@ -1,0 +1,23 @@
+{
+  "id": "d6d3531152f14031bcf97834bceb2bcb",
+  "title": "EmuStaging",
+  "description": "EmuStaging",
+  "namespace": "8a6a94901c8248fca1f5c78931c85cbd",
+  "categories": "public/games/applications",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/8a6a94901c8248fca1f5c78931c85cbd/item/SOMA_promo-2560x1440-e92be1297f6234f9171ae88de27b92f0.jpg",
+      "md5": "e92be1297f6234f9171ae88de27b92f0",
+      "width": 2560,
+      "height": 1440,
+      "size": 306190,
+      "uploadedDate": "2019-10-22T19:13:15.685Z"
+    }
+  ],
+  "creationDate": "2019-10-01T23:32:54.319+00:00",
+  "lastModifiedDate": "2019-10-31T14:35:52.982+00:00",
+  "developer": "Frictional Games",
+  "developerId": "o-aclcw9pm582trqsqg66qfkfp9u9nw7",
+  "applicationId": null
+}

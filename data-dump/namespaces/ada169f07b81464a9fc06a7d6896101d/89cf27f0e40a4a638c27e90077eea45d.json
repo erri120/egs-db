@@ -1,0 +1,41 @@
+{
+  "id": "89cf27f0e40a4a638c27e90077eea45d",
+  "title": "The Sojourn",
+  "description": "The Sojourn",
+  "namespace": "ada169f07b81464a9fc06a7d6896101d",
+  "categories": "public/games/applications",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/ada169f07b81464a9fc06a7d6896101d/item/TheSojourn_StorePromo-1440x810-2ca5aca20db18c69c75264477ee21e04.jpg",
+      "md5": "2ca5aca20db18c69c75264477ee21e04",
+      "width": 1440,
+      "height": 810,
+      "size": 354802,
+      "uploadedDate": "2019-06-07T15:12:56.468Z"
+    },
+    {
+      "type": "DieselGameBoxLogo",
+      "url": "https://cdn1.epicgames.com/ada169f07b81464a9fc06a7d6896101d/item/TheSojourn_Logo_White_Shadow-1920x879-3a7bc87f37dd0059f11691533701bf1f.png",
+      "md5": "3a7bc87f37dd0059f11691533701bf1f",
+      "width": 1920,
+      "height": 879,
+      "size": 263150,
+      "uploadedDate": "2019-06-07T15:13:07.975Z"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/ada169f07b81464a9fc06a7d6896101d/item/EGS_ICEBERG_THE-SOJOURN_S3_KEYART-1138x1280-c24b1cba504adf1f679bced2feee8567.jpg",
+      "md5": "c24b1cba504adf1f679bced2feee8567",
+      "width": 1138,
+      "height": 1280,
+      "size": 350693,
+      "uploadedDate": "2019-10-22T09:41:44.79Z"
+    }
+  ],
+  "creationDate": "2019-06-02T04:20:42.573+00:00",
+  "lastModifiedDate": "2019-11-19T17:03:58.572+00:00",
+  "developer": "Iceberg Interactive",
+  "developerId": "o-ftmts7pjfvdywkby885rdzl4hdbtys",
+  "applicationId": null
+}

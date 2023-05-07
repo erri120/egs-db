@@ -1,0 +1,32 @@
+{
+  "id": "e1d92cd6c3dd459e934dee05ba82fcf0",
+  "title": "FeverfewDevAudience",
+  "description": "FeverfewDevAudience",
+  "namespace": "feverfew",
+  "categories": "",
+  "keyImages": [
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/feverfew/item/thumnail-1280x1420-5a6e154a1fba82e347b4b8ae164e61db.jpg",
+      "md5": "5a6e154a1fba82e347b4b8ae164e61db",
+      "width": 1280,
+      "height": 1420,
+      "size": 391902,
+      "uploadedDate": "2019-01-23T21:12:14.568Z"
+    },
+    {
+      "type": "CodeRedemption_340x440",
+      "url": "https://cdn1.epicgames.com/feverfew/item/coderedemption-340x440-0d90df773bb3daa2c7cdf76c9368d00e.jpg",
+      "md5": "0d90df773bb3daa2c7cdf76c9368d00e",
+      "width": 340,
+      "height": 440,
+      "size": 63926,
+      "uploadedDate": "2019-01-23T21:12:23.322Z"
+    }
+  ],
+  "creationDate": "2019-01-15T15:46:01.183+00:00",
+  "lastModifiedDate": "2019-05-13T14:41:10.644+00:00",
+  "developer": "Jackbox Games, Inc.",
+  "developerId": "o-2m9ap45qzvalaepjz6wclpcffeq4aj",
+  "applicationId": null
+}

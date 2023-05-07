@@ -1,0 +1,23 @@
+{
+  "id": "f2a344e4bbf84299b9268f09050c9408",
+  "title": "CharacterRender_01",
+  "description": "eom",
+  "namespace": "vpr",
+  "categories": "applications/prod/applications/prod/content/applications",
+  "keyImages": [
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/vpr/item/carousel-character-01-500x700-33a84c087b27a15979fd94e47f371ab2.png",
+      "md5": "33a84c087b27a15979fd94e47f371ab2",
+      "width": 500,
+      "height": 700,
+      "size": 223950,
+      "uploadedDate": "2015-10-19T20:51:38.431Z"
+    }
+  ],
+  "creationDate": "2015-10-19T18:05:40.847+00:00",
+  "lastModifiedDate": "2017-08-04T19:17:29.356+00:00",
+  "developer": "Epic Games",
+  "developerId": "o-aa83a0a9bc45e98c80c1b1c9d92e9e",
+  "applicationId": null
+}

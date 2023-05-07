@@ -1,0 +1,23 @@
+{
+  "id": "389fe54b263540d6a8ae1cce7e52be78",
+  "title": "Message of the Day",
+  "description": "Viper MOTD TEXT",
+  "namespace": "vpr",
+  "categories": "applications/prod/applications/prod/content/applications",
+  "keyImages": [
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/vpr/item/comp-MOTD-03-notfree-440x90-a689034a946d547b2521895705c0aac3.png",
+      "md5": "a689034a946d547b2521895705c0aac3",
+      "width": 440,
+      "height": 90,
+      "size": 6338,
+      "uploadedDate": "2016-01-05T23:47:41.609Z"
+    }
+  ],
+  "creationDate": "2015-10-19T18:25:33.475+00:00",
+  "lastModifiedDate": "2016-08-04T03:01:49.259+00:00",
+  "developer": "Epic Games",
+  "developerId": "o-aa83a0a9bc45e98c80c1b1c9d92e9e",
+  "applicationId": null
+}

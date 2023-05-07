@@ -1,0 +1,32 @@
+{
+  "id": "36c3a8eea8964b0586eae558cd666c51",
+  "title": "Aquanox OST",
+  "description": "Aquanox OST",
+  "namespace": "116b93c8b15c4304b7629f0861523322",
+  "categories": "public/games/applications",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/116b93c8b15c4304b7629f0861523322/item/EGS_AquanoxDeepDescent_DigitalArrow_S1-2560x1440-34de899bcf88f182fd05e5b5c23cfb5f-2560x1440-34de899bcf88f182fd05e5b5c23cfb5f.jpg",
+      "md5": "34de899bcf88f182fd05e5b5c23cfb5f",
+      "width": 2560,
+      "height": 1440,
+      "size": 439103,
+      "uploadedDate": "2020-10-19T13:20:36.32Z"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/116b93c8b15c4304b7629f0861523322/item/EGS_AquanoxDeepDescent_DigitalArrow_S2-1200x1600-712542c3f4513431f9c66c560e287d22-1200x1600-712542c3f4513431f9c66c560e287d22.jpg",
+      "md5": "712542c3f4513431f9c66c560e287d22",
+      "width": 1200,
+      "height": 1600,
+      "size": 282253,
+      "uploadedDate": "2020-10-19T13:20:44.968Z"
+    }
+  ],
+  "creationDate": "2020-10-16T18:29:56.14+00:00",
+  "lastModifiedDate": "2020-10-20T13:26:37.125+00:00",
+  "developer": "THQ Nordic GmbH",
+  "developerId": "o-jywxgemg3dagnv6fymcngq3g29mc4j",
+  "applicationId": null
+}

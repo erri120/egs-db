@@ -1,0 +1,23 @@
+{
+  "id": "43c0cdef873a482683d64fb591f06869",
+  "title": "PochardSoundtrackAudience",
+  "description": "PochardSoundtrackAudience",
+  "namespace": "25ef88acc7f34afc8ac6669e11573882",
+  "categories": "",
+  "keyImages": [
+    {
+      "type": "ESRB",
+      "url": "https://cdn1.epicgames.com/25ef88acc7f34afc8ac6669e11573882/item/ESRB_Bloodroots-842x404-00b0b338ad0f998a205ce62fda4ff21b.jpg",
+      "md5": "00b0b338ad0f998a205ce62fda4ff21b",
+      "width": 842,
+      "height": 404,
+      "size": 101440,
+      "uploadedDate": "2019-12-11T18:15:19.547Z"
+    }
+  ],
+  "creationDate": "2020-02-26T15:05:46.483+00:00",
+  "lastModifiedDate": "2020-02-28T16:00:07.961+00:00",
+  "developer": "Paper Cult",
+  "developerId": "o-6fych9fc46deb48wb6fw8th6695pnl",
+  "applicationId": null
+}

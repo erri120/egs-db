@@ -1,0 +1,32 @@
+{
+  "id": "fbea802ddf924e0682e01220f395af9e",
+  "title": "CobraDevAudience",
+  "description": "CobraDevAudience",
+  "namespace": "cobra",
+  "categories": "",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/cobra/item/gamebox-2580x1450-2a3cf138aa51508f3f37f69540d659e5.jpg",
+      "md5": "2a3cf138aa51508f3f37f69540d659e5",
+      "width": 2580,
+      "height": 1450,
+      "size": 254412,
+      "uploadedDate": "2019-01-14T20:41:54.072Z"
+    },
+    {
+      "type": "DieselGameBoxLogo",
+      "url": "https://cdn1.epicgames.com/cobra/item/gameboxlogo-2536x2536-28d745371c56bb5c6d093e14f5c52eff.png",
+      "md5": "28d745371c56bb5c6d093e14f5c52eff",
+      "width": 2536,
+      "height": 2536,
+      "size": 374754,
+      "uploadedDate": "2019-01-14T20:42:03.104Z"
+    }
+  ],
+  "creationDate": "2019-01-04T19:32:45.545+00:00",
+  "lastModifiedDate": "2019-05-13T14:44:35.917+00:00",
+  "developer": "Team17 Digital Ltd",
+  "developerId": "o-uvtztrtfjdn3xgrwyhbuwwb5z42mbv",
+  "applicationId": null
+}

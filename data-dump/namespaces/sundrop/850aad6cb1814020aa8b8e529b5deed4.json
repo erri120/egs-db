@@ -1,0 +1,23 @@
+{
+  "id": "850aad6cb1814020aa8b8e529b5deed4",
+  "title": "For Honor Fire Pack Marker",
+  "description": "For Honor Fire Pack Marker",
+  "namespace": "sundrop",
+  "categories": "",
+  "keyImages": [
+    {
+      "type": "ESRB",
+      "url": "https://cdn1.epicgames.com/sundrop/item/For-Honor-Rating-842x404-d8c5be8969e73cd52549e48359133f9b.png",
+      "md5": "d8c5be8969e73cd52549e48359133f9b",
+      "width": 842,
+      "height": 404,
+      "size": 60171,
+      "uploadedDate": "2019-07-26T19:28:39.593Z"
+    }
+  ],
+  "creationDate": "2019-07-26T19:43:29.597+00:00",
+  "lastModifiedDate": "2020-12-10T15:22:04.267+00:00",
+  "developer": "Ubisoft Entertainment",
+  "developerId": "o-3efjudxdtgsqnulml4bkeq3v9nec38",
+  "applicationId": null
+}

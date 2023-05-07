@@ -1,0 +1,32 @@
+{
+  "id": "f71268e4d1c144aea3cb30b7ab5a7b0e",
+  "title": "Farming Simulator 19",
+  "description": "Farming Simulator 19",
+  "namespace": "493e9ad801e8487497fe7840cb8404bb",
+  "categories": "public/games/applications",
+  "keyImages": [
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/493e9ad801e8487497fe7840cb8404bb/item/Diesel_productv2_farming-simulator-19_home_EGS-GIANTS-FS19-860x1148_Standard-860x1148-a464360aa738f506399aff4c95d0a9c7021dee5f-860x1148-71df4a510f82c42cebe1b1861d2f77a3.jpg",
+      "md5": "71df4a510f82c42cebe1b1861d2f77a3",
+      "width": 860,
+      "height": 1148,
+      "size": 208762,
+      "uploadedDate": "2020-01-23T14:27:13.585Z"
+    },
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/493e9ad801e8487497fe7840cb8404bb/item/EGS-GIANTS-FS19-2560x1440-Library_Standard-V2-2560x1440-87989acd9b288dcc560a2bd0fb5e8676.jpg",
+      "md5": "87989acd9b288dcc560a2bd0fb5e8676",
+      "width": 2560,
+      "height": 1440,
+      "size": 636599,
+      "uploadedDate": "2020-01-28T14:53:49.003Z"
+    }
+  ],
+  "creationDate": "2019-10-03T20:05:30.265+00:00",
+  "lastModifiedDate": "2021-02-25T17:39:07.74+00:00",
+  "developer": "Focus Home",
+  "developerId": "o-wt4zxeetmq6jem7qp4pkssr46aenj5",
+  "applicationId": null
+}

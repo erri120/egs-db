@@ -1,0 +1,32 @@
+{
+  "id": "1044c51716c4423e83da5818d289057e",
+  "title": "Ghostrunner",
+  "description": "Ghostrunner",
+  "namespace": "95d0b9561be1464cb43bd029e94cf526",
+  "categories": "public/games/applications",
+  "keyImages": [
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/95d0b9561be1464cb43bd029e94cf526/item/GR_Portrait_Offer_1200x1600-1200x1600-a7811e23904db375486535513d10412f.jpg",
+      "md5": "a7811e23904db375486535513d10412f",
+      "width": 1200,
+      "height": 1600,
+      "size": 580015,
+      "uploadedDate": "2020-10-26T17:22:23.516Z"
+    },
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/95d0b9561be1464cb43bd029e94cf526/item/GR_Epic_Landscape_Offer2560x1440-2560x1440-08987c0c3e1701ea6a7217ed5616922d.jpg",
+      "md5": "08987c0c3e1701ea6a7217ed5616922d",
+      "width": 2560,
+      "height": 1440,
+      "size": 942683,
+      "uploadedDate": "2020-10-26T17:22:40.545Z"
+    }
+  ],
+  "creationDate": "2020-09-10T17:42:51.584+00:00",
+  "lastModifiedDate": "2021-08-31T16:17:12.819+00:00",
+  "developer": "505 Games",
+  "developerId": "o-cul2z53mrw3bxltv63v68rgd4b3w52",
+  "applicationId": "fghi4567myKtwTv7asezeSt7hwkcjrjF"
+}

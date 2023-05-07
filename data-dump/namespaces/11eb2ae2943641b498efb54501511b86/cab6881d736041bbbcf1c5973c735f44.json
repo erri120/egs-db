@@ -1,0 +1,32 @@
+{
+  "id": "cab6881d736041bbbcf1c5973c735f44",
+  "title": "State Of Decay 2 Pre-Purchase",
+  "description": "State Of Decay 2 Pre-Purchase",
+  "namespace": "11eb2ae2943641b498efb54501511b86",
+  "categories": "public/games/applications",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/11eb2ae2943641b498efb54501511b86/item/EGS_StateofDecay2JuggernautEdition_UndeadLabs_S1-2560x1440-a511367776edbdaf619fc594bf173fc9.jpg",
+      "md5": "a511367776edbdaf619fc594bf173fc9",
+      "width": 2560,
+      "height": 1440,
+      "size": 409640,
+      "uploadedDate": "2020-03-06T16:38:43.453Z"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/11eb2ae2943641b498efb54501511b86/item/EGS_StateofDecay2JuggernautEdition_UndeadLabs_S2-860x1148-13ba1a38ea2f8c924cb636059bc28aec.jpg",
+      "md5": "13ba1a38ea2f8c924cb636059bc28aec",
+      "width": 860,
+      "height": 1148,
+      "size": 475611,
+      "uploadedDate": "2020-03-06T16:38:56.652Z"
+    }
+  ],
+  "creationDate": "2020-03-06T16:15:57.909+00:00",
+  "lastModifiedDate": "2020-03-13T16:59:16.683+00:00",
+  "developer": "Microsoft",
+  "developerId": "o-f3qq8ygts6pglxx529jhgx5bmyj6bf",
+  "applicationId": null
+}

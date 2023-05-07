@@ -1,0 +1,32 @@
+{
+  "id": "8f88e9ea27334c6da4858ab8c404f755",
+  "title": "Demon Turf",
+  "description": "Demon Turf",
+  "namespace": "3e7e7c2bc1644a25a99b3a4c4ef1ff33",
+  "categories": "public/games/applications",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_DemonTurf_Fabraz_S1_2560x1440_2560x1440-b149e302dfc535bf4a9fdecd78dd427c",
+      "md5": "b149e302dfc535bf4a9fdecd78dd427c",
+      "width": 2560,
+      "height": 1440,
+      "size": 870786,
+      "uploadedDate": "2021-10-19T20:34:15.134Z"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_DemonTurf_Fabraz_S2_1200x1600_1200x1600-c6f86a11be1414e48152d91af7d48476",
+      "md5": "c6f86a11be1414e48152d91af7d48476",
+      "width": 1200,
+      "height": 1600,
+      "size": 669607,
+      "uploadedDate": "2021-10-19T20:34:18.112Z"
+    }
+  ],
+  "creationDate": "2020-06-02T15:12:40.991+00:00",
+  "lastModifiedDate": "2021-10-21T23:36:28.288+00:00",
+  "developer": "Playtonic Ltd",
+  "developerId": "o-qg5pfv55aq3xfvsvgyqhkdasezmsyn",
+  "applicationId": "fghi4567EX8UWObYsSn5IXv4c4cMcaLc"
+}

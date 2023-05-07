@@ -1,0 +1,32 @@
+{
+  "id": "0292864c82b3412caec6d9fe52506c0e",
+  "title": "Watch Dogs: Legion",
+  "description": "Watch Dogs: Legion",
+  "namespace": "0a84818055e740a7be21a2e5b6162703",
+  "categories": "public/games/applications",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/0a84818055e740a7be21a2e5b6162703/item/WatchDogs_Legion_Store_Landscape_2560x1440-2560x1440-6564aab7daeb17650e7fc190714bba76.jpg",
+      "md5": "6564aab7daeb17650e7fc190714bba76",
+      "width": 2560,
+      "height": 1440,
+      "size": 951200,
+      "uploadedDate": "2020-10-30T14:28:56.35Z"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/0a84818055e740a7be21a2e5b6162703/item/WatchDogs_Legion_Store_Portrait_1200x1600-1200x1600-a6b2d4cce489aeeb87bad4a6db168bed.jpg",
+      "md5": "a6b2d4cce489aeeb87bad4a6db168bed",
+      "width": 1200,
+      "height": 1600,
+      "size": 854184,
+      "uploadedDate": "2020-10-30T14:28:59.853Z"
+    }
+  ],
+  "creationDate": "2019-06-03T15:04:21.387+00:00",
+  "lastModifiedDate": "2020-10-30T14:29:05.638+00:00",
+  "developer": "Ubisoft Entertainment",
+  "developerId": "o-3efjudxdtgsqnulml4bkeq3v9nec38",
+  "applicationId": null
+}

@@ -1,0 +1,41 @@
+{
+  "id": "d3d64993679c4389af88c22ec3bc903f",
+  "title": "Cyberpunk 2077 Pre-Purchase",
+  "description": "Cyberpunk 2077 Pre-Purchase",
+  "namespace": "77f2b98e2cef40c8a7437518bf420e47",
+  "categories": "public/games/applications",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/77f2b98e2cef40c8a7437518bf420e47/item/Diesel_product_ginger_home_EGS_CDPROJEKTRED_CYBERPUNK2077_S2_DESCRIPTION-2560x1440-8411578303f60188c29f79cdbabcbca938bea5a6-2560x1440-91b7c4749a6d55e56e24bc22166092cb.jpg",
+      "md5": "91b7c4749a6d55e56e24bc22166092cb",
+      "width": 2560,
+      "height": 1440,
+      "size": 214982,
+      "uploadedDate": "2019-06-13T20:35:12.022Z"
+    },
+    {
+      "type": "DieselGameBoxLogo",
+      "url": "https://cdn1.epicgames.com/77f2b98e2cef40c8a7437518bf420e47/item/Diesel_product_ginger_home_EGS_CDPROJEKTRED_CYBERPUNK2077_IC1_MAINLOGO-EN-1920x473-86738e995fb8493ddfc36a83d95d3db3.png",
+      "md5": "86738e995fb8493ddfc36a83d95d3db3",
+      "width": 1920,
+      "height": 473,
+      "size": 248751,
+      "uploadedDate": "2019-06-13T20:38:18.044Z"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/77f2b98e2cef40c8a7437518bf420e47/item/EGS_CDPROJEKTRED_CYBERPUNK2077_S3_DESCRIPTION-1280x1440-58949bccc0886694cf24d8c0f153d250.jpg",
+      "md5": "58949bccc0886694cf24d8c0f153d250",
+      "width": 1280,
+      "height": 1440,
+      "size": 161300,
+      "uploadedDate": "2019-10-22T09:41:44.79Z"
+    }
+  ],
+  "creationDate": "2019-06-13T20:32:43.443+00:00",
+  "lastModifiedDate": "2020-12-09T23:54:35.488+00:00",
+  "developer": "CD PROJEKT RED",
+  "developerId": "o-x2vdjaf7cfakvlsgz8qf2gx8bkplcc",
+  "applicationId": "fghi4567ay5jIOq6Vy3yzQe8RNUYiURd"
+}

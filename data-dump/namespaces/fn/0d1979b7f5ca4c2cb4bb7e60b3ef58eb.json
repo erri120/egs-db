@@ -1,0 +1,13 @@
+{
+  "id": "0d1979b7f5ca4c2cb4bb7e60b3ef58eb",
+  "title": "Participant in E3 2018 Event",
+  "description": "Entitlement to grant play access to the E3 2018 event.  Should be disabled after the event completes.",
+  "namespace": "fn",
+  "categories": "accesscontrol",
+  "keyImages": [],
+  "creationDate": "2018-05-21T13:07:42.672+00:00",
+  "lastModifiedDate": "2018-05-21T13:22:15.24+00:00",
+  "developer": "Epic Games",
+  "developerId": "o-aa83a0a9bc45e98c80c1b1c9d92e9e",
+  "applicationId": null
+}

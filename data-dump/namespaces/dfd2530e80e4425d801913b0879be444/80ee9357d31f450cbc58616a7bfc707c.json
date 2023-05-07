@@ -1,0 +1,32 @@
+{
+  "id": "80ee9357d31f450cbc58616a7bfc707c",
+  "title": "SparrowStaging",
+  "description": "SparrowStaging",
+  "namespace": "dfd2530e80e4425d801913b0879be444",
+  "categories": "public/games/applications",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/dfd2530e80e4425d801913b0879be444/item/ZOMBIEARMY4_S2_KEYART-2560x1440-d32f9a54e89f6f86471618a239f1a016.jpg",
+      "md5": "d32f9a54e89f6f86471618a239f1a016",
+      "width": 2560,
+      "height": 1440,
+      "size": 295118,
+      "uploadedDate": "2019-06-25T18:35:14.956Z"
+    },
+    {
+      "type": "DieselGameBoxLogo",
+      "url": "https://cdn1.epicgames.com/dfd2530e80e4425d801913b0879be444/item/ZOMBIEARMY4_IC1_COLOR-1920x998-778c9fb7e6ed950106326d9961ecd76f.png",
+      "md5": "778c9fb7e6ed950106326d9961ecd76f",
+      "width": 1920,
+      "height": 998,
+      "size": 211626,
+      "uploadedDate": "2019-06-25T18:35:24.845Z"
+    }
+  ],
+  "creationDate": "2019-06-07T02:18:16.511+00:00",
+  "lastModifiedDate": "2022-02-01T17:13:34.182+00:00",
+  "developer": "Rebellion",
+  "developerId": "o-7ytxfydj7f9a2uv4bmg3s5wfl2epsm",
+  "applicationId": ""
+}

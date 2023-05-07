@@ -1,0 +1,41 @@
+{
+  "id": "8475c4b405b44a9d855ad1601cb11c21",
+  "title": "LEGO\u00AE Batman\u2122 3 Beyond Gotham",
+  "description": "LEGO\u00AE Batman\u2122 3 Beyond Gotham",
+  "namespace": "83022e1b4c304addb2aadee1db854f8d",
+  "categories": "public/games/applications",
+  "keyImages": [
+    {
+      "type": "DieselGameBoxLogo",
+      "url": "https://cdn1.epicgames.com/83022e1b4c304addb2aadee1db854f8d/item/lego-batman-3-213x68-a70db8c5a34957c00b35226553be6787.png",
+      "md5": "a70db8c5a34957c00b35226553be6787",
+      "width": 213,
+      "height": 68,
+      "size": 15903,
+      "uploadedDate": "2019-09-16T20:06:39.751Z"
+    },
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/83022e1b4c304addb2aadee1db854f8d/item/lego-batman-3-promo-1536x864-95b599046d5092526a6862774e4d874c.jpg",
+      "md5": "95b599046d5092526a6862774e4d874c",
+      "width": 1536,
+      "height": 864,
+      "size": 339258,
+      "uploadedDate": "2019-09-16T20:06:53.994Z"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/83022e1b4c304addb2aadee1db854f8d/item/lego-batman-3_portrait-1024x1180-bf1ac5773d6011c98a3a831647d8677c.jpg",
+      "md5": "bf1ac5773d6011c98a3a831647d8677c",
+      "width": 1024,
+      "height": 1180,
+      "size": 306902,
+      "uploadedDate": "2019-10-22T09:41:44.79Z"
+    }
+  ],
+  "creationDate": "2019-08-27T22:19:30.381+00:00",
+  "lastModifiedDate": "2019-11-19T17:03:05.475+00:00",
+  "developer": "Warner Brothers",
+  "developerId": "o-7kyv8uwtz74njnl544kbxzt5xqephw",
+  "applicationId": null
+}

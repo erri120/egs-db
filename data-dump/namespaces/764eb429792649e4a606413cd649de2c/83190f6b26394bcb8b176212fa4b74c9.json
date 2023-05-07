@@ -1,0 +1,23 @@
+{
+  "id": "83190f6b26394bcb8b176212fa4b74c9",
+  "title": "AlewifeGoldAudience",
+  "description": "AlewifeGoldAudience",
+  "namespace": "764eb429792649e4a606413cd649de2c",
+  "categories": "",
+  "keyImages": [
+    {
+      "type": "ESRB",
+      "url": "https://cdn1.epicgames.com/764eb429792649e4a606413cd649de2c/item/ESRB_M_SouthPark_TheFracturedButWhole-842x404-85cfdc0057fabe07ad0f66f118738077.jpg",
+      "md5": "85cfdc0057fabe07ad0f66f118738077",
+      "width": 842,
+      "height": 404,
+      "size": 113736,
+      "uploadedDate": "2020-01-14T19:12:49.376Z"
+    }
+  ],
+  "creationDate": "2019-11-19T23:45:33.358+00:00",
+  "lastModifiedDate": "2020-01-14T19:12:54.135+00:00",
+  "developer": "Ubisoft Entertainment",
+  "developerId": "o-3efjudxdtgsqnulml4bkeq3v9nec38",
+  "applicationId": null
+}

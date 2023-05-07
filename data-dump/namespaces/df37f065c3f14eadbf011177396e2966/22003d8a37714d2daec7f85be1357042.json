@@ -1,0 +1,32 @@
+{
+  "id": "22003d8a37714d2daec7f85be1357042",
+  "title": "Alien: Isolation - Lost Contact",
+  "description": "Alien: Isolation - Lost Contact",
+  "namespace": "df37f065c3f14eadbf011177396e2966",
+  "categories": "public/addons/applications",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/df37f065c3f14eadbf011177396e2966/item/contactDLC-1920x1080-38d11018e1381e083faf4ccc91205fc4.jfif",
+      "md5": "38d11018e1381e083faf4ccc91205fc4",
+      "width": 1920,
+      "height": 1080,
+      "size": 670410,
+      "uploadedDate": "2020-12-16T18:05:19.137Z"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/df37f065c3f14eadbf011177396e2966/item/contactDLCportrait-1200x1600-2af9ba12683c699002483df555956818.jfif",
+      "md5": "2af9ba12683c699002483df555956818",
+      "width": 1200,
+      "height": 1600,
+      "size": 586715,
+      "uploadedDate": "2020-12-17T17:12:43.754Z"
+    }
+  ],
+  "creationDate": "2020-10-26T17:24:36.409+00:00",
+  "lastModifiedDate": "2020-12-18T16:36:46.496+00:00",
+  "developer": "SEGA of Europe",
+  "developerId": "o-q3zwbk8kbbbgar9ql3x7d43rjj8bjl",
+  "applicationId": "fghi4567WncMSw97kolM0Ff1UBPqwsE7"
+}

@@ -1,0 +1,32 @@
+{
+  "id": "445a01ff01344692a69a092595849f03",
+  "title": "Borderlands 2",
+  "description": "Borderlands 2",
+  "namespace": "f4a7772a4da24870a3ea6dfb8aeac662",
+  "categories": "public/games/applications",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/f4a7772a4da24870a3ea6dfb8aeac662/item/BL2_Wide-2560x1440-e4f153cd792f973e00583178d8408128.jpg",
+      "md5": "e4f153cd792f973e00583178d8408128",
+      "width": 2560,
+      "height": 1440,
+      "size": 495970,
+      "uploadedDate": "2020-05-22T18:22:00.301Z"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/f4a7772a4da24870a3ea6dfb8aeac662/item/BL2_Tall-860x1148-5fac54ddb8789d5c4bf354100058ca67.jpg",
+      "md5": "5fac54ddb8789d5c4bf354100058ca67",
+      "width": 860,
+      "height": 1148,
+      "size": 472912,
+      "uploadedDate": "2020-05-22T18:22:19.264Z"
+    }
+  ],
+  "creationDate": "2019-07-10T14:45:27.99+00:00",
+  "lastModifiedDate": "2021-02-19T20:19:03.416+00:00",
+  "developer": "2K Games, Inc.",
+  "developerId": "o-37m6jbj5wcvrcvm4wusv7nazdfvbjk",
+  "applicationId": null
+}

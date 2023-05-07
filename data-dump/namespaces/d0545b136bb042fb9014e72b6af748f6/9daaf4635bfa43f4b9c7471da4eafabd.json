@@ -1,0 +1,41 @@
+{
+  "id": "9daaf4635bfa43f4b9c7471da4eafabd",
+  "title": "Ghostbusters Remastered Pre-Purchase",
+  "description": "Ghostbusters Remastered Pre-Purchase",
+  "namespace": "d0545b136bb042fb9014e72b6af748f6",
+  "categories": "",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/d0545b136bb042fb9014e72b6af748f6/item/GhostbustersRemastered_PrimaryPromo-2580x1456-aad1aae4cd333521188e30a9fe1c64fe.jpg",
+      "md5": "aad1aae4cd333521188e30a9fe1c64fe",
+      "width": 2580,
+      "height": 1456,
+      "size": 356282,
+      "uploadedDate": "2019-05-30T12:01:10.071Z"
+    },
+    {
+      "type": "DieselGameBoxLogo",
+      "url": "https://cdn1.epicgames.com/d0545b136bb042fb9014e72b6af748f6/item/GhostbustersRemastered_Logo-1483x417-e21c0938b45d11b6a0316a0ac84c4a7e.png",
+      "md5": "e21c0938b45d11b6a0316a0ac84c4a7e",
+      "width": 1483,
+      "height": 417,
+      "size": 360185,
+      "uploadedDate": "2019-05-30T12:02:23.201Z"
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/d0545b136bb042fb9014e72b6af748f6/item/GhostbustersRemastered_GameIcon-400x400-9a750bb7b54f3be78ea16ce36c2426c4.png",
+      "md5": "9a750bb7b54f3be78ea16ce36c2426c4",
+      "width": 400,
+      "height": 400,
+      "size": 35965,
+      "uploadedDate": "2019-05-30T12:02:30.308Z"
+    }
+  ],
+  "creationDate": "2019-08-15T17:53:36.404+00:00",
+  "lastModifiedDate": "2019-10-04T11:43:23.648+00:00",
+  "developer": "Saber Interactive",
+  "developerId": "o-2xlz78ngz5ubvus9sff9blglee43uk",
+  "applicationId": null
+}

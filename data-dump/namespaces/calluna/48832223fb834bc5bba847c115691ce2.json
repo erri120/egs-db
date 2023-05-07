@@ -1,0 +1,32 @@
+{
+  "id": "48832223fb834bc5bba847c115691ce2",
+  "title": "Control Expansion 2 AWE",
+  "description": "Control Expansion 2 AWE",
+  "namespace": "calluna",
+  "categories": "",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/calluna/item/AWE_Wide-2560x1440-bf9f368300c3fdb6116e63a99b405e49.jpg",
+      "md5": "bf9f368300c3fdb6116e63a99b405e49",
+      "width": 2560,
+      "height": 1440,
+      "size": 71863,
+      "uploadedDate": "2020-08-27T13:25:08.891Z"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/calluna/item/AWE_Tall-860x1148-2533e3f639edd227d591b5a1cdd36865.jpg",
+      "md5": "2533e3f639edd227d591b5a1cdd36865",
+      "width": 860,
+      "height": 1148,
+      "size": 31836,
+      "uploadedDate": "2020-08-27T13:25:40.563Z"
+    }
+  ],
+  "creationDate": "2019-12-11T18:39:03.663+00:00",
+  "lastModifiedDate": "2020-09-09T23:58:42.026+00:00",
+  "developer": "505 Games",
+  "developerId": "o-cul2z53mrw3bxltv63v68rgd4b3w52",
+  "applicationId": null
+}

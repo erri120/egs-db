@@ -1,0 +1,23 @@
+{
+  "id": "627438c2be494e90b9579cb1da314017",
+  "title": "7800 Fortnite Points",
+  "description": "7800 Fortnite Points",
+  "namespace": "fn",
+  "categories": "points",
+  "keyImages": [
+    {
+      "type": "ESRB",
+      "url": "https://cdn1.epicgames.com/fn/item/ESRB-369x217-12ce933005895ab9e61fb66a30485c90.png",
+      "md5": "12ce933005895ab9e61fb66a30485c90",
+      "width": 369,
+      "height": 217,
+      "size": 8558,
+      "uploadedDate": "2019-12-13T21:36:36.674Z"
+    }
+  ],
+  "creationDate": "2015-05-20T19:12:59.335+00:00",
+  "lastModifiedDate": "2020-08-13T08:54:01.826+00:00",
+  "developer": "Epic Games",
+  "developerId": "o-aa83a0a9bc45e98c80c1b1c9d92e9e",
+  "applicationId": null
+}

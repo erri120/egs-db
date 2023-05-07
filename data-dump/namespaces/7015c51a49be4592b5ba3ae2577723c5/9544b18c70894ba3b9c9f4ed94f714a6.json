@@ -1,0 +1,32 @@
+{
+  "id": "9544b18c70894ba3b9c9f4ed94f714a6",
+  "title": "The Supercomputer",
+  "description": "The Supercomputer",
+  "namespace": "7015c51a49be4592b5ba3ae2577723c5",
+  "categories": "public/games/applications",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/7015c51a49be4592b5ba3ae2577723c5/item/EGS_TheSupercomputer_HaemimontGames_DLC_S1-2560x1440-c1c5d44b455f115661bb0b951aee9039.jpg",
+      "md5": "c1c5d44b455f115661bb0b951aee9039",
+      "width": 2560,
+      "height": 1440,
+      "size": 989961,
+      "uploadedDate": "2020-11-16T16:56:14.397Z"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/7015c51a49be4592b5ba3ae2577723c5/item/EGS_TheSupercomputer_HaemimontGames_DLC_S2-1200x1600-3dbb09ea1401bcd62b8b823a7fc3e25d.jpg",
+      "md5": "3dbb09ea1401bcd62b8b823a7fc3e25d",
+      "width": 1200,
+      "height": 1600,
+      "size": 1004367,
+      "uploadedDate": "2020-11-16T16:56:24.084Z"
+    }
+  ],
+  "creationDate": "2020-05-08T17:23:02.566+00:00",
+  "lastModifiedDate": "2020-12-16T18:21:41.165+00:00",
+  "developer": "Kalypso Media Group GmbH",
+  "developerId": "o-37ss7wypkskvyj58j9s7hhltxtujac",
+  "applicationId": null
+}

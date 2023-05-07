@@ -1,0 +1,23 @@
+{
+  "id": "0effc974d9ae4800be975a6ea889cfcc",
+  "title": "Outer Wilds General Audience",
+  "description": "Outer Wilds General Audience",
+  "namespace": "starfish",
+  "categories": "",
+  "keyImages": [
+    {
+      "type": "ESRB",
+      "url": "https://cdn1.epicgames.com/starfish/item/esrb_outerwilds_web-842x404-70009e8f34d74bc935d8f9e8f9231203.png",
+      "md5": "70009e8f34d74bc935d8f9e8f9231203",
+      "width": 842,
+      "height": 404,
+      "size": 59655,
+      "uploadedDate": "2020-01-08T17:52:04.213Z"
+    }
+  ],
+  "creationDate": "2018-12-06T02:12:35.589+00:00",
+  "lastModifiedDate": "2021-09-24T00:54:50.754+00:00",
+  "developer": "Annapurna Interactive",
+  "developerId": "o-bmeb3ztlbxkjc8vvpydava38yvmxlm",
+  "applicationId": ""
+}

@@ -1,0 +1,32 @@
+{
+  "id": "b9f66512c1084620bf71ce4d4bca1d1a",
+  "title": "Trials of Fire",
+  "description": "Trials of Fire",
+  "namespace": "cc56bfab64424c71b9109bc0607a00dd",
+  "categories": "public/games/applications",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_TrialsofFire_WhatboyGames_S1_2560x1440-85e4e7e8b07855ce8d51c0a27d80ae91",
+      "md5": "85e4e7e8b07855ce8d51c0a27d80ae91",
+      "width": 2560,
+      "height": 1440,
+      "size": 686979,
+      "uploadedDate": "2021-06-07T23:14:12.514Z"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_TrialsofFire_WhatboyGames_S2_1200x1600-164673a6e7c980e62cc8dd238ce11842",
+      "md5": "164673a6e7c980e62cc8dd238ce11842",
+      "width": 1200,
+      "height": 1600,
+      "size": 420970,
+      "uploadedDate": "2021-06-07T23:14:15.094Z"
+    }
+  ],
+  "creationDate": "2021-05-19T21:24:45.825+00:00",
+  "lastModifiedDate": "2021-06-09T14:43:47.143+00:00",
+  "developer": "Whatboy Games",
+  "developerId": "o-9uluvb93ylxzxn4my9zzttt8h35yy2",
+  "applicationId": "Trials of Fire (fghi4567FPTQcYsKefdRJEgJtOHw3wgY)"
+}

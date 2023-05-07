@@ -1,0 +1,23 @@
+{
+  "id": "8eec9f18d79149b58b1874c5c651b77d",
+  "title": "SaffronOpenBetaAudience",
+  "description": "SaffronOpenBetaAudience",
+  "namespace": "2dbd2f64abdc4bbab077424d5c85e01b",
+  "categories": "",
+  "keyImages": [
+    {
+      "type": "ESRB",
+      "url": "https://cdn1.epicgames.com/2dbd2f64abdc4bbab077424d5c85e01b/item/ESRB_GhostReconBreakpoint-842x485-605e6ef12cb58888785aa30ecd659294.jpg",
+      "md5": "605e6ef12cb58888785aa30ecd659294",
+      "width": 842,
+      "height": 485,
+      "size": 63449,
+      "uploadedDate": "2019-09-20T17:05:35.152Z"
+    }
+  ],
+  "creationDate": "2019-09-20T17:04:33.694+00:00",
+  "lastModifiedDate": "2021-01-19T17:21:56.34+00:00",
+  "developer": "Ubisoft Entertainment",
+  "developerId": "o-3efjudxdtgsqnulml4bkeq3v9nec38",
+  "applicationId": null
+}

@@ -1,0 +1,32 @@
+{
+  "id": "271b819002524a64bdd3bb73246ef68f",
+  "title": "RUNE II Official Game Soundtrack",
+  "description": "RUNE II Official Game Soundtrack",
+  "namespace": "cosmos",
+  "categories": "",
+  "keyImages": [
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/cosmos/item/RUNE II Soundtrack Box Art-1280x1440-9d72c9b7f6e3dc13e7f45931e84a74f7.jpg",
+      "md5": "9d72c9b7f6e3dc13e7f45931e84a74f7",
+      "width": 1280,
+      "height": 1440,
+      "size": 714265,
+      "uploadedDate": "2020-04-30T19:01:11.77Z"
+    },
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/cosmos/item/RUNE II Soundtrack Quick Launch-1920x1080-1fed8316226291510f17da11c7fc4a1f.jpg",
+      "md5": "1fed8316226291510f17da11c7fc4a1f",
+      "width": 1920,
+      "height": 1080,
+      "size": 567587,
+      "uploadedDate": "2020-04-30T19:02:30.232Z"
+    }
+  ],
+  "creationDate": "2019-08-27T14:52:16.846+00:00",
+  "lastModifiedDate": "2021-01-08T19:33:56.123+00:00",
+  "developer": "Ragnarok Game, LLC",
+  "developerId": "o-peysvmw9hg6a5s86ehl8a5dbz8fddp",
+  "applicationId": null
+}

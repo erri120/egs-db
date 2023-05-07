@@ -1,0 +1,32 @@
+{
+  "id": "4327db35847742b7b2d4c7278ba7f47b",
+  "title": "RobinQA",
+  "description": "RobinQA",
+  "namespace": "bec57b5341ad4294b005a7dd18691419",
+  "categories": "public/games/applications",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/bec57b5341ad4294b005a7dd18691419/item/Yaga_BadLuckBundle-2560x1440-1d9ba1d45fac20c5354314e5416d26d1.jpg",
+      "md5": "1d9ba1d45fac20c5354314e5416d26d1",
+      "width": 2560,
+      "height": 1440,
+      "size": 362487,
+      "uploadedDate": "2019-09-26T17:08:19.487Z"
+    },
+    {
+      "type": "DieselGameBoxLogo",
+      "url": "https://cdn1.epicgames.com/bec57b5341ad4294b005a7dd18691419/item/Yaga_MainGame_EpicGamesStore_IC1_Logo_Color_ApprovedPublic-1591x1431-c1cc75abf441448b681d26fdcf1c6be6.png",
+      "md5": "c1cc75abf441448b681d26fdcf1c6be6",
+      "width": 1591,
+      "height": 1431,
+      "size": 92279,
+      "uploadedDate": "2019-09-26T17:08:31.31Z"
+    }
+  ],
+  "creationDate": "2019-09-26T17:07:21.803+00:00",
+  "lastModifiedDate": "2021-11-05T14:57:49.429+00:00",
+  "developer": "Versus Evil",
+  "developerId": "o-ugw2zblbdkg5xklzadlrt2qe92cdje",
+  "applicationId": null
+}

@@ -1,0 +1,23 @@
+{
+  "id": "77475f59bfa546c0a9c17a0c0ee42177",
+  "title": "Boga Early Access Pre-Purchase Audience",
+  "description": "Boga Early Access Pre-Purchase Audience",
+  "namespace": "f4a904fcef2447439c35c4e6457f3027",
+  "categories": "",
+  "keyImages": [
+    {
+      "type": "ESRB",
+      "url": "https://cdn1.epicgames.com/f4a904fcef2447439c35c4e6457f3027/item/Boga-842x404-e25740f35341fe9c4da2f6d8fc4aa9e6.png",
+      "md5": "e25740f35341fe9c4da2f6d8fc4aa9e6",
+      "width": 842,
+      "height": 404,
+      "size": 66425,
+      "uploadedDate": "2019-11-06T19:16:08.403Z"
+    }
+  ],
+  "creationDate": "2020-07-07T18:45:26.966+00:00",
+  "lastModifiedDate": "2020-07-14T13:59:47.805+00:00",
+  "developer": "505 Games",
+  "developerId": "o-cul2z53mrw3bxltv63v68rgd4b3w52",
+  "applicationId": null
+}

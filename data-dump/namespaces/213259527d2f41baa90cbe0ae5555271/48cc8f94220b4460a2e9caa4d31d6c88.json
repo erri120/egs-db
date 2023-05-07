@@ -1,0 +1,32 @@
+{
+  "id": "48cc8f94220b4460a2e9caa4d31d6c88",
+  "title": "Lord of the Kings",
+  "description": "Lord of the Kings",
+  "namespace": "213259527d2f41baa90cbe0ae5555271",
+  "categories": "",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/213259527d2f41baa90cbe0ae5555271/item/EGS_LordoftheKings_RealmforgeStudios_DLC_S1-2560x1440-449f40bdf0937082c8c4e2dc144e67f6.jpg",
+      "md5": "449f40bdf0937082c8c4e2dc144e67f6",
+      "width": 2560,
+      "height": 1440,
+      "size": 945556,
+      "uploadedDate": "2020-10-01T17:49:41.848Z"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/213259527d2f41baa90cbe0ae5555271/item/EGS_LordoftheKings_RealmforgeStudios_DLC_S2-1200x1600-08aaf55ec7f0a34a8e449d0d962d3418.jpg",
+      "md5": "08aaf55ec7f0a34a8e449d0d962d3418",
+      "width": 1200,
+      "height": 1600,
+      "size": 644437,
+      "uploadedDate": "2020-10-01T17:49:52.093Z"
+    }
+  ],
+  "creationDate": "2020-05-08T15:34:38.111+00:00",
+  "lastModifiedDate": "2020-11-04T21:17:58.117+00:00",
+  "developer": "Kalypso Media Group GmbH",
+  "developerId": "o-37ss7wypkskvyj58j9s7hhltxtujac",
+  "applicationId": null
+}

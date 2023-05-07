@@ -1,0 +1,32 @@
+{
+  "id": "c9620f0a18c142b0af50a995f0753850",
+  "title": "iHeart: Radio, Music, Podcast\u202As\u202C",
+  "description": "iHeart: Radio, Music, Podcast\u202As\u202C",
+  "namespace": "7be6958b730944d9925ddbee7aa207a6",
+  "categories": "public/software/applications",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_iHeartRadioMusicPodcasts_iHeartMedia_S1_2560x1440-469d9212c6ba60d46c2bc06e55d9d26e",
+      "md5": "469d9212c6ba60d46c2bc06e55d9d26e",
+      "width": 2560,
+      "height": 1440,
+      "size": 143772,
+      "uploadedDate": "2021-04-19T22:46:44.352Z"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_iHeartRadioMusicPodcasts_iHeartMedia_S2_1200x1600-e8f12cb5a0ab522e8af3f7a30dc32869",
+      "md5": "e8f12cb5a0ab522e8af3f7a30dc32869",
+      "width": 1200,
+      "height": 1600,
+      "size": 101010,
+      "uploadedDate": "2021-04-19T22:46:53.797Z"
+    }
+  ],
+  "creationDate": "2021-01-22T20:35:36.098+00:00",
+  "lastModifiedDate": "2021-04-22T13:26:02.594+00:00",
+  "developer": "iHeartMedia",
+  "developerId": "o-vwezlgnfmwftja29b6uxk9b7y3k7bk",
+  "applicationId": ""
+}

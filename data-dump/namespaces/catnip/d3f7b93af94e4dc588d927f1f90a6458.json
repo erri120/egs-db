@@ -1,0 +1,32 @@
+{
+  "id": "d3f7b93af94e4dc588d927f1f90a6458",
+  "title": "CatnipStaging4DLC3",
+  "description": "CatnipStaging4DLC3",
+  "namespace": "catnip",
+  "categories": "",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/catnip/item/Borderlands3_Promo-1440x810-6bcacdd8461e42e50e4038e0fb3260ee.jpg",
+      "md5": "6bcacdd8461e42e50e4038e0fb3260ee",
+      "width": 1440,
+      "height": 810,
+      "size": 295579,
+      "uploadedDate": "2019-10-30T14:24:59.43Z"
+    },
+    {
+      "type": "DieselGameBoxLogo",
+      "url": "https://cdn1.epicgames.com/catnip/item/Borderlands3_Logo-720x209-8373e0df5612a9952fe79defb32e1322.png",
+      "md5": "8373e0df5612a9952fe79defb32e1322",
+      "width": 720,
+      "height": 209,
+      "size": 192732,
+      "uploadedDate": "2019-10-30T14:25:16.085Z"
+    }
+  ],
+  "creationDate": "2020-02-28T20:39:51.751+00:00",
+  "lastModifiedDate": "2020-06-15T20:52:55.766+00:00",
+  "developer": "2K Games, Inc.",
+  "developerId": "o-37m6jbj5wcvrcvm4wusv7nazdfvbjk",
+  "applicationId": null
+}

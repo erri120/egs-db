@@ -1,0 +1,50 @@
+{
+  "id": "8f6d2f1905244a03a3003c0849da4820",
+  "title": "Beyond Two Souls",
+  "description": "Beyond Two Souls",
+  "namespace": "lavender",
+  "categories": "",
+  "keyImages": [
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/lavender/item/Beyond_GameIcon-400x400-362c6839bb4a4c9c28afb2ea260f78cb.png",
+      "md5": "362c6839bb4a4c9c28afb2ea260f78cb",
+      "width": 400,
+      "height": 400,
+      "size": 273087,
+      "uploadedDate": "2019-03-19T21:42:39.616Z"
+    },
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/lavender/item/B2S_Lavender_thumb-2560x1440-a69d17f57f977966d3cb57d2f7db939f.png",
+      "md5": "a69d17f57f977966d3cb57d2f7db939f",
+      "width": 2560,
+      "height": 1440,
+      "size": 934482,
+      "uploadedDate": "2019-06-21T19:13:32.154Z"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/lavender/item/Beyond_PortraitPromo03-1280x1420-5c246b28fdc821c471257c69db3f5dd7-1280x1420-5c246b28fdc821c471257c69db3f5dd7.jpg",
+      "md5": "5c246b28fdc821c471257c69db3f5dd7",
+      "width": 1280,
+      "height": 1420,
+      "size": 113550,
+      "uploadedDate": "2019-11-20T21:15:42.986Z"
+    },
+    {
+      "type": "DieselGameBoxLogo",
+      "url": "https://cdn1.epicgames.com/lavender/item/Beyond_Logo-2560x1024-506247fe5e47cd4fc854184b77b1e381.png",
+      "md5": "506247fe5e47cd4fc854184b77b1e381",
+      "width": 2560,
+      "height": 1024,
+      "size": 769620,
+      "uploadedDate": "2019-11-21T14:09:47.593Z"
+    }
+  ],
+  "creationDate": "2019-01-29T17:36:15.434+00:00",
+  "lastModifiedDate": "2019-11-21T14:09:52.154+00:00",
+  "developer": "Quantic Dream",
+  "developerId": "o-m8v47d762atphw94knus7ezawefpcu",
+  "applicationId": null
+}

@@ -1,0 +1,23 @@
+{
+  "id": "1d5b4a5c22cb4d4ba3d954849015c8e7",
+  "title": "Borderlands 3 Super Demo Audience",
+  "description": "Borderlands 3 Super Demo Audience",
+  "namespace": "catnip",
+  "categories": "",
+  "keyImages": [
+    {
+      "type": "ESRB",
+      "url": "https://cdn1.epicgames.com/catnip/item/ESRB_M_Borderlands3-842x485-275d74057f4825477e1f7f17f8cf0abc.jpg",
+      "md5": "275d74057f4825477e1f7f17f8cf0abc",
+      "width": 842,
+      "height": 485,
+      "size": 134137,
+      "uploadedDate": "2020-01-07T22:47:24.009Z"
+    }
+  ],
+  "creationDate": "2019-07-22T21:00:26.178+00:00",
+  "lastModifiedDate": "2020-01-07T22:47:26.709+00:00",
+  "developer": "2K Games, Inc.",
+  "developerId": "o-37m6jbj5wcvrcvm4wusv7nazdfvbjk",
+  "applicationId": null
+}

@@ -1,0 +1,41 @@
+{
+  "id": "1444e7244c1e4a35a8156bfc821d1b93",
+  "title": "Donut County",
+  "description": "Donut County",
+  "namespace": "kestrel",
+  "categories": "",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/kestrel/item/Epic_DonutCounty_PrimaryPromo-2580x1450-ff83151e2c8c70a5b8c95b6e830854ec.jpg",
+      "md5": "ff83151e2c8c70a5b8c95b6e830854ec",
+      "width": 2580,
+      "height": 1450,
+      "size": 444257,
+      "uploadedDate": "2019-01-08T02:00:07.011Z"
+    },
+    {
+      "type": "DieselGameBoxLogo",
+      "url": "https://cdn1.epicgames.com/kestrel/item/DonutCounty_LogoWhite_Epic-2048x1024-dc43df4c83dbf27aeea844212bfb7f58.png",
+      "md5": "dc43df4c83dbf27aeea844212bfb7f58",
+      "width": 2048,
+      "height": 1024,
+      "size": 274971,
+      "uploadedDate": "2019-01-08T14:19:33.412Z"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/kestrel/item/Epic_DonutCounty_PortraitPromo-1280x1420-ede4d52780f51591f65d9c5c415c156a.jpg",
+      "md5": "ede4d52780f51591f65d9c5c415c156a",
+      "width": 1280,
+      "height": 1420,
+      "size": 113830,
+      "uploadedDate": "2019-10-22T09:41:44.79Z"
+    }
+  ],
+  "creationDate": "2018-12-17T15:27:33.612+00:00",
+  "lastModifiedDate": "2019-11-19T17:02:37.369+00:00",
+  "developer": "Annapurna Interactive",
+  "developerId": "o-bmeb3ztlbxkjc8vvpydava38yvmxlm",
+  "applicationId": null
+}

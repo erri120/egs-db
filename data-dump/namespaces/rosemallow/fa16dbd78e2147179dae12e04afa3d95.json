@@ -1,0 +1,41 @@
+{
+  "id": "fa16dbd78e2147179dae12e04afa3d95",
+  "title": "The Outer Worlds",
+  "description": "The Outer Worlds",
+  "namespace": "rosemallow",
+  "categories": "",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/rosemallow/item/Diesel_productv2_the-outer-worlds_home_ANC_Banner_TOW_NoLogo_1920x1080-(1)-1920x1080-ebae8a5f2e33aeda17905df7c4d61ae65d6c72da-1920x1080-d71ee9b36e9b95adace99e39cc33e557.jpg",
+      "md5": "d71ee9b36e9b95adace99e39cc33e557",
+      "width": 1920,
+      "height": 1080,
+      "size": 300546,
+      "uploadedDate": "2019-10-24T00:55:15.657Z"
+    },
+    {
+      "type": "DieselGameBoxLogo",
+      "url": "https://cdn1.epicgames.com/rosemallow/item/TheOuterWorlds_Logo-1558x730-90519fa5dc9d7baa45ad3afd7fdb4cb1.png",
+      "md5": "90519fa5dc9d7baa45ad3afd7fdb4cb1",
+      "width": 1558,
+      "height": 730,
+      "size": 120253,
+      "uploadedDate": "2019-10-24T00:55:31.247Z"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/rosemallow/item/ANC_Banner_TOW_NoLogo_1280x1440 (2)-1280x1140-5b445a5bbd0ba31cc63cbcb373ccfaa0.jpg",
+      "md5": "5b445a5bbd0ba31cc63cbcb373ccfaa0",
+      "width": 1280,
+      "height": 1140,
+      "size": 241075,
+      "uploadedDate": "2019-10-22T09:41:44.79Z"
+    }
+  ],
+  "creationDate": "2019-03-16T06:20:32.358+00:00",
+  "lastModifiedDate": "2023-02-09T23:04:56.384+00:00",
+  "developer": "Private Division",
+  "developerId": "o-6emrb2lpzacm9ued3z37u42x56wkaz",
+  "applicationId": null
+}

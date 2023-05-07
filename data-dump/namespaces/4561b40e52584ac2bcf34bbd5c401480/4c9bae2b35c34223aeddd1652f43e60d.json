@@ -1,0 +1,23 @@
+{
+  "id": "4c9bae2b35c34223aeddd1652f43e60d",
+  "title": "SageDevAudience",
+  "description": "SageDevAudience",
+  "namespace": "4561b40e52584ac2bcf34bbd5c401480",
+  "categories": "",
+  "keyImages": [
+    {
+      "type": "ESRB",
+      "url": "https://cdn1.epicgames.com/4561b40e52584ac2bcf34bbd5c401480/item/ratings_RP_FOR_E-388x190-2b6aa92035599db2ca1517a036cb974a.png",
+      "md5": "2b6aa92035599db2ca1517a036cb974a",
+      "width": 388,
+      "height": 190,
+      "size": 4433,
+      "uploadedDate": "2019-06-25T18:21:03.098Z"
+    }
+  ],
+  "creationDate": "2019-06-14T04:01:59.292+00:00",
+  "lastModifiedDate": "2019-07-04T14:59:33.681+00:00",
+  "developer": "Team17 Digital Ltd",
+  "developerId": "o-uvtztrtfjdn3xgrwyhbuwwb5z42mbv",
+  "applicationId": null
+}

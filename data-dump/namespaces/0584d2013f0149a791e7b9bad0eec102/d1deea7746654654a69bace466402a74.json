@@ -1,0 +1,23 @@
+{
+  "id": "d1deea7746654654a69bace466402a74",
+  "title": "SerpentineGeneralAudience",
+  "description": "SerpentineGeneralAudience",
+  "namespace": "0584d2013f0149a791e7b9bad0eec102",
+  "categories": "",
+  "keyImages": [
+    {
+      "type": "ESRB",
+      "url": "https://cdn1.epicgames.com/0584d2013f0149a791e7b9bad0eec102/item/esrb-gta5-842x485-967648723-842x485-2f633fd0b294653c25870ad736e31bda.png",
+      "md5": "2f633fd0b294653c25870ad736e31bda",
+      "width": 842,
+      "height": 485,
+      "size": 30186,
+      "uploadedDate": "2020-10-07T14:37:41.989Z"
+    }
+  ],
+  "creationDate": "2020-03-20T00:38:55.791+00:00",
+  "lastModifiedDate": "2020-10-07T14:44:43.934+00:00",
+  "developer": "Rockstar Games",
+  "developerId": "o-dhz7kpvrvqngzdpnx5vn3jrljj53ca",
+  "applicationId": null
+}

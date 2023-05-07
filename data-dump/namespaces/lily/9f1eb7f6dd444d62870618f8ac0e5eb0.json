@@ -1,0 +1,23 @@
+{
+  "id": "9f1eb7f6dd444d62870618f8ac0e5eb0",
+  "title": "LilyPressAudience",
+  "description": "LilyPressAudience",
+  "namespace": "lily",
+  "categories": "",
+  "keyImages": [
+    {
+      "type": "ESRB",
+      "url": "https://cdn1.epicgames.com/lily/item/Operencia_ESRB-842x404-3511747173090e0e069515a713196792.png",
+      "md5": "3511747173090e0e069515a713196792",
+      "width": 842,
+      "height": 404,
+      "size": 46247,
+      "uploadedDate": "2019-04-23T21:05:06.205Z"
+    }
+  ],
+  "creationDate": "2019-03-13T22:35:23.071+00:00",
+  "lastModifiedDate": "2020-03-31T15:02:00.662+00:00",
+  "developer": "Zen Studios",
+  "developerId": "o-r7rf64mtq3yr8uhhvdf8sba3hpqbj2",
+  "applicationId": null
+}

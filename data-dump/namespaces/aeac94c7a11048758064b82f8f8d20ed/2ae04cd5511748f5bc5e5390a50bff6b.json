@@ -1,0 +1,32 @@
+{
+  "id": "2ae04cd5511748f5bc5e5390a50bff6b",
+  "title": "Mount \u0026 Blade II: Bannerlord",
+  "description": "Mount \u0026 Blade II: Bannerlord",
+  "namespace": "aeac94c7a11048758064b82f8f8d20ed",
+  "categories": "public/games/applications",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/item/aeac94c7a11048758064b82f8f8d20ed/EGS_MountBladeIIBannerlord_TaleWorldsEntertainment_S1_2560x1440-8bf54df730c18f42db30b39311ee983a",
+      "md5": "8bf54df730c18f42db30b39311ee983a",
+      "width": 2560,
+      "height": 1440,
+      "size": 967462,
+      "uploadedDate": "2022-10-18T12:48:39.726Z"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/item/aeac94c7a11048758064b82f8f8d20ed/EGS_MountBladeIIBannerlord_TaleWorldsEntertainment_S2_1200x1600-67b826955ba37d7d6c33ec578aaa2d54",
+      "md5": "67b826955ba37d7d6c33ec578aaa2d54",
+      "width": 1200,
+      "height": 1600,
+      "size": 1023058,
+      "uploadedDate": "2022-10-18T12:48:48.98Z"
+    }
+  ],
+  "creationDate": "2019-10-04T14:32:24.3+00:00",
+  "lastModifiedDate": "2022-12-20T23:53:52.088+00:00",
+  "developer": "TaleWorlds Entertainment",
+  "developerId": "o-e2fanamv6wpuy3gpyyscsnzjth7hrg",
+  "applicationId": "fghi4567N2gmk1Oy1HYDenxtdGlNhD91"
+}

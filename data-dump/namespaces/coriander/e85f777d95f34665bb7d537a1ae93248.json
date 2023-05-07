@@ -1,0 +1,23 @@
+{
+  "id": "e85f777d95f34665bb7d537a1ae93248",
+  "title": "CorianderSeasonPassAudience_redeemable",
+  "description": "CorianderSeasonPassAudience_redeemable",
+  "namespace": "coriander",
+  "categories": "",
+  "keyImages": [
+    {
+      "type": "ESRB",
+      "url": "https://cdn1.epicgames.com/coriander/item/Diesel_productv2_far-cry-5_home_ESRB_M_FarCry5-398x190-8e977ba58e5ea46a28eb49d4d490f15f622f30d4-398x190-1a57f52425a8ecdb0a6f940ab25e5ef5.jpg",
+      "md5": "1a57f52425a8ecdb0a6f940ab25e5ef5",
+      "width": 398,
+      "height": 190,
+      "size": 12142,
+      "uploadedDate": "2020-02-18T14:44:26.562Z"
+    }
+  ],
+  "creationDate": "2019-10-21T17:31:33.381+00:00",
+  "lastModifiedDate": "2020-08-07T23:31:28.385+00:00",
+  "developer": "Ubisoft Entertainment",
+  "developerId": "o-3efjudxdtgsqnulml4bkeq3v9nec38",
+  "applicationId": null
+}

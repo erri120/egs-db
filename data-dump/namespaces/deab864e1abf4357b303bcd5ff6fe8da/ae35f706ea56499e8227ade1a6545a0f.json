@@ -1,0 +1,32 @@
+{
+  "id": "ae35f706ea56499e8227ade1a6545a0f",
+  "title": "Tony Hawk\u0027s Pro Skater 1 \u0026 2 Pre-Purchase",
+  "description": "Tony Hawk\u0027s Pro Skater 1 \u0026 2 Pre-Purchase",
+  "namespace": "deab864e1abf4357b303bcd5ff6fe8da",
+  "categories": "public/games/applications",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/deab864e1abf4357b303bcd5ff6fe8da/item/EGS_TonyHawksProSkater12_VicariousVisions_Editions_S1-2560x1440-cf08310a4025946dd646b7620f7c9562-2560x1440-cf08310a4025946dd646b7620f7c9562.jpg",
+      "md5": "cf08310a4025946dd646b7620f7c9562",
+      "width": 2560,
+      "height": 1440,
+      "size": 497827,
+      "uploadedDate": "2020-05-12T15:46:42.128Z"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/deab864e1abf4357b303bcd5ff6fe8da/item/EGS_TonyHawksProSkater12_VicariousVisions_Editions_S2-1200x1600-727267cd47cc9f0b4122bb1d71b966db-1200x1600-727267cd47cc9f0b4122bb1d71b966db.jpg",
+      "md5": "727267cd47cc9f0b4122bb1d71b966db",
+      "width": 1200,
+      "height": 1600,
+      "size": 448680,
+      "uploadedDate": "2020-05-12T15:46:51.624Z"
+    }
+  ],
+  "creationDate": "2020-05-11T17:18:44.718+00:00",
+  "lastModifiedDate": "2020-09-04T01:00:19.356+00:00",
+  "developer": "Activision Publishing, Inc",
+  "developerId": "o-s5myyzhdfhxwftmvf55ph3eu6fbqpz",
+  "applicationId": null
+}

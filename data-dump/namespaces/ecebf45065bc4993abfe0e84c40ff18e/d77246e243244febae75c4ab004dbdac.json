@@ -1,0 +1,23 @@
+{
+  "id": "d77246e243244febae75c4ab004dbdac",
+  "title": "JasperAccessGrantedDLCAudience_Redeemable",
+  "description": "JasperAccessGrantedDLCAudience_Redeemable",
+  "namespace": "ecebf45065bc4993abfe0e84c40ff18e",
+  "categories": "",
+  "keyImages": [
+    {
+      "type": "ESRB",
+      "url": "https://cdn1.epicgames.com/ecebf45065bc4993abfe0e84c40ff18e/item/ESRB_M_WD1-398x190-2e363bffdd57ed8fe6f5cb493e1ac58e-398x190-2e363bffdd57ed8fe6f5cb493e1ac58e.jpg",
+      "md5": "2e363bffdd57ed8fe6f5cb493e1ac58e",
+      "width": 398,
+      "height": 190,
+      "size": 43676,
+      "uploadedDate": "2020-03-18T22:20:19.834Z"
+    }
+  ],
+  "creationDate": "2020-03-10T03:18:08.444+00:00",
+  "lastModifiedDate": "2020-03-19T13:50:36.191+00:00",
+  "developer": "Ubisoft Entertainment",
+  "developerId": "o-3efjudxdtgsqnulml4bkeq3v9nec38",
+  "applicationId": null
+}

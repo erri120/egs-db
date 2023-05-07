@@ -1,0 +1,32 @@
+{
+  "id": "c4aa7780f1ad4084aea750b7e28873e8",
+  "title": "SAMURAI SHODOWN NEOGEO COLLECTION",
+  "description": "SAMURAI SHODOWN NEOGEO COLLECTION",
+  "namespace": "3e84a6d0684b4f7593e6bf88bee0cbaf",
+  "categories": "public/games/applications",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/3e84a6d0684b4f7593e6bf88bee0cbaf/item/EGS_SAMURAISHODOWNNEOGEOCOLLECTION_DigitalEclipse_S1-2560x1440-415377927f279a9edec4a122ef00c092.jpg",
+      "md5": "415377927f279a9edec4a122ef00c092",
+      "width": 2560,
+      "height": 1440,
+      "size": 638984,
+      "uploadedDate": "2020-06-11T04:27:13.178Z"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/3e84a6d0684b4f7593e6bf88bee0cbaf/item/EGS_SAMURAISHODOWNNEOGEOCOLLECTION_DigitalEclipse_S2-1200x1600-f04be07a5589199b338e644a5951e7c5.jpg",
+      "md5": "f04be07a5589199b338e644a5951e7c5",
+      "width": 1200,
+      "height": 1600,
+      "size": 568068,
+      "uploadedDate": "2020-06-11T04:27:26.077Z"
+    }
+  ],
+  "creationDate": "2020-03-19T23:16:16.954+00:00",
+  "lastModifiedDate": "2020-06-18T18:06:25.567+00:00",
+  "developer": "SNK CORPORATION",
+  "developerId": "o-bse2s8gp28ptrv924lby79vx66vsz6",
+  "applicationId": "fghi4567rFEOklmsRhpFf2MvfDSrjZNC"
+}

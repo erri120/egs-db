@@ -1,0 +1,23 @@
+{
+  "id": "c2346ce61fdb4ee6a6505a7d4db32c22",
+  "title": "FoxgloveEarlyAccessAudience",
+  "description": "FoxgloveEarlyAccessAudience",
+  "namespace": "foxglove",
+  "categories": "audience",
+  "keyImages": [
+    {
+      "type": "ESRB",
+      "url": "https://cdn1.epicgames.com/foxglove/item/ESRB_SubnauticaBelowZero_RP-842x404-c0a6d440a41de3aa8d3e8ba3044bf4fc.png",
+      "md5": "c0a6d440a41de3aa8d3e8ba3044bf4fc",
+      "width": 842,
+      "height": 404,
+      "size": 60499,
+      "uploadedDate": "2019-04-23T19:02:15.897Z"
+    }
+  ],
+  "creationDate": "2019-01-29T20:16:43.283+00:00",
+  "lastModifiedDate": "2021-05-14T03:45:33.678+00:00",
+  "developer": "Epic Dev Test Account",
+  "developerId": "o-ufmrk5furrrxgsp5tdngefzt5rxdcn",
+  "applicationId": ""
+}

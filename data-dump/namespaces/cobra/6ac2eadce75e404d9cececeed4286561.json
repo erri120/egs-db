@@ -1,0 +1,23 @@
+{
+  "id": "6ac2eadce75e404d9cececeed4286561",
+  "title": "PromoAudience",
+  "description": "PromoAudience",
+  "namespace": "cobra",
+  "categories": "",
+  "keyImages": [
+    {
+      "type": "ESRB",
+      "url": "https://cdn1.epicgames.com/cobra/item/ESRB_MyTimeAtPortia-842x404-e0bbe8017f314f00d4df8b99e75ca803.jpg",
+      "md5": "e0bbe8017f314f00d4df8b99e75ca803",
+      "width": 842,
+      "height": 404,
+      "size": 107263,
+      "uploadedDate": "2020-01-07T14:14:01.161Z"
+    }
+  ],
+  "creationDate": "2019-01-14T20:25:00.645+00:00",
+  "lastModifiedDate": "2020-03-16T14:20:30.216+00:00",
+  "developer": "Team17 Digital Ltd",
+  "developerId": "o-uvtztrtfjdn3xgrwyhbuwwb5z42mbv",
+  "applicationId": null
+}

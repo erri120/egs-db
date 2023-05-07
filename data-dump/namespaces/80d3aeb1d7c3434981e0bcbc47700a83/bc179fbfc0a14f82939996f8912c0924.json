@@ -1,0 +1,32 @@
+{
+  "id": "bc179fbfc0a14f82939996f8912c0924",
+  "title": "Europa Universalis IV: Ultimate E-book Pack",
+  "description": "Europa Universalis IV: Ultimate E-book Pack",
+  "namespace": "80d3aeb1d7c3434981e0bcbc47700a83",
+  "categories": "public/digitalextras/applications",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_EuropaUniversalisIVUltimateEbookPack_ParadoxDevelopmentStudio_DLC_S1_2560x1440-6a472cefc12b52780033f107e9245574_2560x1440-6a472cefc12b52780033f107e9245574",
+      "md5": "6a472cefc12b52780033f107e9245574",
+      "width": 2560,
+      "height": 1440,
+      "size": 1016212,
+      "uploadedDate": "2021-09-29T16:20:58.883Z"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_EuropaUniversalisIVUltimateEbookPack_ParadoxDevelopmentStudio_DLC_S2_1200x1600-ea622d2dbe4985adf38a727397221bfd_1200x1600-ea622d2dbe4985adf38a727397221bfd",
+      "md5": "ea622d2dbe4985adf38a727397221bfd",
+      "width": 1200,
+      "height": 1600,
+      "size": 1027987,
+      "uploadedDate": "2021-09-29T16:20:53.736Z"
+    }
+  ],
+  "creationDate": "2020-12-09T23:11:04.114+00:00",
+  "lastModifiedDate": "2021-09-29T21:25:13.747+00:00",
+  "developer": "Paradox Interactive",
+  "developerId": "o-tjvfg6rejs6h86qa7k9aa64rrgbxxb",
+  "applicationId": ""
+}

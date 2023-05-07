@@ -1,0 +1,32 @@
+{
+  "id": "bfd64cdf9f104d109f1d943b9163de4b",
+  "title": "ArrowrootStaging",
+  "description": "ArrowrootStaging",
+  "namespace": "fa234e40c4d44dfa84fbcb302fef0233",
+  "categories": "",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/fa234e40c4d44dfa84fbcb302fef0233/item/DEVELOPER_CITYOFBRASS-2560x1440-10a228823a6be8c175ccbc1d34249a90.jpg",
+      "md5": "10a228823a6be8c175ccbc1d34249a90",
+      "width": 2560,
+      "height": 1440,
+      "size": 194028,
+      "uploadedDate": "2019-05-23T14:49:50.312Z"
+    },
+    {
+      "type": "DieselGameBoxLogo",
+      "url": "https://cdn1.epicgames.com/fa234e40c4d44dfa84fbcb302fef0233/item/DEVELOPER_CITYOFBRASS_IC1_LOGO-2000x632-b84ac18cc6710a2341e6cb9fe9273505.png",
+      "md5": "b84ac18cc6710a2341e6cb9fe9273505",
+      "width": 2000,
+      "height": 632,
+      "size": 440326,
+      "uploadedDate": "2019-05-23T14:50:02.022Z"
+    }
+  ],
+  "creationDate": "2019-04-08T19:19:48.835+00:00",
+  "lastModifiedDate": "2019-10-09T16:12:56.624+00:00",
+  "developer": "Uppercut Games",
+  "developerId": "o-hpdh9zjxpuz4quu95cagfzhgcavmjt",
+  "applicationId": null
+}

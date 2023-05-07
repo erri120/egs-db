@@ -1,0 +1,41 @@
+{
+  "id": "a6be8319b92a4f858daecff44b38e426",
+  "title": "Darksiders III",
+  "description": "Darksiders III",
+  "namespace": "springbok",
+  "categories": "",
+  "keyImages": [
+    {
+      "type": "DieselGameBoxLogo",
+      "url": "https://cdn1.epicgames.com/springbok/item/DS3_Logo_vectorized_White_1024x192-1024x192-613ea78c62951a9c971f5257e63a19dc.png",
+      "md5": "613ea78c62951a9c971f5257e63a19dc",
+      "width": 1024,
+      "height": 192,
+      "size": 10103,
+      "uploadedDate": "2018-12-05T20:29:10.84Z"
+    },
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/springbok/item/Primary_Promo2-2580x1456-f4e5599e662277ab74bd924adc2b13f2-2569x1450-b9fc5dc89b7b27a8ee440b02f3be4b8c.jpg",
+      "md5": "b9fc5dc89b7b27a8ee440b02f3be4b8c",
+      "width": 2569,
+      "height": 1450,
+      "size": 332231,
+      "uploadedDate": "2018-12-14T15:38:36.024Z"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/springbok/item/Portrait-Promo (1)-1288x1450-864bba556f317c24eb047db8ee19a260.jpg",
+      "md5": "864bba556f317c24eb047db8ee19a260",
+      "width": 1288,
+      "height": 1450,
+      "size": 178886,
+      "uploadedDate": "2019-10-22T09:41:44.79Z"
+    }
+  ],
+  "creationDate": "2018-11-29T23:09:05.969+00:00",
+  "lastModifiedDate": "2019-11-19T17:02:35.048+00:00",
+  "developer": "THQ Nordic GmbH",
+  "developerId": "o-jywxgemg3dagnv6fymcngq3g29mc4j",
+  "applicationId": null
+}

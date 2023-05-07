@@ -1,0 +1,32 @@
+{
+  "id": "23b534af1a0c4f90ba2dfbfd713baad6",
+  "title": "Red Dead Redemption 2 Pre-Purchase",
+  "description": "Red Dead Redemption 2 Pre-Purchase",
+  "namespace": "b30b6d1b4dfd4dcc93b5490be5e094e5",
+  "categories": "",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/b30b6d1b4dfd4dcc93b5490be5e094e5/item/Diesel_productv2_heather_home_EGS_RockstarGames_RedDeadRedemption2_S1-2560x1440-d5fade458c9ba3c3726d578b18486f08e1a47999-2560x1440-c352abb41c52c8152d2688727ff647f1.jpg",
+      "md5": "c352abb41c52c8152d2688727ff647f1",
+      "width": 2560,
+      "height": 1440,
+      "size": 223898,
+      "uploadedDate": "2019-10-23T12:56:42.037Z"
+    },
+    {
+      "type": "DieselGameBoxLogo",
+      "url": "https://cdn1.epicgames.com/b30b6d1b4dfd4dcc93b5490be5e094e5/item/Diesel_productv2_heather_home_EGS_RockstarGames_RedDeadRedemption2_IC1-625x625-38ae1bca6b89370d01ac3ed3a17daf7dd004f9f5-625x625-fad569ac284f270b2cfb860e7f834f4f.png",
+      "md5": "fad569ac284f270b2cfb860e7f834f4f",
+      "width": 625,
+      "height": 625,
+      "size": 20222,
+      "uploadedDate": "2019-10-23T12:56:50.581Z"
+    }
+  ],
+  "creationDate": "2019-10-11T20:46:43.302+00:00",
+  "lastModifiedDate": "2019-11-04T13:24:14.093+00:00",
+  "developer": "Rockstar Games",
+  "developerId": "o-dhz7kpvrvqngzdpnx5vn3jrljj53ca",
+  "applicationId": null
+}

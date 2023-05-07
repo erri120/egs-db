@@ -1,0 +1,23 @@
+{
+  "id": "1aa0507739104d5f9b9725ab2de1623c",
+  "title": "SpoonbillPrePurchaseAudience",
+  "description": "SpoonbillPrePurchaseAudience",
+  "namespace": "b69961c88cb446a395ace83341dd94cc",
+  "categories": "",
+  "keyImages": [
+    {
+      "type": "ESRB",
+      "url": "https://cdn1.epicgames.com/b69961c88cb446a395ace83341dd94cc/item/ESRB_MildFantasyViolence-842x404-43d09c9f77cec254adb8067cb03df7f3.jpg",
+      "md5": "43d09c9f77cec254adb8067cb03df7f3",
+      "width": 842,
+      "height": 404,
+      "size": 77518,
+      "uploadedDate": "2019-10-08T17:15:16.874Z"
+    }
+  ],
+  "creationDate": "2019-10-08T14:08:51.446+00:00",
+  "lastModifiedDate": "2019-11-14T10:59:02.405+00:00",
+  "developer": "Bigben Interactive",
+  "developerId": "o-wubu848ps2xcxuwv2m3bhet9gbhdbp",
+  "applicationId": null
+}

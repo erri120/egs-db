@@ -1,0 +1,41 @@
+{
+  "id": "5957aeaad1d74b1db7e1d572087524aa",
+  "title": "PeacockTrialStaging",
+  "description": "PeacockTrialStaging",
+  "namespace": "7f498fbf0a4e43239d58eee6615ae806",
+  "categories": "public/games/applications",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/7f498fbf0a4e43239d58eee6615ae806/item/ReadySetHeroes_PROMO-1920x720-82f0aaa89063b0296d7996b67d0a2a0f.jpg",
+      "md5": "82f0aaa89063b0296d7996b67d0a2a0f",
+      "width": 1920,
+      "height": 720,
+      "size": 1146027,
+      "uploadedDate": "2019-08-14T15:41:28.387Z"
+    },
+    {
+      "type": "DieselGameBoxLogo",
+      "url": "https://cdn1.epicgames.com/7f498fbf0a4e43239d58eee6615ae806/item/ReadySet-Hereos-Logo RGB TM-1250x697-75c956a9ec331a1f83470d879a62bb5f.png",
+      "md5": "75c956a9ec331a1f83470d879a62bb5f",
+      "width": 1250,
+      "height": 697,
+      "size": 60439,
+      "uploadedDate": "2019-08-14T15:41:35.847Z"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/7f498fbf0a4e43239d58eee6615ae806/item/ReadySet_Portrait-1280x1440-9df2f919bd1ed25706afe37e6d97d3ad.jpg",
+      "md5": "9df2f919bd1ed25706afe37e6d97d3ad",
+      "width": 1280,
+      "height": 1440,
+      "size": 1003230,
+      "uploadedDate": "2019-11-25T22:37:11.497Z"
+    }
+  ],
+  "creationDate": "2019-11-25T22:38:22.609+00:00",
+  "lastModifiedDate": "2019-12-19T15:57:49.211+00:00",
+  "developer": "Sony Interactive Entertainment",
+  "developerId": "o-sby9x4c2zlm5mb2z5r9ajue9pcqfs5",
+  "applicationId": null
+}

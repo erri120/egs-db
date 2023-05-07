@@ -1,0 +1,41 @@
+{
+  "id": "5eea16de99004a6e8464b06998e81805",
+  "title": "VanillaPressAudience",
+  "description": "VanillaPressAudience",
+  "namespace": "a9cb15d3362d43d585b8a5b13b8a4513",
+  "categories": "",
+  "keyImages": [
+    {
+      "type": "ESRB",
+      "url": "https://cdn1.epicgames.com/a9cb15d3362d43d585b8a5b13b8a4513/item/Diesel_product_ratings_RP_FOR_T_M_AO-842x404-ab4400e0f80829e7c317311ccf7988d92a7cb55c-842x404-e685858d6f01213bedf5b2abec53be94.png",
+      "md5": "e685858d6f01213bedf5b2abec53be94",
+      "width": 842,
+      "height": 404,
+      "size": 55379,
+      "uploadedDate": "2019-05-14T14:01:25.367Z"
+    },
+    {
+      "type": "DieselGameBoxLogo",
+      "url": "https://cdn1.epicgames.com/a9cb15d3362d43d585b8a5b13b8a4513/item/EGS_BITHELL GAMES_JOHN WICK HEX_N3_PRIMARYTHUMB-2560x1440-0005e12ca7b33ba9eeca7c7daad35d8f-2560x1440-0005e12ca7b33ba9eeca7c7daad35d8f.jpg",
+      "md5": "0005e12ca7b33ba9eeca7c7daad35d8f",
+      "width": 2560,
+      "height": 1440,
+      "size": 192213,
+      "uploadedDate": "2019-09-25T22:01:08.696Z"
+    },
+    {
+      "type": "DieselGameBoxLogo",
+      "url": "https://cdn1.epicgames.com/a9cb15d3362d43d585b8a5b13b8a4513/item/EGS_BITHELL GAMES_JOHN WICK HEX_IC1_WHITE\u0026COLOR_WIDE-1856x1440-3c09d00056c8e9722f5cea7b7b5546ab-1856x1440-3c09d00056c8e9722f5cea7b7b5546ab.png",
+      "md5": "3c09d00056c8e9722f5cea7b7b5546ab",
+      "width": 1856,
+      "height": 1440,
+      "size": 46145,
+      "uploadedDate": "2019-09-25T22:01:33.96Z"
+    }
+  ],
+  "creationDate": "2019-09-16T18:34:04.34+00:00",
+  "lastModifiedDate": "2019-10-08T16:57:18.765+00:00",
+  "developer": "Good Shepherd Entertainment",
+  "developerId": "o-v3fdwkgaukftabrpt9292vr5tcwj2p",
+  "applicationId": null
+}

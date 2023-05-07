@@ -1,0 +1,32 @@
+{
+  "id": "5694a97a25d94c91a5aab2a2cd561d4f",
+  "title": "MagnoliaStaging",
+  "description": "MagnoliaStaging",
+  "namespace": "magnolia",
+  "categories": "",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/magnolia/item/TheWitness_Promo_L1-2560x1444-aaba32e5541dc5c9d7d445a86c69a63f.jpg",
+      "md5": "aaba32e5541dc5c9d7d445a86c69a63f",
+      "width": 2560,
+      "height": 1444,
+      "size": 221124,
+      "uploadedDate": "2019-04-04T12:32:53.68Z"
+    },
+    {
+      "type": "DieselGameBoxLogo",
+      "url": "https://cdn1.epicgames.com/magnolia/item/TheWitness_Logo_Color-1634x352-761648dd715f3010a804ad5c23055215.png",
+      "md5": "761648dd715f3010a804ad5c23055215",
+      "width": 1634,
+      "height": 352,
+      "size": 52337,
+      "uploadedDate": "2019-04-04T12:33:05.574Z"
+    }
+  ],
+  "creationDate": "2019-03-04T18:18:55.15+00:00",
+  "lastModifiedDate": "2019-08-01T17:59:30.454+00:00",
+  "developer": "Thekla, Inc.",
+  "developerId": "o-ch8uj5xq8v7rkurtr6gpx8accufw8u",
+  "applicationId": null
+}

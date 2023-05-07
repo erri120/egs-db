@@ -1,0 +1,41 @@
+{
+  "id": "f0d4890740ef423d95bf66cb9ba436dc",
+  "title": "FarCryPrimalGeneralAudience",
+  "description": "FarCryPrimalGeneralAudience",
+  "namespace": "larkspur",
+  "categories": "",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/larkspur/item/FarCryPrimal_PrimaryPromo-1920x1080-438d745acb4826ddeeee4f4b5ac96bc9.jpg",
+      "md5": "438d745acb4826ddeeee4f4b5ac96bc9",
+      "width": 1920,
+      "height": 1080,
+      "size": 365849,
+      "uploadedDate": "2019-02-13T15:39:33.013Z"
+    },
+    {
+      "type": "DieselGameBoxLogo",
+      "url": "https://cdn1.epicgames.com/larkspur/item/fcp_logo_white-4844x2552-24b382234e4f7c1bb60c27a6e2b910ef.png",
+      "md5": "24b382234e4f7c1bb60c27a6e2b910ef",
+      "width": 4844,
+      "height": 2552,
+      "size": 257115,
+      "uploadedDate": "2019-02-13T15:39:43.111Z"
+    },
+    {
+      "type": "ESRB",
+      "url": "https://cdn1.epicgames.com/larkspur/item/ESRB_FarCryPrimal-842x404-df9815122ebd6b0819e8a8d33a6a0d12.png",
+      "md5": "df9815122ebd6b0819e8a8d33a6a0d12",
+      "width": 842,
+      "height": 404,
+      "size": 67915,
+      "uploadedDate": "2019-04-23T19:44:57.006Z"
+    }
+  ],
+  "creationDate": "2019-02-10T17:08:44.485+00:00",
+  "lastModifiedDate": "2020-01-06T15:37:26.993+00:00",
+  "developer": "Ubisoft Entertainment",
+  "developerId": "o-3efjudxdtgsqnulml4bkeq3v9nec38",
+  "applicationId": null
+}

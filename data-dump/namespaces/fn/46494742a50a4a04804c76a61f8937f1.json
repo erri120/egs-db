@@ -1,0 +1,23 @@
+{
+  "id": "46494742a50a4a04804c76a61f8937f1",
+  "title": "Public_Carousel_1",
+  "description": "OT 10 Release Notes",
+  "namespace": "fn",
+  "categories": "applications/prod/applications/prod/content/applications",
+  "keyImages": [
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/fn/item/Bear-Fortnite-Launcher-1000x290-6b351931499c3058fa541aef614bc322.png",
+      "md5": "a56097d46977ca1a6c5651fa3298bd61",
+      "width": 1000,
+      "height": 290,
+      "size": 393547,
+      "uploadedDate": "2017-01-26T20:09:58.412Z"
+    }
+  ],
+  "creationDate": "2015-10-12T18:44:00.939+00:00",
+  "lastModifiedDate": "2017-01-26T20:10:10.799+00:00",
+  "developer": "Epic Games",
+  "developerId": "o-aa83a0a9bc45e98c80c1b1c9d92e9e",
+  "applicationId": null
+}

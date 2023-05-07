@@ -1,0 +1,32 @@
+{
+  "id": "710387b659a54f70889289b87650f206",
+  "title": "Cardpocalypse Soundtrack",
+  "description": "Cardpocalypse Soundtrack",
+  "namespace": "2bfd5ca43ef443739ada168e017e1b78",
+  "categories": "public/digitalextras/games/applications",
+  "keyImages": [
+    {
+      "type": "DieselGameBoxLogo",
+      "url": "https://cdn1.epicgames.com/2bfd5ca43ef443739ada168e017e1b78/item/Cardpocalypse_Soundtrack_EpicGamesStore_IC1_Logo_Color_ApprovedPublic-1838x551-df9002042e949c583e95ee3b3d723a69.png",
+      "md5": "df9002042e949c583e95ee3b3d723a69",
+      "width": 1838,
+      "height": 551,
+      "size": 653122,
+      "uploadedDate": "2019-09-18T17:12:32.552Z"
+    },
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/2bfd5ca43ef443739ada168e017e1b78/item/Cardpocalypse_Soundtrack_EpicGamesStore_G1_PDP_ApprovedPublic-1250x621-03d3135651573421054389afa680f238.jpg",
+      "md5": "03d3135651573421054389afa680f238",
+      "width": 1250,
+      "height": 621,
+      "size": 327522,
+      "uploadedDate": "2019-09-18T17:21:00.242Z"
+    }
+  ],
+  "creationDate": "2019-09-10T20:25:38.6+00:00",
+  "lastModifiedDate": "2020-10-12T16:49:24.547+00:00",
+  "developer": "Versus Evil",
+  "developerId": "o-ugw2zblbdkg5xklzadlrt2qe92cdje",
+  "applicationId": null
+}

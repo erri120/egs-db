@@ -1,0 +1,32 @@
+{
+  "id": "967453132f91424d8619a8d473dad436",
+  "title": "Alien: Isolation - Trauma",
+  "description": "Alien: Isolation - Trauma",
+  "namespace": "df37f065c3f14eadbf011177396e2966",
+  "categories": "public/addons/applications",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/df37f065c3f14eadbf011177396e2966/item/traumaDLC-1920x1080-405c9a8109b691c711244d497f66e9e5.jfif",
+      "md5": "405c9a8109b691c711244d497f66e9e5",
+      "width": 1920,
+      "height": 1080,
+      "size": 340902,
+      "uploadedDate": "2020-12-16T17:57:28.737Z"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/df37f065c3f14eadbf011177396e2966/item/traumaDLCportrait-1200x1600-de0a6c5aa99ba7c549ba7f8fdec58421.jfif",
+      "md5": "de0a6c5aa99ba7c549ba7f8fdec58421",
+      "width": 1200,
+      "height": 1600,
+      "size": 346584,
+      "uploadedDate": "2020-12-17T17:05:00.056Z"
+    }
+  ],
+  "creationDate": "2020-10-26T17:25:41.977+00:00",
+  "lastModifiedDate": "2020-12-18T16:36:46.496+00:00",
+  "developer": "SEGA of Europe",
+  "developerId": "o-q3zwbk8kbbbgar9ql3x7d43rjj8bjl",
+  "applicationId": "fghi4567WncMSw97kolM0Ff1UBPqwsE7"
+}

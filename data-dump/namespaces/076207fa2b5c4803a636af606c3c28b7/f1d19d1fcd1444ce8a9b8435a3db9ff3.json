@@ -1,0 +1,32 @@
+{
+  "id": "f1d19d1fcd1444ce8a9b8435a3db9ff3",
+  "title": "SMITE",
+  "description": "SMITE",
+  "namespace": "076207fa2b5c4803a636af606c3c28b7",
+  "categories": "public/games/applications",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/item/076207fa2b5c4803a636af606c3c28b7/SMITE-LandscapeImage-10r4-IxChel-2560x1440_2560x1440-b7af2c0a9a71f691f6a815132a49d326",
+      "md5": "b7af2c0a9a71f691f6a815132a49d326",
+      "width": 2560,
+      "height": 1440,
+      "size": 660166,
+      "uploadedDate": "2023-04-14T13:27:24.559Z"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/item/076207fa2b5c4803a636af606c3c28b7/SMITE-PortraitImagev2-10r4-IxChel-1200x1600_1200x1600-22e5d16c7048a58e590180071cf989e7",
+      "md5": "22e5d16c7048a58e590180071cf989e7",
+      "width": 1200,
+      "height": 1600,
+      "size": 394376,
+      "uploadedDate": "2023-04-14T13:27:36.934Z"
+    }
+  ],
+  "creationDate": "2019-10-18T01:53:04.913+00:00",
+  "lastModifiedDate": "2023-04-24T09:27:33.348+00:00",
+  "developer": "Hi-Rez Studios",
+  "developerId": "o-7aklpapnk74p66sqs6hm5byt29wp66",
+  "applicationId": ""
+}

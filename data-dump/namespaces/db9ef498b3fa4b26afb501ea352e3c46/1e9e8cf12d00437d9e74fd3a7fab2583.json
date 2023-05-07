@@ -1,0 +1,32 @@
+{
+  "id": "1e9e8cf12d00437d9e74fd3a7fab2583",
+  "title": "Anno 1701",
+  "description": "Anno 1701",
+  "namespace": "db9ef498b3fa4b26afb501ea352e3c46",
+  "categories": "public/games/applications",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/db9ef498b3fa4b26afb501ea352e3c46/item/ANHC_1701HE_Edition_Thumbnail_1920X1080_White-1920x1080-ed63a8590c3617e4c20fc53ce7badc03.png",
+      "md5": "ed63a8590c3617e4c20fc53ce7badc03",
+      "width": 1920,
+      "height": 1080,
+      "size": 3375961,
+      "uploadedDate": "2020-06-25T13:53:49.657Z"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/db9ef498b3fa4b26afb501ea352e3c46/item/ANHC_1701HE_Store_Portrait_1200x1600-1200x1600-ecd2d9d62d4822dfdc21c4374ce79ae5.jpg",
+      "md5": "ecd2d9d62d4822dfdc21c4374ce79ae5",
+      "width": 1200,
+      "height": 1600,
+      "size": 492965,
+      "uploadedDate": "2020-06-25T13:54:05.624Z"
+    }
+  ],
+  "creationDate": "2020-06-11T01:35:55.562+00:00",
+  "lastModifiedDate": "2021-08-18T16:48:22.647+00:00",
+  "developer": "Ubisoft Entertainment",
+  "developerId": "o-3efjudxdtgsqnulml4bkeq3v9nec38",
+  "applicationId": ""
+}

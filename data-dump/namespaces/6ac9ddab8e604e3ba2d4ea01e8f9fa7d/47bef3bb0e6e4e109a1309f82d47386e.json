@@ -1,0 +1,32 @@
+{
+  "id": "47bef3bb0e6e4e109a1309f82d47386e",
+  "title": "CanaryStaging",
+  "description": "CanaryStaging",
+  "namespace": "6ac9ddab8e604e3ba2d4ea01e8f9fa7d",
+  "categories": "public/games/applications",
+  "keyImages": [
+    {
+      "type": "DieselGameBoxLogo",
+      "url": "https://cdn1.epicgames.com/6ac9ddab8e604e3ba2d4ea01e8f9fa7d/item/CONARIUM_logo-1280x289-808961952e67400ddd57f1c518943832.png",
+      "md5": "808961952e67400ddd57f1c518943832",
+      "width": 1280,
+      "height": 289,
+      "size": 83568,
+      "uploadedDate": "2019-08-31T02:36:02.768Z"
+    },
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/6ac9ddab8e604e3ba2d4ea01e8f9fa7d/item/CONARIUM_promo-2560x1440-112f1d2927e025fc13dd56d32a50b9f9.jpg",
+      "md5": "112f1d2927e025fc13dd56d32a50b9f9",
+      "width": 2560,
+      "height": 1440,
+      "size": 146128,
+      "uploadedDate": "2019-08-31T02:36:11.057Z"
+    }
+  ],
+  "creationDate": "2019-08-07T20:38:47.083+00:00",
+  "lastModifiedDate": "2019-10-23T13:56:34.443+00:00",
+  "developer": "Iceberg Interactive",
+  "developerId": "o-ftmts7pjfvdywkby885rdzl4hdbtys",
+  "applicationId": null
+}

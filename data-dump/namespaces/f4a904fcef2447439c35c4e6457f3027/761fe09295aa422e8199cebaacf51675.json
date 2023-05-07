@@ -1,0 +1,32 @@
+{
+  "id": "761fe09295aa422e8199cebaacf51675",
+  "title": "Death Stranding",
+  "description": "Death Stranding",
+  "namespace": "f4a904fcef2447439c35c4e6457f3027",
+  "categories": "public/games/applications",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/f4a904fcef2447439c35c4e6457f3027/item/EGS_KojimaProductions_DeathStranding_S1-2560x1440-e56d3a322a94fd7dd18b9c93ee080d01.jpg",
+      "md5": "e56d3a322a94fd7dd18b9c93ee080d01",
+      "width": 2560,
+      "height": 1440,
+      "size": 495054,
+      "uploadedDate": "2019-11-06T19:13:19.998Z"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/f4a904fcef2447439c35c4e6457f3027/item/DeathStranding_Tall-1280x1440-5a96ed93665756b28f6d70e65266e64c.jpg",
+      "md5": "5a96ed93665756b28f6d70e65266e64c",
+      "width": 1280,
+      "height": 1440,
+      "size": 463126,
+      "uploadedDate": "2019-12-03T16:09:59.957Z"
+    }
+  ],
+  "creationDate": "2019-11-06T15:32:59.778+00:00",
+  "lastModifiedDate": "2022-03-30T14:25:05.667+00:00",
+  "developer": "505 Games",
+  "developerId": "o-cul2z53mrw3bxltv63v68rgd4b3w52",
+  "applicationId": null
+}

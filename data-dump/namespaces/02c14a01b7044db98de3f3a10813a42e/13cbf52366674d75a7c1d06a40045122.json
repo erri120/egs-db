@@ -1,0 +1,32 @@
+{
+  "id": "13cbf52366674d75a7c1d06a40045122",
+  "title": "HUMANKIND\u2122",
+  "description": "HUMANKIND\u2122",
+  "namespace": "02c14a01b7044db98de3f3a10813a42e",
+  "categories": "public/games/applications",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/02c14a01b7044db98de3f3a10813a42e/item/Desktop horizontal                         1920 x 1080-1920x1080-454a731eafef3f321ee14fa8afc51a06.jpg",
+      "md5": "454a731eafef3f321ee14fa8afc51a06",
+      "width": 1920,
+      "height": 1080,
+      "size": 506772,
+      "uploadedDate": "2020-10-20T19:01:45.537Z"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/02c14a01b7044db98de3f3a10813a42e/item/Portrait Product Image                 1200 x 1600-1200x1600-a910b4e230ec9d6ce2a5acfd6b320f6b.jpg",
+      "md5": "a910b4e230ec9d6ce2a5acfd6b320f6b",
+      "width": 1200,
+      "height": 1600,
+      "size": 425284,
+      "uploadedDate": "2020-10-20T19:02:00.917Z"
+    }
+  ],
+  "creationDate": "2020-10-13T18:26:22.147+00:00",
+  "lastModifiedDate": "2021-08-13T14:18:16.316+00:00",
+  "developer": "SEGA of Europe",
+  "developerId": "o-q3zwbk8kbbbgar9ql3x7d43rjj8bjl",
+  "applicationId": "fghi456749QdWl8Kb50KKN4N4r7XW7qc"
+}

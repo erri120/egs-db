@@ -1,0 +1,32 @@
+{
+  "id": "96fda52d68f5425baaa9aba68ec59549",
+  "title": "Sherlock Holmes Crimes and Punishments",
+  "description": "Sherlock Holmes Crimes and Punishments",
+  "namespace": "23f3da2016b94461a7bd7e2eb46aa0f9",
+  "categories": "public/games/applications",
+  "keyImages": [
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/23f3da2016b94461a7bd7e2eb46aa0f9/item/Diesel_productv2_sherlock-holmes-crimes-and-punishments_home_EGS_SherlockHolmesCrimesandPunishments_Frogwares_S4-510x680-215de1fe53f3b88e78e7cca44ffb99b0e40fff08-510x680-77f030ffc506bacec1fa774403894ed6.jpg",
+      "md5": "77f030ffc506bacec1fa774403894ed6",
+      "width": 510,
+      "height": 680,
+      "size": 127703,
+      "uploadedDate": "2020-03-30T21:27:05.159Z"
+    },
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/23f3da2016b94461a7bd7e2eb46aa0f9/item/Diesel_productv2_sherlock-holmes-crimes-and-punishments_home_EGS_SherlockHolmesCrimesandPunishments_Frogwares_S3-1360x766-60bfd62d8de3b70ba9a73e41a715a2dd3b9e15a1-1360x766-e2e6caa7637328254a763d4900ea8fa3.jpg",
+      "md5": "e2e6caa7637328254a763d4900ea8fa3",
+      "width": 1360,
+      "height": 766,
+      "size": 116385,
+      "uploadedDate": "2020-03-30T21:27:17.15Z"
+    }
+  ],
+  "creationDate": "2020-02-12T13:19:45.757+00:00",
+  "lastModifiedDate": "2020-05-15T01:27:57.651+00:00",
+  "developer": "Frogwares",
+  "developerId": "o-rlw9u3sem84g2hc3ur36dqnp7wul3j",
+  "applicationId": null
+}

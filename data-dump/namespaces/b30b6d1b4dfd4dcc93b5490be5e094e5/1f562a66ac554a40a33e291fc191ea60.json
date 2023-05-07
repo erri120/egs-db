@@ -1,0 +1,23 @@
+{
+  "id": "1f562a66ac554a40a33e291fc191ea60",
+  "title": "HeatherGeneralAudience",
+  "description": "HeatherGeneralAudience",
+  "namespace": "b30b6d1b4dfd4dcc93b5490be5e094e5",
+  "categories": "",
+  "keyImages": [
+    {
+      "type": "ESRB",
+      "url": "https://cdn1.epicgames.com/b30b6d1b4dfd4dcc93b5490be5e094e5/item/ESRB_M_RedDeadRedemption2-842x485-aae3128d1c8d8e23b33a02a568abe044.jpg",
+      "md5": "aae3128d1c8d8e23b33a02a568abe044",
+      "width": 842,
+      "height": 485,
+      "size": 144005,
+      "uploadedDate": "2020-01-07T15:29:02.828Z"
+    }
+  ],
+  "creationDate": "2019-07-24T21:49:28.525+00:00",
+  "lastModifiedDate": "2020-11-30T20:31:10.438+00:00",
+  "developer": "Rockstar Games",
+  "developerId": "o-dhz7kpvrvqngzdpnx5vn3jrljj53ca",
+  "applicationId": null
+}

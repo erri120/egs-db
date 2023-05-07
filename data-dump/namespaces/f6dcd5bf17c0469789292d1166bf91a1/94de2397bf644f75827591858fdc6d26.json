@@ -1,0 +1,23 @@
+{
+  "id": "94de2397bf644f75827591858fdc6d26",
+  "title": "WoodpeckerGeneralAudience",
+  "description": "WoodpeckerGeneralAudience",
+  "namespace": "f6dcd5bf17c0469789292d1166bf91a1",
+  "categories": "",
+  "keyImages": [
+    {
+      "type": "ESRB",
+      "url": "https://cdn1.epicgames.com/f6dcd5bf17c0469789292d1166bf91a1/item/ESRB_WRC8-842x485-a4de2492c5e27c0262705a42c34204fd.jpg",
+      "md5": "a4de2492c5e27c0262705a42c34204fd",
+      "width": 842,
+      "height": 485,
+      "size": 84586,
+      "uploadedDate": "2020-01-08T04:56:21.432Z"
+    }
+  ],
+  "creationDate": "2019-08-07T18:06:40.266+00:00",
+  "lastModifiedDate": "2020-09-01T14:56:01.23+00:00",
+  "developer": "Bigben Interactive",
+  "developerId": "o-wubu848ps2xcxuwv2m3bhet9gbhdbp",
+  "applicationId": null
+}

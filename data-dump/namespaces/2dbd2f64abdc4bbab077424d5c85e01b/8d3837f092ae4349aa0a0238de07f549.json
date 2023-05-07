@@ -1,0 +1,32 @@
+{
+  "id": "8d3837f092ae4349aa0a0238de07f549",
+  "title": "Tom Clancy\u2019s Ghost Recon Breakpoint",
+  "description": "Tom Clancy\u2019s Ghost Recon Breakpoint",
+  "namespace": "2dbd2f64abdc4bbab077424d5c85e01b",
+  "categories": "public/games/applications",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/GRT_STD_Edition_Store_Landscape_2560x1440_2560x1440-eb4ed54b646a5c0d98823bcb91807011",
+      "md5": "eb4ed54b646a5c0d98823bcb91807011",
+      "width": 2560,
+      "height": 1440,
+      "size": 1003818,
+      "uploadedDate": "2021-09-29T15:13:09.801Z"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/GRT_STD_Edition_Store_Portrait_1200x1600_1200x1600-b08ee70d85ee2649b6e9c575d9192e66",
+      "md5": "b08ee70d85ee2649b6e9c575d9192e66",
+      "width": 1200,
+      "height": 1600,
+      "size": 1002728,
+      "uploadedDate": "2021-09-29T15:13:14.604Z"
+    }
+  ],
+  "creationDate": "2019-05-02T01:23:21.11+00:00",
+  "lastModifiedDate": "2021-09-29T15:13:29.348+00:00",
+  "developer": "Ubisoft Entertainment",
+  "developerId": "o-3efjudxdtgsqnulml4bkeq3v9nec38",
+  "applicationId": ""
+}

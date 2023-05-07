@@ -1,0 +1,32 @@
+{
+  "id": "85a98d012e1245c8a6572f03fcf920b6",
+  "title": "Paladins",
+  "description": "Paladins",
+  "namespace": "badb0ee71b474ed591ec43212547cfc8",
+  "categories": "public/games/applications",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/item/badb0ee71b474ed591ec43212547cfc8/EGS_LandscapeImage_2560x1440_2560x1440-ecb64f8b93b8d6eada1b58804f934b77",
+      "md5": "ecb64f8b93b8d6eada1b58804f934b77",
+      "width": 2560,
+      "height": 1440,
+      "size": 355259,
+      "uploadedDate": "2023-02-22T07:55:25.984Z"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/item/badb0ee71b474ed591ec43212547cfc8/EGS_PortraitImage_860x1148_860x1148-b9b418bb9564d90a45d86ba3829f72f1",
+      "md5": "b9b418bb9564d90a45d86ba3829f72f1",
+      "width": 860,
+      "height": 1148,
+      "size": 305880,
+      "uploadedDate": "2023-02-22T07:55:28.292Z"
+    }
+  ],
+  "creationDate": "2019-10-18T01:57:09.836+00:00",
+  "lastModifiedDate": "2023-02-23T12:05:29.854+00:00",
+  "developer": "Hi-Rez Studios",
+  "developerId": "o-7aklpapnk74p66sqs6hm5byt29wp66",
+  "applicationId": ""
+}

@@ -1,0 +1,32 @@
+{
+  "id": "0044303ee4414876986688216c01ec78",
+  "title": "Arise A Simple Story",
+  "description": "Arise A Simple Story",
+  "namespace": "0fb229f35a3f4eb788b05ae91419a214",
+  "categories": "public/games/applications",
+  "keyImages": [
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/0fb229f35a3f4eb788b05ae91419a214/item/EGS_AriseASimpleStory_Piccolo_S2-1200x1600-a99acac35e6576f125862bdc212e8769.jpg",
+      "md5": "a99acac35e6576f125862bdc212e8769",
+      "width": 1200,
+      "height": 1600,
+      "size": 574669,
+      "uploadedDate": "2020-08-18T22:14:13.508Z"
+    },
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/0fb229f35a3f4eb788b05ae91419a214/item/EGS_AriseASimpleStory_Piccolo_S1-2560x1440-6aea478dd424286408af4faf8f5d72e0.jpg",
+      "md5": "6aea478dd424286408af4faf8f5d72e0",
+      "width": 2560,
+      "height": 1440,
+      "size": 784402,
+      "uploadedDate": "2020-08-18T22:14:22.376Z"
+    }
+  ],
+  "creationDate": "2019-08-22T22:25:56.086+00:00",
+  "lastModifiedDate": "2020-08-18T22:14:34.723+00:00",
+  "developer": "Techland",
+  "developerId": "o-2j5hh2gww8vepy62sf9dvqelweczxj",
+  "applicationId": null
+}

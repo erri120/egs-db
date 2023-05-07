@@ -1,0 +1,23 @@
+{
+  "id": "42dae6ad75084c93aeb37e2bbed120df",
+  "title": "Jackbox3GeneralAudience",
+  "description": "Jackbox3GeneralAudience",
+  "namespace": "orchid",
+  "categories": "",
+  "keyImages": [
+    {
+      "type": "ESRB",
+      "url": "https://cdn1.epicgames.com/orchid/item/ESRB_JackboxPartyPack3_T-842x485-5e115b341f1d4cb5f7583cab99e1740a.jpg",
+      "md5": "5e115b341f1d4cb5f7583cab99e1740a",
+      "width": 842,
+      "height": 485,
+      "size": 111625,
+      "uploadedDate": "2020-01-09T18:54:52.223Z"
+    }
+  ],
+  "creationDate": "2019-01-16T13:48:44.45+00:00",
+  "lastModifiedDate": "2020-01-09T18:54:58.03+00:00",
+  "developer": "Jackbox Games, Inc.",
+  "developerId": "o-2m9ap45qzvalaepjz6wclpcffeq4aj",
+  "applicationId": null
+}

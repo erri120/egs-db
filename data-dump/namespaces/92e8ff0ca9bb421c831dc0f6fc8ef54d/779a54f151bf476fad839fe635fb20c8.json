@@ -1,0 +1,32 @@
+{
+  "id": "779a54f151bf476fad839fe635fb20c8",
+  "title": "Calico",
+  "description": "Calico",
+  "namespace": "92e8ff0ca9bb421c831dc0f6fc8ef54d",
+  "categories": "public/games/applications",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/92e8ff0ca9bb421c831dc0f6fc8ef54d/item/EGS_Calico_PeachyKeenGames_S1-2560x1440-99c6db258a2d932e9d1b462501f2c9e1.jpg",
+      "md5": "99c6db258a2d932e9d1b462501f2c9e1",
+      "width": 2560,
+      "height": 1440,
+      "size": 878591,
+      "uploadedDate": "2020-11-16T20:01:18.713Z"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/92e8ff0ca9bb421c831dc0f6fc8ef54d/item/EGS_Calico_PeachyKeenGames_S2-1200x1600-78c3c675ef96e0f7f80e2d9484d3b79b.jpg",
+      "md5": "78c3c675ef96e0f7f80e2d9484d3b79b",
+      "width": 1200,
+      "height": 1600,
+      "size": 436364,
+      "uploadedDate": "2020-11-16T20:01:27.861Z"
+    }
+  ],
+  "creationDate": "2020-11-09T20:03:34.135+00:00",
+  "lastModifiedDate": "2021-01-14T23:49:01.424+00:00",
+  "developer": "White Thorn Digital",
+  "developerId": "o-v7c8xq9bmhtqhakulz7lrptnz8b628",
+  "applicationId": null
+}

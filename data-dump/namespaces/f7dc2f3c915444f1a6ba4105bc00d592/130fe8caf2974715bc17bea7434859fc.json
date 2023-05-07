@@ -1,0 +1,23 @@
+{
+  "id": "130fe8caf2974715bc17bea7434859fc",
+  "title": "DeltaGeneralAudience",
+  "description": "DeltaGeneralAudience",
+  "namespace": "f7dc2f3c915444f1a6ba4105bc00d592",
+  "categories": "",
+  "keyImages": [
+    {
+      "type": "ESRB",
+      "url": "https://cdn1.epicgames.com/f7dc2f3c915444f1a6ba4105bc00d592/item/biomutant_teen-398x190-b1dc5346f02460f35d27c1864c5b55e4.png",
+      "md5": "b1dc5346f02460f35d27c1864c5b55e4",
+      "width": 398,
+      "height": 190,
+      "size": 14028,
+      "uploadedDate": "2021-03-17T21:56:47.12Z"
+    }
+  ],
+  "creationDate": "2021-02-18T18:27:32.473+00:00",
+  "lastModifiedDate": "2021-05-25T16:50:37.302+00:00",
+  "developer": "THQ Nordic GmbH",
+  "developerId": "o-jywxgemg3dagnv6fymcngq3g29mc4j",
+  "applicationId": ""
+}

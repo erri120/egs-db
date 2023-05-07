@@ -1,0 +1,41 @@
+{
+  "id": "b12484578f80407da47e3e3ab39f2190",
+  "title": "Yaga Pre-Purchase",
+  "description": "Yaga Pre-Purchase",
+  "namespace": "bec57b5341ad4294b005a7dd18691419",
+  "categories": "public/games/applications",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/bec57b5341ad4294b005a7dd18691419/item/Yaga_MainGame_EpicGamesStore_N3_Newsfeed_Primary_ApprovedPublic-2560x1440-7b55beb1f99c3e461380181215242809.jpg",
+      "md5": "7b55beb1f99c3e461380181215242809",
+      "width": 2560,
+      "height": 1440,
+      "size": 98059,
+      "uploadedDate": "2019-09-10T19:15:27.135Z"
+    },
+    {
+      "type": "DieselGameBoxLogo",
+      "url": "https://cdn1.epicgames.com/bec57b5341ad4294b005a7dd18691419/item/Yaga_MainGame_EpicGamesStore_IC1_Logo_Color_ApprovedPublic-1591x1431-c1cc75abf441448b681d26fdcf1c6be6.png",
+      "md5": "c1cc75abf441448b681d26fdcf1c6be6",
+      "width": 1591,
+      "height": 1431,
+      "size": 92279,
+      "uploadedDate": "2019-09-10T19:15:37.766Z"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/bec57b5341ad4294b005a7dd18691419/item/Yaga_MainGame_EpicGamesStore_S3_Store_Portrait_ApprovedPublic-1280x1440-eaf6458a298b61969c081f413c915bbe.jpg",
+      "md5": "eaf6458a298b61969c081f413c915bbe",
+      "width": 1280,
+      "height": 1440,
+      "size": 81250,
+      "uploadedDate": "2019-10-22T09:41:44.79Z"
+    }
+  ],
+  "creationDate": "2019-09-10T19:14:18.334+00:00",
+  "lastModifiedDate": "2021-11-05T14:57:49.429+00:00",
+  "developer": "Versus Evil",
+  "developerId": "o-ugw2zblbdkg5xklzadlrt2qe92cdje",
+  "applicationId": null
+}

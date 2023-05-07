@@ -1,0 +1,23 @@
+{
+  "id": "2475db968fb64182844d4dbf6877dcf5",
+  "title": "JTTSP EA Audience",
+  "description": "Journey to the Savage Planet Early Access Audience",
+  "namespace": "oleander",
+  "categories": "",
+  "keyImages": [
+    {
+      "type": "ESRB",
+      "url": "https://cdn1.epicgames.com/oleander/item/ESRB_JTTSP-842x485-7826fe3c36851a05af8d11e2cf8419be.jpg",
+      "md5": "7826fe3c36851a05af8d11e2cf8419be",
+      "width": 842,
+      "height": 485,
+      "size": 110676,
+      "uploadedDate": "2020-01-08T15:22:33.701Z"
+    }
+  ],
+  "creationDate": "2019-12-19T23:40:56.984+00:00",
+  "lastModifiedDate": "2020-03-18T18:54:42.287+00:00",
+  "developer": "505 Games S.r.l.",
+  "developerId": "o-cul2z53mrw3bxltv63v68rgd4b3w52",
+  "applicationId": null
+}

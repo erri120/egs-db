@@ -1,0 +1,23 @@
+{
+  "id": "7f7e428a5f704722ad7c007acc91f9d0",
+  "title": "SweetpeaGeneralAudience",
+  "description": "SweetpeaGeneralAudience",
+  "namespace": "sweetpea",
+  "categories": "",
+  "keyImages": [
+    {
+      "type": "ESRB",
+      "url": "https://cdn1.epicgames.com/sweetpea/item/Trover_ESRB-330x158-4b061e19f8b86626bf6763b553ae5b98.jpg",
+      "md5": "4b061e19f8b86626bf6763b553ae5b98",
+      "width": 330,
+      "height": 158,
+      "size": 45255,
+      "uploadedDate": "2019-04-23T19:28:12.902Z"
+    }
+  ],
+  "creationDate": "2019-03-18T19:52:39.973+00:00",
+  "lastModifiedDate": "2019-06-04T12:59:01.699+00:00",
+  "developer": "Squanch Games",
+  "developerId": "o-n2p7jejpaawba9jzcfpryscpj3uh6w",
+  "applicationId": null
+}

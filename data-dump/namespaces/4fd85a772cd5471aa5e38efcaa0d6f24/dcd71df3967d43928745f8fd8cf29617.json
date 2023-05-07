@@ -1,0 +1,32 @@
+{
+  "id": "dcd71df3967d43928745f8fd8cf29617",
+  "title": "Last Day of June",
+  "description": "Last Day of June",
+  "namespace": "4fd85a772cd5471aa5e38efcaa0d6f24",
+  "categories": "public/games/applications",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/item/4fd85a772cd5471aa5e38efcaa0d6f24/LDOJ_Landscape_Image_2560X1440_2560x1440-382bc956df5eea6bdecfabed662fce16",
+      "md5": "382bc956df5eea6bdecfabed662fce16",
+      "width": 2560,
+      "height": 1440,
+      "size": 721393,
+      "uploadedDate": "2022-11-09T22:52:49.306Z"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/item/4fd85a772cd5471aa5e38efcaa0d6f24/LDOJ_Portrait_Storefront_1200X1600_1200x1600-2cdc9d7f06c144cba47b12546999d076",
+      "md5": "2cdc9d7f06c144cba47b12546999d076",
+      "width": 1200,
+      "height": 1600,
+      "size": 400251,
+      "uploadedDate": "2022-11-09T22:52:47.258Z"
+    }
+  ],
+  "creationDate": "2019-06-03T21:00:17.88+00:00",
+  "lastModifiedDate": "2022-11-09T22:52:52.582+00:00",
+  "developer": "505 Games",
+  "developerId": "o-cul2z53mrw3bxltv63v68rgd4b3w52",
+  "applicationId": ""
+}

@@ -1,0 +1,32 @@
+{
+  "id": "1e4e727584484401ac62b2b513419a52",
+  "title": "ABZU",
+  "description": "ABZU",
+  "namespace": "7af7476ff9eb4a8d9cd9d6486224de76",
+  "categories": "public/games/applications",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/item/7af7476ff9eb4a8d9cd9d6486224de76/ABZU_Landscape_Image_2560X1440_2560x1440-a0bfb5f58d2c4282591408cb1d38f391",
+      "md5": "a0bfb5f58d2c4282591408cb1d38f391",
+      "width": 2560,
+      "height": 1440,
+      "size": 889754,
+      "uploadedDate": "2022-11-09T14:57:29.282Z"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/item/7af7476ff9eb4a8d9cd9d6486224de76/ABZU_Portrait_Storefront_1200X1600_1200x1600-61df06244a496c82f3ac231174c1b1f5",
+      "md5": "61df06244a496c82f3ac231174c1b1f5",
+      "width": 1200,
+      "height": 1600,
+      "size": 603920,
+      "uploadedDate": "2022-11-09T14:57:26.176Z"
+    }
+  ],
+  "creationDate": "2019-06-03T20:59:05.267+00:00",
+  "lastModifiedDate": "2022-11-09T14:57:35.126+00:00",
+  "developer": "505 Games",
+  "developerId": "o-cul2z53mrw3bxltv63v68rgd4b3w52",
+  "applicationId": ""
+}

@@ -1,0 +1,23 @@
+{
+  "id": "20827247a3204791bf9778a7f1a8b4f7",
+  "title": "ParakeetDevAudience",
+  "description": "ParakeetDevAudience",
+  "namespace": "62d6f15b1bb345f6a42585b4c8c847a0",
+  "categories": "",
+  "keyImages": [
+    {
+      "type": "ESRB",
+      "url": "https://cdn1.epicgames.com/62d6f15b1bb345f6a42585b4c8c847a0/item/EGS_HeartMachine_HyperLightDrifter_RA_ESRB-1132x540-0dc54b59e2fc1304df62f8f017e5593e.png",
+      "md5": "0dc54b59e2fc1304df62f8f017e5593e",
+      "width": 1132,
+      "height": 540,
+      "size": 9151,
+      "uploadedDate": "2019-08-15T12:51:18.972Z"
+    }
+  ],
+  "creationDate": "2019-08-06T20:39:37.983+00:00",
+  "lastModifiedDate": "2023-04-25T15:08:13.376+00:00",
+  "developer": "Heart Machine",
+  "developerId": "o-sa7ewerl9ha4ddzrjkjac7rh8sjgyc",
+  "applicationId": null
+}

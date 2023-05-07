@@ -1,0 +1,23 @@
+{
+  "id": "f0fbb92811834e86872cd54c420087ce",
+  "title": "Detroit Become Human Demo Audience",
+  "description": "Detroit Become Human Demo Audience",
+  "namespace": "columbine",
+  "categories": "",
+  "keyImages": [
+    {
+      "type": "ESRB",
+      "url": "https://cdn1.epicgames.com/columbine/item/ESRB_DetroitBecomeHuman-842x404-035ba6355044f32a11b90c3396b43a6a.jpg",
+      "md5": "035ba6355044f32a11b90c3396b43a6a",
+      "width": 842,
+      "height": 404,
+      "size": 119136,
+      "uploadedDate": "2019-07-29T16:02:54.962Z"
+    }
+  ],
+  "creationDate": "2019-05-28T12:49:21.818+00:00",
+  "lastModifiedDate": "2019-12-12T13:00:17.182+00:00",
+  "developer": "Quantic Dream",
+  "developerId": "o-m8v47d762atphw94knus7ezawefpcu",
+  "applicationId": null
+}

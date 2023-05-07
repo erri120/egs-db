@@ -1,0 +1,32 @@
+{
+  "id": "a1402f3af7e948ed9ad1cf783e493ba3",
+  "title": "Telltale Batman Season 2",
+  "description": "The Telltale Batman Shadows Edition Season 2",
+  "namespace": "f2bfff793b224f6190a394f461c9a4b8",
+  "categories": "public/games/applications",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/f2bfff793b224f6190a394f461c9a4b8/item/EGS_LCGEntertainmentInc_TheTelltaleBatmanShadowsEdition_S3-1360x765-3889838769b884f97d33546bc15b10df.jpg",
+      "md5": "3889838769b884f97d33546bc15b10df",
+      "width": 1360,
+      "height": 765,
+      "size": 474937,
+      "uploadedDate": "2019-12-16T18:05:10.843Z"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/f2bfff793b224f6190a394f461c9a4b8/item/EGS_LCGEntertainmentInc_TheTelltaleBatmanShadowsEdition_S2-1280x1440-fd5b112cdbb50096f95471aba82e18f9.jpg",
+      "md5": "fd5b112cdbb50096f95471aba82e18f9",
+      "width": 1280,
+      "height": 1440,
+      "size": 442544,
+      "uploadedDate": "2019-12-16T18:05:23.251Z"
+    }
+  ],
+  "creationDate": "2019-12-16T14:02:04.466+00:00",
+  "lastModifiedDate": "2021-01-06T02:13:46.303+00:00",
+  "developer": "LCG Entertainment, Inc.",
+  "developerId": "o-w6l7l9e6c93j85x29twne9ae6su4jt",
+  "applicationId": null
+}

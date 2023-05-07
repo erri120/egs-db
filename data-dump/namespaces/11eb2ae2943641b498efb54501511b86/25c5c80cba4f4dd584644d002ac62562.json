@@ -1,0 +1,23 @@
+{
+  "id": "25c5c80cba4f4dd584644d002ac62562",
+  "title": "SnoekGeneralAudience",
+  "description": "SnoekGeneralAudience",
+  "namespace": "11eb2ae2943641b498efb54501511b86",
+  "categories": "",
+  "keyImages": [
+    {
+      "type": "ESRB",
+      "url": "https://cdn1.epicgames.com/11eb2ae2943641b498efb54501511b86/item/ESRB_StateofDecay-842x485-90c5c08d5cbc889d2d5177527c8f1311.jpg",
+      "md5": "90c5c08d5cbc889d2d5177527c8f1311",
+      "width": 842,
+      "height": 485,
+      "size": 114080,
+      "uploadedDate": "2020-03-06T16:36:25.851Z"
+    }
+  ],
+  "creationDate": "2020-01-27T23:21:07.042+00:00",
+  "lastModifiedDate": "2020-05-15T01:02:18.176+00:00",
+  "developer": "Microsoft",
+  "developerId": "o-f3qq8ygts6pglxx529jhgx5bmyj6bf",
+  "applicationId": null
+}

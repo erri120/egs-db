@@ -1,0 +1,32 @@
+{
+  "id": "4106b71233fa4b4ba3b04c818fce91d4",
+  "title": "Alien: Isolation",
+  "description": "Alien: Isolation",
+  "namespace": "df37f065c3f14eadbf011177396e2966",
+  "categories": "public/games/applications",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/df37f065c3f14eadbf011177396e2966/item/EGS_AlienIsolation_CreativeAssembly_S5-1920x1080-1cf3b9a86adcefeebf903451b1b3fb49.jpg",
+      "md5": "1cf3b9a86adcefeebf903451b1b3fb49",
+      "width": 1920,
+      "height": 1080,
+      "size": 620728,
+      "uploadedDate": "2020-12-17T17:18:35.389Z"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/df37f065c3f14eadbf011177396e2966/item/EGS_AlienIsolation_CreativeAssembly_S6-1200x1600-af00adc8f67a7c6138cce183ac1e9503.jpg",
+      "md5": "af00adc8f67a7c6138cce183ac1e9503",
+      "width": 1200,
+      "height": 1600,
+      "size": 683092,
+      "uploadedDate": "2020-12-17T17:18:45.091Z"
+    }
+  ],
+  "creationDate": "2020-10-26T16:28:13.46+00:00",
+  "lastModifiedDate": "2022-03-30T21:43:40.071+00:00",
+  "developer": "SEGA of Europe",
+  "developerId": "o-q3zwbk8kbbbgar9ql3x7d43rjj8bjl",
+  "applicationId": "fghi4567WncMSw97kolM0Ff1UBPqwsE7"
+}

@@ -1,0 +1,23 @@
+{
+  "id": "d0117219e1e84c8396407a37e88fd932",
+  "title": "SparrowMission8 Audience",
+  "description": "SparrowMission8 Audience",
+  "namespace": "dfd2530e80e4425d801913b0879be444",
+  "categories": "",
+  "keyImages": [
+    {
+      "type": "ESRB",
+      "url": "https://cdn1.epicgames.com/dfd2530e80e4425d801913b0879be444/item/ESRB_ZombieArmy4-842x485-a5dfa6a6da7e7dd4b0b2c9e1e5458bf5.jpg",
+      "md5": "a5dfa6a6da7e7dd4b0b2c9e1e5458bf5",
+      "width": 842,
+      "height": 485,
+      "size": 109719,
+      "uploadedDate": "2020-05-05T14:37:11.413Z"
+    }
+  ],
+  "creationDate": "2020-09-04T13:43:12.609+00:00",
+  "lastModifiedDate": "2021-07-27T02:14:07.775+00:00",
+  "developer": "Rebellion",
+  "developerId": "o-7ytxfydj7f9a2uv4bmg3s5wfl2epsm",
+  "applicationId": ""
+}

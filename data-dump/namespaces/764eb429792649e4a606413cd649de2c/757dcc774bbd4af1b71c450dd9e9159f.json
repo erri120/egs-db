@@ -1,0 +1,32 @@
+{
+  "id": "757dcc774bbd4af1b71c450dd9e9159f",
+  "title": "South Park: Fractured But Whole",
+  "description": "South Park: Fractured But Whole",
+  "namespace": "764eb429792649e4a606413cd649de2c",
+  "categories": "public/games/applications",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/item/764eb429792649e4a606413cd649de2c/GameName_Store_Landscape_2580x1450_2580x1450-4259bedb66ea53cf5b4f2ccf9e7115b3",
+      "md5": "4259bedb66ea53cf5b4f2ccf9e7115b3",
+      "width": 2580,
+      "height": 1450,
+      "size": 877080,
+      "uploadedDate": "2023-03-02T16:12:28.672Z"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/item/764eb429792649e4a606413cd649de2c/SPFB_StorePortrait_1200x1600__1200x1600-08cb8aefb48b63675e5e26eeef6d999b",
+      "md5": "08cb8aefb48b63675e5e26eeef6d999b",
+      "width": 1200,
+      "height": 1600,
+      "size": 498481,
+      "uploadedDate": "2023-03-02T16:12:31.684Z"
+    }
+  ],
+  "creationDate": "2019-10-28T21:43:21.118+00:00",
+  "lastModifiedDate": "2023-03-02T16:12:39.113+00:00",
+  "developer": "Epic Dev Test Account",
+  "developerId": "o-ufmrk5furrrxgsp5tdngefzt5rxdcn",
+  "applicationId": ""
+}

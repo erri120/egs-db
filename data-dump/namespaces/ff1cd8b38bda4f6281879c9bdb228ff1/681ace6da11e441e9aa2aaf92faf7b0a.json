@@ -1,0 +1,32 @@
+{
+  "id": "681ace6da11e441e9aa2aaf92faf7b0a",
+  "title": "Atomicrops",
+  "description": "Atomicrops",
+  "namespace": "ff1cd8b38bda4f6281879c9bdb228ff1",
+  "categories": "public/games/applications",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/ff1cd8b38bda4f6281879c9bdb228ff1/item/Atomicrops_EpicGames_Product_Landscape_Image_1OutNow-2560x1440-4168fc745552b75e41089561018aebf9.png",
+      "md5": "4168fc745552b75e41089561018aebf9",
+      "width": 2560,
+      "height": 1440,
+      "size": 6393880,
+      "uploadedDate": "2020-05-27T14:37:07.832Z"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/ff1cd8b38bda4f6281879c9bdb228ff1/item/Atomicrops_EpicGames_Offer_Portrait_Image_1OutNow-1200x1600-eb467da6bfe2f4921a829fb846dc1b4e.png",
+      "md5": "eb467da6bfe2f4921a829fb846dc1b4e",
+      "width": 1200,
+      "height": 1600,
+      "size": 3660253,
+      "uploadedDate": "2021-12-14T15:26:10.328Z"
+    }
+  ],
+  "creationDate": "2019-06-06T19:39:05.354+00:00",
+  "lastModifiedDate": "2022-01-01T21:34:49.165+00:00",
+  "developer": "Raw Fury",
+  "developerId": "o-fay4ghw9hhamujs53rfhy83ffexb7k",
+  "applicationId": "fghi4567wroHBTGrQYZLTpNpS151CbdF"
+}

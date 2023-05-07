@@ -1,0 +1,23 @@
+{
+  "id": "b8e330a69f9141d0b92643ec13a5ea1d",
+  "title": "GulperGeneralAudience",
+  "description": "GulperGeneralAudience",
+  "namespace": "cbbb7e8728a3476f97e44f3856c3cb13",
+  "categories": "",
+  "keyImages": [
+    {
+      "type": "ESRB",
+      "url": "https://cdn1.epicgames.com/cbbb7e8728a3476f97e44f3856c3cb13/item/ESRB_Anno2205-842x404-7d62638ff6e509dfd6fcc21873505b22.jpg",
+      "md5": "7d62638ff6e509dfd6fcc21873505b22",
+      "width": 842,
+      "height": 404,
+      "size": 75708,
+      "uploadedDate": "2020-02-19T15:32:38.018Z"
+    }
+  ],
+  "creationDate": "2020-01-13T15:48:51.289+00:00",
+  "lastModifiedDate": "2020-02-19T15:40:01.064+00:00",
+  "developer": "Ubisoft Entertainment",
+  "developerId": "o-3efjudxdtgsqnulml4bkeq3v9nec38",
+  "applicationId": null
+}

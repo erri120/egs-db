@@ -1,0 +1,32 @@
+{
+  "id": "d3a21ecb9c464de7ad2a8d7de14c0363",
+  "title": "Mutazione",
+  "description": "Mutazione",
+  "namespace": "5645a537b6a44f6f82d122729f3253ed",
+  "categories": "public/games/applications",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/5645a537b6a44f6f82d122729f3253ed/item/EGS_Mutazione_DieGuteFabrik_S1-2560x1440-169c5c5786aca5a3598c893b0ceb020f.jpg",
+      "md5": "169c5c5786aca5a3598c893b0ceb020f",
+      "width": 2560,
+      "height": 1440,
+      "size": 501378,
+      "uploadedDate": "2020-03-04T18:56:17.229Z"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/5645a537b6a44f6f82d122729f3253ed/item/EGS_Mutazione_DieGuteFabrik_S4-510x680-85ee3c8f3c08de0da2068e6d6441b253.jpg",
+      "md5": "85ee3c8f3c08de0da2068e6d6441b253",
+      "width": 510,
+      "height": 680,
+      "size": 120715,
+      "uploadedDate": "2020-03-04T18:56:29.559Z"
+    }
+  ],
+  "creationDate": "2020-02-27T23:30:59.458+00:00",
+  "lastModifiedDate": "2020-03-12T22:57:20.158+00:00",
+  "developer": "Akupara Games",
+  "developerId": "o-vzv8n7jse99sluj4vaa8522rh45cvg",
+  "applicationId": null
+}

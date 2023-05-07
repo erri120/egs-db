@@ -1,0 +1,32 @@
+{
+  "id": "c387907c87474943a6d1b429d617a6f6",
+  "title": "Europa Universalis IV: Third Rome Immersion Pack",
+  "description": "Europa Universalis IV: Third Rome Immersion Pack",
+  "namespace": "80d3aeb1d7c3434981e0bcbc47700a83",
+  "categories": "public/games/applications",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_EuropaUniversalisIVThirdRomeImmersionPack_ParadoxDevelopmentStudio_DLC_S1_2560x1440-8e7cd1406ee736cdcf3c7791b2c177d7_2560x1440-8e7cd1406ee736cdcf3c7791b2c177d7",
+      "md5": "8e7cd1406ee736cdcf3c7791b2c177d7",
+      "width": 2560,
+      "height": 1440,
+      "size": 1032343,
+      "uploadedDate": "2021-09-29T20:36:32.116Z"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_EuropaUniversalisIVThirdRomeImmersionPack_ParadoxDevelopmentStudio_DLC_S2_1200x1600-65dcb7c8055bda9aa0a54691d9884832_1200x1600-65dcb7c8055bda9aa0a54691d9884832",
+      "md5": "65dcb7c8055bda9aa0a54691d9884832",
+      "width": 1200,
+      "height": 1600,
+      "size": 1038186,
+      "uploadedDate": "2021-09-29T20:36:37.048Z"
+    }
+  ],
+  "creationDate": "2021-02-22T18:06:40.047+00:00",
+  "lastModifiedDate": "2021-10-12T22:52:00.966+00:00",
+  "developer": "Paradox Interactive",
+  "developerId": "o-tjvfg6rejs6h86qa7k9aa64rrgbxxb",
+  "applicationId": ""
+}

@@ -1,0 +1,23 @@
+{
+  "id": "42be1a5941724a34a523fae531956d7e",
+  "title": "Journey Press Audience",
+  "description": "Journey Press Audience",
+  "namespace": "lemur",
+  "categories": "",
+  "keyImages": [
+    {
+      "type": "ESRB",
+      "url": "https://cdn1.epicgames.com/lemur/item/Journey-842x404-d904ae38991eabe3f91a160feb7e147a-842x404-d904ae38991eabe3f91a160feb7e147a.png",
+      "md5": "d904ae38991eabe3f91a160feb7e147a",
+      "width": 842,
+      "height": 404,
+      "size": 51113,
+      "uploadedDate": "2019-06-05T18:22:46.751Z"
+    }
+  ],
+  "creationDate": "2019-06-05T18:23:04.461+00:00",
+  "lastModifiedDate": "2019-06-05T18:32:01.283+00:00",
+  "developer": "Annapurna Interactive",
+  "developerId": "o-bmeb3ztlbxkjc8vvpydava38yvmxlm",
+  "applicationId": null
+}

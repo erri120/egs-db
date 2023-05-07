@@ -1,0 +1,41 @@
+{
+  "id": "bcf71207d5dc45219e7ecf437f621756",
+  "title": "Spellbreak External Test",
+  "description": "Spellbreak External Test",
+  "namespace": "newt",
+  "categories": "",
+  "keyImages": [
+    {
+      "type": "DieselGameBoxLogo",
+      "url": "https://cdn1.epicgames.com/newt/item/Spellbreak_Logo-3090x1087-00ccb473b5b2d79e3096221158c9a81a.png",
+      "md5": "00ccb473b5b2d79e3096221158c9a81a",
+      "width": 3090,
+      "height": 1087,
+      "size": 33015,
+      "uploadedDate": "2019-04-29T19:13:20.231Z"
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/newt/item/Spellbreak_GameIcon-400x400-5dd9d7537f0342ee27a8e1f1360e4e25.png",
+      "md5": "5dd9d7537f0342ee27a8e1f1360e4e25",
+      "width": 400,
+      "height": 400,
+      "size": 10442,
+      "uploadedDate": "2019-04-29T19:13:37.775Z"
+    },
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/newt/item/EGS_ProletariatInc_Spellbreak_S1-2560x1440-75987e837f994b0638bf99cd359e723f.jpg",
+      "md5": "75987e837f994b0638bf99cd359e723f",
+      "width": 2560,
+      "height": 1440,
+      "size": 439488,
+      "uploadedDate": "2019-10-21T14:43:39.215Z"
+    }
+  ],
+  "creationDate": "2019-04-29T19:12:01.292+00:00",
+  "lastModifiedDate": "2020-08-05T15:36:45.029+00:00",
+  "developer": "Proletariat, Inc.",
+  "developerId": "o-umuuzpzyfsw8wvcn4xpyh7ksmyhflg",
+  "applicationId": null
+}

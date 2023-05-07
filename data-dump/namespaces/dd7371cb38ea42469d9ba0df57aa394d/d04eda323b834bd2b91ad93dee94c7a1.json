@@ -1,0 +1,23 @@
+{
+  "id": "d04eda323b834bd2b91ad93dee94c7a1",
+  "title": "OreoGeneralAudience",
+  "description": "OreoGeneralAudience",
+  "namespace": "dd7371cb38ea42469d9ba0df57aa394d",
+  "categories": "",
+  "keyImages": [
+    {
+      "type": "ESRB",
+      "url": "https://cdn1.epicgames.com/dd7371cb38ea42469d9ba0df57aa394d/item/c9cb5e38-1217-4a67-be41-41c0d64c5670-411x190-6279288153e9d6de9a0e78e20f847f28.png",
+      "md5": "6279288153e9d6de9a0e78e20f847f28",
+      "width": 411,
+      "height": 190,
+      "size": 9367,
+      "uploadedDate": "2020-11-24T16:32:44.595Z"
+    }
+  ],
+  "creationDate": "2020-08-19T01:02:52.123+00:00",
+  "lastModifiedDate": "2020-11-24T16:32:48.133+00:00",
+  "developer": "2K Games, Inc.",
+  "developerId": "o-37m6jbj5wcvrcvm4wusv7nazdfvbjk",
+  "applicationId": null
+}

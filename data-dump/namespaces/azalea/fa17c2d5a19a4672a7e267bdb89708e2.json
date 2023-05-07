@@ -1,0 +1,23 @@
+{
+  "id": "fa17c2d5a19a4672a7e267bdb89708e2",
+  "title": "Starter Pack 1 Audience",
+  "description": "Starter Pack 1 Audience",
+  "namespace": "azalea",
+  "categories": "",
+  "keyImages": [
+    {
+      "type": "ESRB",
+      "url": "https://cdn1.epicgames.com/azalea/item/RebelGalaxyOutlaw-842x404-e25740f35341fe9c4da2f6d8fc4aa9e6.png",
+      "md5": "e25740f35341fe9c4da2f6d8fc4aa9e6",
+      "width": 842,
+      "height": 404,
+      "size": 66425,
+      "uploadedDate": "2019-06-20T19:00:17.91Z"
+    }
+  ],
+  "creationDate": "2020-02-21T16:12:47.406+00:00",
+  "lastModifiedDate": "2021-04-08T16:06:18.841+00:00",
+  "developer": "YAGER",
+  "developerId": "o-w7z3vpqhq54t3gbwybuzlmx7xh3355",
+  "applicationId": null
+}

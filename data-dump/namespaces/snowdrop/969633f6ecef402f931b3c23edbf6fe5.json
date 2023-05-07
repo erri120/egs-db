@@ -1,0 +1,41 @@
+{
+  "id": "969633f6ecef402f931b3c23edbf6fe5",
+  "title": "SnowdropStaging",
+  "description": "SnowdropStaging",
+  "namespace": "snowdrop",
+  "categories": "",
+  "keyImages": [
+    {
+      "type": "DieselGameBoxLogo",
+      "url": "https://cdn1.epicgames.com/snowdrop/item/JPP4Logo_final-1920x1420-0f0e02fe6130190ff5c4595b73efc6bb.png",
+      "md5": "0f0e02fe6130190ff5c4595b73efc6bb",
+      "width": 1920,
+      "height": 1420,
+      "size": 221065,
+      "uploadedDate": "2019-02-06T21:10:06.89Z"
+    },
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/snowdrop/item/PrimaryPromo-2580x1450-7098cfc0c6ce5207ed6537aebc2c1e6b.jpg",
+      "md5": "7098cfc0c6ce5207ed6537aebc2c1e6b",
+      "width": 2580,
+      "height": 1450,
+      "size": 487432,
+      "uploadedDate": "2019-02-07T15:54:52.707Z"
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/snowdrop/item/GameIcon_transparent-400x400-8ff610df186a7000a3426136a1cacbe0.png",
+      "md5": "8ff610df186a7000a3426136a1cacbe0",
+      "width": 400,
+      "height": 400,
+      "size": 29629,
+      "uploadedDate": "2019-02-07T15:55:23.245Z"
+    }
+  ],
+  "creationDate": "2019-01-16T13:55:13.985+00:00",
+  "lastModifiedDate": "2019-07-23T16:59:35.76+00:00",
+  "developer": "Jackbox Games, Inc.",
+  "developerId": "o-2m9ap45qzvalaepjz6wclpcffeq4aj",
+  "applicationId": null
+}

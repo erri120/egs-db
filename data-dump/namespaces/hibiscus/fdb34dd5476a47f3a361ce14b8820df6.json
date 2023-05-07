@@ -1,0 +1,32 @@
+{
+  "id": "fdb34dd5476a47f3a361ce14b8820df6",
+  "title": "HibiscusStaging",
+  "description": "HibiscusStaging",
+  "namespace": "hibiscus",
+  "categories": "",
+  "keyImages": [
+    {
+      "type": "DieselGameBoxLogo",
+      "url": "https://cdn1.epicgames.com/hibiscus/item/Oxenfree_Logo_White-2580x304-2007aac63544628ae4217365e606c000.png",
+      "md5": "2007aac63544628ae4217365e606c000",
+      "width": 2580,
+      "height": 304,
+      "size": 32017,
+      "uploadedDate": "2019-03-04T18:47:57.732Z"
+    },
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/hibiscus/item/Oxenfree_GamePagePromo_2580x1450-2580x1450-67e364067e5e51125d7d3343ff65e042.jpg",
+      "md5": "67e364067e5e51125d7d3343ff65e042",
+      "width": 2580,
+      "height": 1450,
+      "size": 146944,
+      "uploadedDate": "2019-03-04T18:47:45.791Z"
+    }
+  ],
+  "creationDate": "2019-01-29T20:40:30.412+00:00",
+  "lastModifiedDate": "2019-08-08T18:29:18.683+00:00",
+  "developer": "Night School Studio, LLC",
+  "developerId": "o-8bhctnyt9qetgnjd4nssqse58c2589",
+  "applicationId": null
+}

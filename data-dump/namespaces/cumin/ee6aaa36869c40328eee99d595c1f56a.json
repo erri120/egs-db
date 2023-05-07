@@ -1,0 +1,23 @@
+{
+  "id": "ee6aaa36869c40328eee99d595c1f56a",
+  "title": "CuminCompleteAudience",
+  "description": "CuminCompleteAudience",
+  "namespace": "cumin",
+  "categories": "",
+  "keyImages": [
+    {
+      "type": "ESRB",
+      "url": "https://cdn1.epicgames.com/cumin/item/Diesel_productv2_far-cry-new-dawn_home_ESRB_M_FarCryNewDawn-398x190-79f345c0eba4686d82b345bf753cffde0c196726-398x190-4e4cdac11da9217dcbf10ee825435b37.jpg",
+      "md5": "4e4cdac11da9217dcbf10ee825435b37",
+      "width": 398,
+      "height": 190,
+      "size": 12430,
+      "uploadedDate": "2020-02-18T14:24:30.269Z"
+    }
+  ],
+  "creationDate": "2019-10-28T19:39:43.178+00:00",
+  "lastModifiedDate": "2020-02-18T15:51:29.575+00:00",
+  "developer": "Ubisoft Entertainment",
+  "developerId": "o-3efjudxdtgsqnulml4bkeq3v9nec38",
+  "applicationId": null
+}

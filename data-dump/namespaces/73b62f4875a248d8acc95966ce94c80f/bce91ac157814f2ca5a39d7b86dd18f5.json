@@ -1,0 +1,32 @@
+{
+  "id": "bce91ac157814f2ca5a39d7b86dd18f5",
+  "title": "Dandara: Trials of Fear Edition",
+  "description": "Dandara: Trials of Fear Edition",
+  "namespace": "73b62f4875a248d8acc95966ce94c80f",
+  "categories": "public/games/applications",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/73b62f4875a248d8acc95966ce94c80f/item/EGS_DandaraTrialsofFearEdition_LongHatHouse_S1-2560x1440-d20ffd22ba6944939635a2af807d3610.jpg",
+      "md5": "d20ffd22ba6944939635a2af807d3610",
+      "width": 2560,
+      "height": 1440,
+      "size": 508169,
+      "uploadedDate": "2021-01-15T19:56:20.845Z"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/73b62f4875a248d8acc95966ce94c80f/item/EGS_DandaraTrialsofFearEdition_LongHatHouse_S2-1200x1600-432dcc4d847271ea87e18ff3c369e31a.jpg",
+      "md5": "432dcc4d847271ea87e18ff3c369e31a",
+      "width": 1200,
+      "height": 1600,
+      "size": 342537,
+      "uploadedDate": "2021-01-15T19:56:31.804Z"
+    }
+  ],
+  "creationDate": "2021-01-08T17:57:35.046+00:00",
+  "lastModifiedDate": "2021-02-11T20:13:03.887+00:00",
+  "developer": "Raw Fury",
+  "developerId": "o-fay4ghw9hhamujs53rfhy83ffexb7k",
+  "applicationId": null
+}

@@ -1,0 +1,23 @@
+{
+  "id": "4d6dc78f95dc4985b31751145cd7d50c",
+  "title": "PreOrder DLC Audience",
+  "description": "PreOrder DLC Audience",
+  "namespace": "6af58339c2424644988e0fb83dfd9bd5",
+  "categories": "",
+  "keyImages": [
+    {
+      "type": "ESRB",
+      "url": "https://cdn1.epicgames.com/6af58339c2424644988e0fb83dfd9bd5/item/RPending-388x190-2b6aa92035599db2ca1517a036cb974a.png",
+      "md5": "2b6aa92035599db2ca1517a036cb974a",
+      "width": 388,
+      "height": 190,
+      "size": 4433,
+      "uploadedDate": "2020-06-30T12:54:50.128Z"
+    }
+  ],
+  "creationDate": "2020-10-22T19:43:54.169+00:00",
+  "lastModifiedDate": "2021-01-21T15:27:56.469+00:00",
+  "developer": "NCSoft",
+  "developerId": "o-k8ltvz7rz3r7b29xdtafqvdkhnj2ux",
+  "applicationId": null
+}

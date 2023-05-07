@@ -1,0 +1,32 @@
+{
+  "id": "9c7c10e8e1a648f8a9e35f28a1d45900",
+  "title": "Loop Hero",
+  "description": "Loop Hero",
+  "namespace": "ff50f85ed609454e80ac46d9496da34d",
+  "categories": "public/games/applications",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/ff50f85ed609454e80ac46d9496da34d/item/EGS_TheLichhasthrowntheworldintoatimelessloop_FourQuarters_S1-2560x1440-dd971b1a2d79b2984c22a3b7c66c60da.jpg",
+      "md5": "dd971b1a2d79b2984c22a3b7c66c60da",
+      "width": 2560,
+      "height": 1440,
+      "size": 810596,
+      "uploadedDate": "2021-03-02T00:37:55.314Z"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/ff50f85ed609454e80ac46d9496da34d/item/EGS_TheLichhasthrowntheworldintoatimelessloop_FourQuarters_S2-1200x1600-9ce7ff725ffafa800300b644df5936cd.jpg",
+      "md5": "9ce7ff725ffafa800300b644df5936cd",
+      "width": 1200,
+      "height": 1600,
+      "size": 794097,
+      "uploadedDate": "2021-03-02T00:38:05.933Z"
+    }
+  ],
+  "creationDate": "2021-01-27T17:17:09.831+00:00",
+  "lastModifiedDate": "2022-03-01T20:16:05.338+00:00",
+  "developer": "Devolver Digital, Inc.",
+  "developerId": "o-plnhdz2wfx5etjjeh88szjqy2gx8gw",
+  "applicationId": ""
+}

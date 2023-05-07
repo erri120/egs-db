@@ -1,0 +1,23 @@
+{
+  "id": "d7b1a4c9225048ceba41cae5a67e6482",
+  "title": "Carousel_1",
+  "description": "Visit ShadowComplex.com",
+  "namespace": "vpr",
+  "categories": "applications/prod/applications/prod/content/applications",
+  "keyImages": [
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/vpr/item/carousel-news_01-1000x290-1000x290-377bc98dcb1e72e2a7aa1a49f467e415.png",
+      "md5": "377bc98dcb1e72e2a7aa1a49f467e415",
+      "width": 1000,
+      "height": 290,
+      "size": 152516,
+      "uploadedDate": "2016-09-30T20:47:30.472Z"
+    }
+  ],
+  "creationDate": "2015-10-19T18:07:03.884+00:00",
+  "lastModifiedDate": "2016-09-30T20:47:36.102+00:00",
+  "developer": "Epic Games",
+  "developerId": "o-aa83a0a9bc45e98c80c1b1c9d92e9e",
+  "applicationId": null
+}

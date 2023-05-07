@@ -1,0 +1,41 @@
+{
+  "id": "6e7e8e5c9bcc4352bec6bb2fa5134ad2",
+  "title": "The Escapists",
+  "description": "The Escapists",
+  "namespace": "61bc780f42f84fe29e6dfee957ab82de",
+  "categories": "public/games/applications",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/61bc780f42f84fe29e6dfee957ab82de/item/TheEscapists_PDP Promo-2560x1440-03fae261503534b25a35bf41d4949e02.jpg",
+      "md5": "03fae261503534b25a35bf41d4949e02",
+      "width": 2560,
+      "height": 1440,
+      "size": 129949,
+      "uploadedDate": "2019-12-02T16:35:48.964Z"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/61bc780f42f84fe29e6dfee957ab82de/item/TheEscapistsPackshot1280 x 1440-1280x1440-836dd67c156ad52a535df83ba236b7f6.jpg",
+      "md5": "836dd67c156ad52a535df83ba236b7f6",
+      "width": 1280,
+      "height": 1440,
+      "size": 212801,
+      "uploadedDate": "2019-12-02T16:35:58.51Z"
+    },
+    {
+      "type": "DieselGameBoxLogo",
+      "url": "https://cdn1.epicgames.com/61bc780f42f84fe29e6dfee957ab82de/item/TheEscapists_Logo-8504x8504-702f748f5e9ca480b693d042c911e8b2.png",
+      "md5": "702f748f5e9ca480b693d042c911e8b2",
+      "width": 8504,
+      "height": 8504,
+      "size": 225724,
+      "uploadedDate": "2019-12-02T16:36:10.786Z"
+    }
+  ],
+  "creationDate": "2019-06-14T04:02:56.411+00:00",
+  "lastModifiedDate": "2020-03-04T16:01:53.105+00:00",
+  "developer": "Team17 Digital Ltd",
+  "developerId": "o-uvtztrtfjdn3xgrwyhbuwwb5z42mbv",
+  "applicationId": null
+}

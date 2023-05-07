@@ -1,0 +1,23 @@
+{
+  "id": "26bdd56416cb48fba58f2e8ffb271e30",
+  "title": "Calluna Pre-Purchase Audience",
+  "description": "Calluna Pre-Purchase Audience",
+  "namespace": "calluna",
+  "categories": "",
+  "keyImages": [
+    {
+      "type": "ESRB",
+      "url": "https://cdn1.epicgames.com/calluna/item/Control_Esrb-340x163-450592beba2d7746e4f1a364e976f82a.png",
+      "md5": "450592beba2d7746e4f1a364e976f82a",
+      "width": 340,
+      "height": 163,
+      "size": 34084,
+      "uploadedDate": "2019-04-23T19:55:41.462Z"
+    }
+  ],
+  "creationDate": "2019-03-25T23:06:56.139+00:00",
+  "lastModifiedDate": "2020-08-27T14:49:37.702+00:00",
+  "developer": "505 Games",
+  "developerId": "o-cul2z53mrw3bxltv63v68rgd4b3w52",
+  "applicationId": null
+}

@@ -1,0 +1,32 @@
+{
+  "id": "902d82c222c84fcbb596bad00e2619dd",
+  "title": "War Mongrels",
+  "description": "War Mongrels",
+  "namespace": "7b57136ac766477eb1e687dcd0310da5",
+  "categories": "public/games/applications",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/item/7b57136ac766477eb1e687dcd0310da5/EGS_WarMongrels_DestructiveCreations_S1_2560x1440-23c3b42537f2d5052d6a7bdd9d6db0fa",
+      "md5": "23c3b42537f2d5052d6a7bdd9d6db0fa",
+      "width": 2560,
+      "height": 1440,
+      "size": 829421,
+      "uploadedDate": "2022-09-19T17:33:40.623Z"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/item/7b57136ac766477eb1e687dcd0310da5/EGS_WarMongrels_DestructiveCreations_S2_1200x1600-f9e30ca0ab7960795a9a933f4c1b8bf8",
+      "md5": "f9e30ca0ab7960795a9a933f4c1b8bf8",
+      "width": 1200,
+      "height": 1600,
+      "size": 458071,
+      "uploadedDate": "2022-09-19T17:33:43.496Z"
+    }
+  ],
+  "creationDate": "2021-05-13T22:47:59.76+00:00",
+  "lastModifiedDate": "2022-09-19T17:33:46.16+00:00",
+  "developer": "Destructive Creations sp z o. o.",
+  "developerId": "o-tfavjd5abcd2rf2vr2tgu99qu7r5kt",
+  "applicationId": ""
+}

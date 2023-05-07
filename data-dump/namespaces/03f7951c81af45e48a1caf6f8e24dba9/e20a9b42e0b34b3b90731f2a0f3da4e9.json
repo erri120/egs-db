@@ -1,0 +1,32 @@
+{
+  "id": "e20a9b42e0b34b3b90731f2a0f3da4e9",
+  "title": "Design Variety Pack",
+  "description": "Design Variety Pack",
+  "namespace": "03f7951c81af45e48a1caf6f8e24dba9",
+  "categories": "public/games/applications",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/03f7951c81af45e48a1caf6f8e24dba9/item/EGS_DesignVarietyPack_PositechGames_DLC_S1-2560x1440-989dba2b352bc4b793a6ee9e5674cc55.jpg",
+      "md5": "989dba2b352bc4b793a6ee9e5674cc55",
+      "width": 2560,
+      "height": 1440,
+      "size": 692591,
+      "uploadedDate": "2021-01-27T04:49:21.037Z"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/03f7951c81af45e48a1caf6f8e24dba9/item/EGS_DesignVarietyPack_PositechGames_DLC_S2-1200x1600-6af4e5661023cb3e5c1102881ef8101c.jpg",
+      "md5": "6af4e5661023cb3e5c1102881ef8101c",
+      "width": 1200,
+      "height": 1600,
+      "size": 588918,
+      "uploadedDate": "2021-01-27T04:49:24.093Z"
+    }
+  ],
+  "creationDate": "2021-01-07T21:08:42.419+00:00",
+  "lastModifiedDate": "2021-01-28T16:06:45.957+00:00",
+  "developer": "Positech Computing Ltd",
+  "developerId": "o-hrszwkzbhb269y9we9tpukac2zxb5e",
+  "applicationId": null
+}

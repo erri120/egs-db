@@ -1,0 +1,32 @@
+{
+  "id": "ac61a543107645e3a086382425bac279",
+  "title": "Crashlands",
+  "description": "Crashlands",
+  "namespace": "1b8a504ec52d4430b65cca2990ad6c7f",
+  "categories": "public/games/applications",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/1b8a504ec52d4430b65cca2990ad6c7f/item/EGS_Crashlands_ButterscotchShenanigans_S1-2560x1440-2971f9f3be6e0b5b7e69818577240f54.jpg",
+      "md5": "2971f9f3be6e0b5b7e69818577240f54",
+      "width": 2560,
+      "height": 1440,
+      "size": 472068,
+      "uploadedDate": "2020-03-31T02:17:49.016Z"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/1b8a504ec52d4430b65cca2990ad6c7f/item/EGS_Crashlands_ButterscotchShenanigans_S2-860x1148-e6c8ea92aee1ce922cd67bc9355e0ea3.jpg",
+      "md5": "e6c8ea92aee1ce922cd67bc9355e0ea3",
+      "width": 860,
+      "height": 1148,
+      "size": 276259,
+      "uploadedDate": "2020-03-31T02:18:01.043Z"
+    }
+  ],
+  "creationDate": "2020-03-16T16:10:41.004+00:00",
+  "lastModifiedDate": "2020-09-03T16:37:28.886+00:00",
+  "developer": "Butterscotch Shenanigans",
+  "developerId": "o-nl9ywem28pes9amuwp2jqrey4zxjpf",
+  "applicationId": "fghi4567aAMuPRega9VgRvqmBfyoYLVC"
+}

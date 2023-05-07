@@ -1,0 +1,32 @@
+{
+  "id": "da956e29d13246c6bb75b15fbcb7e80a",
+  "title": "Civilization VI : Maya \u0026 Gran Colombia Pack",
+  "description": "Civilization VI : Maya \u0026 Gran Colombia Pack",
+  "namespace": "cd14dcaa4f3443f19f7169a980559c62",
+  "categories": "addons",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/cd14dcaa4f3443f19f7169a980559c62/item/EGS_CivilizationVIMayaGranColombiaPack_FiraxisGames_DLC_G1A_00-1920x1080-639a28a2a7cfe7e38d6f11aa17b23d87.jpg",
+      "md5": "639a28a2a7cfe7e38d6f11aa17b23d87",
+      "width": 1920,
+      "height": 1080,
+      "size": 1004630,
+      "uploadedDate": "2020-05-19T21:48:10.077Z"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/cd14dcaa4f3443f19f7169a980559c62/item/EGS_CivilizationVIMayaGranColombiaPack_FiraxisGames_DLC_S2-1200x1600-ea09702a0e2ee3c73d0e6e0d68731218.jpg",
+      "md5": "ea09702a0e2ee3c73d0e6e0d68731218",
+      "width": 1200,
+      "height": 1600,
+      "size": 980660,
+      "uploadedDate": "2020-05-19T21:48:21.371Z"
+    }
+  ],
+  "creationDate": "2020-03-24T17:00:44.921+00:00",
+  "lastModifiedDate": "2022-12-06T22:25:17.11+00:00",
+  "developer": "2K Games, Inc.",
+  "developerId": "o-37m6jbj5wcvrcvm4wusv7nazdfvbjk",
+  "applicationId": ""
+}

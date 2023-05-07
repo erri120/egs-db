@@ -1,0 +1,32 @@
+{
+  "id": "d10b9206b14c438e982582ae919775dc",
+  "title": "Ghostbusters The Video Game Remastered",
+  "description": "Ghostbusters The Video Game Remastered",
+  "namespace": "d0545b136bb042fb9014e72b6af748f6",
+  "categories": "",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/item/d0545b136bb042fb9014e72b6af748f6/GB_Landscape_Offer_Image_2560_x_1440_2560x1440-dcfc9464f41731a51e0fb6d221e9da32",
+      "md5": "dcfc9464f41731a51e0fb6d221e9da32",
+      "width": 2560,
+      "height": 1440,
+      "size": 1005971,
+      "uploadedDate": "2022-11-16T18:59:11.847Z"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/item/d0545b136bb042fb9014e72b6af748f6/GB_tall_image_1200_x_1600_1200x1600-6ef33922151cbfead3cae76161d0d6f6",
+      "md5": "6ef33922151cbfead3cae76161d0d6f6",
+      "width": 1200,
+      "height": 1600,
+      "size": 936615,
+      "uploadedDate": "2022-11-16T18:59:09.681Z"
+    }
+  ],
+  "creationDate": "2019-04-17T17:49:05.661+00:00",
+  "lastModifiedDate": "2022-11-16T18:59:17.756+00:00",
+  "developer": "Saber Interactive",
+  "developerId": "o-2xlz78ngz5ubvus9sff9blglee43uk",
+  "applicationId": ""
+}

@@ -1,0 +1,23 @@
+{
+  "id": "1c3b0f36983d414cb4bb3485342b5de8",
+  "title": "KurilianGeneralAudience",
+  "description": "KurilianGeneralAudience",
+  "namespace": "14ee004dadc142faaaece5a6270fb628",
+  "categories": "",
+  "keyImages": [
+    {
+      "type": "ESRB",
+      "url": "https://cdn1.epicgames.com/14ee004dadc142faaaece5a6270fb628/item/ESRB_M_TheWitcher3.jpg-398x190-81ef94f16812865de74a585314c3cd94.png",
+      "md5": "81ef94f16812865de74a585314c3cd94",
+      "width": 398,
+      "height": 190,
+      "size": 6047,
+      "uploadedDate": "2020-05-14T16:40:10.68Z"
+    }
+  ],
+  "creationDate": "2020-04-28T15:35:25.665+00:00",
+  "lastModifiedDate": "2022-12-13T21:48:48.481+00:00",
+  "developer": "CD PROJEKT RED",
+  "developerId": "o-x2vdjaf7cfakvlsgz8qf2gx8bkplcc",
+  "applicationId": null
+}

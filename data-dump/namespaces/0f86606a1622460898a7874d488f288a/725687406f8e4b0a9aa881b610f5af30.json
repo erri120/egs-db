@@ -1,0 +1,32 @@
+{
+  "id": "725687406f8e4b0a9aa881b610f5af30",
+  "title": "Kingdoms of Amalur Re-Reckoning OST",
+  "description": "Kingdoms of Amalur Re-Reckoning OST",
+  "namespace": "0f86606a1622460898a7874d488f288a",
+  "categories": "public/digitalextras/applications",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/0f86606a1622460898a7874d488f288a/item/LandscapeProductImage-2560x1440-6251eb442278a4aeef78cdf315da330a.png",
+      "md5": "6251eb442278a4aeef78cdf315da330a",
+      "width": 2560,
+      "height": 1440,
+      "size": 3291891,
+      "uploadedDate": "2020-08-31T16:21:34.297Z"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/0f86606a1622460898a7874d488f288a/item/Portrait_Product_Image-1200x1600-9f98edc40c24f96c10fb38316ad8860d.png",
+      "md5": "9f98edc40c24f96c10fb38316ad8860d",
+      "width": 1200,
+      "height": 1600,
+      "size": 2249777,
+      "uploadedDate": "2020-08-31T16:21:45.485Z"
+    }
+  ],
+  "creationDate": "2020-08-24T12:17:34.617+00:00",
+  "lastModifiedDate": "2020-09-08T16:49:45.833+00:00",
+  "developer": "THQ Nordic GmbH",
+  "developerId": "o-jywxgemg3dagnv6fymcngq3g29mc4j",
+  "applicationId": null
+}

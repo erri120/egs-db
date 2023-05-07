@@ -1,0 +1,32 @@
+{
+  "id": "41cb1afc8ffd4e52b0f19d6fe52b058c",
+  "title": "Ghost Recon Breakpoint Free Trial",
+  "description": "Ghost Recon Breakpoint Free Trial",
+  "namespace": "2dbd2f64abdc4bbab077424d5c85e01b",
+  "categories": "public/games/applications",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/item/2dbd2f64abdc4bbab077424d5c85e01b/grb-epic-fwe-herobanner-3840x2160-uk-3840x2160-05e8efe9a305_3840x2160-ae7218c14c22ddfd27c52b08750412d2",
+      "md5": "ae7218c14c22ddfd27c52b08750412d2",
+      "width": 3840,
+      "height": 2160,
+      "size": 620211,
+      "uploadedDate": "2021-11-04T05:30:20.807Z"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/item/2dbd2f64abdc4bbab077424d5c85e01b/grb-epic-fwe-portrait-1200x1600-uk-1200x1600-b7408222e519_1200x1600-ebcc8b0aafdb81a4f3bbf5cd8e0257e4",
+      "md5": "ebcc8b0aafdb81a4f3bbf5cd8e0257e4",
+      "width": 1200,
+      "height": 1600,
+      "size": 166904,
+      "uploadedDate": "2021-11-04T05:30:37.442Z"
+    }
+  ],
+  "creationDate": "2020-02-04T22:47:39.94+00:00",
+  "lastModifiedDate": "2021-11-08T16:58:36.359+00:00",
+  "developer": "Ubisoft Entertainment",
+  "developerId": "o-3efjudxdtgsqnulml4bkeq3v9nec38",
+  "applicationId": ""
+}

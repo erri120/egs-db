@@ -1,0 +1,32 @@
+{
+  "id": "f7a84775f1cd4c78a11c7d65138b1980",
+  "title": "ReadySet Heroes",
+  "description": "ReadySet Heroes Ready Set",
+  "namespace": "7f498fbf0a4e43239d58eee6615ae806",
+  "categories": "public/games/applications",
+  "keyImages": [
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/7f498fbf0a4e43239d58eee6615ae806/item/RSH_Tall-1024x1024-740e52b0bfde3215a614c027175dc9a9.jpg",
+      "md5": "740e52b0bfde3215a614c027175dc9a9",
+      "width": 1024,
+      "height": 1024,
+      "size": 89371,
+      "uploadedDate": "2019-11-21T20:06:45.586Z"
+    },
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/7f498fbf0a4e43239d58eee6615ae806/item/RSH_Tall-1024x1024-740e52b0bfde3215a614c027175dc9a9.jpg",
+      "md5": "740e52b0bfde3215a614c027175dc9a9",
+      "width": 1024,
+      "height": 1024,
+      "size": 89371,
+      "uploadedDate": "2019-12-10T17:48:18.185Z"
+    }
+  ],
+  "creationDate": "2019-07-25T17:15:02.12+00:00",
+  "lastModifiedDate": "2019-12-19T15:57:49.211+00:00",
+  "developer": "Sony Interactive Entertainment",
+  "developerId": "o-sby9x4c2zlm5mb2z5r9ajue9pcqfs5",
+  "applicationId": null
+}

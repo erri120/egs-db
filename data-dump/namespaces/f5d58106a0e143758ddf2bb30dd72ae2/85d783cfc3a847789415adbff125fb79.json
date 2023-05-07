@@ -1,0 +1,32 @@
+{
+  "id": "85d783cfc3a847789415adbff125fb79",
+  "title": "Wheels of Auriela OST",
+  "description": "Wheels of Auriela OST",
+  "namespace": "f5d58106a0e143758ddf2bb30dd72ae2",
+  "categories": "public/digitalextras/games/applications",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/f5d58106a0e143758ddf2bb30dd72ae2/item/OST_02_1920x1080-1920x1080-4d533fdff7742cd7b508f11fb21818ef.png",
+      "md5": "4d533fdff7742cd7b508f11fb21818ef",
+      "width": 1920,
+      "height": 1080,
+      "size": 1250154,
+      "uploadedDate": "2020-04-09T14:31:27.498Z"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/f5d58106a0e143758ddf2bb30dd72ae2/item/EGS_WheelsofAurelia_SantaRagionesrl_S4-510x680-ba00b4c445cd80287aadda1075554063.jpg",
+      "md5": "ba00b4c445cd80287aadda1075554063",
+      "width": 510,
+      "height": 680,
+      "size": 165373,
+      "uploadedDate": "2020-04-09T14:31:42.918Z"
+    }
+  ],
+  "creationDate": "2020-02-10T20:01:09.853+00:00",
+  "lastModifiedDate": "2020-05-26T20:42:36.982+00:00",
+  "developer": "Santa Ragione",
+  "developerId": "o-cjwnkas5rn476tzk72fbh2ftutnc2y",
+  "applicationId": null
+}

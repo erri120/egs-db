@@ -1,0 +1,41 @@
+{
+  "id": "72c73bb4a566431f9e0ab6264cd376da",
+  "title": "MechWarrior 5 Pre-Purchase",
+  "description": "MechWarrior 5 Pre-Purchase",
+  "namespace": "b9def67e597b4be7a16146146a044d02",
+  "categories": "public/games/applications",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/b9def67e597b4be7a16146146a044d02/item/Game-Library-Photo-2560x1440-a30495a8c43ce841ac75c77c29f108d1.jpg",
+      "md5": "a30495a8c43ce841ac75c77c29f108d1",
+      "width": 2560,
+      "height": 1440,
+      "size": 504268,
+      "uploadedDate": "2019-12-07T01:49:28.928Z"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/b9def67e597b4be7a16146146a044d02/item/Game-Library-Photo-half-1280x1440-454844d621f2298ec227291bd487fe43.jpg",
+      "md5": "454844d621f2298ec227291bd487fe43",
+      "width": 1280,
+      "height": 1440,
+      "size": 494285,
+      "uploadedDate": "2019-12-07T01:50:01.572Z"
+    },
+    {
+      "type": "DieselGameBoxLogo",
+      "url": "https://cdn1.epicgames.com/b9def67e597b4be7a16146146a044d02/item/Game-Library-logo-200x200-90e2a0ddfefb35e1b64f016ec8f6ec31.png",
+      "md5": "90e2a0ddfefb35e1b64f016ec8f6ec31",
+      "width": 200,
+      "height": 200,
+      "size": 6143,
+      "uploadedDate": "2019-12-07T01:50:28.461Z"
+    }
+  ],
+  "creationDate": "2019-08-14T20:47:38.483+00:00",
+  "lastModifiedDate": "2020-11-06T13:39:01.271+00:00",
+  "developer": "Piranha Games",
+  "developerId": "o-muad9pj32k67stc4ycpgpplwq84sgq",
+  "applicationId": null
+}

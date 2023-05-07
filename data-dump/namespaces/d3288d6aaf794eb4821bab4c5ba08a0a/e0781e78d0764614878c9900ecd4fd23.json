@@ -1,0 +1,32 @@
+{
+  "id": "e0781e78d0764614878c9900ecd4fd23",
+  "title": "New Super Lucky\u0027s Tale",
+  "description": "New Super Lucky\u0027s Tale",
+  "namespace": "d3288d6aaf794eb4821bab4c5ba08a0a",
+  "categories": "public/games/applications",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/d3288d6aaf794eb4821bab4c5ba08a0a/item/EGS_NewSuperLuckysTale_PlayfulStudios_S1-2560x1440-f2f47a36ca35a8d3722b7f9bb1736050.jpg",
+      "md5": "f2f47a36ca35a8d3722b7f9bb1736050",
+      "width": 2560,
+      "height": 1440,
+      "size": 885724,
+      "uploadedDate": "2020-08-21T00:49:05.245Z"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/d3288d6aaf794eb4821bab4c5ba08a0a/item/EGS_NewSuperLuckysTale_PlayfulStudios_S2-1200x1600-0ef8ba427861736be6a7edfe4006d1e3.jpg",
+      "md5": "0ef8ba427861736be6a7edfe4006d1e3",
+      "width": 1200,
+      "height": 1600,
+      "size": 801723,
+      "uploadedDate": "2020-08-21T00:48:41.36Z"
+    }
+  ],
+  "creationDate": "2020-05-09T02:25:03.695+00:00",
+  "lastModifiedDate": "2020-08-21T11:49:32.846+00:00",
+  "developer": "Playful Studios",
+  "developerId": "o-gf6fqdtucpxrnnl5nzhfagm8lbavrs",
+  "applicationId": "fghi4567L4aP51Or9VKmWMEAXD7dX1i2"
+}

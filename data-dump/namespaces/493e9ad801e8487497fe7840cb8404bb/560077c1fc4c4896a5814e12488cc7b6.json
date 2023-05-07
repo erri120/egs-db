@@ -1,0 +1,23 @@
+{
+  "id": "560077c1fc4c4896a5814e12488cc7b6",
+  "title": "Pack X Audience",
+  "description": "Pack X Audience",
+  "namespace": "493e9ad801e8487497fe7840cb8404bb",
+  "categories": "",
+  "keyImages": [
+    {
+      "type": "ESRB",
+      "url": "https://cdn1.epicgames.com/493e9ad801e8487497fe7840cb8404bb/item/ESRB_NoDescriptors_UsersInteract-842x485-c55c3b08996eb8487d4a6956c84d6d66.jpg",
+      "md5": "c55c3b08996eb8487d4a6956c84d6d66",
+      "width": 842,
+      "height": 485,
+      "size": 86271,
+      "uploadedDate": "2020-01-23T14:40:08.622Z"
+    }
+  ],
+  "creationDate": "2019-11-20T21:37:11.78+00:00",
+  "lastModifiedDate": "2022-04-19T20:46:01.136+00:00",
+  "developer": "Focus Home",
+  "developerId": "o-wt4zxeetmq6jem7qp4pkssr46aenj5",
+  "applicationId": null
+}

@@ -1,0 +1,32 @@
+{
+  "id": "38c07a09dc174b69b756aa51890c3dd4",
+  "title": "Celeste",
+  "description": "Celeste",
+  "namespace": "b671fbc7be424e888c9346a9a6d3d9db",
+  "categories": "public/games/applications",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/item/b671fbc7be424e888c9346a9a6d3d9db/Celeste-landscapeofferimage-2560x1440-0b9b94fd493d817704ecfdf4c704989a_2560x1440-0b9b94fd493d817704ecfdf4c704989a",
+      "md5": "0b9b94fd493d817704ecfdf4c704989a",
+      "width": 2560,
+      "height": 1440,
+      "size": 1468354,
+      "uploadedDate": "2022-09-08T14:36:30.021Z"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/item/b671fbc7be424e888c9346a9a6d3d9db/CodeRedemption_Celeste-340x440-873dacb76be8c59d659757b4b5284a611_1200x1600-9e39079f1ce19738e65d349a8bc98650",
+      "md5": "9e39079f1ce19738e65d349a8bc98650",
+      "width": 1200,
+      "height": 1600,
+      "size": 659287,
+      "uploadedDate": "2022-09-08T15:34:59.205Z"
+    }
+  ],
+  "creationDate": "2019-08-05T14:11:02.459+00:00",
+  "lastModifiedDate": "2023-02-28T19:30:42.031+00:00",
+  "developer": "Maddy Makes Games",
+  "developerId": "o-82l4kr2zqqhkqqa6mkut4pjx9lma3h",
+  "applicationId": ""
+}

@@ -1,0 +1,41 @@
+{
+  "id": "817b59a71fea4f39a48c471d04146914",
+  "title": "Far Cry New Dawn",
+  "description": "Far Cry New Dawn",
+  "namespace": "cumin",
+  "categories": "",
+  "keyImages": [
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/cumin/item/FCND_S2-FAR-CRY-ND-1280x1440-56f859f37b378e97f4a9de08c70bd9ca.jpg",
+      "md5": "56f859f37b378e97f4a9de08c70bd9ca",
+      "width": 1280,
+      "height": 1440,
+      "size": 282514,
+      "uploadedDate": "2020-02-10T03:36:37.525Z"
+    },
+    {
+      "type": "DieselGameBoxLogo",
+      "url": "https://cdn1.epicgames.com/cumin/item/FCND_Logo_Color_1000x375-1000x375-59a48f3b9e198802e498df61be92e27b.png",
+      "md5": "59a48f3b9e198802e498df61be92e27b",
+      "width": 1000,
+      "height": 375,
+      "size": 182047,
+      "uploadedDate": "2020-02-10T03:36:51.744Z"
+    },
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/cumin/item/FCND_S1FARCRYND_2560x1440-2560x1440-994f99f3e1f6240560a69cb1503da1cb.jpg",
+      "md5": "994f99f3e1f6240560a69cb1503da1cb",
+      "width": 2560,
+      "height": 1440,
+      "size": 977892,
+      "uploadedDate": "2020-02-18T19:40:40.137Z"
+    }
+  ],
+  "creationDate": "2019-04-02T20:47:45.034+00:00",
+  "lastModifiedDate": "2020-02-18T19:41:34.453+00:00",
+  "developer": "Ubisoft Entertainment",
+  "developerId": "o-3efjudxdtgsqnulml4bkeq3v9nec38",
+  "applicationId": null
+}

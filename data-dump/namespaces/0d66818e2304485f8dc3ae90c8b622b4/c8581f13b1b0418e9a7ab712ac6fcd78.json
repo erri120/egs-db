@@ -1,0 +1,32 @@
+{
+  "id": "c8581f13b1b0418e9a7ab712ac6fcd78",
+  "title": "Shadowrun Hong Kong",
+  "description": "Shadowrun Hong Kong",
+  "namespace": "0d66818e2304485f8dc3ae90c8b622b4",
+  "categories": "public/games/applications",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/0d66818e2304485f8dc3ae90c8b622b4/item/EGS_ShadowrunHongKongExtendedEdition_HarebrainedSchemes_S1-2560x1440-8800b84ba18dc04405dbdf27d6c00299.jpg",
+      "md5": "8800b84ba18dc04405dbdf27d6c00299",
+      "width": 2560,
+      "height": 1440,
+      "size": 985717,
+      "uploadedDate": "2020-08-20T02:19:46.871Z"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/0d66818e2304485f8dc3ae90c8b622b4/item/EGS_ShadowrunHongKongExtendedEdition_HarebrainedSchemes_S2-1200x1600-9a14a369cd83dd9f3a84c2b7e51d8e63.jpg",
+      "md5": "9a14a369cd83dd9f3a84c2b7e51d8e63",
+      "width": 1200,
+      "height": 1600,
+      "size": 823923,
+      "uploadedDate": "2020-08-20T02:20:01.462Z"
+    }
+  ],
+  "creationDate": "2020-06-18T16:16:14.215+00:00",
+  "lastModifiedDate": "2020-09-03T14:57:14.739+00:00",
+  "developer": "Paradox Interactive",
+  "developerId": "o-tjvfg6rejs6h86qa7k9aa64rrgbxxb",
+  "applicationId": null
+}

@@ -1,0 +1,32 @@
+{
+  "id": "d6c4defc748b4026bb6b00aa4d0d7c0c",
+  "title": "This War of Mine",
+  "description": "This War of Mine",
+  "namespace": "91189432bbad4478afd611edff7f0339",
+  "categories": "public/games/applications",
+  "keyImages": [
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/item/91189432bbad4478afd611edff7f0339/EGS_ThisWarofMine_11bitstudiosSA_S4_1200x1600-117bcceb7b116f21e4935b154a9867e7",
+      "md5": "117bcceb7b116f21e4935b154a9867e7",
+      "width": 1200,
+      "height": 1600,
+      "size": 723181,
+      "uploadedDate": "2023-04-24T21:05:40.812Z"
+    },
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/item/91189432bbad4478afd611edff7f0339/EGS_ThisWarofMine_11bitstudiosSA_S3_2560x1440-9da5d195855aae604c15df4dd745b999",
+      "md5": "9da5d195855aae604c15df4dd745b999",
+      "width": 2560,
+      "height": 1440,
+      "size": 814806,
+      "uploadedDate": "2023-04-24T21:05:43.548Z"
+    }
+  ],
+  "creationDate": "2019-07-10T17:36:07.016+00:00",
+  "lastModifiedDate": "2023-04-24T21:05:47.436+00:00",
+  "developer": "11 Bit Studios",
+  "developerId": "o-z8janbuqt5zvnkqwm35kc9wtdzxkhr",
+  "applicationId": "fghi4567QOVswifVLLEnW2NNF1mGJN0X"
+}

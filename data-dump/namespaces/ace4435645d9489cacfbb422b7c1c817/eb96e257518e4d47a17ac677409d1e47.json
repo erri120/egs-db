@@ -1,0 +1,32 @@
+{
+  "id": "eb96e257518e4d47a17ac677409d1e47",
+  "title": "SAMURAI SHODOWN",
+  "description": "SAMURAI SHODOWN",
+  "namespace": "ace4435645d9489cacfbb422b7c1c817",
+  "categories": "public/games/applications",
+  "keyImages": [
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/ace4435645d9489cacfbb422b7c1c817/item/EGS_SAMURAISHODOWN_SNKCORPORATION_S2-860x1148-5d69fe40f4d47c3df84304461153e928.jpg",
+      "md5": "5d69fe40f4d47c3df84304461153e928",
+      "width": 860,
+      "height": 1148,
+      "size": 270213,
+      "uploadedDate": "2020-05-31T23:42:08.764Z"
+    },
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/ace4435645d9489cacfbb422b7c1c817/item/EGS_SAMURAISHODOWN_SNKCORPORATION_S1-2560x1440-3944d8fd1380c786c06e63188d94f8f2.jpg",
+      "md5": "3944d8fd1380c786c06e63188d94f8f2",
+      "width": 2560,
+      "height": 1440,
+      "size": 488597,
+      "uploadedDate": "2020-05-31T23:42:16.406Z"
+    }
+  ],
+  "creationDate": "2019-12-04T20:15:15.925+00:00",
+  "lastModifiedDate": "2020-06-11T14:18:05.103+00:00",
+  "developer": "SNK CORPORATION",
+  "developerId": "o-bse2s8gp28ptrv924lby79vx66vsz6",
+  "applicationId": "fghi4567tUzX5W9uhE6UkiERU2u5BEec"
+}

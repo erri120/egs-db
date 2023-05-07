@@ -1,0 +1,32 @@
+{
+  "id": "00071b7175d04d1d88975d3901002dfc",
+  "title": "Costume Quest",
+  "description": "Costume Quest",
+  "namespace": "d1479d6f93fa4e6ca4415e83a7a5d703",
+  "categories": "public/games/applications",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/item/d1479d6f93fa4e6ca4415e83a7a5d703/landscape1_2560x1440-4931d496c5b86ffdc64226814666bb1b",
+      "md5": "4931d496c5b86ffdc64226814666bb1b",
+      "width": 2560,
+      "height": 1440,
+      "size": 957894,
+      "uploadedDate": "2023-02-22T18:10:51.31Z"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/item/d1479d6f93fa4e6ca4415e83a7a5d703/portrait1_1200x1600-6f8c8a9155ebaff95f53b91647b86f77",
+      "md5": "6f8c8a9155ebaff95f53b91647b86f77",
+      "width": 1200,
+      "height": 1600,
+      "size": 397777,
+      "uploadedDate": "2023-02-22T18:10:53.684Z"
+    }
+  ],
+  "creationDate": "2019-10-04T22:04:57.965+00:00",
+  "lastModifiedDate": "2023-02-22T18:11:01.339+00:00",
+  "developer": "Double Fine",
+  "developerId": "o-5a763b52xcghd2yclvn8t5jdlfhlrv",
+  "applicationId": ""
+}

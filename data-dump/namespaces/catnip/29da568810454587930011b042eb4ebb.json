@@ -1,0 +1,41 @@
+{
+  "id": "29da568810454587930011b042eb4ebb",
+  "title": "Retro Cosmetic Pack Audience",
+  "description": "Retro Cosmetic Pack Audience",
+  "namespace": "catnip",
+  "categories": "",
+  "keyImages": [
+    {
+      "type": "ESRB",
+      "url": "https://cdn1.epicgames.com/catnip/item/ESRB_M_Borderlands3-842x485-275d74057f4825477e1f7f17f8cf0abc.jpg",
+      "md5": "275d74057f4825477e1f7f17f8cf0abc",
+      "width": 842,
+      "height": 485,
+      "size": 134137,
+      "uploadedDate": "2020-01-07T22:47:04.459Z"
+    },
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/item/catnip/2KGMKT_BL3_RETROPACK_EPIC_SOCIAL_490x276-490x276-6ce80321a61e70d75dce2c8c4e75cf2e425bb629_490x276-6d8bdc452cb2a96bcdb91a793ac1c0bd",
+      "md5": "6d8bdc452cb2a96bcdb91a793ac1c0bd",
+      "width": 490,
+      "height": 276,
+      "size": 71179,
+      "uploadedDate": "2023-01-19T17:37:26.797Z"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/item/catnip/2KGMKT_BL3_RETRO_PACK_SONY_STORE_HERO_1200x1600_1200x1600-5548a3610ec8108e4f8ede1056987096",
+      "md5": "5548a3610ec8108e4f8ede1056987096",
+      "width": 1200,
+      "height": 1600,
+      "size": 932545,
+      "uploadedDate": "2023-01-19T17:37:29.689Z"
+    }
+  ],
+  "creationDate": "2019-04-02T22:28:42.706+00:00",
+  "lastModifiedDate": "2023-01-19T21:12:26.566+00:00",
+  "developer": "2K Games, Inc.",
+  "developerId": "o-37m6jbj5wcvrcvm4wusv7nazdfvbjk",
+  "applicationId": ""
+}

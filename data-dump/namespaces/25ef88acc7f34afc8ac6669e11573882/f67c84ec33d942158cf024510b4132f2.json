@@ -1,0 +1,23 @@
+{
+  "id": "f67c84ec33d942158cf024510b4132f2",
+  "title": "PochardGeneralAudience",
+  "description": "PochardGeneralAudience",
+  "namespace": "25ef88acc7f34afc8ac6669e11573882",
+  "categories": "",
+  "keyImages": [
+    {
+      "type": "ESRB",
+      "url": "https://cdn1.epicgames.com/25ef88acc7f34afc8ac6669e11573882/item/ESRB_Bloodroots-842x404-00b0b338ad0f998a205ce62fda4ff21b.jpg",
+      "md5": "00b0b338ad0f998a205ce62fda4ff21b",
+      "width": 842,
+      "height": 404,
+      "size": 101440,
+      "uploadedDate": "2019-12-11T18:15:19.547Z"
+    }
+  ],
+  "creationDate": "2019-10-29T00:10:01.52+00:00",
+  "lastModifiedDate": "2020-05-15T01:51:37.965+00:00",
+  "developer": "Paper Cult",
+  "developerId": "o-6fych9fc46deb48wb6fw8th6695pnl",
+  "applicationId": null
+}

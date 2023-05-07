@@ -1,0 +1,23 @@
+{
+  "id": "2ef316070af746dfb4a5254fc9404100",
+  "title": "HeronGeneralAudience",
+  "description": "HeronGeneralAudience",
+  "namespace": "00b9ec358e1f46daa4f8e1194d5081d8",
+  "categories": "",
+  "keyImages": [
+    {
+      "type": "ESRB",
+      "url": "https://cdn1.epicgames.com/00b9ec358e1f46daa4f8e1194d5081d8/item/AlanWake_T_ESRB-842x404-89e2dac7616ed4723320ebc0b12ae37b.jpg",
+      "md5": "89e2dac7616ed4723320ebc0b12ae37b",
+      "width": 842,
+      "height": 404,
+      "size": 92548,
+      "uploadedDate": "2020-01-20T14:51:09.806Z"
+    }
+  ],
+  "creationDate": "2019-07-22T19:13:35.087+00:00",
+  "lastModifiedDate": "2020-01-20T15:00:00.419+00:00",
+  "developer": "Remedy Entertainment",
+  "developerId": "o-sdmmvl8pftrkwfy86bjp286kuwhnsq",
+  "applicationId": null
+}

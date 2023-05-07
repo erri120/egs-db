@@ -1,0 +1,41 @@
+{
+  "id": "577ec00bee704658a80b0dbcdd50c39b",
+  "title": "RollerCoaster Tycoon Adventures",
+  "description": "RollerCoaster Tycoon Adventures",
+  "namespace": "canna",
+  "categories": "",
+  "keyImages": [
+    {
+      "type": "DieselGameBoxLogo",
+      "url": "https://cdn1.epicgames.com/canna/item/RCTA_Logo-2580x1450-58f63b43913fe30cde0f03b5c9f50e4c-2580x1450-58f63b43913fe30cde0f03b5c9f50e4c.png",
+      "md5": "58f63b43913fe30cde0f03b5c9f50e4c",
+      "width": 2580,
+      "height": 1450,
+      "size": 105577,
+      "uploadedDate": "2019-03-19T14:46:40.904Z"
+    },
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/canna/item/RCTA_Promo-2580x1450-46b62500619ee363ed72995fa885daf8.jpg",
+      "md5": "46b62500619ee363ed72995fa885daf8",
+      "width": 2580,
+      "height": 1450,
+      "size": 404336,
+      "uploadedDate": "2019-04-24T14:20:30.355Z"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/canna/item/RCTA_Portrait Promo-1280x1420-3f30573dfe307fc859774d83c87c4a28.jpg",
+      "md5": "3f30573dfe307fc859774d83c87c4a28",
+      "width": 1280,
+      "height": 1420,
+      "size": 255652,
+      "uploadedDate": "2019-10-22T09:41:44.79Z"
+    }
+  ],
+  "creationDate": "2019-02-27T18:01:58.693+00:00",
+  "lastModifiedDate": "2019-11-19T17:03:37.856+00:00",
+  "developer": "Atari",
+  "developerId": "o-bhpk86rgthezed539g3hb5avacecqt",
+  "applicationId": null
+}

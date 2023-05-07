@@ -1,0 +1,23 @@
+{
+  "id": "d069133b62da478e9cdef994bdb22f14",
+  "title": "Call_To_Action_01",
+  "description": "Report Bugs Here!",
+  "namespace": "crab",
+  "categories": "layoutcontent",
+  "keyImages": [
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/crab/item/ResourceImage1_QA-960x497-15d43cfdc5e03cff547c97c4343d6508.png",
+      "md5": "15d43cfdc5e03cff547c97c4343d6508",
+      "width": 960,
+      "height": 497,
+      "size": 372798,
+      "uploadedDate": "2018-10-17T14:04:17.017Z"
+    }
+  ],
+  "creationDate": "2018-10-17T14:04:25.128+00:00",
+  "lastModifiedDate": "2019-05-14T17:02:13.352+00:00",
+  "developer": "Epic Games",
+  "developerId": "o-aa83a0a9bc45e98c80c1b1c9d92e9e",
+  "applicationId": null
+}

@@ -1,0 +1,23 @@
+{
+  "id": "390e445663d14a2c893e736896977493",
+  "title": "PetrelGeneralAudience",
+  "description": "PetrelGeneralAudience",
+  "namespace": "43605e89e49d438485298819a7ef17b4",
+  "categories": "",
+  "keyImages": [
+    {
+      "type": "ESRB",
+      "url": "https://cdn1.epicgames.com/43605e89e49d438485298819a7ef17b4/item/ESRB_Minit-842x404-fd006133959d3dabf2d41602a6c98f6e.png",
+      "md5": "fd006133959d3dabf2d41602a6c98f6e",
+      "width": 842,
+      "height": 404,
+      "size": 43591,
+      "uploadedDate": "2019-09-25T14:43:02.873Z"
+    }
+  ],
+  "creationDate": "2019-08-16T20:23:26.255+00:00",
+  "lastModifiedDate": "2019-10-03T18:01:32.182+00:00",
+  "developer": "Devolver Digital, Inc.",
+  "developerId": "o-plnhdz2wfx5etjjeh88szjqy2gx8gw",
+  "applicationId": null
+}

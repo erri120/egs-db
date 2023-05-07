@@ -1,0 +1,32 @@
+{
+  "id": "b75777c9b733409caa923a0b758cc9cb",
+  "title": "DaffodilStaging",
+  "description": "DaffodilStaging",
+  "namespace": "daffodil",
+  "categories": "",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/daffodil/item/OmenOfSorrow_Promo_GamepagePromo-2580x1450-b567186c1af669bb4f09a4a0c2b5673b.jpg",
+      "md5": "b567186c1af669bb4f09a4a0c2b5673b",
+      "width": 2580,
+      "height": 1450,
+      "size": 334653,
+      "uploadedDate": "2019-02-22T22:51:08.594Z"
+    },
+    {
+      "type": "DieselGameBoxLogo",
+      "url": "https://cdn1.epicgames.com/daffodil/item/OmenOfSorrow_Logo_White-1920x1080-28159d954b5f8f050a648c34975cb353.png",
+      "md5": "28159d954b5f8f050a648c34975cb353",
+      "width": 1920,
+      "height": 1080,
+      "size": 22376,
+      "uploadedDate": "2019-02-22T22:51:26.46Z"
+    }
+  ],
+  "creationDate": "2019-02-22T22:53:04.308+00:00",
+  "lastModifiedDate": "2019-06-20T14:58:29.652+00:00",
+  "developer": "AOne Games",
+  "developerId": "o-ee2mpv5fbfg9j22arjrh7vjmypew5q",
+  "applicationId": null
+}

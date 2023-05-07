@@ -1,0 +1,32 @@
+{
+  "id": "ec6909f20174408bbd7083c86c5e812f",
+  "title": "Super Buckyball Tournament",
+  "description": "Super Buckyball Tournament",
+  "namespace": "8410292c5be74572bbcc811a3a7ec0c5",
+  "categories": "public/games/applications",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/item/8410292c5be74572bbcc811a3a7ec0c5/EGS_SuperBuckyballTournament_PatheaGames_S1_2560x1440-4f18fd46c296f84578c372026a3e014c",
+      "md5": "4f18fd46c296f84578c372026a3e014c",
+      "width": 2560,
+      "height": 1440,
+      "size": 929907,
+      "uploadedDate": "2021-12-06T07:12:46.876Z"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/item/8410292c5be74572bbcc811a3a7ec0c5/EGS_SuperBuckyballTournament_PatheaGames_S2_1200x1600-afa74d0b852d10764f37c2e67728766f",
+      "md5": "afa74d0b852d10764f37c2e67728766f",
+      "width": 1200,
+      "height": 1600,
+      "size": 662589,
+      "uploadedDate": "2021-12-06T07:12:50.236Z"
+    }
+  ],
+  "creationDate": "2021-09-23T19:27:04.035+00:00",
+  "lastModifiedDate": "2021-12-06T07:25:28.661+00:00",
+  "developer": "PatheaGames",
+  "developerId": "o-7ukp2mejsacwbpdud8qmv2npsqwbt4",
+  "applicationId": ""
+}

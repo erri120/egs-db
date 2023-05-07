@@ -1,0 +1,23 @@
+{
+  "id": "aeee0bdf01f44f9ba56751358f00850a",
+  "title": "DodoGeneralAudience",
+  "description": "DodoGeneralAudience",
+  "namespace": "f4a7772a4da24870a3ea6dfb8aeac662",
+  "categories": "",
+  "keyImages": [
+    {
+      "type": "ESRB",
+      "url": "https://cdn1.epicgames.com/f4a7772a4da24870a3ea6dfb8aeac662/item/BL2_ESRB-378x200-c7ff44e41e9244bf42c97effef69a795.png",
+      "md5": "c7ff44e41e9244bf42c97effef69a795",
+      "width": 378,
+      "height": 200,
+      "size": 18560,
+      "uploadedDate": "2020-05-22T18:24:35.824Z"
+    }
+  ],
+  "creationDate": "2019-07-10T14:45:27.883+00:00",
+  "lastModifiedDate": "2020-05-28T14:30:39.506+00:00",
+  "developer": "2K Games, Inc.",
+  "developerId": "o-37m6jbj5wcvrcvm4wusv7nazdfvbjk",
+  "applicationId": null
+}

@@ -1,0 +1,32 @@
+{
+  "id": "8b5662b78bcd474dafbbb0abec736ff0",
+  "title": "CinnamonStaging",
+  "description": "CinnamonStaging",
+  "namespace": "cinnamon",
+  "categories": "",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/cinnamon/item/Diesel_product_cinnamon_home_EGS_DEVELOPER_SherlockHolmes_G1_KeyArt-1500x844-5fc1e88618a5062df322e203bafd78562200668b-1500x844-369bd41767129916a11c17f8749521ad.jpg",
+      "md5": "369bd41767129916a11c17f8749521ad",
+      "width": 1500,
+      "height": 844,
+      "size": 250714,
+      "uploadedDate": "2019-04-25T14:19:07.714Z"
+    },
+    {
+      "type": "DieselGameBoxLogo",
+      "url": "https://cdn1.epicgames.com/cinnamon/item/Diesel_product_cinnamon_home_EGS_DEVELOPER_SherlockHolmes_IC1-_WHITE-1521x570-5c96079d03b9af74281a2c00dd1d60489c64ef80-1521x570-b680a6fbc8682026b7c89ae6d31e94d9.png",
+      "md5": "b680a6fbc8682026b7c89ae6d31e94d9",
+      "width": 1521,
+      "height": 570,
+      "size": 37949,
+      "uploadedDate": "2019-04-25T14:19:26.55Z"
+    }
+  ],
+  "creationDate": "2019-03-20T03:15:15.921+00:00",
+  "lastModifiedDate": "2021-06-23T00:50:47.575+00:00",
+  "developer": "Frogwares",
+  "developerId": "o-rlw9u3sem84g2hc3ur36dqnp7wul3j",
+  "applicationId": ""
+}

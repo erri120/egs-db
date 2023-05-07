@@ -1,0 +1,41 @@
+{
+  "id": "78e91fdb733f4c55a3527ab7c8b8d956",
+  "title": "Outward Pre-Purchase",
+  "description": "Outward Pre-Purchase",
+  "namespace": "viola",
+  "categories": "",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/viola/item/Outward_Library_Primary_Promo-2580x1450-b43736b199cbfee47352878ea4422d1c.jpg",
+      "md5": "b43736b199cbfee47352878ea4422d1c",
+      "width": 2580,
+      "height": 1450,
+      "size": 481796,
+      "uploadedDate": "2019-02-25T19:19:17.056Z"
+    },
+    {
+      "type": "DieselGameBoxLogo",
+      "url": "https://cdn1.epicgames.com/viola/item/Game_Logo_Outward-2000x874-1e18c8e143296bbaa1f9e3d44a4d6d4b.png",
+      "md5": "1e18c8e143296bbaa1f9e3d44a4d6d4b",
+      "width": 2000,
+      "height": 874,
+      "size": 245342,
+      "uploadedDate": "2019-02-25T19:19:25.497Z"
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/viola/item/Outward_Game_Icon-400x400-a46019362554d2068c7c732a4cb6b9ce.png",
+      "md5": "a46019362554d2068c7c732a4cb6b9ce",
+      "width": 400,
+      "height": 400,
+      "size": 56470,
+      "uploadedDate": "2019-02-25T19:19:33.91Z"
+    }
+  ],
+  "creationDate": "2019-02-25T19:19:45.477+00:00",
+  "lastModifiedDate": "2022-05-17T16:32:16.949+00:00",
+  "developer": "Epic Dev Test Account",
+  "developerId": "o-ufmrk5furrrxgsp5tdngefzt5rxdcn",
+  "applicationId": null
+}

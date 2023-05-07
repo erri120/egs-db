@@ -1,0 +1,23 @@
+{
+  "id": "6992654ef5a545c1adba1e6c6f74d5d9",
+  "title": "MayflowerPremiumEditionAudience",
+  "description": "MayflowerPremiumEditionAudience",
+  "namespace": "2744acda6a2e493e9894b389b6564df7",
+  "categories": "",
+  "keyImages": [
+    {
+      "type": "ESRB",
+      "url": "https://cdn1.epicgames.com/2744acda6a2e493e9894b389b6564df7/item/ESRB_NoDescriptors_UsersInteract-842x485-c55c3b08996eb8487d4a6956c84d6d66.jpg",
+      "md5": "c55c3b08996eb8487d4a6956c84d6d66",
+      "width": 842,
+      "height": 485,
+      "size": 86271,
+      "uploadedDate": "2020-02-14T19:02:46.331Z"
+    }
+  ],
+  "creationDate": "2020-01-09T22:33:55.198+00:00",
+  "lastModifiedDate": "2022-12-08T09:53:16.184+00:00",
+  "developer": "Focus Home",
+  "developerId": "o-wt4zxeetmq6jem7qp4pkssr46aenj5",
+  "applicationId": null
+}

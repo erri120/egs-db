@@ -1,0 +1,23 @@
+{
+  "id": "97e1ed3c980041aab09b95bb57bebc0d",
+  "title": "MayFlowerBetaAudience",
+  "description": "MayFlowerBetaAudience",
+  "namespace": "2744acda6a2e493e9894b389b6564df7",
+  "categories": "",
+  "keyImages": [
+    {
+      "type": "ESRB",
+      "url": "https://cdn1.epicgames.com/2744acda6a2e493e9894b389b6564df7/item/ESRB_NoDescriptors_UsersInteract-842x485-c55c3b08996eb8487d4a6956c84d6d66.jpg",
+      "md5": "c55c3b08996eb8487d4a6956c84d6d66",
+      "width": 842,
+      "height": 485,
+      "size": 86271,
+      "uploadedDate": "2020-02-14T19:09:29.245Z"
+    }
+  ],
+  "creationDate": "2020-06-11T19:11:51.012+00:00",
+  "lastModifiedDate": "2021-05-17T23:59:31.792+00:00",
+  "developer": "Focus Home",
+  "developerId": "o-wt4zxeetmq6jem7qp4pkssr46aenj5",
+  "applicationId": null
+}

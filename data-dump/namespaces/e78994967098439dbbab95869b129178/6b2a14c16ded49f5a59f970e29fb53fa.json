@@ -1,0 +1,32 @@
+{
+  "id": "6b2a14c16ded49f5a59f970e29fb53fa",
+  "title": "Rogue State Revolution",
+  "description": "Rogue State Revolution",
+  "namespace": "e78994967098439dbbab95869b129178",
+  "categories": "public/games/applications",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/e78994967098439dbbab95869b129178/item/EGS_RogueStateRevolution_LittleRedDogGames_S1-2560x1440-004f9b3592dcbc884b69b59d9e7f990e.jpg",
+      "md5": "004f9b3592dcbc884b69b59d9e7f990e",
+      "width": 2560,
+      "height": 1440,
+      "size": 1023281,
+      "uploadedDate": "2021-03-17T18:47:34.649Z"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/e78994967098439dbbab95869b129178/item/EGS_RogueStateRevolution_LittleRedDogGames_S2-1200x1600-8227d157250b6ba99905ce23eb131bd0.jpg",
+      "md5": "8227d157250b6ba99905ce23eb131bd0",
+      "width": 1200,
+      "height": 1600,
+      "size": 996875,
+      "uploadedDate": "2021-03-17T18:47:38.945Z"
+    }
+  ],
+  "creationDate": "2021-02-18T20:36:07.117+00:00",
+  "lastModifiedDate": "2021-03-18T14:36:18.016+00:00",
+  "developer": "Modern Wolf Limited",
+  "developerId": "o-7m97jbu7n746xhp5m28523c42d5nd6",
+  "applicationId": null
+}

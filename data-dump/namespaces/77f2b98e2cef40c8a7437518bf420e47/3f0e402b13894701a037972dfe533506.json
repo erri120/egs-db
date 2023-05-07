@@ -1,0 +1,23 @@
+{
+  "id": "3f0e402b13894701a037972dfe533506",
+  "title": "Cyberpunk 2077 General Audience",
+  "description": "Cyberpunk 2077 General Audience",
+  "namespace": "77f2b98e2cef40c8a7437518bf420e47",
+  "categories": "",
+  "keyImages": [
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/77f2b98e2cef40c8a7437518bf420e47/item/EGS_CDPROJEKTRED_CYBERPUNK2077_S3_DESCRIPTION-1280x1440-58949bccc0886694cf24d8c0f153d250.jpg",
+      "md5": "58949bccc0886694cf24d8c0f153d250",
+      "width": 1280,
+      "height": 1440,
+      "size": 161300,
+      "uploadedDate": "2019-10-22T09:41:44.79Z"
+    }
+  ],
+  "creationDate": "2019-06-07T19:03:29.123+00:00",
+  "lastModifiedDate": "2022-03-22T15:59:45.553+00:00",
+  "developer": "CD PROJEKT RED",
+  "developerId": "o-x2vdjaf7cfakvlsgz8qf2gx8bkplcc",
+  "applicationId": "fghi4567IPhGxMKkLZjwrBzdjtpJgMbv"
+}

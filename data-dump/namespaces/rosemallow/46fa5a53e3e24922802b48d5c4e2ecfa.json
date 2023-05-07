@@ -1,0 +1,32 @@
+{
+  "id": "46fa5a53e3e24922802b48d5c4e2ecfa",
+  "title": "Rosemallow DLC01 Staging",
+  "description": "Rosemallow DLC01 Staging",
+  "namespace": "rosemallow",
+  "categories": "",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/rosemallow/item/Diesel_product_rosemallow_home_EGS_Obsidian_OuterWorlds_N1_2560x1440-2560x1440-0302c1c0d01f50c0ac3b23d86d541546251c1645-2560x1440-86c56419e01e11478501598a200de2bc.png",
+      "md5": "86c56419e01e11478501598a200de2bc",
+      "width": 2560,
+      "height": 1440,
+      "size": 1355869,
+      "uploadedDate": "2019-06-04T18:55:20.353Z"
+    },
+    {
+      "type": "DieselGameBoxLogo",
+      "url": "https://cdn1.epicgames.com/rosemallow/item/The-Outer-Worlds-Logo-BLK-1604x721-364395cea772d6afe3e8538e74afc33e.png",
+      "md5": "364395cea772d6afe3e8538e74afc33e",
+      "width": 1604,
+      "height": 721,
+      "size": 19873,
+      "uploadedDate": "2019-06-04T18:55:27.398Z"
+    }
+  ],
+  "creationDate": "2020-02-10T16:43:16.357+00:00",
+  "lastModifiedDate": "2020-10-23T14:06:24.573+00:00",
+  "developer": "Private Division",
+  "developerId": "o-6emrb2lpzacm9ued3z37u42x56wkaz",
+  "applicationId": null
+}

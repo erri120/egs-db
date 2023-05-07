@@ -1,0 +1,32 @@
+{
+  "id": "7e3b3df10155434793b0cc5e97b896d0",
+  "title": "Let\u0027s Build a Zoo",
+  "description": "Let\u0027s Build a Zoo",
+  "namespace": "d74efb08c7f449928fcdfdba1dcbda48",
+  "categories": "public/games/applications",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_LetsBuildAZoo_Springloaded_S1_2560x1440-0fd216bea3b2356b701c483e6635b96b",
+      "md5": "0fd216bea3b2356b701c483e6635b96b",
+      "width": 2560,
+      "height": 1440,
+      "size": 829873,
+      "uploadedDate": "2022-02-09T22:13:50.447Z"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_LetsBuildAZoo_Springloaded_S2_1200x1600-9f546139acb9c27a75aee035db50cbb7",
+      "md5": "9f546139acb9c27a75aee035db50cbb7",
+      "width": 1200,
+      "height": 1600,
+      "size": 880725,
+      "uploadedDate": "2022-02-09T22:14:01.777Z"
+    }
+  ],
+  "creationDate": "2021-04-21T21:40:26.354+00:00",
+  "lastModifiedDate": "2022-07-07T12:37:31.077+00:00",
+  "developer": "No More Robots",
+  "developerId": "o-236t9erksuklvbpwrddx5953wndtps",
+  "applicationId": ""
+}

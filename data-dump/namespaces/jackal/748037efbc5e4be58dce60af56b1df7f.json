@@ -1,0 +1,23 @@
+{
+  "id": "748037efbc5e4be58dce60af56b1df7f",
+  "title": "Dauntless - 5,000 (\u002B1,700 Bonus) Platinum",
+  "description": "Dauntless - 5,000 (\u002B1,700 Bonus) Platinum",
+  "namespace": "jackal",
+  "categories": "",
+  "keyImages": [
+    {
+      "type": "ESRB",
+      "url": "https://cdn1.epicgames.com/jackal/item/ESRB_Dauntless_T-1080x516-23b23f06c04aa11263b4f2e9fd9deb0c.jpg",
+      "md5": "23b23f06c04aa11263b4f2e9fd9deb0c",
+      "width": 1080,
+      "height": 516,
+      "size": 36613,
+      "uploadedDate": "2019-05-21T14:12:06.062Z"
+    }
+  ],
+  "creationDate": "2019-04-08T21:09:41.515+00:00",
+  "lastModifiedDate": "2020-09-17T16:58:56.249+00:00",
+  "developer": "Phoenix Labs",
+  "developerId": "o-krlzxj88qrtb69fredeuaf887bl5az",
+  "applicationId": null
+}

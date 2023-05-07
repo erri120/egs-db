@@ -1,0 +1,23 @@
+{
+  "id": "deabb71c0aee4125ae9e35f035beff72",
+  "title": "GermaniumGeneralAudience",
+  "description": "GermaniumGeneralAudience",
+  "namespace": "4a9527d6d2984bb39d527631b94ec7f2",
+  "categories": "",
+  "keyImages": [
+    {
+      "type": "ESRB",
+      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/ESRB_MotoGP21_842x485-7ad33f36d6fc2ead5edbc9e09351794b",
+      "md5": "7ad33f36d6fc2ead5edbc9e09351794b",
+      "width": 842,
+      "height": 485,
+      "size": 60064,
+      "uploadedDate": "2021-04-19T21:46:44.729Z"
+    }
+  ],
+  "creationDate": "2020-12-21T21:00:30.767+00:00",
+  "lastModifiedDate": "2021-04-22T14:42:43.146+00:00",
+  "developer": "Milestone Srl",
+  "developerId": "o-n7dnjfk8y2kzquszv8mfn55fg68f7a",
+  "applicationId": ""
+}

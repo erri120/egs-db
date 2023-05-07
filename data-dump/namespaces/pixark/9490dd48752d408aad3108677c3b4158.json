@@ -1,0 +1,41 @@
+{
+  "id": "9490dd48752d408aad3108677c3b4158",
+  "title": "PixArk",
+  "description": "PixArk",
+  "namespace": "pixark",
+  "categories": "",
+  "keyImages": [
+    {
+      "type": "DieselGameBoxLogo",
+      "url": "https://cdn1.epicgames.com/pixark/item/pixarklogo-1474x1152-05711a730aff9fbf94b42ef162111664.png",
+      "md5": "05711a730aff9fbf94b42ef162111664",
+      "width": 1474,
+      "height": 1152,
+      "size": 38616,
+      "uploadedDate": "2018-11-15T18:44:04.786Z"
+    },
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/pixark/item/pixarktile-516x290-d1652d229b096efdbd5422476fddd406-516x290-d1652d229b096efdbd5422476fddd406.jpg",
+      "md5": "d1652d229b096efdbd5422476fddd406",
+      "width": 516,
+      "height": 290,
+      "size": 98732,
+      "uploadedDate": "2018-12-06T20:32:56.937Z"
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/pixark/item/header-460x215-928f1c6cc1bf7f03129dec5188ffdae6.jpg",
+      "md5": "928f1c6cc1bf7f03129dec5188ffdae6",
+      "width": 460,
+      "height": 215,
+      "size": 113829,
+      "uploadedDate": "2018-12-06T23:24:06.377Z"
+    }
+  ],
+  "creationDate": "2018-06-25T17:20:46.711+00:00",
+  "lastModifiedDate": "2022-04-05T14:15:03.58+00:00",
+  "developer": "Snail Games USA",
+  "developerId": "o-33w3pktcfkzsmhns2qwp7mmr3z4nht",
+  "applicationId": ""
+}

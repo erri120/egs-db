@@ -1,0 +1,32 @@
+{
+  "id": "26734c6c01984fd882d72a18e81df681",
+  "title": "Human Resource Machine",
+  "description": "Human Resource Machine",
+  "namespace": "basil",
+  "categories": "",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/item/basil/EGS_HumanResourceMachine_TomorrowCorporation_S1_2560x1440-ea1281073444d2f46978ebe18b69f54a",
+      "md5": "ea1281073444d2f46978ebe18b69f54a",
+      "width": 2560,
+      "height": 1440,
+      "size": 962828,
+      "uploadedDate": "2022-11-01T18:22:36.922Z"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/item/basil/EGS_HumanResourceMachine_TomorrowCorporation_S2_1200x1600-cc77f5a73a9488836ae8fa580f09454c",
+      "md5": "cc77f5a73a9488836ae8fa580f09454c",
+      "width": 1200,
+      "height": 1600,
+      "size": 1035107,
+      "uploadedDate": "2022-11-01T18:22:39.097Z"
+    }
+  ],
+  "creationDate": "2019-02-15T17:34:31.041+00:00",
+  "lastModifiedDate": "2022-11-01T19:07:56.358+00:00",
+  "developer": "Tomorrow Corporation",
+  "developerId": "o-46fvj3lpt7r9n79axbrl8tkgfbe2j8",
+  "applicationId": ""
+}

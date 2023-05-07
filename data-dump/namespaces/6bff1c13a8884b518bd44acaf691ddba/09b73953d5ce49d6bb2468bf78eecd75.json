@@ -1,0 +1,23 @@
+{
+  "id": "09b73953d5ce49d6bb2468bf78eecd75",
+  "title": "BulbulWildsEditionAudience",
+  "description": "BulbulWildsEditionAudience",
+  "namespace": "6bff1c13a8884b518bd44acaf691ddba",
+  "categories": "",
+  "keyImages": [
+    {
+      "type": "ESRB",
+      "url": "https://cdn1.epicgames.com/6bff1c13a8884b518bd44acaf691ddba/item/ESRB_MudRunner-842x485-2499598a67bac9e8517c64b40a4b6cb2.png",
+      "md5": "2499598a67bac9e8517c64b40a4b6cb2",
+      "width": 842,
+      "height": 485,
+      "size": 62625,
+      "uploadedDate": "2020-11-18T20:26:50.468Z"
+    }
+  ],
+  "creationDate": "2020-01-09T23:54:57.908+00:00",
+  "lastModifiedDate": "2020-11-19T15:11:08.456+00:00",
+  "developer": "Focus Home",
+  "developerId": "o-wt4zxeetmq6jem7qp4pkssr46aenj5",
+  "applicationId": null
+}

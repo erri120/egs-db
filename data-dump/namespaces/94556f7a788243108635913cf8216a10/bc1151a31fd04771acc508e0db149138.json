@@ -1,0 +1,32 @@
+{
+  "id": "bc1151a31fd04771acc508e0db149138",
+  "title": "Dream Engines: Nomad Cities",
+  "description": "Dream Engines: Nomad Cities",
+  "namespace": "94556f7a788243108635913cf8216a10",
+  "categories": "public/games/applications",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_DreamEnginesNomadCities_Suncrash_S1_2560x1440-035cb1af5ebb996dd77e4cdb4c49b918",
+      "md5": "035cb1af5ebb996dd77e4cdb4c49b918",
+      "width": 2560,
+      "height": 1440,
+      "size": 816307,
+      "uploadedDate": "2021-07-13T21:32:17.745Z"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_DreamEnginesNomadCities_Suncrash_S2_1200x1600-905b076841dbb8f6878061f54b16cea5",
+      "md5": "905b076841dbb8f6878061f54b16cea5",
+      "width": 1200,
+      "height": 1600,
+      "size": 483941,
+      "uploadedDate": "2021-07-13T21:32:20.174Z"
+    }
+  ],
+  "creationDate": "2021-03-14T21:18:11.117+00:00",
+  "lastModifiedDate": "2021-07-14T13:19:18.825+00:00",
+  "developer": "Suncrash LTD",
+  "developerId": "o-r33h965zxp3mrmyzedrf65hn6cjevk",
+  "applicationId": ""
+}

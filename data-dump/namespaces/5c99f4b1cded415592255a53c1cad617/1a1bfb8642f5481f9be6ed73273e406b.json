@@ -1,0 +1,32 @@
+{
+  "id": "1a1bfb8642f5481f9be6ed73273e406b",
+  "title": "The Unfinished Swan",
+  "description": "The Unfinished Swan",
+  "namespace": "5c99f4b1cded415592255a53c1cad617",
+  "categories": "public/games/applications",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/5c99f4b1cded415592255a53c1cad617/item/EGS_TheUnfinishedSwan_GiantSparrow_S1-2560x1440-91343600983fb3667ba8d04e26d54196.jpg",
+      "md5": "91343600983fb3667ba8d04e26d54196",
+      "width": 2560,
+      "height": 1440,
+      "size": 159340,
+      "uploadedDate": "2020-08-25T21:24:09.226Z"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/5c99f4b1cded415592255a53c1cad617/item/EGS_TheUnfinishedSwan_GiantSparrow_S2-1200x1600-9950b20d20f362a591ace024949a43cc.jpg",
+      "md5": "9950b20d20f362a591ace024949a43cc",
+      "width": 1200,
+      "height": 1600,
+      "size": 116684,
+      "uploadedDate": "2020-08-25T21:24:17.155Z"
+    }
+  ],
+  "creationDate": "2020-08-17T22:14:19.663+00:00",
+  "lastModifiedDate": "2020-09-10T13:49:18.1+00:00",
+  "developer": "Annapurna Interactive",
+  "developerId": "o-bmeb3ztlbxkjc8vvpydava38yvmxlm",
+  "applicationId": null
+}

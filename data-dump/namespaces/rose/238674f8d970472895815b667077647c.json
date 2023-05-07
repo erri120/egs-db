@@ -1,0 +1,32 @@
+{
+  "id": "238674f8d970472895815b667077647c",
+  "title": "RoseStaging",
+  "description": "RoseStaging",
+  "namespace": "rose",
+  "categories": "",
+  "keyImages": [
+    {
+      "type": "DieselGameBoxLogo",
+      "url": "https://cdn1.epicgames.com/rose/item/EGS_CS_Kine_IC1_White-1181x651-d5d82b37397158bd63866bb9ad1c8adb.png",
+      "md5": "d5d82b37397158bd63866bb9ad1c8adb",
+      "width": 1181,
+      "height": 651,
+      "size": 19522,
+      "uploadedDate": "2019-08-01T18:01:21.241Z"
+    },
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/rose/item/EGS_CS_Kine_N1_Quat-2560x1440-fbf3a74178a709192c9f90b1214f4dc3.jpg",
+      "md5": "fbf3a74178a709192c9f90b1214f4dc3",
+      "width": 2560,
+      "height": 1440,
+      "size": 1197831,
+      "uploadedDate": "2019-08-13T18:43:25.889Z"
+    }
+  ],
+  "creationDate": "2019-03-18T15:22:39.862+00:00",
+  "lastModifiedDate": "2020-08-24T20:24:42.372+00:00",
+  "developer": "Gwen Frey",
+  "developerId": "o-na388hs5k2ak86akfejt2es246vaa2",
+  "applicationId": null
+}

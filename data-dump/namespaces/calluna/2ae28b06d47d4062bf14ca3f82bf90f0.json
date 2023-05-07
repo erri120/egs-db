@@ -1,0 +1,32 @@
+{
+  "id": "2ae28b06d47d4062bf14ca3f82bf90f0",
+  "title": "Control (Review)",
+  "description": "Control (Review)",
+  "namespace": "calluna",
+  "categories": "",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/item/calluna/Control_Landscape_Image_2560X1440_2560x1440-ec7b2eb03bb70f61d17ed01fa76d95a6",
+      "md5": "ec7b2eb03bb70f61d17ed01fa76d95a6",
+      "width": 2560,
+      "height": 1440,
+      "size": 586904,
+      "uploadedDate": "2022-11-09T16:16:44.189Z"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/item/calluna/Control_Portrait_Storefront_1200X1600_1200x1600-456c920cae7a0aa9b36670cd5e1237a1",
+      "md5": "456c920cae7a0aa9b36670cd5e1237a1",
+      "width": 1200,
+      "height": 1600,
+      "size": 455123,
+      "uploadedDate": "2022-11-09T16:16:38.232Z"
+    }
+  ],
+  "creationDate": "2019-06-24T19:22:51.288+00:00",
+  "lastModifiedDate": "2022-11-09T16:16:47.238+00:00",
+  "developer": "505 Games",
+  "developerId": "o-cul2z53mrw3bxltv63v68rgd4b3w52",
+  "applicationId": ""
+}

@@ -1,0 +1,32 @@
+{
+  "id": "3274ef4d92d645df86ae3ecc17d6268f",
+  "title": "SnapdragonQAAudience",
+  "description": "SnapdragonQAAudience",
+  "namespace": "snapdragon",
+  "categories": "",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/snapdragon/item/Metro_PrimaryPromo_update-2580x1450-0e5b7a55fb64f2b4ab1a46455a9293e0.jpg",
+      "md5": "0e5b7a55fb64f2b4ab1a46455a9293e0",
+      "width": 2580,
+      "height": 1450,
+      "size": 580337,
+      "uploadedDate": "2019-02-14T22:37:09.696Z"
+    },
+    {
+      "type": "DieselGameBoxLogo",
+      "url": "https://cdn1.epicgames.com/snapdragon/item/MetroExodus_GameLogo_Update-2850x1450-b14f454728dc4a768250d3bd6f6bb05f.png",
+      "md5": "b14f454728dc4a768250d3bd6f6bb05f",
+      "width": 2850,
+      "height": 1450,
+      "size": 605487,
+      "uploadedDate": "2019-02-14T22:37:18.936Z"
+    }
+  ],
+  "creationDate": "2019-01-30T17:55:04.158+00:00",
+  "lastModifiedDate": "2023-03-06T17:20:11.789+00:00",
+  "developer": "Plaion",
+  "developerId": "o-jskfz28ywm2l56px6h9rlxplaysrtl",
+  "applicationId": ""
+}

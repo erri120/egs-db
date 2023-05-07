@@ -1,0 +1,41 @@
+{
+  "id": "3c3a1798ca0a4a5b933d764c3e519f0e",
+  "title": "Bus Simulator 18",
+  "description": "Bus Simulator 18",
+  "namespace": "bussim18",
+  "categories": "",
+  "keyImages": [
+    {
+      "type": "DieselGameBoxLogo",
+      "url": "https://cdn1.epicgames.com/bussim18/item/BS18-Logo-2802x652-7a69079078d57e9b10e05dc26c6c85ff.png",
+      "md5": "7a69079078d57e9b10e05dc26c6c85ff",
+      "width": 2802,
+      "height": 652,
+      "size": 71382,
+      "uploadedDate": "2018-11-15T17:59:28.868Z"
+    },
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/bussim18/item/bus1-600x337-56fe6e5166822eade97660bc59c5efce-600x337-56fe6e5166822eade97660bc59c5efce.png",
+      "md5": "56fe6e5166822eade97660bc59c5efce",
+      "width": 600,
+      "height": 337,
+      "size": 341128,
+      "uploadedDate": "2018-12-05T02:22:50.845Z"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/bussim18/item/bus1-600x337-56fe6e5166822eade97660bc59c5efce.png",
+      "md5": "56fe6e5166822eade97660bc59c5efce",
+      "width": 600,
+      "height": 337,
+      "size": 341128,
+      "uploadedDate": "2019-11-21T17:48:15.554Z"
+    }
+  ],
+  "creationDate": "2018-05-17T19:05:27.776+00:00",
+  "lastModifiedDate": "2022-04-05T14:08:12.391+00:00",
+  "developer": "Epic Games",
+  "developerId": "o-aa83a0a9bc45e98c80c1b1c9d92e9e",
+  "applicationId": ""
+}

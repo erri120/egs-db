@@ -1,0 +1,50 @@
+{
+  "id": "577992887048448fa933f9c645680d43",
+  "title": "Robo Recall Mod Kit",
+  "description": "Robo Recall Mod Kit",
+  "namespace": "odin",
+  "categories": "",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/odin/item/odinkeyart-2580x1450-9be887b951b69c0bcc2dd030baadd664.jpg",
+      "md5": "9be887b951b69c0bcc2dd030baadd664",
+      "width": 2580,
+      "height": 1450,
+      "size": 1227295,
+      "uploadedDate": "2018-11-29T15:16:13.912Z"
+    },
+    {
+      "type": "DieselGameBoxLogo",
+      "url": "https://cdn1.epicgames.com/odin/item/logo_RR_white-384x100-9c25ec0e5d809814699475d183cb08f7-384x100-9c25ec0e5d809814699475d183cb08f7.png",
+      "md5": "9c25ec0e5d809814699475d183cb08f7",
+      "width": 384,
+      "height": 100,
+      "size": 9846,
+      "uploadedDate": "2018-11-29T15:32:01.909Z"
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/odin/item/Robo Recall 3_4-1280x1420-c0d7becec89cbbfc90d0d0e913471e7f.jpg",
+      "md5": "c0d7becec89cbbfc90d0d0e913471e7f",
+      "width": 1280,
+      "height": 1420,
+      "size": 215138,
+      "uploadedDate": "2018-12-06T23:09:34.4Z"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/odin/item/odinkeyart-2580x1450-9be887b951b69c0bcc2dd030baadd664-2580x1450-9be887b951b69c0bcc2dd030baadd664.jpg",
+      "md5": "9be887b951b69c0bcc2dd030baadd664",
+      "width": 2580,
+      "height": 1450,
+      "size": 1227295,
+      "uploadedDate": "2019-11-20T20:57:42.433Z"
+    }
+  ],
+  "creationDate": "2017-01-16T19:52:36.107+00:00",
+  "lastModifiedDate": "2022-04-05T14:14:33.7+00:00",
+  "developer": "Epic Games",
+  "developerId": "o-aa83a0a9bc45e98c80c1b1c9d92e9e",
+  "applicationId": ""
+}

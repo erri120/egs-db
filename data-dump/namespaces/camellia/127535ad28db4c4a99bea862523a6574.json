@@ -1,0 +1,23 @@
+{
+  "id": "127535ad28db4c4a99bea862523a6574",
+  "title": "CamelliaSeasonPassAudience_marker",
+  "description": "CamelliaSeasonPassAudience_marker",
+  "namespace": "camellia",
+  "categories": "",
+  "keyImages": [
+    {
+      "type": "ESRB",
+      "url": "https://cdn1.epicgames.com/camellia/item/ACORating-842x404-3192940fd03ce42a91bec04ef222e1ec.png",
+      "md5": "3192940fd03ce42a91bec04ef222e1ec",
+      "width": 842,
+      "height": 404,
+      "size": 76578,
+      "uploadedDate": "2019-04-23T21:04:14.71Z"
+    }
+  ],
+  "creationDate": "2019-10-28T15:10:05.2+00:00",
+  "lastModifiedDate": "2020-08-07T23:21:18.296+00:00",
+  "developer": "Devolver Digital, Inc.",
+  "developerId": "o-plnhdz2wfx5etjjeh88szjqy2gx8gw",
+  "applicationId": null
+}

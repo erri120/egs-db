@@ -1,0 +1,23 @@
+{
+  "id": "a7c0fc4c36f1471aabf3426fa56fb133",
+  "title": "Heavy Rain Demo Audience \u002B\u002B",
+  "description": "Heavy Rain Demo Audience \u002B\u002B",
+  "namespace": "aster",
+  "categories": "",
+  "keyImages": [
+    {
+      "type": "ESRB",
+      "url": "https://cdn1.epicgames.com/aster/item/ESRB_HeavyRain-842x404-6f427e0f65505f82a2266e2e90bcb81f.jpg",
+      "md5": "6f427e0f65505f82a2266e2e90bcb81f",
+      "width": 842,
+      "height": 404,
+      "size": 38488,
+      "uploadedDate": "2019-10-09T21:56:52.242Z"
+    }
+  ],
+  "creationDate": "2019-10-09T21:54:33.489+00:00",
+  "lastModifiedDate": "2019-10-16T14:38:42.278+00:00",
+  "developer": "Quantic Dream",
+  "developerId": "o-m8v47d762atphw94knus7ezawefpcu",
+  "applicationId": null
+}

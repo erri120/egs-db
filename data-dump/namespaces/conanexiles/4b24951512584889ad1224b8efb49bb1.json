@@ -1,0 +1,50 @@
+{
+  "id": "4b24951512584889ad1224b8efb49bb1",
+  "title": "Conan Exiles Dev Kit",
+  "description": "Conan Exiles Dev Kit",
+  "namespace": "conanexiles",
+  "categories": "",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/conanexiles/item/conan-860x500-bcbb170bb6bf85720e3aebcd8cc0b467.png",
+      "md5": "bcbb170bb6bf85720e3aebcd8cc0b467",
+      "width": 860,
+      "height": 500,
+      "size": 470119,
+      "uploadedDate": "2018-09-17T20:53:30.811Z"
+    },
+    {
+      "type": "DieselGameBoxLogo",
+      "url": "https://cdn1.epicgames.com/conanexiles/item/Conan_White-1114x302-833450058e1c6ebbf005f6aab50ae6ff.png",
+      "md5": "833450058e1c6ebbf005f6aab50ae6ff",
+      "width": 1114,
+      "height": 302,
+      "size": 44193,
+      "uploadedDate": "2018-11-15T18:04:47.522Z"
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/conanexiles/item/conan_diesel-430x250-9495e4ef940b5667bc1ff1f13ab24301.png",
+      "md5": "9495e4ef940b5667bc1ff1f13ab24301",
+      "width": 430,
+      "height": 250,
+      "size": 172700,
+      "uploadedDate": "2018-12-06T23:08:53.965Z"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/conanexiles/item/conan-860x500-bcbb170bb6bf85720e3aebcd8cc0b467-860x500-bcbb170bb6bf85720e3aebcd8cc0b467.png",
+      "md5": "bcbb170bb6bf85720e3aebcd8cc0b467",
+      "width": 860,
+      "height": 500,
+      "size": 470119,
+      "uploadedDate": "2019-11-20T20:59:42.543Z"
+    }
+  ],
+  "creationDate": "2017-01-16T19:41:54.055+00:00",
+  "lastModifiedDate": "2022-04-05T14:55:39.196+00:00",
+  "developer": "Funcom Oslo AS",
+  "developerId": "o-fyyejcaw8f65b74sfwudhays6t3cuz",
+  "applicationId": ""
+}

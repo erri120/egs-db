@@ -1,0 +1,23 @@
+{
+  "id": "0a79aa46e68644a0b57eb0f061121ded",
+  "title": "World of Goo General Audience",
+  "description": "World of Goo General Audience",
+  "namespace": "anemone",
+  "categories": "",
+  "keyImages": [
+    {
+      "type": "ESRB",
+      "url": "https://cdn1.epicgames.com/anemone/item/RollerCoasterTycoon-842x404-52e812ebed0f51a944b182c0d0ad54ee-842x404-52e812ebed0f51a944b182c0d0ad54ee.png",
+      "md5": "52e812ebed0f51a944b182c0d0ad54ee",
+      "width": 842,
+      "height": 404,
+      "size": 42303,
+      "uploadedDate": "2019-04-29T15:14:40.88Z"
+    }
+  ],
+  "creationDate": "2019-02-14T19:21:13.176+00:00",
+  "lastModifiedDate": "2019-05-13T14:48:18.244+00:00",
+  "developer": "2D Boy",
+  "developerId": "o-fdxn5bcapezptpk6s97ksd6hg6rkls",
+  "applicationId": null
+}

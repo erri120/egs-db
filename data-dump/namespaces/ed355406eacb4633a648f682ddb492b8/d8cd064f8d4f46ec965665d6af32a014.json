@@ -1,0 +1,32 @@
+{
+  "id": "d8cd064f8d4f46ec965665d6af32a014",
+  "title": "CastleStorm 2 Alpha",
+  "description": "CastleStorm 2 Alpha",
+  "namespace": "ed355406eacb4633a648f682ddb492b8",
+  "categories": "public/games/applications",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/ed355406eacb4633a648f682ddb492b8/item/EGS_ZenStudios_CastleStorm2_Carousel_2560x1440-2560x1440-833c50d1ef9112b04192df46afe41802.jpg",
+      "md5": "833c50d1ef9112b04192df46afe41802",
+      "width": 2560,
+      "height": 1440,
+      "size": 196869,
+      "uploadedDate": "2019-06-03T19:00:45.797Z"
+    },
+    {
+      "type": "DieselGameBoxLogo",
+      "url": "https://cdn1.epicgames.com/ed355406eacb4633a648f682ddb492b8/item/EGS_ZenStudios_CastleStorm2_IC1_GameLogo_White-6521x2488-a91b21a9823e9339423c1c6557243513.png",
+      "md5": "a91b21a9823e9339423c1c6557243513",
+      "width": 6521,
+      "height": 2488,
+      "size": 121958,
+      "uploadedDate": "2019-06-03T19:00:59.389Z"
+    }
+  ],
+  "creationDate": "2019-09-23T15:10:57.093+00:00",
+  "lastModifiedDate": "2020-09-23T14:59:41.383+00:00",
+  "developer": "Zen Studios",
+  "developerId": "o-r7rf64mtq3yr8uhhvdf8sba3hpqbj2",
+  "applicationId": null
+}

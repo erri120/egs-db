@@ -1,0 +1,41 @@
+{
+  "id": "de1e2aad51154c69a417a7462e165a23",
+  "title": "TuracoStaging",
+  "description": "TuracoStaging",
+  "namespace": "742f165671424189aecdfdadf5ea9755",
+  "categories": "public/games/applications",
+  "keyImages": [
+    {
+      "type": "DieselStoreFrontTall",
+      "url": "https://cdn1.epicgames.com/742f165671424189aecdfdadf5ea9755/item/S2_NuclearThrone-1280x1440-a9381fbc07b1e6fe1f892cfdbc4a14ca.jpg",
+      "md5": "a9381fbc07b1e6fe1f892cfdbc4a14ca",
+      "width": 1280,
+      "height": 1440,
+      "size": 89074,
+      "uploadedDate": "2019-11-07T13:50:46.861Z"
+    },
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/742f165671424189aecdfdadf5ea9755/item/nuclear-throne_promo-2560x1440-3a7b627bd90d78cd816596034487290d.jpg",
+      "md5": "3a7b627bd90d78cd816596034487290d",
+      "width": 2560,
+      "height": 1440,
+      "size": 165536,
+      "uploadedDate": "2019-11-07T13:51:51.192Z"
+    },
+    {
+      "type": "DieselGameBoxLogo",
+      "url": "https://cdn1.epicgames.com/742f165671424189aecdfdadf5ea9755/item/nuclear-throne_logo-1900x677-2bfcada06fb2e0ece8e3f662261e9e18.png",
+      "md5": "2bfcada06fb2e0ece8e3f662261e9e18",
+      "width": 1900,
+      "height": 677,
+      "size": 145831,
+      "uploadedDate": "2019-11-07T13:51:59.855Z"
+    }
+  ],
+  "creationDate": "2019-09-10T20:58:33.671+00:00",
+  "lastModifiedDate": "2019-11-14T15:55:58.779+00:00",
+  "developer": "Vlambeer",
+  "developerId": "o-6xk2nej4lbrlkq5q4vxdf9w5kens7c",
+  "applicationId": null
+}

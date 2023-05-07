@@ -1,0 +1,32 @@
+{
+  "id": "f3ac10961a954f0bb8de6215dfaa8ccb",
+  "title": "cacaoStaging",
+  "description": "cacaoStaging",
+  "namespace": "0e87bed2a83c4cf6a68a7aeb43f25cf0",
+  "categories": "public/games/applications",
+  "keyImages": [
+    {
+      "type": "DieselGameBoxLogo",
+      "url": "https://cdn1.epicgames.com/0e87bed2a83c4cf6a68a7aeb43f25cf0/item/EGS_RawFury_KingdomNewLands_IC1_LogoColor-520x194-6a025871f80bf64e261c2cfd499c20f7.png",
+      "md5": "6a025871f80bf64e261c2cfd499c20f7",
+      "width": 520,
+      "height": 194,
+      "size": 4773,
+      "uploadedDate": "2019-05-28T17:20:09.78Z"
+    },
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/0e87bed2a83c4cf6a68a7aeb43f25cf0/item/EGS_RawFury_KingdomNewLands_G1_PDPPromo_Image-2560x1440-7aadfb97ae5a2d4b59a3bef27ecf17fb.jpg",
+      "md5": "7aadfb97ae5a2d4b59a3bef27ecf17fb",
+      "width": 2560,
+      "height": 1440,
+      "size": 98181,
+      "uploadedDate": "2019-05-28T17:20:20.511Z"
+    }
+  ],
+  "creationDate": "2019-05-24T17:24:23.271+00:00",
+  "lastModifiedDate": "2019-10-09T14:45:56.512+00:00",
+  "developer": "Raw Fury",
+  "developerId": "o-fay4ghw9hhamujs53rfhy83ffexb7k",
+  "applicationId": null
+}

@@ -1,0 +1,23 @@
+{
+  "id": "8820dc155ad5472ab8e113728da1ac7c",
+  "title": "Carousel_3",
+  "description": "Join Our Weekly Challenge and Prove Your Skill",
+  "namespace": "vpr",
+  "categories": "applications/prod/applications/prod/content/applications",
+  "keyImages": [
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/vpr/item/carousel-news_03-1000x290-1000x290-b17c6c7c601c7dc844b23ae9d771f660.png",
+      "md5": "b17c6c7c601c7dc844b23ae9d771f660",
+      "width": 1000,
+      "height": 290,
+      "size": 95791,
+      "uploadedDate": "2016-09-30T21:00:02.338Z"
+    }
+  ],
+  "creationDate": "2015-10-19T18:09:38.609+00:00",
+  "lastModifiedDate": "2016-09-30T21:00:08.555+00:00",
+  "developer": "Epic Games",
+  "developerId": "o-aa83a0a9bc45e98c80c1b1c9d92e9e",
+  "applicationId": null
+}

@@ -1,0 +1,23 @@
+{
+  "id": "91168365595f4a9aa88b96fc13b66f02",
+  "title": "Dark And Light Editor",
+  "description": "DARK AND LIGHT DEV KIT",
+  "namespace": "darkandlight",
+  "categories": "layoutcontent",
+  "keyImages": [
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/darkandlight/item/DNL_HEADER-1920x959-8fd75dae8d1eb30cec3faa8200f62881.png",
+      "md5": "8fd75dae8d1eb30cec3faa8200f62881",
+      "width": 1920,
+      "height": 959,
+      "size": 2439914,
+      "uploadedDate": "2018-04-10T18:19:37.812Z"
+    }
+  ],
+  "creationDate": "2018-03-06T20:04:10.403+00:00",
+  "lastModifiedDate": "2018-12-12T15:13:32.048+00:00",
+  "developer": "Snail Games USA",
+  "developerId": "o-33w3pktcfkzsmhns2qwp7mmr3z4nht",
+  "applicationId": null
+}

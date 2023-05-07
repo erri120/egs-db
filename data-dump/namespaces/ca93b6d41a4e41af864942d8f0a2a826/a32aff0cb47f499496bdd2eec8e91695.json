@@ -1,0 +1,41 @@
+{
+  "id": "a32aff0cb47f499496bdd2eec8e91695",
+  "title": "Uno",
+  "description": "Uno",
+  "namespace": "ca93b6d41a4e41af864942d8f0a2a826",
+  "categories": "public/games/applications",
+  "keyImages": [
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/ca93b6d41a4e41af864942d8f0a2a826/item/UNO S2 -BANNERS-1280x1440-a43c9c1eff3b99f3024eee11256e306b.jpg",
+      "md5": "a43c9c1eff3b99f3024eee11256e306b",
+      "width": 1280,
+      "height": 1440,
+      "size": 204074,
+      "uploadedDate": "2020-03-16T22:54:14.477Z"
+    },
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/ca93b6d41a4e41af864942d8f0a2a826/item/UNO - S1 BANNERS-2560x1440-016401d01dc8efe5d5d20cff54f1218c.jpg",
+      "md5": "016401d01dc8efe5d5d20cff54f1218c",
+      "width": 2560,
+      "height": 1440,
+      "size": 334849,
+      "uploadedDate": "2020-03-16T22:55:21.21Z"
+    },
+    {
+      "type": "DieselGameBoxLogo",
+      "url": "https://cdn1.epicgames.com/ca93b6d41a4e41af864942d8f0a2a826/item/GameName_Newsfeed_Game_Icon_400x400-400x400-20e6cec6b1510826e616e41c3a99ff02.png",
+      "md5": "20e6cec6b1510826e616e41c3a99ff02",
+      "width": 400,
+      "height": 400,
+      "size": 120290,
+      "uploadedDate": "2020-03-16T22:55:41.165Z"
+    }
+  ],
+  "creationDate": "2020-01-13T15:49:35.078+00:00",
+  "lastModifiedDate": "2022-03-10T19:54:28.417+00:00",
+  "developer": "Ubisoft Entertainment",
+  "developerId": "o-3efjudxdtgsqnulml4bkeq3v9nec38",
+  "applicationId": ""
+}

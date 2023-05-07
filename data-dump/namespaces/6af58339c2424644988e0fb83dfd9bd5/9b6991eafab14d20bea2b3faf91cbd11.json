@@ -1,0 +1,23 @@
+{
+  "id": "9b6991eafab14d20bea2b3faf91cbd11",
+  "title": "MoscowGeneralAudience",
+  "description": "MoscowGeneralAudience",
+  "namespace": "6af58339c2424644988e0fb83dfd9bd5",
+  "categories": "",
+  "keyImages": [
+    {
+      "type": "ESRB",
+      "url": "https://cdn1.epicgames.com/6af58339c2424644988e0fb83dfd9bd5/item/RPending-388x190-2b6aa92035599db2ca1517a036cb974a.png",
+      "md5": "2b6aa92035599db2ca1517a036cb974a",
+      "width": 388,
+      "height": 190,
+      "size": 4433,
+      "uploadedDate": "2020-06-30T12:54:50.128Z"
+    }
+  ],
+  "creationDate": "2020-06-16T17:49:58.821+00:00",
+  "lastModifiedDate": "2023-01-23T22:58:33.542+00:00",
+  "developer": "NCSoft",
+  "developerId": "o-k8ltvz7rz3r7b29xdtafqvdkhnj2ux",
+  "applicationId": ""
+}

@@ -1,0 +1,23 @@
+{
+  "id": "cfefce234de147e894ba1392e26f71e4",
+  "title": "Call_To_Action_01",
+  "description": "MARS 2030 DEVELOPER BOOK\n\u003Cinverted-tiny-body\u003EDOWNLOAD NOW\u003C/\u003E",
+  "namespace": "mars2030",
+  "categories": "layoutcontent",
+  "keyImages": [
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/mars2030/item/mars2030_1-960x497-8cb45dee43b1bb017df738c060498426.png",
+      "md5": "8cb45dee43b1bb017df738c060498426",
+      "width": 960,
+      "height": 497,
+      "size": 653102,
+      "uploadedDate": "2018-02-08T16:50:21.332Z"
+    }
+  ],
+  "creationDate": "2018-02-08T16:19:24.037+00:00",
+  "lastModifiedDate": "2018-04-16T14:38:11.086+00:00",
+  "developer": "Epic Games",
+  "developerId": "o-aa83a0a9bc45e98c80c1b1c9d92e9e",
+  "applicationId": null
+}

@@ -1,0 +1,23 @@
+{
+  "id": "8736dc20cad7477d9c9d9473d1a7dcbd",
+  "title": "JackboxGeneralAudience",
+  "description": "JackboxGeneralAudience",
+  "namespace": "feverfew",
+  "categories": "",
+  "keyImages": [
+    {
+      "type": "ESRB",
+      "url": "https://cdn1.epicgames.com/feverfew/item/JJP124-842x404-86950977a72e39a1bedb4197defa0b81.png",
+      "md5": "86950977a72e39a1bedb4197defa0b81",
+      "width": 842,
+      "height": 404,
+      "size": 43924,
+      "uploadedDate": "2019-04-23T20:46:12.094Z"
+    }
+  ],
+  "creationDate": "2019-01-15T15:45:54.249+00:00",
+  "lastModifiedDate": "2019-05-13T14:41:10.644+00:00",
+  "developer": "Jackbox Games, Inc.",
+  "developerId": "o-2m9ap45qzvalaepjz6wclpcffeq4aj",
+  "applicationId": null
+}

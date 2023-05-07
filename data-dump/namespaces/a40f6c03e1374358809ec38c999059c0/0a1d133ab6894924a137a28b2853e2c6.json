@@ -1,0 +1,32 @@
+{
+  "id": "0a1d133ab6894924a137a28b2853e2c6",
+  "title": "Foregone",
+  "description": "Foregone",
+  "namespace": "a40f6c03e1374358809ec38c999059c0",
+  "categories": "public/games/applications",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/a40f6c03e1374358809ec38c999059c0/item/EGS_Foregone_BigBlueBubble_S5-1920x1080-b92831431aa732b9996c99c5419711e2.jpg",
+      "md5": "b92831431aa732b9996c99c5419711e2",
+      "width": 1920,
+      "height": 1080,
+      "size": 961423,
+      "uploadedDate": "2020-06-25T16:20:46.186Z"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/a40f6c03e1374358809ec38c999059c0/item/EGS_Foregone_BigBlueBubble_S6-1200x1600-48824e208dcf5f4a692a8804f0f7d441.jpg",
+      "md5": "48824e208dcf5f4a692a8804f0f7d441",
+      "width": 1200,
+      "height": 1600,
+      "size": 955146,
+      "uploadedDate": "2020-06-25T16:21:04.951Z"
+    }
+  ],
+  "creationDate": "2019-11-22T20:46:59.26+00:00",
+  "lastModifiedDate": "2020-07-06T13:49:12.874+00:00",
+  "developer": "Big Blue Bubble, Inc.",
+  "developerId": "o-r7nfesqr4qcafkmfwmp9hpu492f228",
+  "applicationId": null
+}

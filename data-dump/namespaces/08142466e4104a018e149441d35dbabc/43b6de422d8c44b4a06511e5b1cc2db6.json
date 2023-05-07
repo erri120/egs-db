@@ -1,0 +1,32 @@
+{
+  "id": "43b6de422d8c44b4a06511e5b1cc2db6",
+  "title": "Echoes of Erebonia Digital Soundtrack Sampler",
+  "description": "Echoes of Erebonia Digital Soundtrack Sampler",
+  "namespace": "08142466e4104a018e149441d35dbabc",
+  "categories": "public/digitalextras/digitalextras/soundtrack/applications",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/08142466e4104a018e149441d35dbabc/item/EGS_EchoesofEreboniaDigitalSoundtrackSampler_NihonFalcom_DigitalExtras_S1-2560x1440-7fd479659d065a7eb194812ab02ac8e2.jpg",
+      "md5": "7fd479659d065a7eb194812ab02ac8e2",
+      "width": 2560,
+      "height": 1440,
+      "size": 995242,
+      "uploadedDate": "2021-04-09T14:49:15.698Z"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/08142466e4104a018e149441d35dbabc/item/EGS_EchoesofEreboniaDigitalSoundtrackSampler_NihonFalcom_DigitalExtras_S2-1200x1600-b620f2d985bcc1db0a60979d42e55caf.jpg",
+      "md5": "b620f2d985bcc1db0a60979d42e55caf",
+      "width": 1200,
+      "height": 1600,
+      "size": 891879,
+      "uploadedDate": "2021-04-09T14:49:29.663Z"
+    }
+  ],
+  "creationDate": "2021-03-03T05:00:57.946+00:00",
+  "lastModifiedDate": "2021-04-16T16:34:19.179+00:00",
+  "developer": "NIS America, Inc.",
+  "developerId": "o-24ec9efll733ggh8wybar3x8zetflu",
+  "applicationId": null
+}

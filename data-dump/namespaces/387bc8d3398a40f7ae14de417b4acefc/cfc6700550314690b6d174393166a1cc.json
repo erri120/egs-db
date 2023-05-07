@@ -1,0 +1,41 @@
+{
+  "id": "cfc6700550314690b6d174393166a1cc",
+  "title": "InnerSpace",
+  "description": "InnerSpace",
+  "namespace": "387bc8d3398a40f7ae14de417b4acefc",
+  "categories": "public/games/applications",
+  "keyImages": [
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/387bc8d3398a40f7ae14de417b4acefc/item/EGS_aspyr_InnerSpace_S3_StorePortraitPromo-1280x1440-4c52c2954a5f9eddd0918eace407e1c2.jpg",
+      "md5": "4c52c2954a5f9eddd0918eace407e1c2",
+      "width": 1280,
+      "height": 1440,
+      "size": 123801,
+      "uploadedDate": "2019-10-22T09:41:44.79Z"
+    },
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/387bc8d3398a40f7ae14de417b4acefc/item/EGS_aspyr_InnerSpace_S1_StorePrimary-2560x1440-94b204bad86bd4eb0ea90675cd2d4f22-2560x1440-94b204bad86bd4eb0ea90675cd2d4f22.jpg",
+      "md5": "94b204bad86bd4eb0ea90675cd2d4f22",
+      "width": 2560,
+      "height": 1440,
+      "size": 217828,
+      "uploadedDate": "2020-02-20T14:34:09.039Z"
+    },
+    {
+      "type": "DieselGameBoxLogo",
+      "url": "https://cdn1.epicgames.com/387bc8d3398a40f7ae14de417b4acefc/item/EGS_Aspyr_InnerSpace_IC1-white-827x426-ff5e261d2fe9a372f5bcabfff54f7c64-827x426-ff5e261d2fe9a372f5bcabfff54f7c64.png",
+      "md5": "ff5e261d2fe9a372f5bcabfff54f7c64",
+      "width": 827,
+      "height": 426,
+      "size": 53779,
+      "uploadedDate": "2020-02-20T14:34:26.326Z"
+    }
+  ],
+  "creationDate": "2019-05-05T20:52:37.939+00:00",
+  "lastModifiedDate": "2020-02-20T15:05:29.585+00:00",
+  "developer": "Aspyr Media, Inc.",
+  "developerId": "o-dukzxsmt2q39w2xql6eb8vewd2bkc9",
+  "applicationId": null
+}

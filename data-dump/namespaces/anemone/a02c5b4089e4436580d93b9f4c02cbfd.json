@@ -1,0 +1,32 @@
+{
+  "id": "a02c5b4089e4436580d93b9f4c02cbfd",
+  "title": "AnemoneStaging",
+  "description": "AnemoneStaging",
+  "namespace": "anemone",
+  "categories": "",
+  "keyImages": [
+    {
+      "type": "DieselGameBoxLogo",
+      "url": "https://cdn1.epicgames.com/anemone/item/World-of-Goo-Logo-White-2008x1127-05e2aa2fe11949b71ea116c43fa94211.png",
+      "md5": "05e2aa2fe11949b71ea116c43fa94211",
+      "width": 2008,
+      "height": 1127,
+      "size": 85954,
+      "uploadedDate": "2019-04-17T18:33:29.272Z"
+    },
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/anemone/item/WorldOfGoo_PrimaryPromo-2580x1450-87541c2003ec70eb7e88f06024243758.jpg",
+      "md5": "87541c2003ec70eb7e88f06024243758",
+      "width": 2580,
+      "height": 1450,
+      "size": 107276,
+      "uploadedDate": "2019-04-18T03:19:07.943Z"
+    }
+  ],
+  "creationDate": "2019-02-14T19:10:51.225+00:00",
+  "lastModifiedDate": "2019-07-23T18:35:00.324+00:00",
+  "developer": "2D Boy",
+  "developerId": "o-fdxn5bcapezptpk6s97ksd6hg6rkls",
+  "applicationId": null
+}

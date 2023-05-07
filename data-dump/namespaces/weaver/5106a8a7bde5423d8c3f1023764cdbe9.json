@@ -1,0 +1,32 @@
+{
+  "id": "5106a8a7bde5423d8c3f1023764cdbe9",
+  "title": "Rebel Galaxy",
+  "description": "Rebel Galaxy",
+  "namespace": "weaver",
+  "categories": "",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/item/weaver/ENG_DoubleDamageGames_RebelGalaxy_S1_2560x1440_2560x1440-e2aa8771e78cfeb48b8c915874159470",
+      "md5": "e2aa8771e78cfeb48b8c915874159470",
+      "width": 2560,
+      "height": 1440,
+      "size": 835277,
+      "uploadedDate": "2022-11-04T21:02:11.208Z"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/item/weaver/ENG_DoubleDamageGames_RebelGalaxy_S2_1200x1600_1200x1600-06cbd69dda747c677e79ab2c1e2668b1",
+      "md5": "06cbd69dda747c677e79ab2c1e2668b1",
+      "width": 1200,
+      "height": 1600,
+      "size": 590681,
+      "uploadedDate": "2022-11-04T21:02:14.032Z"
+    }
+  ],
+  "creationDate": "2019-02-14T03:54:16.989+00:00",
+  "lastModifiedDate": "2022-11-04T21:02:16.815+00:00",
+  "developer": "Double Damage Games, Inc",
+  "developerId": "o-7kk95dlwa9mep5kfkubrgmp9qkwbt4",
+  "applicationId": ""
+}

@@ -1,0 +1,32 @@
+{
+  "id": "5cd953a3341b43b791fcee6739b7e665",
+  "title": "Hades Test Branch",
+  "description": "Hades Test Branch",
+  "namespace": "min",
+  "categories": "",
+  "keyImages": [
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/min/item/Hades_Portrait_01_Title-1200x1600-eb267156efded262edf78ec01a3f4ad5.png",
+      "md5": "eb267156efded262edf78ec01a3f4ad5",
+      "width": 1200,
+      "height": 1600,
+      "size": 93776,
+      "uploadedDate": "2020-10-01T18:30:11.262Z"
+    },
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/min/item/Hades_Portrait_01_Title_1920x1080-1920x1080-60675ab8452538e7e29e4c82e508dd5d.png",
+      "md5": "60675ab8452538e7e29e4c82e508dd5d",
+      "width": 1920,
+      "height": 1080,
+      "size": 97135,
+      "uploadedDate": "2020-10-01T22:00:36.725Z"
+    }
+  ],
+  "creationDate": "2020-06-09T19:17:19.629+00:00",
+  "lastModifiedDate": "2020-10-01T22:01:03.256+00:00",
+  "developer": "Supergiant Games LLC",
+  "developerId": "o-vwkp2e2azz3ybr7ckg7pfnxhwezd4a",
+  "applicationId": null
+}

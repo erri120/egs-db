@@ -1,0 +1,32 @@
+{
+  "id": "c2212bc4c4f547918c94ddfefb536898",
+  "title": "NewtDevOps",
+  "description": "NewtDevOps",
+  "namespace": "newt",
+  "categories": "",
+  "keyImages": [
+    {
+      "type": "DieselGameBoxLogo",
+      "url": "https://cdn1.epicgames.com/newt/item/LOGO_SPELLBREAK_WHITE-3090x1087-00ccb473b5b2d79e3096221158c9a81a.png",
+      "md5": "00ccb473b5b2d79e3096221158c9a81a",
+      "width": 3090,
+      "height": 1087,
+      "size": 33015,
+      "uploadedDate": "2019-01-28T16:06:20.429Z"
+    },
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/newt/item/EGS_ProletariatInc_Spellbreak_S1-2560x1440-75987e837f994b0638bf99cd359e723f.jpg",
+      "md5": "75987e837f994b0638bf99cd359e723f",
+      "width": 2560,
+      "height": 1440,
+      "size": 439488,
+      "uploadedDate": "2019-10-21T14:42:53.444Z"
+    }
+  ],
+  "creationDate": "2019-06-12T22:59:50.303+00:00",
+  "lastModifiedDate": "2020-08-05T15:36:45.029+00:00",
+  "developer": "Proletariat, Inc.",
+  "developerId": "o-umuuzpzyfsw8wvcn4xpyh7ksmyhflg",
+  "applicationId": null
+}

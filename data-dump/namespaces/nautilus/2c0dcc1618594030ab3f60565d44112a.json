@@ -1,0 +1,50 @@
+{
+  "id": "2c0dcc1618594030ab3f60565d44112a",
+  "title": "Vampyr",
+  "description": "Vampyr",
+  "namespace": "nautilus",
+  "categories": "",
+  "keyImages": [
+    {
+      "type": "DieselGameBoxLogo",
+      "url": "https://cdn1.epicgames.com/nautilus/item/Logo_Vampyr_Black_Vecto_WHITE\u0026RED-2580x469-c0cd7cd12ab3900772f789da4eb85eda.png",
+      "md5": "c0cd7cd12ab3900772f789da4eb85eda",
+      "width": 2580,
+      "height": 469,
+      "size": 37348,
+      "uploadedDate": "2019-02-19T16:29:46.696Z"
+    },
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/nautilus/item/Vampyr_GamePromoImage_2580x1450-2580x1450-0208519a31e6905ceb22015cf715ebd1.jpg",
+      "md5": "0208519a31e6905ceb22015cf715ebd1",
+      "width": 2580,
+      "height": 1450,
+      "size": 889580,
+      "uploadedDate": "2019-02-19T16:30:06.637Z"
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/nautilus/item/Vampyr_Game_Icon-400x400-eada7e669930d88e46b14d272a11095e.png",
+      "md5": "eada7e669930d88e46b14d272a11095e",
+      "width": 400,
+      "height": 400,
+      "size": 121158,
+      "uploadedDate": "2019-02-19T16:30:20.494Z"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/nautilus/item/Vampyr_PortraitPromoImage_1280x1420-1280x1420-301b40bd64a8217ef00324d59b1ce28b.jpg",
+      "md5": "301b40bd64a8217ef00324d59b1ce28b",
+      "width": 1280,
+      "height": 1420,
+      "size": 146583,
+      "uploadedDate": "2019-10-22T09:41:44.79Z"
+    }
+  ],
+  "creationDate": "2019-01-04T19:54:24.705+00:00",
+  "lastModifiedDate": "2019-11-19T17:04:13.669+00:00",
+  "developer": "Focus Home",
+  "developerId": "o-wt4zxeetmq6jem7qp4pkssr46aenj5",
+  "applicationId": null
+}

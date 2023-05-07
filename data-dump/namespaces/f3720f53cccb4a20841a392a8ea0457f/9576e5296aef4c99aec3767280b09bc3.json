@@ -1,0 +1,32 @@
+{
+  "id": "9576e5296aef4c99aec3767280b09bc3",
+  "title": "AER Memories of Old",
+  "description": "AER Memories of Old",
+  "namespace": "f3720f53cccb4a20841a392a8ea0457f",
+  "categories": "public/games/applications",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/f3720f53cccb4a20841a392a8ea0457f/item/EGS_AERMemoriesofOld_ForgottenKey_S3-2560x1440-72330b37a0acda88398b4c73cbbaf4f0.jpg",
+      "md5": "72330b37a0acda88398b4c73cbbaf4f0",
+      "width": 2560,
+      "height": 1440,
+      "size": 925978,
+      "uploadedDate": "2020-06-17T21:45:15.059Z"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/f3720f53cccb4a20841a392a8ea0457f/item/EGS_AERMemoriesofOld_ForgottenKey_S2-1200x1600-54da10a6ade9e99d9a469d5ee1c4a5e1.jpg",
+      "md5": "54da10a6ade9e99d9a469d5ee1c4a5e1",
+      "width": 1200,
+      "height": 1600,
+      "size": 638902,
+      "uploadedDate": "2020-06-17T21:45:30.738Z"
+    }
+  ],
+  "creationDate": "2020-06-16T12:19:22.909+00:00",
+  "lastModifiedDate": "2020-06-25T14:50:45.301+00:00",
+  "developer": "Daedalic Entertainment",
+  "developerId": "o-d2ygr9bjcjfebgt8842wvvbmswympz",
+  "applicationId": null
+}

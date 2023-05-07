@@ -1,0 +1,32 @@
+{
+  "id": "fba054603e61427ba91184f5df0c6d04",
+  "title": "Geneforge 1: Mutagen",
+  "description": "Geneforge 1: Mutagen",
+  "namespace": "308652d49c89470fbf45fe8696b9c1c1",
+  "categories": "public/games/applications",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/308652d49c89470fbf45fe8696b9c1c1/item/egs-geneforge1mutagen-spiderwebsoftware-s1-2560x1440-c8cf464f2b2a-2560x1440-8427125eb377278c6aed260c7900f2b6.jpg",
+      "md5": "8427125eb377278c6aed260c7900f2b6",
+      "width": 2560,
+      "height": 1440,
+      "size": 260209,
+      "uploadedDate": "2021-02-19T17:36:15.813Z"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/308652d49c89470fbf45fe8696b9c1c1/item/egs-geneforge1mutagen-spiderwebsoftware-s2-1200x1600-047ee886480c-1200x1600-668dc5abed1824b419b20b21c362904e.jpg",
+      "md5": "668dc5abed1824b419b20b21c362904e",
+      "width": 1200,
+      "height": 1600,
+      "size": 155328,
+      "uploadedDate": "2021-02-19T17:36:29.698Z"
+    }
+  ],
+  "creationDate": "2021-02-12T22:21:41.149+00:00",
+  "lastModifiedDate": "2021-02-24T13:59:24.977+00:00",
+  "developer": "Spiderweb Software, Inc.",
+  "developerId": "o-bu7q3xmhe9gddmtm7z8ubuc9fnes7n",
+  "applicationId": null
+}

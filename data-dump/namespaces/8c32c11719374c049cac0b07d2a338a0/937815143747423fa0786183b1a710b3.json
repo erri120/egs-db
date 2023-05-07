@@ -1,0 +1,32 @@
+{
+  "id": "937815143747423fa0786183b1a710b3",
+  "title": "Ravenlok",
+  "description": "Ravenlok",
+  "namespace": "8c32c11719374c049cac0b07d2a338a0",
+  "categories": "",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/spt-assets/670e33fba05a4980827e883401991fc0/ravenlok-offer-mkmbu.jpg",
+      "md5": "fe36deb2b25222e4a490c05ef1ae766f",
+      "width": 2560,
+      "height": 1440,
+      "size": 3456921,
+      "uploadedDate": "2022-06-08T16:56:43.803Z"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/spt-assets/670e33fba05a4980827e883401991fc0/download-ravenlok-offer-7p3uy.jpg",
+      "md5": "5974df4f3d8a06bdc2f2db7ee2d48151",
+      "width": 1200,
+      "height": 1600,
+      "size": 2118348,
+      "uploadedDate": "2022-06-08T16:56:44.034Z"
+    }
+  ],
+  "creationDate": "2022-06-08T19:36:09.073+00:00",
+  "lastModifiedDate": "2023-05-04T00:03:26.125+00:00",
+  "developer": "Cococucumber Inc",
+  "developerId": "o-angtq474rblj3nwc3a4pqajntqync2",
+  "applicationId": "fghi4567ewxJ7SFzoIXBYI6qkeGf5iFn"
+}

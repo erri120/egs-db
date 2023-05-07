@@ -1,0 +1,41 @@
+{
+  "id": "5a97965d0e71423bad444853c59bd82b",
+  "title": "Wattam Pre-Purchase",
+  "description": "Wattam Pre-Purchase",
+  "namespace": "lupine",
+  "categories": "",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/lupine/item/Wattam_Store_Library_Promo-2560x1440-c878068ceb360bc16fb6b96698b4e238.jpg",
+      "md5": "c878068ceb360bc16fb6b96698b4e238",
+      "width": 2560,
+      "height": 1440,
+      "size": 288589,
+      "uploadedDate": "2019-11-08T19:15:06.194Z"
+    },
+    {
+      "type": "DieselGameBoxLogo",
+      "url": "https://cdn1.epicgames.com/lupine/item/WATTAM-Logo-2500x938-5b83b846fd2b0d0c653567b63e597cd8.png",
+      "md5": "5b83b846fd2b0d0c653567b63e597cd8",
+      "width": 2500,
+      "height": 938,
+      "size": 30195,
+      "uploadedDate": "2019-11-08T19:15:20.482Z"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/lupine/item/EGS_Wattam_Store_Primary_Promo_Portrait-1280x1440-3dd94f7c632510049db7c13a748a5eec.jpg",
+      "md5": "3dd94f7c632510049db7c13a748a5eec",
+      "width": 1280,
+      "height": 1440,
+      "size": 236236,
+      "uploadedDate": "2019-10-22T09:41:44.79Z"
+    }
+  ],
+  "creationDate": "2019-11-08T19:14:19.98+00:00",
+  "lastModifiedDate": "2019-12-17T15:58:37.99+00:00",
+  "developer": "Annapurna Interactive",
+  "developerId": "o-bmeb3ztlbxkjc8vvpydava38yvmxlm",
+  "applicationId": null
+}

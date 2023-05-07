@@ -1,0 +1,41 @@
+{
+  "id": "5df92e81bc7340d58e4c19271d28915d",
+  "title": "Faster Than Light",
+  "description": "Faster Than Light",
+  "namespace": "f7dc1618d0bd4810a61f50d44333900e",
+  "categories": "public/games/applications",
+  "keyImages": [
+    {
+      "type": "ESRB",
+      "url": "https://cdn1.epicgames.com/f7dc1618d0bd4810a61f50d44333900e/item/ESRB_FasterThanLight-842x404-c27d9dce3ade0e7f6a5f67928390aa4b.jpg",
+      "md5": "c27d9dce3ade0e7f6a5f67928390aa4b",
+      "width": 842,
+      "height": 404,
+      "size": 23028,
+      "uploadedDate": "2019-12-26T16:05:38.948Z"
+    },
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/item/f7dc1618d0bd4810a61f50d44333900e/FTL-Landscape2560x1440_2560x1440-8ab43b6e1ea32b323dbe1948508ea6b5",
+      "md5": "8ab43b6e1ea32b323dbe1948508ea6b5",
+      "width": 2560,
+      "height": 1440,
+      "size": 636448,
+      "uploadedDate": "2023-02-20T20:42:44.917Z"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/item/f7dc1618d0bd4810a61f50d44333900e/FTL-Portrait1200x1600_1200x1600-0df90ffb5faa41453f0023da0b0a21a9",
+      "md5": "0df90ffb5faa41453f0023da0b0a21a9",
+      "width": 1200,
+      "height": 1600,
+      "size": 623388,
+      "uploadedDate": "2023-02-20T20:42:42.114Z"
+    }
+  ],
+  "creationDate": "2019-12-03T17:46:26.535+00:00",
+  "lastModifiedDate": "2023-02-20T20:42:59.03+00:00",
+  "developer": "Subset Games",
+  "developerId": "o-y2xjbnp5qy433qzldqbvncb3n8z3l6",
+  "applicationId": ""
+}

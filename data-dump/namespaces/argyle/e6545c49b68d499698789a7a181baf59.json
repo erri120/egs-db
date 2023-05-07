@@ -1,0 +1,41 @@
+{
+  "id": "e6545c49b68d499698789a7a181baf59",
+  "title": "Trials Rising",
+  "description": "Trials Rising",
+  "namespace": "argyle",
+  "categories": "",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/argyle/item/Store_Primary_Promo-2580x1450-113e06f40cef53b2fa5850fa905a2daa.jpg",
+      "md5": "113e06f40cef53b2fa5850fa905a2daa",
+      "width": 2580,
+      "height": 1450,
+      "size": 318984,
+      "uploadedDate": "2019-09-10T04:47:18.455Z"
+    },
+    {
+      "type": "DieselGameBoxLogo",
+      "url": "https://cdn1.epicgames.com/argyle/item/TRR_UCS12460_EGST_Logo_Color_1000x375-1000x375-f67e3c301ded8255fb838257b24daf28.png",
+      "md5": "f67e3c301ded8255fb838257b24daf28",
+      "width": 1000,
+      "height": 375,
+      "size": 136830,
+      "uploadedDate": "2019-09-10T04:47:30.344Z"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/argyle/item/Store_Portrait_Promo-1280x1420-6d68cd7b0ff1fd2b0dceca32cc4f397c.jpg",
+      "md5": "6d68cd7b0ff1fd2b0dceca32cc4f397c",
+      "width": 1280,
+      "height": 1420,
+      "size": 193377,
+      "uploadedDate": "2019-10-22T09:41:44.79Z"
+    }
+  ],
+  "creationDate": "2019-04-02T21:32:56.42+00:00",
+  "lastModifiedDate": "2020-11-18T15:52:24.414+00:00",
+  "developer": "Ubisoft Entertainment",
+  "developerId": "o-3efjudxdtgsqnulml4bkeq3v9nec38",
+  "applicationId": null
+}

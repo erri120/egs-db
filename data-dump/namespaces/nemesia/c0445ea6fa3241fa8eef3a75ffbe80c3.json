@@ -1,0 +1,23 @@
+{
+  "id": "c0445ea6fa3241fa8eef3a75ffbe80c3",
+  "title": "Season-Pass Wolf Audience",
+  "description": "Season-Pass Wolf Audience",
+  "namespace": "nemesia",
+  "categories": "",
+  "keyImages": [
+    {
+      "type": "ESRB",
+      "url": "https://cdn1.epicgames.com/nemesia/item/VampireBloodlines2-842x404-e25740f35341fe9c4da2f6d8fc4aa9e6.png",
+      "md5": "e25740f35341fe9c4da2f6d8fc4aa9e6",
+      "width": 842,
+      "height": 404,
+      "size": 66425,
+      "uploadedDate": "2019-04-23T20:57:07.236Z"
+    }
+  ],
+  "creationDate": "2019-03-15T02:23:57.029+00:00",
+  "lastModifiedDate": "2019-06-14T12:32:00.873+00:00",
+  "developer": "Paradox Interactive",
+  "developerId": "o-tjvfg6rejs6h86qa7k9aa64rrgbxxb",
+  "applicationId": null
+}

@@ -1,0 +1,32 @@
+{
+  "id": "b7251af860c6439eb70cc7683d30833c",
+  "title": "MuscovyStaging",
+  "description": "MuscovyStaging",
+  "namespace": "95b4d5a753d042678f775d5e1eb5ab25",
+  "categories": "public/games/applications",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/95b4d5a753d042678f775d5e1eb5ab25/item/01 Surviving the Aftermath - Base Game - EPIC-2560x1440-79c260baa4f255cff6f87f6016f500bd-2560x1440-79c260baa4f255cff6f87f6016f500bd.png",
+      "md5": "79c260baa4f255cff6f87f6016f500bd",
+      "width": 2560,
+      "height": 1440,
+      "size": 832612,
+      "uploadedDate": "2020-05-04T21:58:26.994Z"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/95b4d5a753d042678f775d5e1eb5ab25/item/STA_Thum-340x440-7c4b1418ae78e990b36550f0a6a8403f-340x440-7c4b1418ae78e990b36550f0a6a8403f-340x440-7c4b1418ae78e990b36550f0a6a8403f.jpg",
+      "md5": "7c4b1418ae78e990b36550f0a6a8403f",
+      "width": 340,
+      "height": 440,
+      "size": 192921,
+      "uploadedDate": "2020-05-04T21:58:35.36Z"
+    }
+  ],
+  "creationDate": "2019-09-03T15:22:15.315+00:00",
+  "lastModifiedDate": "2020-05-07T13:10:09.389+00:00",
+  "developer": "Paradox Interactive",
+  "developerId": "o-tjvfg6rejs6h86qa7k9aa64rrgbxxb",
+  "applicationId": null
+}

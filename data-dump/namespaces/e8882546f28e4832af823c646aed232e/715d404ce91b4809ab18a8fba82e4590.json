@@ -1,0 +1,23 @@
+{
+  "id": "715d404ce91b4809ab18a8fba82e4590",
+  "title": "The Europa Wager",
+  "description": "The Europa Wager",
+  "namespace": "e8882546f28e4832af823c646aed232e",
+  "categories": "public/games/applications",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/e8882546f28e4832af823c646aed232e/item/EGS_OffworldTradingCompanyTheEuropaWager_MohawkGames_Expansion_IC1_A-320x180-812f0f9ba81cd2f7edc6183e9dd01504.jpg",
+      "md5": "812f0f9ba81cd2f7edc6183e9dd01504",
+      "width": 320,
+      "height": 180,
+      "size": 66181,
+      "uploadedDate": "2020-03-05T15:48:13.789Z"
+    }
+  ],
+  "creationDate": "2020-02-17T21:43:49.078+00:00",
+  "lastModifiedDate": "2022-12-13T18:52:53.906+00:00",
+  "developer": "Stardock Entertainment, Inc",
+  "developerId": "o-l69v3ppj5zgdpwtuvq6sgjew5yjt5w",
+  "applicationId": null
+}

@@ -1,0 +1,23 @@
+{
+  "id": "da5c38c6bf104e2e85a03098b91ec348",
+  "title": "BegoniaDevAudience",
+  "description": "BegoniaDevAudience",
+  "namespace": "begonia",
+  "categories": "",
+  "keyImages": [
+    {
+      "type": "ESRB",
+      "url": "https://cdn1.epicgames.com/begonia/item/WalkingDead3-842x404-3c7bcd36f914bb153497f616b2610a05.png",
+      "md5": "3c7bcd36f914bb153497f616b2610a05",
+      "width": 842,
+      "height": 404,
+      "size": 57482,
+      "uploadedDate": "2019-04-23T20:25:38.374Z"
+    }
+  ],
+  "creationDate": "2019-03-08T18:30:28.719+00:00",
+  "lastModifiedDate": "2023-02-14T22:02:32.13+00:00",
+  "developer": "Skybound Interactive",
+  "developerId": "o-rqvssgn2hhj58wv5bc6eueqswz2un4",
+  "applicationId": null
+}

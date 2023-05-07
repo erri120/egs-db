@@ -1,0 +1,32 @@
+{
+  "id": "ac45944a87834615909cde9de0a46853",
+  "title": "The Two Colonels",
+  "description": "The Two Colonels",
+  "namespace": "snapdragon",
+  "categories": "",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/undefined",
+      "md5": "6fdc4878c639d022e1dfc1851623594a",
+      "width": 2560,
+      "height": 1440,
+      "size": 6065760,
+      "uploadedDate": "2022-11-21T18:53:07.335Z"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/item/snapdragon/metro_exodus_epic_tile_1200x1600_1200x1600-bfecd8f57c04dac1b5a772d050bcfc39",
+      "md5": "bfecd8f57c04dac1b5a772d050bcfc39",
+      "width": 1200,
+      "height": 1600,
+      "size": 3676665,
+      "uploadedDate": "2022-11-21T18:53:04.678Z"
+    }
+  ],
+  "creationDate": "2019-05-08T18:42:11.452+00:00",
+  "lastModifiedDate": "2023-04-26T20:30:44.793+00:00",
+  "developer": "Plaion",
+  "developerId": "o-jskfz28ywm2l56px6h9rlxplaysrtl",
+  "applicationId": "fghi4567zG5o4OBTBUL3WOGPxO3K7CrN"
+}

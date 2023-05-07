@@ -1,0 +1,32 @@
+{
+  "id": "2a2ee819d1cf40d8a3f46cb486ce0729",
+  "title": "BasilStaging",
+  "description": "BasilStaging",
+  "namespace": "basil",
+  "categories": "",
+  "keyImages": [
+    {
+      "type": "DieselGameBoxLogo",
+      "url": "https://cdn1.epicgames.com/basil/item/Basil_HRM_Logo-1191x870-59b90f2d7ff71b1c283dbca4bb931f52.png",
+      "md5": "59b90f2d7ff71b1c283dbca4bb931f52",
+      "width": 1191,
+      "height": 870,
+      "size": 46389,
+      "uploadedDate": "2019-04-25T21:24:49.817Z"
+    },
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/basil/item/Basil_HRM_PrimaryPromo-2580x1450-6397adc15b04f44458140bd2ad71a7d7.jpg",
+      "md5": "6397adc15b04f44458140bd2ad71a7d7",
+      "width": 2580,
+      "height": 1450,
+      "size": 307566,
+      "uploadedDate": "2019-04-25T21:24:41.277Z"
+    }
+  ],
+  "creationDate": "2019-02-15T17:36:21.259+00:00",
+  "lastModifiedDate": "2019-08-30T17:17:54.212+00:00",
+  "developer": "Tomorrow Corporation",
+  "developerId": "o-46fvj3lpt7r9n79axbrl8tkgfbe2j8",
+  "applicationId": null
+}

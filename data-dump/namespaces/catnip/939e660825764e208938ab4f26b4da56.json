@@ -1,0 +1,41 @@
+{
+  "id": "939e660825764e208938ab4f26b4da56",
+  "title": "Borderlands 3 Season Pass Audience",
+  "description": "Borderlands 3 Season Pass Audience",
+  "namespace": "catnip",
+  "categories": "",
+  "keyImages": [
+    {
+      "type": "ESRB",
+      "url": "https://cdn1.epicgames.com/catnip/item/ESRB_M_Borderlands3-842x485-275d74057f4825477e1f7f17f8cf0abc.jpg",
+      "md5": "275d74057f4825477e1f7f17f8cf0abc",
+      "width": 842,
+      "height": 485,
+      "size": 134137,
+      "uploadedDate": "2020-01-07T22:51:37.837Z"
+    },
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/item/catnip/Diesel_productv2_borderlands-3_season-pass_BL3_SEASONPASS_Hero-3840x2160-4411e63a005a43811a2bc516ae7ec584598fd4aa-3840x2160-b8988ebb0f3d9159671e8968af991f30_3840x2160-b8988ebb0f3d9159671e8968af991f30",
+      "md5": "b8988ebb0f3d9159671e8968af991f30",
+      "width": 3840,
+      "height": 2160,
+      "size": 1065483,
+      "uploadedDate": "2023-01-19T17:40:40.613Z"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/item/catnip/2KGMKT_BL3_Season_Pass_EGS_1200x1600_1200x1600-a7438a079c5576d328a74b9121278075",
+      "md5": "a7438a079c5576d328a74b9121278075",
+      "width": 1200,
+      "height": 1600,
+      "size": 943481,
+      "uploadedDate": "2023-01-19T17:40:43.474Z"
+    }
+  ],
+  "creationDate": "2019-04-02T18:56:47.088+00:00",
+  "lastModifiedDate": "2023-01-19T21:12:26.606+00:00",
+  "developer": "2K Games, Inc.",
+  "developerId": "o-37m6jbj5wcvrcvm4wusv7nazdfvbjk",
+  "applicationId": ""
+}

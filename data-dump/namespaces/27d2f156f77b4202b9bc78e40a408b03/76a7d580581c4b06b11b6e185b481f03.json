@@ -1,0 +1,41 @@
+{
+  "id": "76a7d580581c4b06b11b6e185b481f03",
+  "title": "Where The Water Tastes Like Wine",
+  "description": "Where The Water Tastes Like Wine",
+  "namespace": "27d2f156f77b4202b9bc78e40a408b03",
+  "categories": "public/games/applications",
+  "keyImages": [
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/27d2f156f77b4202b9bc78e40a408b03/item/EGS_WhereTheWaterTastesLikeWine_DimBulbGames_S2-1200x1600-b14d1a4d99a370f387e5e63e53d53a30.jpg",
+      "md5": "b14d1a4d99a370f387e5e63e53d53a30",
+      "width": 1200,
+      "height": 1600,
+      "size": 1022216,
+      "uploadedDate": "2020-09-01T18:57:07.359Z"
+    },
+    {
+      "type": "DieselGameBoxWide",
+      "url": "https://cdn1.epicgames.com/27d2f156f77b4202b9bc78e40a408b03/item/EGS_WhereTheWaterTastesLikeWine_DimBulbGames_S1-2560x1440-75b8bde822ddf61974fe34cc0fb6f26c.jpg",
+      "md5": "75b8bde822ddf61974fe34cc0fb6f26c",
+      "width": 2560,
+      "height": 1440,
+      "size": 1010653,
+      "uploadedDate": "2020-09-01T18:57:16.492Z"
+    },
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/27d2f156f77b4202b9bc78e40a408b03/item/EGS_WhereTheWaterTastesLikeWine_DimBulbGames_S1-2560x1440-75b8bde822ddf61974fe34cc0fb6f26c-2560x1440-75b8bde822ddf61974fe34cc0fb6f26c.jpg",
+      "md5": "75b8bde822ddf61974fe34cc0fb6f26c",
+      "width": 2560,
+      "height": 1440,
+      "size": 1010653,
+      "uploadedDate": "2020-09-09T13:45:25.234Z"
+    }
+  ],
+  "creationDate": "2020-07-28T19:01:26.021+00:00",
+  "lastModifiedDate": "2020-09-09T17:26:33.874+00:00",
+  "developer": "Good Shepherd Entertainment",
+  "developerId": "o-v3fdwkgaukftabrpt9292vr5tcwj2p",
+  "applicationId": null
+}

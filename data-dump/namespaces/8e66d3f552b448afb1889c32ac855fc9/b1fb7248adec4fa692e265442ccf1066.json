@@ -1,0 +1,23 @@
+{
+  "id": "b1fb7248adec4fa692e265442ccf1066",
+  "title": "BichirGeneralAudience",
+  "description": "BichirGeneralAudience",
+  "namespace": "8e66d3f552b448afb1889c32ac855fc9",
+  "categories": "",
+  "keyImages": [
+    {
+      "type": "ESRB",
+      "url": "https://cdn1.epicgames.com/8e66d3f552b448afb1889c32ac855fc9/item/ESRB_E10_FantasyViolence-842x404-b69ee903026c7a87f4179c74360a65aa.jpg",
+      "md5": "b69ee903026c7a87f4179c74360a65aa",
+      "width": 842,
+      "height": 404,
+      "size": 21122,
+      "uploadedDate": "2019-12-16T21:06:00.554Z"
+    }
+  ],
+  "creationDate": "2019-12-03T01:38:33.78+00:00",
+  "lastModifiedDate": "2019-12-20T16:17:07.48+00:00",
+  "developer": "Matt Makes Games",
+  "developerId": "o-82l4kr2zqqhkqqa6mkut4pjx9lma3h",
+  "applicationId": null
+}

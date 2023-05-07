@@ -1,0 +1,32 @@
+{
+  "id": "56489e06733145dc8907a1067be1596e",
+  "title": "Moonlighter DLC",
+  "description": "Moonlighter DLC",
+  "namespace": "bec822fb982843c3be794d440728336b",
+  "categories": "games/dlc/applications",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/item/bec822fb982843c3be794d440728336b/EGS_11bitstudios_Moonlighter_LandscapeImage-2560x1440-2905879d3431602b0387e407994165d1_2560x1440-2905879d3431602b0387e407994165d1",
+      "md5": "2905879d3431602b0387e407994165d1",
+      "width": 2560,
+      "height": 1440,
+      "size": 1926063,
+      "uploadedDate": "2023-03-10T19:05:10.411Z"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/item/bec822fb982843c3be794d440728336b/CodeRedemptionMoonlighterDLC-340x440-0e5c617dc29311418d17850d4c946977_340x440-0e5c617dc29311418d17850d4c946977",
+      "md5": "0e5c617dc29311418d17850d4c946977",
+      "width": 340,
+      "height": 440,
+      "size": 147436,
+      "uploadedDate": "2023-03-10T19:05:05.914Z"
+    }
+  ],
+  "creationDate": "2019-07-10T18:38:57.913+00:00",
+  "lastModifiedDate": "2023-03-10T19:05:15.36+00:00",
+  "developer": "11 Bit Studios",
+  "developerId": "o-z8janbuqt5zvnkqwm35kc9wtdzxkhr",
+  "applicationId": ""
+}

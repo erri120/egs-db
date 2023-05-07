@@ -1,0 +1,23 @@
+{
+  "id": "8d31d407a7c04225ae63acff98d7780a",
+  "title": "RosePre-PurchaseAudience",
+  "description": "RosePre-PurchaseAudience",
+  "namespace": "rose",
+  "categories": "",
+  "keyImages": [
+    {
+      "type": "ESRB",
+      "url": "https://cdn1.epicgames.com/rose/item/ESRB_No_Descriptors-842x404-101b2c53a62bca99efa171b39547d0ff.jpg",
+      "md5": "101b2c53a62bca99efa171b39547d0ff",
+      "width": 842,
+      "height": 404,
+      "size": 58022,
+      "uploadedDate": "2019-10-16T21:30:58.886Z"
+    }
+  ],
+  "creationDate": "2019-08-01T15:37:43.086+00:00",
+  "lastModifiedDate": "2020-08-24T20:24:42.372+00:00",
+  "developer": "Gwen Frey",
+  "developerId": "o-na388hs5k2ak86akfejt2es246vaa2",
+  "applicationId": null
+}

@@ -1,0 +1,32 @@
+{
+  "id": "9b20b42327b349d4a42ace042eb6f83c",
+  "title": "The Walking Dead: Michonne",
+  "description": "The Walking Dead: Michonne",
+  "namespace": "fennel",
+  "categories": "",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/item/fennel/EGS_MICHONNE_Landscape_2560x1440_2560x1440-cc8ca40595d33e627dac105e0fc0ad57",
+      "md5": "cc8ca40595d33e627dac105e0fc0ad57",
+      "width": 2560,
+      "height": 1440,
+      "size": 2263077,
+      "uploadedDate": "2023-02-14T21:38:40.798Z"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/item/fennel/WDM101_Portrait_1200x1600_1200x1600-eb04dc573d3c05414da289a52e939aec",
+      "md5": "eb04dc573d3c05414da289a52e939aec",
+      "width": 1200,
+      "height": 1600,
+      "size": 3049036,
+      "uploadedDate": "2023-02-14T21:38:38.712Z"
+    }
+  ],
+  "creationDate": "2019-03-22T22:02:27.011+00:00",
+  "lastModifiedDate": "2023-02-14T21:38:54.105+00:00",
+  "developer": "Skybound Interactive",
+  "developerId": "o-rqvssgn2hhj58wv5bc6eueqswz2un4",
+  "applicationId": ""
+}

@@ -1,0 +1,23 @@
+{
+  "id": "902a462aae0f489bb55f7a68103be7c8",
+  "title": "Lupine Pre-Purchase Audience",
+  "description": "Lupine Pre-Purchase Audience",
+  "namespace": "lupine",
+  "categories": "",
+  "keyImages": [
+    {
+      "type": "ESRB",
+      "url": "https://cdn1.epicgames.com/lupine/item/ESRB_Wattam-842x404-0f8ac7f5e92a089f7745ed7659402019.jpg",
+      "md5": "0f8ac7f5e92a089f7745ed7659402019",
+      "width": 842,
+      "height": 404,
+      "size": 23273,
+      "uploadedDate": "2019-11-08T19:19:27.986Z"
+    }
+  ],
+  "creationDate": "2019-11-08T19:16:36.669+00:00",
+  "lastModifiedDate": "2019-12-17T15:58:49.485+00:00",
+  "developer": "Annapurna Interactive",
+  "developerId": "o-bmeb3ztlbxkjc8vvpydava38yvmxlm",
+  "applicationId": null
+}

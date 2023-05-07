@@ -1,0 +1,32 @@
+{
+  "id": "c9924443d06e4b9bb8a67eee7ab0b4e4",
+  "title": "Maneater Pre-Purchase",
+  "description": "Maneater Pre-Purchase",
+  "namespace": "turtle",
+  "categories": "",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/turtle/item/maneaterWide-2580x1456-a66dd2422bbbb9feef9304933254bb78.jpg",
+      "md5": "a66dd2422bbbb9feef9304933254bb78",
+      "width": 2580,
+      "height": 1456,
+      "size": 414334,
+      "uploadedDate": "2019-10-24T22:24:45.573Z"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/item/turtle/Maneater_EGS_1200x1600_1200x1600-64753fed67a14f055ee4e7150fe34daf",
+      "md5": "64753fed67a14f055ee4e7150fe34daf",
+      "width": 1200,
+      "height": 1600,
+      "size": 830357,
+      "uploadedDate": "2022-11-03T15:52:43.541Z"
+    }
+  ],
+  "creationDate": "2019-07-25T17:29:32.836+00:00",
+  "lastModifiedDate": "2022-11-03T15:52:47.387+00:00",
+  "developer": "Tripwire Interactive",
+  "developerId": "o-2baznhy8tfh7fmyb55ul656v7ggt7r",
+  "applicationId": ""
+}

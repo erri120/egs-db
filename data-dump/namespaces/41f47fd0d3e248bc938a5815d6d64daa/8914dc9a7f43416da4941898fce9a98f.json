@@ -1,0 +1,23 @@
+{
+  "id": "8914dc9a7f43416da4941898fce9a98f",
+  "title": "BluebirdGeneralAudience",
+  "description": "BluebirdGeneralAudience",
+  "namespace": "41f47fd0d3e248bc938a5815d6d64daa",
+  "categories": "",
+  "keyImages": [
+    {
+      "type": "ESRB",
+      "url": "https://cdn1.epicgames.com/41f47fd0d3e248bc938a5815d6d64daa/item/ESRB_no_descriptors-842x404-450b9b9c9beaa83bc627dd954ab7d62b.jpg",
+      "md5": "450b9b9c9beaa83bc627dd954ab7d62b",
+      "width": 842,
+      "height": 404,
+      "size": 60429,
+      "uploadedDate": "2020-01-08T21:29:32.785Z"
+    }
+  ],
+  "creationDate": "2019-08-09T14:07:34.569+00:00",
+  "lastModifiedDate": "2020-01-08T21:29:38.339+00:00",
+  "developer": "Polytron Corporation, Inc",
+  "developerId": "o-yh6xe9ws2y6xcgrbr27lvspn3ulb5e",
+  "applicationId": null
+}

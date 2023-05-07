@@ -1,0 +1,32 @@
+{
+  "id": "0fd5d1febd9d45a8aae0408f8fcda4be",
+  "title": "HousepartyStaging",
+  "description": "HousepartyStaging",
+  "namespace": "dd0e87ebceb8498db6541385b95bac30",
+  "categories": "public/software/applications",
+  "keyImages": [
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_Houseparty_LifeonAirInc_S2_1200x1600-2f2239d06bc16b60f7019cb25a98e9d0",
+      "md5": "2f2239d06bc16b60f7019cb25a98e9d0",
+      "width": 1200,
+      "height": 1600,
+      "size": 63081,
+      "uploadedDate": "2021-06-14T21:25:16.02Z"
+    },
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_Houseparty_LifeonAirInc_S1_2560x1440-e56b0bf32c31d9436629df0027a4cfa7",
+      "md5": "e56b0bf32c31d9436629df0027a4cfa7",
+      "width": 2560,
+      "height": 1440,
+      "size": 105875,
+      "uploadedDate": "2021-06-14T21:25:26.142Z"
+    }
+  ],
+  "creationDate": "2021-02-17T02:09:01.434+00:00",
+  "lastModifiedDate": "2021-06-14T21:26:02.567+00:00",
+  "developer": "Life on Air",
+  "developerId": "o-dv26jja5h8zpqcnk7dauxdmcxfdyz7",
+  "applicationId": ""
+}

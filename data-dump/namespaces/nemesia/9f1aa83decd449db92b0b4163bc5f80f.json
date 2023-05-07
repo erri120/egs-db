@@ -1,0 +1,32 @@
+{
+  "id": "9f1aa83decd449db92b0b4163bc5f80f",
+  "title": "Vampire: The Masquerade \u2013 Bloodlines 2 Pre-Purchase",
+  "description": "Vampire: The Masquerade \u2013 Bloodlines 2 Pre-Purchase",
+  "namespace": "nemesia",
+  "categories": "",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/nemesia/item/EGS_VampireTheMasqueradeBloodlines2_HardsuitLabs_S1-2560x1440-5ff32c5e44f21a30ecf2bd689f9e12da.jpg",
+      "md5": "5ff32c5e44f21a30ecf2bd689f9e12da",
+      "width": 2560,
+      "height": 1440,
+      "size": 626626,
+      "uploadedDate": "2020-05-13T18:56:58.681Z"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/nemesia/item/EGS_VampireTheMasqueradeBloodlines2_HardsuitLabs_S2-1200x1600-29b9f030725c7871fa0c379c269958a6.jpg",
+      "md5": "29b9f030725c7871fa0c379c269958a6",
+      "width": 1200,
+      "height": 1600,
+      "size": 299276,
+      "uploadedDate": "2020-05-13T18:57:15.962Z"
+    }
+  ],
+  "creationDate": "2019-05-06T20:23:55.487+00:00",
+  "lastModifiedDate": "2020-05-13T18:57:21.622+00:00",
+  "developer": "Paradox Interactive",
+  "developerId": "o-tjvfg6rejs6h86qa7k9aa64rrgbxxb",
+  "applicationId": null
+}

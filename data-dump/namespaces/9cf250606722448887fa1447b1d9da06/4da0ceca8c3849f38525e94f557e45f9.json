@@ -1,0 +1,32 @@
+{
+  "id": "4da0ceca8c3849f38525e94f557e45f9",
+  "title": "WRC 9 FIA World Rally Championship",
+  "description": "WRC 9 FIA World Rally Championship",
+  "namespace": "9cf250606722448887fa1447b1d9da06",
+  "categories": "public/games/applications",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/9cf250606722448887fa1447b1d9da06/item/EGS_WRC9FIAWorldRallyChampionship_KTRacing_S1-2560x1440-02b75e7bdcabd1addc129dcb3ab1d16d.jpg",
+      "md5": "02b75e7bdcabd1addc129dcb3ab1d16d",
+      "width": 2560,
+      "height": 1440,
+      "size": 913835,
+      "uploadedDate": "2020-06-29T22:06:54.14Z"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/9cf250606722448887fa1447b1d9da06/item/EGS_WRC9FIAWorldRallyChampionship_KTRacing_S2-1200x1600-2e92991d2eb3440be53f4c41a53d1b3b.jpg",
+      "md5": "2e92991d2eb3440be53f4c41a53d1b3b",
+      "width": 1200,
+      "height": 1600,
+      "size": 257507,
+      "uploadedDate": "2020-06-29T22:07:03.009Z"
+    }
+  ],
+  "creationDate": "2019-09-12T18:24:30.689+00:00",
+  "lastModifiedDate": "2020-09-03T14:26:17.432+00:00",
+  "developer": "Bigben Interactive",
+  "developerId": "o-wubu848ps2xcxuwv2m3bhet9gbhdbp",
+  "applicationId": null
+}

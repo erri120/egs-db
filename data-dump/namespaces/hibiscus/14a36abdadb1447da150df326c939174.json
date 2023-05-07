@@ -1,0 +1,23 @@
+{
+  "id": "14a36abdadb1447da150df326c939174",
+  "title": "Oxenfree General Audience",
+  "description": "Oxenfree General Audience",
+  "namespace": "hibiscus",
+  "categories": "",
+  "keyImages": [
+    {
+      "type": "ESRB",
+      "url": "https://cdn1.epicgames.com/hibiscus/item/ESRB_Oxenfree-842x404-f0e18e53e00d19a837a0c9c424bd1760.jpg",
+      "md5": "f0e18e53e00d19a837a0c9c424bd1760",
+      "width": 842,
+      "height": 404,
+      "size": 92773,
+      "uploadedDate": "2020-01-09T17:51:39.925Z"
+    }
+  ],
+  "creationDate": "2019-01-29T20:37:11.121+00:00",
+  "lastModifiedDate": "2020-01-09T17:53:28.492+00:00",
+  "developer": "Night School Studio, LLC",
+  "developerId": "o-8bhctnyt9qetgnjd4nssqse58c2589",
+  "applicationId": null
+}

@@ -1,0 +1,23 @@
+{
+  "id": "ecc534f182974a7bbeecfd4dcfaa19bf",
+  "title": "NewtAlphaAudience",
+  "description": "NewtAlphaAudience",
+  "namespace": "newt",
+  "categories": "",
+  "keyImages": [
+    {
+      "type": "ESRB",
+      "url": "https://cdn1.epicgames.com/newt/item/ESRB_Spellbreak-842x404-fce4fa7233ed80170a8e36079d1e1bde.png",
+      "md5": "fce4fa7233ed80170a8e36079d1e1bde",
+      "width": 842,
+      "height": 404,
+      "size": 51194,
+      "uploadedDate": "2019-04-23T19:22:40.913Z"
+    }
+  ],
+  "creationDate": "2019-02-01T20:27:48.772+00:00",
+  "lastModifiedDate": "2022-06-27T18:41:08.463+00:00",
+  "developer": "Proletariat, Inc.",
+  "developerId": "o-umuuzpzyfsw8wvcn4xpyh7ksmyhflg",
+  "applicationId": null
+}

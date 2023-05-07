@@ -1,0 +1,32 @@
+{
+  "id": "9125207fd9d5490f94091afd8077d498",
+  "title": "Riders Republic",
+  "description": "Riders Republic",
+  "namespace": "83d6990f16444655866b04be562bf589",
+  "categories": "public/games/applications",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/83d6990f16444655866b04be562bf589/item/MAD_STD_Store_Landscape_2560x1440-2560x1440-0d275f75a75f6367c373e727bc78b4d1.jpg",
+      "md5": "0d275f75a75f6367c373e727bc78b4d1",
+      "width": 2560,
+      "height": 1440,
+      "size": 582814,
+      "uploadedDate": "2020-09-09T15:26:16.686Z"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/EN_MAD_STD_GAME_EPIC_Store_Portrait_1200x1600_EN_1200x1600-ddd4f456e3035ce50ddfa0d358efa208",
+      "md5": "ddd4f456e3035ce50ddfa0d358efa208",
+      "width": 1200,
+      "height": 1600,
+      "size": 969242,
+      "uploadedDate": "2021-07-26T22:21:42.109Z"
+    }
+  ],
+  "creationDate": "2020-08-31T18:21:21.281+00:00",
+  "lastModifiedDate": "2023-03-30T12:19:43.425+00:00",
+  "developer": "Ubisoft Entertainment",
+  "developerId": "o-3efjudxdtgsqnulml4bkeq3v9nec38",
+  "applicationId": ""
+}

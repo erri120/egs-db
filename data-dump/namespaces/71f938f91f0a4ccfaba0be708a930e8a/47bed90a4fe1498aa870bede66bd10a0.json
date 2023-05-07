@@ -1,0 +1,32 @@
+{
+  "id": "47bed90a4fe1498aa870bede66bd10a0",
+  "title": "Far Cry",
+  "description": "Far Cry",
+  "namespace": "71f938f91f0a4ccfaba0be708a930e8a",
+  "categories": "public/games/applications",
+  "keyImages": [
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/71f938f91f0a4ccfaba0be708a930e8a/item/GameName_Store_Portrait_1200x1600-1200x1600-cecdc41b252a33e1b1bc357863a5a1a1.jpg",
+      "md5": "cecdc41b252a33e1b1bc357863a5a1a1",
+      "width": 1200,
+      "height": 1600,
+      "size": 804642,
+      "uploadedDate": "2020-07-30T16:38:12.988Z"
+    },
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/71f938f91f0a4ccfaba0be708a930e8a/item/GameName_Store_Landscape_2560x1440-2560x1440-83f5fc72a43aa3aaec79d56b094b8505.jpg",
+      "md5": "83f5fc72a43aa3aaec79d56b094b8505",
+      "width": 2560,
+      "height": 1440,
+      "size": 954334,
+      "uploadedDate": "2020-07-30T16:38:37.727Z"
+    }
+  ],
+  "creationDate": "2020-06-17T19:33:15.21+00:00",
+  "lastModifiedDate": "2020-08-18T14:55:43.78+00:00",
+  "developer": "Ubisoft Entertainment",
+  "developerId": "o-3efjudxdtgsqnulml4bkeq3v9nec38",
+  "applicationId": null
+}

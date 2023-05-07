@@ -1,0 +1,32 @@
+{
+  "id": "92ae76908235472483a8f89e1d094dfd",
+  "title": "Desperados III - Digital Artbook",
+  "description": "Desperados III - Digital Artbook",
+  "namespace": "8b8fd2fe87a04bbab2eca292e71b5e2c",
+  "categories": "public/games/applications",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/8b8fd2fe87a04bbab2eca292e71b5e2c/item/Image-Logo-1920x1080-4d9bac5ace995b67d63b6b1be5ee631d.jpg",
+      "md5": "4d9bac5ace995b67d63b6b1be5ee631d",
+      "width": 1920,
+      "height": 1080,
+      "size": 1536572,
+      "uploadedDate": "2020-06-10T18:42:19.982Z"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/8b8fd2fe87a04bbab2eca292e71b5e2c/item/Desperados3-OST-Portrait-1539x1829-ee41eb6d5e981235e1a3022fa846f916.png",
+      "md5": "ee41eb6d5e981235e1a3022fa846f916",
+      "width": 1539,
+      "height": 1829,
+      "size": 3440393,
+      "uploadedDate": "2020-06-10T18:42:33.901Z"
+    }
+  ],
+  "creationDate": "2020-11-03T15:51:03.081+00:00",
+  "lastModifiedDate": "2020-11-30T12:43:12.783+00:00",
+  "developer": "THQ Nordic GmbH",
+  "developerId": "o-jywxgemg3dagnv6fymcngq3g29mc4j",
+  "applicationId": null
+}

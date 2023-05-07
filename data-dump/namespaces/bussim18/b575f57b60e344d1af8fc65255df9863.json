@@ -1,0 +1,23 @@
+{
+  "id": "b575f57b60e344d1af8fc65255df9863",
+  "title": "Call_To_Action_01",
+  "description": "PLAY BUS SIMULATOR 18\n\u003Cinverted-tiny-body\u003EBUY NOW\u003C/\u003E",
+  "namespace": "bussim18",
+  "categories": "layoutcontent",
+  "keyImages": [
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/bussim18/item/bus2-600x337-db2519bcd647435aba03b318c5dcb519.png",
+      "md5": "db2519bcd647435aba03b318c5dcb519",
+      "width": 600,
+      "height": 337,
+      "size": 359524,
+      "uploadedDate": "2018-05-17T20:36:35.917Z"
+    }
+  ],
+  "creationDate": "2018-05-17T19:12:39.212+00:00",
+  "lastModifiedDate": "2018-12-14T20:08:11.581+00:00",
+  "developer": "Epic Games",
+  "developerId": "o-aa83a0a9bc45e98c80c1b1c9d92e9e",
+  "applicationId": null
+}

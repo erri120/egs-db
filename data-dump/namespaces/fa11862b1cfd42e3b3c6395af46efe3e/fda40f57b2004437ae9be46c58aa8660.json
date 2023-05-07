@@ -1,0 +1,32 @@
+{
+  "id": "fda40f57b2004437ae9be46c58aa8660",
+  "title": "Yooka-Laylee and the Impossible Lair",
+  "description": "Yooka-Laylee and the Impossible Lair",
+  "namespace": "fa11862b1cfd42e3b3c6395af46efe3e",
+  "categories": "public/games/applications",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/fa11862b1cfd42e3b3c6395af46efe3e/item/EGS_PlaytonicGamesLtd_YookaLayleeandtheImpossibleLair_S3-1360x766-8faccccfe9ca390483f8a177b7fccbd4.jpg",
+      "md5": "8faccccfe9ca390483f8a177b7fccbd4",
+      "width": 1360,
+      "height": 766,
+      "size": 496297,
+      "uploadedDate": "2019-12-27T17:00:58.186Z"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/fa11862b1cfd42e3b3c6395af46efe3e/item/EGS_PlaytonicGamesLtd_YookaLayleeandtheImpossibleLair_S4-510x680-5f1857ce88f7747b88c5121c674470e6.jpg",
+      "md5": "5f1857ce88f7747b88c5121c674470e6",
+      "width": 510,
+      "height": 680,
+      "size": 394172,
+      "uploadedDate": "2019-12-27T17:01:08.484Z"
+    }
+  ],
+  "creationDate": "2019-11-27T18:37:35.138+00:00",
+  "lastModifiedDate": "2023-02-09T16:48:41.648+00:00",
+  "developer": "Team17 Digital Ltd",
+  "developerId": "o-uvtztrtfjdn3xgrwyhbuwwb5z42mbv",
+  "applicationId": ""
+}

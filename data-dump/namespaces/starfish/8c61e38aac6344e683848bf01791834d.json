@@ -1,0 +1,23 @@
+{
+  "id": "8c61e38aac6344e683848bf01791834d",
+  "title": "Outer Wilds Beta Audience",
+  "description": "Outer Wilds Beta Audience",
+  "namespace": "starfish",
+  "categories": "",
+  "keyImages": [
+    {
+      "type": "ESRB",
+      "url": "https://cdn1.epicgames.com/starfish/item/RP_FOR_E-842x404-fce4fa7233ed80170a8e36079d1e1bde.png",
+      "md5": "fce4fa7233ed80170a8e36079d1e1bde",
+      "width": 842,
+      "height": 404,
+      "size": 51194,
+      "uploadedDate": "2019-04-23T20:40:38.389Z"
+    }
+  ],
+  "creationDate": "2020-01-09T19:04:37.086+00:00",
+  "lastModifiedDate": "2020-01-09T19:09:05.571+00:00",
+  "developer": "Annapurna Interactive",
+  "developerId": "o-bmeb3ztlbxkjc8vvpydava38yvmxlm",
+  "applicationId": null
+}

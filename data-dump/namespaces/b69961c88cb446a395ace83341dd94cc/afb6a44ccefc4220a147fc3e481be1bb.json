@@ -1,0 +1,32 @@
+{
+  "id": "afb6a44ccefc4220a147fc3e481be1bb",
+  "title": "Bee Simulator",
+  "description": "Bee Simulator",
+  "namespace": "b69961c88cb446a395ace83341dd94cc",
+  "categories": "public/games/applications",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/item/b69961c88cb446a395ace83341dd94cc/BeeSimulator_Wishlist_Landscape-2560x1440-978577bb6caf69a7937bc532b2748567_2560x1440-978577bb6caf69a7937bc532b2748567",
+      "md5": "978577bb6caf69a7937bc532b2748567",
+      "width": 2560,
+      "height": 1440,
+      "size": 2556192,
+      "uploadedDate": "2022-11-02T00:06:34.784Z"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/item/b69961c88cb446a395ace83341dd94cc/CodeRedemption_BeeSim-340x440-ba1b89045ded1df163270604bc06f51d_340x440-ba1b89045ded1df163270604bc06f51d",
+      "md5": "ba1b89045ded1df163270604bc06f51d",
+      "width": 340,
+      "height": 440,
+      "size": 184752,
+      "uploadedDate": "2022-11-02T00:06:37.857Z"
+    }
+  ],
+  "creationDate": "2019-08-24T05:04:21.7+00:00",
+  "lastModifiedDate": "2022-11-02T00:12:36.778+00:00",
+  "developer": "Nacon",
+  "developerId": "o-wubu848ps2xcxuwv2m3bhet9gbhdbp",
+  "applicationId": ""
+}

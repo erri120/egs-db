@@ -1,0 +1,32 @@
+{
+  "id": "58fbb2c6e5754ac688ca3f9eb549a259",
+  "title": "Old World Pre-Purchase",
+  "description": "Old World Pre-Purchase",
+  "namespace": "07f4a7dd3c884e5d87e9a209716962ca",
+  "categories": "public/games/applications",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/07f4a7dd3c884e5d87e9a209716962ca/item/EGS_OldWorld_MohawkGames_S1-2560x1440-fb4701a5cbba9680d746b4706087ea3b.jpg",
+      "md5": "fb4701a5cbba9680d746b4706087ea3b",
+      "width": 2560,
+      "height": 1440,
+      "size": 754481,
+      "uploadedDate": "2020-10-07T20:31:31.14Z"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/07f4a7dd3c884e5d87e9a209716962ca/item/EGS_OldWorld_MohawkGames_S2-1200x1600-abd8c012e54814e95dca03aaf3282ee5.jpg",
+      "md5": "abd8c012e54814e95dca03aaf3282ee5",
+      "width": 1200,
+      "height": 1600,
+      "size": 739642,
+      "uploadedDate": "2020-10-07T20:31:41.457Z"
+    }
+  ],
+  "creationDate": "2020-04-13T17:30:07.88+00:00",
+  "lastModifiedDate": "2022-04-26T17:11:54.396+00:00",
+  "developer": "Mohawk Games",
+  "developerId": "o-uw2qbn4nh26vxscergml2f7du26bvk",
+  "applicationId": null
+}

@@ -1,0 +1,23 @@
+{
+  "id": "27f60c87c5c145ebbe71bf9f7c669c5f",
+  "title": "TransistorGeneralAudience",
+  "description": "TransistorGeneralAudience",
+  "namespace": "bc81d1e7d1794d3a94e4dbf26e92166d",
+  "categories": "",
+  "keyImages": [
+    {
+      "type": "ESRB",
+      "url": "https://cdn1.epicgames.com/bc81d1e7d1794d3a94e4dbf26e92166d/item/ESRB_Transistor-842x404-aac7b4ffbdb8f9b33be01a280e89442f.png",
+      "md5": "aac7b4ffbdb8f9b33be01a280e89442f",
+      "width": 842,
+      "height": 404,
+      "size": 35595,
+      "uploadedDate": "2020-01-09T18:24:54.182Z"
+    }
+  ],
+  "creationDate": "2019-04-04T01:45:43.286+00:00",
+  "lastModifiedDate": "2020-01-09T18:25:06.152+00:00",
+  "developer": "Supergiant Games LLC",
+  "developerId": "o-vwkp2e2azz3ybr7ckg7pfnxhwezd4a",
+  "applicationId": null
+}

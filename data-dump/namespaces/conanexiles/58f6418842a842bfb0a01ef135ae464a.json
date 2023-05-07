@@ -1,0 +1,32 @@
+{
+  "id": "58f6418842a842bfb0a01ef135ae464a",
+  "title": "Conan Exiles - Dedicated Server",
+  "description": "Conan Exiles - Dedicated Server",
+  "namespace": "conanexiles",
+  "categories": "",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/item/conanexiles/egs-conanexiles-funcom-s1-2560x1440-191437834_2560x1440-97a51d6c605471c9a7ee43cd068b0e93",
+      "md5": "97a51d6c605471c9a7ee43cd068b0e93",
+      "width": 2560,
+      "height": 1440,
+      "size": 356461,
+      "uploadedDate": "2021-11-18T05:29:06.892Z"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/item/conanexiles/egs-conanexiles-funcom-s2-1200x1600-191439762_1200x1600-f22d814f9871be4cd3d53cfe4917d1e2",
+      "md5": "f22d814f9871be4cd3d53cfe4917d1e2",
+      "width": 1200,
+      "height": 1600,
+      "size": 163157,
+      "uploadedDate": "2021-11-18T05:29:10.859Z"
+    }
+  ],
+  "creationDate": "2020-04-30T20:40:46.02+00:00",
+  "lastModifiedDate": "2021-11-23T07:40:30.501+00:00",
+  "developer": "Funcom Oslo AS",
+  "developerId": "o-fyyejcaw8f65b74sfwudhays6t3cuz",
+  "applicationId": ""
+}

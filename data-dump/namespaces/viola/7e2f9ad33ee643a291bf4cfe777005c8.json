@@ -1,0 +1,32 @@
+{
+  "id": "7e2f9ad33ee643a291bf4cfe777005c8",
+  "title": "Outward Soundtrack",
+  "description": "Outward Soundtrack",
+  "namespace": "viola",
+  "categories": "",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/viola/item/Featured_Carousel_Desktop_horizontal-1360x766-8c09b5676d0a19600ad8959023002d57.jpg",
+      "md5": "8c09b5676d0a19600ad8959023002d57",
+      "width": 1360,
+      "height": 766,
+      "size": 827203,
+      "uploadedDate": "2020-02-19T23:26:47.8Z"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/viola/item/Featured_Carousel_Mobile_vertical-510x680-ac37a46fb7bcd07b11861240eeb275e5.jpg",
+      "md5": "ac37a46fb7bcd07b11861240eeb275e5",
+      "width": 510,
+      "height": 680,
+      "size": 347024,
+      "uploadedDate": "2020-02-19T23:27:02.529Z"
+    }
+  ],
+  "creationDate": "2020-02-13T18:49:05.938+00:00",
+  "lastModifiedDate": "2022-09-20T14:58:46.326+00:00",
+  "developer": "Plaion",
+  "developerId": "o-jskfz28ywm2l56px6h9rlxplaysrtl",
+  "applicationId": ""
+}

@@ -1,0 +1,32 @@
+{
+  "id": "84d991f3d0ad440ca783cc1d21d54a03",
+  "title": "Sins of a Solar Empire 2",
+  "description": "Sins of a Solar Empire 2",
+  "namespace": "24285307a56445f1bc5d546df7af3025",
+  "categories": "public/games/applications",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/item/24285307a56445f1bc5d546df7af3025/EGS_SinsofaSolarEmpire2_IroncladGames_S1_2560x1440-82cc02b731d299c46aae476bd0dd2f76",
+      "md5": "82cc02b731d299c46aae476bd0dd2f76",
+      "width": 2560,
+      "height": 1440,
+      "size": 1018213,
+      "uploadedDate": "2022-08-30T13:37:27.821Z"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/item/24285307a56445f1bc5d546df7af3025/EGS_SinsofaSolarEmpire2_IroncladGames_S2_1200x1600-a6b3bd273eaca243fcce3a92b4e786d1",
+      "md5": "a6b3bd273eaca243fcce3a92b4e786d1",
+      "width": 1200,
+      "height": 1600,
+      "size": 1003990,
+      "uploadedDate": "2022-08-30T13:37:35.906Z"
+    }
+  ],
+  "creationDate": "2020-05-08T16:48:48.232+00:00",
+  "lastModifiedDate": "2022-10-27T16:39:26.232+00:00",
+  "developer": "Stardock Entertainment, Inc",
+  "developerId": "o-l69v3ppj5zgdpwtuvq6sgjew5yjt5w",
+  "applicationId": ""
+}

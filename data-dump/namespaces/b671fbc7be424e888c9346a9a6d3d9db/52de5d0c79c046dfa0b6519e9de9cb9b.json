@@ -1,0 +1,32 @@
+{
+  "id": "52de5d0c79c046dfa0b6519e9de9cb9b",
+  "title": "SaltStaging",
+  "description": "SaltStaging",
+  "namespace": "b671fbc7be424e888c9346a9a6d3d9db",
+  "categories": "public/games/applications",
+  "keyImages": [
+    {
+      "type": "DieselGameBoxLogo",
+      "url": "https://cdn1.epicgames.com/b671fbc7be424e888c9346a9a6d3d9db/item/IC1-1920x1589-d649a2f29c7137d610c44e9ed5c4a766.png",
+      "md5": "d649a2f29c7137d610c44e9ed5c4a766",
+      "width": 1920,
+      "height": 1589,
+      "size": 183718,
+      "uploadedDate": "2019-08-14T18:02:58.256Z"
+    },
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/b671fbc7be424e888c9346a9a6d3d9db/item/S1-2546x1140-bff534328df4abe66ea9c4b910df016a.jpg",
+      "md5": "bff534328df4abe66ea9c4b910df016a",
+      "width": 2546,
+      "height": 1140,
+      "size": 742003,
+      "uploadedDate": "2019-08-14T18:03:10.845Z"
+    }
+  ],
+  "creationDate": "2019-08-05T14:11:02.516+00:00",
+  "lastModifiedDate": "2023-02-28T19:30:56.887+00:00",
+  "developer": "Maddy Makes Games",
+  "developerId": "o-82l4kr2zqqhkqqa6mkut4pjx9lma3h",
+  "applicationId": ""
+}

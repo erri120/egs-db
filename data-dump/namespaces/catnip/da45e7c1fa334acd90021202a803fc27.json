@@ -1,0 +1,32 @@
+{
+  "id": "da45e7c1fa334acd90021202a803fc27",
+  "title": "Borderlands 3 Press Tour Demo",
+  "description": "Borderlands 3 Press Tour Demo",
+  "namespace": "catnip",
+  "categories": "",
+  "keyImages": [
+    {
+      "type": "DieselGameBoxLogo",
+      "url": "https://cdn1.epicgames.com/catnip/item/Oak_Logo_Standard-720x209-8373e0df5612a9952fe79defb32e1322.png",
+      "md5": "8373e0df5612a9952fe79defb32e1322",
+      "width": 720,
+      "height": 209,
+      "size": 192732,
+      "uploadedDate": "2019-07-19T19:19:02Z"
+    },
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/catnip/item/2kgmkt_bl3_key_art_horiz_standard-2650x1264-5b39cf8dc45ff9c4caa7417b930489cc-2650x1264-5b39cf8dc45ff9c4caa7417b930489cc.jpg",
+      "md5": "5b39cf8dc45ff9c4caa7417b930489cc",
+      "width": 2650,
+      "height": 1264,
+      "size": 500900,
+      "uploadedDate": "2019-09-05T00:03:31.587Z"
+    }
+  ],
+  "creationDate": "2019-07-11T21:24:15.309+00:00",
+  "lastModifiedDate": "2020-06-15T20:52:55.766+00:00",
+  "developer": "2K Games, Inc.",
+  "developerId": "o-37m6jbj5wcvrcvm4wusv7nazdfvbjk",
+  "applicationId": null
+}

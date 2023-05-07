@@ -1,0 +1,23 @@
+{
+  "id": "d710b35f28b2496f8d3d9a3b0fd9835a",
+  "title": "Jackbox2GeneralAudience",
+  "description": "Jackbox2GeneralAudience",
+  "namespace": "lilac",
+  "categories": "",
+  "keyImages": [
+    {
+      "type": "ESRB",
+      "url": "https://cdn1.epicgames.com/lilac/item/ESRB_Jackbox2-842x485-76b21b6d1c4ea5d6fafe5efe815ed5e5.jpg",
+      "md5": "76b21b6d1c4ea5d6fafe5efe815ed5e5",
+      "width": 842,
+      "height": 485,
+      "size": 124300,
+      "uploadedDate": "2020-01-09T18:44:52.713Z"
+    }
+  ],
+  "creationDate": "2019-01-16T13:13:55.259+00:00",
+  "lastModifiedDate": "2020-01-09T18:46:05.928+00:00",
+  "developer": "Jackbox Games, Inc.",
+  "developerId": "o-2m9ap45qzvalaepjz6wclpcffeq4aj",
+  "applicationId": null
+}

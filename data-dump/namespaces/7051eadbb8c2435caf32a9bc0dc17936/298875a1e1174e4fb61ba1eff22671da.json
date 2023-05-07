@@ -1,0 +1,32 @@
+{
+  "id": "298875a1e1174e4fb61ba1eff22671da",
+  "title": "RimWorld",
+  "description": "RimWorld",
+  "namespace": "7051eadbb8c2435caf32a9bc0dc17936",
+  "categories": "public/games/applications",
+  "keyImages": [
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/7051eadbb8c2435caf32a9bc0dc17936/item/EGS_RimWorld_LudeonStudios_S2-1200x1600-925e05c88fe8312deeb656e296adac64.jpg",
+      "md5": "925e05c88fe8312deeb656e296adac64",
+      "width": 1200,
+      "height": 1600,
+      "size": 650785,
+      "uploadedDate": "2020-06-08T17:56:32.392Z"
+    },
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/7051eadbb8c2435caf32a9bc0dc17936/item/EGS_RimWorld_LudeonStudios_S1-2560x1440-410a62ec21d44260409182e1174cce2e.jpg",
+      "md5": "410a62ec21d44260409182e1174cce2e",
+      "width": 2560,
+      "height": 1440,
+      "size": 997458,
+      "uploadedDate": "2020-06-08T17:56:52.856Z"
+    }
+  ],
+  "creationDate": "2020-04-02T21:46:13.857+00:00",
+  "lastModifiedDate": "2022-04-21T15:27:47.031+00:00",
+  "developer": "Ludeon Studios",
+  "developerId": "o-hsdwarj24e4ntqdnvu83854narhusv",
+  "applicationId": ""
+}

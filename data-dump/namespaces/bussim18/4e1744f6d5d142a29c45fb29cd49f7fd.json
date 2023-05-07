@@ -1,0 +1,23 @@
+{
+  "id": "4e1744f6d5d142a29c45fb29cd49f7fd",
+  "title": "Bus Simulator 18 Editor",
+  "description": "BUS SIMULATOR 18 DEV KIT",
+  "namespace": "bussim18",
+  "categories": "layoutcontent",
+  "keyImages": [
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/bussim18/item/bus1-600x337-56fe6e5166822eade97660bc59c5efce.png",
+      "md5": "56fe6e5166822eade97660bc59c5efce",
+      "width": 600,
+      "height": 337,
+      "size": 341128,
+      "uploadedDate": "2018-05-17T20:09:03.097Z"
+    }
+  ],
+  "creationDate": "2018-05-17T19:11:03.065+00:00",
+  "lastModifiedDate": "2018-12-14T20:08:11.581+00:00",
+  "developer": "Epic Games",
+  "developerId": "o-aa83a0a9bc45e98c80c1b1c9d92e9e",
+  "applicationId": null
+}

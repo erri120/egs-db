@@ -1,0 +1,32 @@
+{
+  "id": "b6494173e7534ad197dafd4d93149718",
+  "title": "Totally Reliable Delivery Service",
+  "description": "Totally Reliable Delivery Service",
+  "namespace": "52b90f9a982a404781b189f6a7903226",
+  "categories": "public/games/applications",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/52b90f9a982a404781b189f6a7903226/item/EGS_TotallyReliableDeliveryService_WereFiveGames_S1-2560x1440-47e6e9562d62705a75ea7b7096d0b8dc.jpg",
+      "md5": "47e6e9562d62705a75ea7b7096d0b8dc",
+      "width": 2560,
+      "height": 1440,
+      "size": 635820,
+      "uploadedDate": "2021-05-04T00:39:41.061Z"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/52b90f9a982a404781b189f6a7903226/item/EGS_TotallyReliableDeliveryService_WereFiveGames_S2-1200x1600-9c6ee20f94a76179a1036753ea081dbb.jpg",
+      "md5": "9c6ee20f94a76179a1036753ea081dbb",
+      "width": 1200,
+      "height": 1600,
+      "size": 376015,
+      "uploadedDate": "2021-05-04T00:39:49.431Z"
+    }
+  ],
+  "creationDate": "2019-09-12T18:24:18.128+00:00",
+  "lastModifiedDate": "2021-05-04T00:45:31.414+00:00",
+  "developer": "tinyBuild Games",
+  "developerId": "o-t682p59y2u8tr9bxcm6cmw9w7mmz5t",
+  "applicationId": null
+}

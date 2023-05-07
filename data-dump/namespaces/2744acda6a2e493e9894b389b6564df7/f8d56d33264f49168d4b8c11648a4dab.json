@@ -1,0 +1,23 @@
+{
+  "id": "f8d56d33264f49168d4b8c11648a4dab",
+  "title": "Standard Press Audience",
+  "description": "Standard Press Audience",
+  "namespace": "2744acda6a2e493e9894b389b6564df7",
+  "categories": "",
+  "keyImages": [
+    {
+      "type": "ESRB",
+      "url": "https://cdn1.epicgames.com/2744acda6a2e493e9894b389b6564df7/item/ESRB_NoDescriptors_UsersInteract-842x485-c55c3b08996eb8487d4a6956c84d6d66.jpg",
+      "md5": "c55c3b08996eb8487d4a6956c84d6d66",
+      "width": 842,
+      "height": 485,
+      "size": 86271,
+      "uploadedDate": "2020-02-14T18:59:28.848Z"
+    }
+  ],
+  "creationDate": "2020-03-27T15:04:11.558+00:00",
+  "lastModifiedDate": "2022-12-08T09:53:16.246+00:00",
+  "developer": "Focus Home",
+  "developerId": "o-wt4zxeetmq6jem7qp4pkssr46aenj5",
+  "applicationId": null
+}

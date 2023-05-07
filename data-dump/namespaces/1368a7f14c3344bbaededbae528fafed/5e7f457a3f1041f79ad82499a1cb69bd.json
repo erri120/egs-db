@@ -1,0 +1,32 @@
+{
+  "id": "5e7f457a3f1041f79ad82499a1cb69bd",
+  "title": "Dead Cells",
+  "description": "Dead Cells",
+  "namespace": "1368a7f14c3344bbaededbae528fafed",
+  "categories": "public/games/applications",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/1368a7f14c3344bbaededbae528fafed/item/EGS_DeadCells_MotionTwin_S1-2560x1440-87045359c3856ef941959aeeb00dbc7f.jpg",
+      "md5": "87045359c3856ef941959aeeb00dbc7f",
+      "width": 2560,
+      "height": 1440,
+      "size": 1024033,
+      "uploadedDate": "2020-10-19T20:56:08.359Z"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/1368a7f14c3344bbaededbae528fafed/item/EGS_DeadCells_MotionTwin_S2-1200x1600-34d9d5ebca89e17e0a26ddb2cb158b75.jpg",
+      "md5": "34d9d5ebca89e17e0a26ddb2cb158b75",
+      "width": 1200,
+      "height": 1600,
+      "size": 960985,
+      "uploadedDate": "2020-10-19T20:56:16.094Z"
+    }
+  ],
+  "creationDate": "2020-07-27T13:09:17.434+00:00",
+  "lastModifiedDate": "2023-02-08T23:04:25.158+00:00",
+  "developer": "Motion Twin",
+  "developerId": "o-7saqb478dnbhsw9awuk67h7lu2ynua",
+  "applicationId": "fghi4567idaGrktffM1xK8hmUKcWwgjF"
+}

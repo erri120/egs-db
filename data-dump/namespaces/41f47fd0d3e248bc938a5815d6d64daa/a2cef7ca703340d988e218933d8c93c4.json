@@ -1,0 +1,32 @@
+{
+  "id": "a2cef7ca703340d988e218933d8c93c4",
+  "title": "BluebirdStaging",
+  "description": "BluebirdStaging",
+  "namespace": "41f47fd0d3e248bc938a5815d6d64daa",
+  "categories": "public/games/applications",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/41f47fd0d3e248bc938a5815d6d64daa/item/EGS_POLYTRON_FEZ_N1_NEWSFEED_PRIMARY-2560x1440-cf0e2f3af51039940999d57737e8c13c.jpg",
+      "md5": "cf0e2f3af51039940999d57737e8c13c",
+      "width": 2560,
+      "height": 1440,
+      "size": 349220,
+      "uploadedDate": "2019-08-14T13:51:55.821Z"
+    },
+    {
+      "type": "DieselGameBoxLogo",
+      "url": "https://cdn1.epicgames.com/41f47fd0d3e248bc938a5815d6d64daa/item/EGS_POLYTRON_FEZ_IC1_GAME_LOGO-760x720-aebf7ac340f3efcdc712de7c3c5fceef.png",
+      "md5": "aebf7ac340f3efcdc712de7c3c5fceef",
+      "width": 760,
+      "height": 720,
+      "size": 37905,
+      "uploadedDate": "2019-08-14T13:52:11.148Z"
+    }
+  ],
+  "creationDate": "2019-08-09T14:07:34.724+00:00",
+  "lastModifiedDate": "2019-10-09T16:14:51.543+00:00",
+  "developer": "Polytron Corporation, Inc",
+  "developerId": "o-yh6xe9ws2y6xcgrbr27lvspn3ulb5e",
+  "applicationId": null
+}

@@ -1,0 +1,32 @@
+{
+  "id": "ac49ab4969f9485bb376e51fbd06b216",
+  "title": "Yaga Soundtrack",
+  "description": "Yaga Soundtrack",
+  "namespace": "bec57b5341ad4294b005a7dd18691419",
+  "categories": "public/digitalextras/games/applications",
+  "keyImages": [
+    {
+      "type": "DieselGameBoxLogo",
+      "url": "https://cdn1.epicgames.com/bec57b5341ad4294b005a7dd18691419/item/Yaga_Soundtrack_logo-969x727-cb0d3344be7ae5772a6050d6ce1d09d0.png",
+      "md5": "cb0d3344be7ae5772a6050d6ce1d09d0",
+      "width": 969,
+      "height": 727,
+      "size": 46147,
+      "uploadedDate": "2019-09-25T19:37:47.548Z"
+    },
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/bec57b5341ad4294b005a7dd18691419/item/Yaga_Soundtrack-2560x1440-1d9ba1d45fac20c5354314e5416d26d1.jpg",
+      "md5": "1d9ba1d45fac20c5354314e5416d26d1",
+      "width": 2560,
+      "height": 1440,
+      "size": 362487,
+      "uploadedDate": "2019-09-25T19:38:05.631Z"
+    }
+  ],
+  "creationDate": "2019-09-10T18:58:39.169+00:00",
+  "lastModifiedDate": "2021-11-05T14:57:49.429+00:00",
+  "developer": "Versus Evil",
+  "developerId": "o-ugw2zblbdkg5xklzadlrt2qe92cdje",
+  "applicationId": ""
+}

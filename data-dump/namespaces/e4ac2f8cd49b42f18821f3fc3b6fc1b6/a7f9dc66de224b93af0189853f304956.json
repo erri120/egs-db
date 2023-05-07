@@ -1,0 +1,32 @@
+{
+  "id": "a7f9dc66de224b93af0189853f304956",
+  "title": "Creature in the Well",
+  "description": "Creature in the Well",
+  "namespace": "e4ac2f8cd49b42f18821f3fc3b6fc1b6",
+  "categories": "public/games/applications",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/e4ac2f8cd49b42f18821f3fc3b6fc1b6/item/EGS_CreatureintheWell_FlightSchoolStudio_S1-2560x1440-da7683852ac13a5c54aaeb11d78f1914.jpg",
+      "md5": "da7683852ac13a5c54aaeb11d78f1914",
+      "width": 2560,
+      "height": 1440,
+      "size": 988974,
+      "uploadedDate": "2021-03-16T19:10:53.475Z"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/e4ac2f8cd49b42f18821f3fc3b6fc1b6/item/EGS_CreatureintheWell_FlightSchoolStudio_S2-1200x1600-42c37512ff1fdf1fb5dc0d64864b72ce.jpg",
+      "md5": "42c37512ff1fdf1fb5dc0d64864b72ce",
+      "width": 1200,
+      "height": 1600,
+      "size": 907879,
+      "uploadedDate": "2021-03-16T19:11:06.627Z"
+    }
+  ],
+  "creationDate": "2021-01-22T19:28:09.445+00:00",
+  "lastModifiedDate": "2021-03-24T21:32:18.508+00:00",
+  "developer": "MWM Interactive",
+  "developerId": "o-f4rsv826ngcpw4wvunwntql3n23m46",
+  "applicationId": null
+}

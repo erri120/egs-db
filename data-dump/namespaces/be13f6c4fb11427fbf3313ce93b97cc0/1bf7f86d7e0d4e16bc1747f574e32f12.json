@@ -1,0 +1,32 @@
+{
+  "id": "1bf7f86d7e0d4e16bc1747f574e32f12",
+  "title": "GarlicStaging",
+  "description": "GarlicStaging",
+  "namespace": "be13f6c4fb11427fbf3313ce93b97cc0",
+  "categories": "public/games/applications",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/be13f6c4fb11427fbf3313ce93b97cc0/item/Gungeon_PrimaryPromo-2560x1440-a34ca96251763ff6deb8529a4a39d0a8.jpg",
+      "md5": "a34ca96251763ff6deb8529a4a39d0a8",
+      "width": 2560,
+      "height": 1440,
+      "size": 1003833,
+      "uploadedDate": "2019-06-11T07:14:40.962Z"
+    },
+    {
+      "type": "DieselGameBoxLogo",
+      "url": "https://cdn1.epicgames.com/be13f6c4fb11427fbf3313ce93b97cc0/item/EnterTheGungeon_GameLogo-1031x353-bedda5b87f979bea3218672710f766b3.png",
+      "md5": "bedda5b87f979bea3218672710f766b3",
+      "width": 1031,
+      "height": 353,
+      "size": 76525,
+      "uploadedDate": "2019-06-11T07:15:04.008Z"
+    }
+  ],
+  "creationDate": "2019-05-30T21:56:59.398+00:00",
+  "lastModifiedDate": "2019-10-09T15:21:50.636+00:00",
+  "developer": "Devolver Digital, Inc.",
+  "developerId": "o-plnhdz2wfx5etjjeh88szjqy2gx8gw",
+  "applicationId": null
+}

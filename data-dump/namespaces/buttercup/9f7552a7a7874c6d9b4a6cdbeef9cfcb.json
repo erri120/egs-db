@@ -1,0 +1,41 @@
+{
+  "id": "9f7552a7a7874c6d9b4a6cdbeef9cfcb",
+  "title": "ButtercupStaging",
+  "description": "ButtercupStaging",
+  "namespace": "buttercup",
+  "categories": "",
+  "keyImages": [
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/buttercup/item/EGS_SKYBOUND_WD2-Thumbnail-400x400-70838b386040c53b31811b6d8927cbe1.png",
+      "md5": "70838b386040c53b31811b6d8927cbe1",
+      "width": 400,
+      "height": 400,
+      "size": 132513,
+      "uploadedDate": "2019-03-26T02:02:34.504Z"
+    },
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/buttercup/item/TWD2_PrimaryPromo_GameBoxWide-1068x600-6a556758c201a1d526899c4484931158.jpg",
+      "md5": "6a556758c201a1d526899c4484931158",
+      "width": 1068,
+      "height": 600,
+      "size": 136798,
+      "uploadedDate": "2019-03-26T02:02:43.403Z"
+    },
+    {
+      "type": "DieselGameBoxLogo",
+      "url": "https://cdn1.epicgames.com/buttercup/item/WD2-Logo-color-600x423-5a1d11160df9d58de031094c6391668b.png",
+      "md5": "5a1d11160df9d58de031094c6391668b",
+      "width": 600,
+      "height": 423,
+      "size": 234435,
+      "uploadedDate": "2019-03-26T02:02:52.179Z"
+    }
+  ],
+  "creationDate": "2019-03-08T23:02:30.304+00:00",
+  "lastModifiedDate": "2019-05-06T16:57:20.728+00:00",
+  "developer": "Skybound Interactive",
+  "developerId": "o-rqvssgn2hhj58wv5bc6eueqswz2un4",
+  "applicationId": null
+}

@@ -1,0 +1,32 @@
+{
+  "id": "b36ab3b81c844ee2a908c7d28451337a",
+  "title": "Puzzle Pack 2",
+  "description": "Puzzle Pack 2",
+  "namespace": "4b5f1eb366dc45f0920d397c01b291ba",
+  "categories": "public/games/applications",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/4b5f1eb366dc45f0920d397c01b291ba/item/EGS_TOXICGAMES_QUBE2_G1-2560x1440-d2b89622979482c7b0a632306800b950.jpg",
+      "md5": "d2b89622979482c7b0a632306800b950",
+      "width": 2560,
+      "height": 1440,
+      "size": 312776,
+      "uploadedDate": "2019-10-16T23:30:42.197Z"
+    },
+    {
+      "type": "DieselGameBoxLogo",
+      "url": "https://cdn1.epicgames.com/4b5f1eb366dc45f0920d397c01b291ba/item/EGS_TOXICGAMES_QUBE2_IC1_COLOUR-1920x1080-891789d632a30ac0fd0a9c46069c53fe.png",
+      "md5": "891789d632a30ac0fd0a9c46069c53fe",
+      "width": 1920,
+      "height": 1080,
+      "size": 26596,
+      "uploadedDate": "2019-10-16T23:30:52.54Z"
+    }
+  ],
+  "creationDate": "2019-10-24T13:11:44.713+00:00",
+  "lastModifiedDate": "2019-10-24T13:34:28.795+00:00",
+  "developer": "Ten Hut Games",
+  "developerId": "o-kk34ewvmscclj5a2ukx49ff6qknn7a",
+  "applicationId": null
+}

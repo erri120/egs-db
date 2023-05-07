@@ -1,0 +1,32 @@
+{
+  "id": "d54967363d55498aaeee11ee2e86cd5e",
+  "title": "Hello Neighbor",
+  "description": "Hello Neighbor",
+  "namespace": "helloneighbor",
+  "categories": "public/games/applications",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/helloneighbor/item/EGS_DynamicPixels_HelloNeighbor_S7-1360x766-52e8b99d3c35840b10322e9ad0465a08.jpg",
+      "md5": "52e8b99d3c35840b10322e9ad0465a08",
+      "width": 1360,
+      "height": 766,
+      "size": 179494,
+      "uploadedDate": "2019-12-19T03:58:35.316Z"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/helloneighbor/item/Diesel_productv2_hello-neighbor_home-game_EGS_DynamicPixels_HelloNeighbor_S4-510x680-09541e83a1b97e443f78cba702bddbe4be07286e-510x680-09f69dd598670e106f801668fbc31760.jpg",
+      "md5": "09f69dd598670e106f801668fbc31760",
+      "width": 510,
+      "height": 680,
+      "size": 88618,
+      "uploadedDate": "2019-12-30T16:05:46.053Z"
+    }
+  ],
+  "creationDate": "2019-12-18T23:06:27.719+00:00",
+  "lastModifiedDate": "2019-12-30T16:05:49.141+00:00",
+  "developer": "tinyBuild Games",
+  "developerId": "o-t682p59y2u8tr9bxcm6cmw9w7mmz5t",
+  "applicationId": null
+}

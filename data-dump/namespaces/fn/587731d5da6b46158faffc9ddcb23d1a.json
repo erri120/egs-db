@@ -1,0 +1,41 @@
+{
+  "id": "587731d5da6b46158faffc9ddcb23d1a",
+  "title": "FortniteDailyReleaseB",
+  "description": "FortniteDailyReleaseB",
+  "namespace": "fn",
+  "categories": "",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/fn/item/Fortnite_llamacorn_bg-430x250-ba52f51868240271251851bc83010ec8-430x250-ba52f51868240271251851bc83010ec8.png",
+      "md5": "6ac842200fefc03f29abc889761734a1",
+      "width": 430,
+      "height": 250,
+      "size": 90716,
+      "uploadedDate": "2020-04-30T19:58:47.666Z"
+    },
+    {
+      "type": "DieselGameBoxLogo",
+      "url": "https://cdn1.epicgames.com/fn/item/Fortnite_logo_white-430x250-dac6db14efb7756ab3c22d0d5457067d-430x250-dac6db14efb7756ab3c22d0d5457067d.png",
+      "md5": "1a536e3d4ea130d356126d04e56b6963",
+      "width": 430,
+      "height": 250,
+      "size": 7339,
+      "uploadedDate": "2020-04-30T19:59:02.083Z"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/fn/item/Fortnite_11BR_S2-1280x1440-7f86ba3d9ce5bf6c957e627613d8ce06-1280x1440-48e7a2c90e9fbe876803f04a09b841c1.jpg",
+      "md5": "142937a9179c8570638ccf066b9d2d1a",
+      "width": 1280,
+      "height": 1440,
+      "size": 2223559,
+      "uploadedDate": "2020-04-30T19:59:14.216Z"
+    }
+  ],
+  "creationDate": "2020-04-30T20:03:10.699+00:00",
+  "lastModifiedDate": "2023-02-10T21:07:00.522+00:00",
+  "developer": "Epic Games",
+  "developerId": "o-aa83a0a9bc45e98c80c1b1c9d92e9e",
+  "applicationId": ""
+}

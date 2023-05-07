@@ -1,0 +1,23 @@
+{
+  "id": "151c63cb1b7c468ba25543cde55b5e9b",
+  "title": "SparrowDevGameAudience",
+  "description": "SparrowDevGameAudience",
+  "namespace": "dfd2530e80e4425d801913b0879be444",
+  "categories": "",
+  "keyImages": [
+    {
+      "type": "ESRB",
+      "url": "https://cdn1.epicgames.com/dfd2530e80e4425d801913b0879be444/item/ESRB_ZombieArmy4_-398x190-062aa302e47ef75a7d8008adc17778fb.jpg",
+      "md5": "062aa302e47ef75a7d8008adc17778fb",
+      "width": 398,
+      "height": 190,
+      "size": 17808,
+      "uploadedDate": "2019-06-25T18:40:37.864Z"
+    }
+  ],
+  "creationDate": "2020-01-14T18:37:45.852+00:00",
+  "lastModifiedDate": "2021-07-27T02:14:07.774+00:00",
+  "developer": "Rebellion",
+  "developerId": "o-7ytxfydj7f9a2uv4bmg3s5wfl2epsm",
+  "applicationId": null
+}

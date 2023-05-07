@@ -1,0 +1,32 @@
+{
+  "id": "33f1aac924ea4da5a952d2414552417f",
+  "title": "Assassin\u0027s Creed Rogue",
+  "description": "Assassin\u0027s Creed Rogue",
+  "namespace": "34f7e1e275924bb6a90074920f9c1696",
+  "categories": "public/games/applications",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/34f7e1e275924bb6a90074920f9c1696/item/ACRG_Store_Landscape_2580x1450-2580x1450-2e3c9cdfd312bb0f063e991982c5ff57.jpg",
+      "md5": "2e3c9cdfd312bb0f063e991982c5ff57",
+      "width": 2580,
+      "height": 1450,
+      "size": 1139152,
+      "uploadedDate": "2020-03-25T14:50:50.779Z"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/item/34f7e1e275924bb6a90074920f9c1696/ACRogueStandardPortrait_1200x1600-cf40340a038cf23a293629dce0e9a62c",
+      "md5": "cf40340a038cf23a293629dce0e9a62c",
+      "width": 1200,
+      "height": 1600,
+      "size": 375207,
+      "uploadedDate": "2022-11-18T16:46:42.724Z"
+    }
+  ],
+  "creationDate": "2020-01-24T17:50:05.166+00:00",
+  "lastModifiedDate": "2022-11-18T16:46:47.054+00:00",
+  "developer": "Epic Dev Test Account",
+  "developerId": "o-ufmrk5furrrxgsp5tdngefzt5rxdcn",
+  "applicationId": ""
+}

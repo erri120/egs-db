@@ -1,0 +1,23 @@
+{
+  "id": "5296da3b06b342c09bf8ac953734e248",
+  "title": "MeerkatGeneralAudience",
+  "description": "MeerkatGeneralAudience",
+  "namespace": "meerkat",
+  "categories": "audience",
+  "keyImages": [
+    {
+      "type": "ESRB",
+      "url": "https://cdn1.epicgames.com/meerkat/item/RP_FOR_E-842x404-fce4fa7233ed80170a8e36079d1e1bde.png",
+      "md5": "fce4fa7233ed80170a8e36079d1e1bde",
+      "width": 842,
+      "height": 404,
+      "size": 51194,
+      "uploadedDate": "2019-04-23T20:09:22.52Z"
+    }
+  ],
+  "creationDate": "2019-01-07T21:34:01.48+00:00",
+  "lastModifiedDate": "2019-05-13T14:25:00.893+00:00",
+  "developer": "Annapurna Interactive",
+  "developerId": "o-bmeb3ztlbxkjc8vvpydava38yvmxlm",
+  "applicationId": null
+}

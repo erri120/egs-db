@@ -1,0 +1,23 @@
+{
+  "id": "d5a524a5daea4849b03b3f3dada74fd2",
+  "title": "Call_To_Action_03",
+  "description": "Join the community",
+  "namespace": "showmaker",
+  "categories": "layoutcontent",
+  "keyImages": [
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/showmaker/item/3_960x497-960x497-ff1a936717e4c88618706fe62e7bff5b.png",
+      "md5": "ff1a936717e4c88618706fe62e7bff5b",
+      "width": 960,
+      "height": 497,
+      "size": 633824,
+      "uploadedDate": "2018-08-27T19:33:08.375Z"
+    }
+  ],
+  "creationDate": "2018-08-27T14:00:59.918+00:00",
+  "lastModifiedDate": "2018-09-04T16:55:06.504+00:00",
+  "developer": "Epic Games",
+  "developerId": "o-aa83a0a9bc45e98c80c1b1c9d92e9e",
+  "applicationId": null
+}

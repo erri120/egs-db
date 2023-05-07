@@ -1,0 +1,32 @@
+{
+  "id": "af804566f18e47db997ea5e176e7842b",
+  "title": "FalconStaging",
+  "description": "FalconStaging",
+  "namespace": "4756b80eb0f74d45b77922e54052cfed",
+  "categories": "public/games/applications",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/4756b80eb0f74d45b77922e54052cfed/item/Diesel_productv2_mutant-year-zero_home_EGS_THEBEARDEDLADIES_MUTANTYEARZERO_S1_COPSHOT-2560x1440-fe9ecb464f34c10e962849984e77fb94c07a677e-2560x1440-10f081ca65246bad71331a1160722420.jpg",
+      "md5": "10f081ca65246bad71331a1160722420",
+      "width": 2560,
+      "height": 1440,
+      "size": 213118,
+      "uploadedDate": "2019-08-15T12:57:03.563Z"
+    },
+    {
+      "type": "DieselGameBoxLogo",
+      "url": "https://cdn1.epicgames.com/4756b80eb0f74d45b77922e54052cfed/item/MYZ_logo-1314x663-5039adf849cd0488919a1ab09954c197.png",
+      "md5": "5039adf849cd0488919a1ab09954c197",
+      "width": 1314,
+      "height": 663,
+      "size": 277636,
+      "uploadedDate": "2019-08-15T12:57:17.098Z"
+    }
+  ],
+  "creationDate": "2019-07-29T21:14:33.277+00:00",
+  "lastModifiedDate": "2019-08-15T14:53:29.185+00:00",
+  "developer": "Funcom",
+  "developerId": "o-fyyejcaw8f65b74sfwudhays6t3cuz",
+  "applicationId": null
+}

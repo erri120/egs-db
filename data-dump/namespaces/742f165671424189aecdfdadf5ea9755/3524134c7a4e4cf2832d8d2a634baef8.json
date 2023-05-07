@@ -1,0 +1,50 @@
+{
+  "id": "3524134c7a4e4cf2832d8d2a634baef8",
+  "title": "Nuclear Throne",
+  "description": "Nuclear Throne",
+  "namespace": "742f165671424189aecdfdadf5ea9755",
+  "categories": "public/games/applications",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/742f165671424189aecdfdadf5ea9755/item/EGS_VLAMBEER_NUCLEARTHRONE_S1_StorePromoLandscape-2560x1440-21de47e86aa44dc899f3242cfdbca3cb.jpg",
+      "md5": "21de47e86aa44dc899f3242cfdbca3cb",
+      "width": 2560,
+      "height": 1440,
+      "size": 1020013,
+      "uploadedDate": "2019-11-06T22:16:50.057Z"
+    },
+    {
+      "type": "DieselGameBoxLogo",
+      "url": "https://cdn1.epicgames.com/742f165671424189aecdfdadf5ea9755/item/EGS_VLAMBEER_NUCLEARTHRONE_IC1_FullColor-1900x677-ca9974bc6c89db4b30d0d02e7d928195.png",
+      "md5": "ca9974bc6c89db4b30d0d02e7d928195",
+      "width": 1900,
+      "height": 677,
+      "size": 505415,
+      "uploadedDate": "2019-11-06T22:17:04.166Z"
+    },
+    {
+      "type": "DieselStoreFrontTall",
+      "url": "https://cdn1.epicgames.com/742f165671424189aecdfdadf5ea9755/item/S2_NuclearThrone-1280x1440-a9381fbc07b1e6fe1f892cfdbc4a14ca.jpg",
+      "md5": "a9381fbc07b1e6fe1f892cfdbc4a14ca",
+      "width": 1280,
+      "height": 1440,
+      "size": 89074,
+      "uploadedDate": "2019-11-07T13:48:28.149Z"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/742f165671424189aecdfdadf5ea9755/item/EGS_VLAMBEER_NUCLEARTHRONE_S2_StorePromoPortrait-1280x1440-90f08d7d248f2997d23d6080f7d6ec2d.jpg",
+      "md5": "90f08d7d248f2997d23d6080f7d6ec2d",
+      "width": 1280,
+      "height": 1440,
+      "size": 745272,
+      "uploadedDate": "2019-10-22T09:41:44.79Z"
+    }
+  ],
+  "creationDate": "2019-09-10T20:58:33.609+00:00",
+  "lastModifiedDate": "2019-11-19T17:03:17.179+00:00",
+  "developer": "Vlambeer",
+  "developerId": "o-6xk2nej4lbrlkq5q4vxdf9w5kens7c",
+  "applicationId": null
+}

@@ -1,0 +1,32 @@
+{
+  "id": "079f29285fa247628873e4a76b88b8be",
+  "title": "The Lion\u0027s Song OST",
+  "description": "The Lion\u0027s Song OST",
+  "namespace": "e35a5826457c4c98aada2ffad7b5ea5d",
+  "categories": "public/digitalextras/digitalextras/soundtrack/applications",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_TheLionsSongSoundtrack_MipumiGamesGmbH_DigitalExtras_S1_2560x1440-26f8911f3078ad31df55f85150b3320e",
+      "md5": "26f8911f3078ad31df55f85150b3320e",
+      "width": 2560,
+      "height": 1440,
+      "size": 695892,
+      "uploadedDate": "2021-05-13T14:27:46.543Z"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_TheLionsSongSoundtrack_MipumiGamesGmbH_DigitalExtras_S2_1200x1600-057196c2faed14f0b4f462dc3c3659a9",
+      "md5": "057196c2faed14f0b4f462dc3c3659a9",
+      "width": 1200,
+      "height": 1600,
+      "size": 478181,
+      "uploadedDate": "2021-05-13T14:27:51.806Z"
+    }
+  ],
+  "creationDate": "2021-05-07T16:59:18.721+00:00",
+  "lastModifiedDate": "2021-05-13T14:27:59.35+00:00",
+  "developer": "Mi\u0027pu\u0027mi Games GmbH",
+  "developerId": "o-3e6wy7snyw5hqy5mdmkjcq7zbx65yf",
+  "applicationId": ""
+}

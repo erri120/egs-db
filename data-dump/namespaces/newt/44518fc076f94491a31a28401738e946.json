@@ -1,0 +1,23 @@
+{
+  "id": "44518fc076f94491a31a28401738e946",
+  "title": "NewtMasterAudience",
+  "description": "NewtMasterAudience",
+  "namespace": "newt",
+  "categories": "",
+  "keyImages": [
+    {
+      "type": "ESRB",
+      "url": "https://cdn1.epicgames.com/newt/item/esrb-t-160x216-7db0693ecf5f1d8991f3b6117197c119.png",
+      "md5": "7db0693ecf5f1d8991f3b6117197c119",
+      "width": 160,
+      "height": 216,
+      "size": 3976,
+      "uploadedDate": "2020-09-03T14:24:02.353Z"
+    }
+  ],
+  "creationDate": "2019-02-01T20:36:28.216+00:00",
+  "lastModifiedDate": "2022-06-27T18:41:08.461+00:00",
+  "developer": "Proletariat, Inc.",
+  "developerId": "o-umuuzpzyfsw8wvcn4xpyh7ksmyhflg",
+  "applicationId": null
+}

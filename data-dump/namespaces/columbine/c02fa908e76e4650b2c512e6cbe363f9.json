@@ -1,0 +1,41 @@
+{
+  "id": "c02fa908e76e4650b2c512e6cbe363f9",
+  "title": "ColumbineDenuvo",
+  "description": "ColumbineDenuvo",
+  "namespace": "columbine",
+  "categories": "",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/columbine/item/001_DETROIT_GAMEPAGE_PROMOIMAGE-1920x1080-4e8996468c53706dc02c21d5e51d5b45.jpg",
+      "md5": "4e8996468c53706dc02c21d5e51d5b45",
+      "width": 1920,
+      "height": 1080,
+      "size": 230840,
+      "uploadedDate": "2019-03-20T12:59:28.373Z"
+    },
+    {
+      "type": "DieselGameBoxLogo",
+      "url": "https://cdn1.epicgames.com/columbine/item/DETROIT_LOGO-1920x623-8dca9dfb6641fc2909bcbad7cdc46286.png",
+      "md5": "8dca9dfb6641fc2909bcbad7cdc46286",
+      "width": 1920,
+      "height": 623,
+      "size": 292075,
+      "uploadedDate": "2019-03-20T12:59:41.708Z"
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/columbine/item/001_DETROIT_ICON-400x400-89235dc9bca813586e778f735e08364e.png",
+      "md5": "89235dc9bca813586e778f735e08364e",
+      "width": 400,
+      "height": 400,
+      "size": 63882,
+      "uploadedDate": "2019-03-20T13:01:40.423Z"
+    }
+  ],
+  "creationDate": "2019-05-28T12:51:49.252+00:00",
+  "lastModifiedDate": "2019-12-12T12:59:57.263+00:00",
+  "developer": "Quantic Dream",
+  "developerId": "o-m8v47d762atphw94knus7ezawefpcu",
+  "applicationId": null
+}

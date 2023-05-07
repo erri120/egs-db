@@ -1,0 +1,32 @@
+{
+  "id": "2a70e7a725e34ab29a645c6ffbc35c0d",
+  "title": "The Llama of Wall Street",
+  "description": "The Llama of Wall Street",
+  "namespace": "e1055bf1e5654b93a27e19e6bb86cb2a",
+  "categories": "public/games/applications",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/e1055bf1e5654b93a27e19e6bb86cb2a/item/EGS_TheLlamaofWallStreet_LimbicEntertainment_DLC_S1-2560x1440-d9521d9ee6ab9f40166934d31647599f.jpg",
+      "md5": "d9521d9ee6ab9f40166934d31647599f",
+      "width": 2560,
+      "height": 1440,
+      "size": 1005354,
+      "uploadedDate": "2020-11-16T20:45:59.236Z"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/e1055bf1e5654b93a27e19e6bb86cb2a/item/EGS_TheLlamaofWallStreet_LimbicEntertainment_DLC_S2-1200x1600-f7b732c53014e9cb978e96eaffefbeaf.jpg",
+      "md5": "f7b732c53014e9cb978e96eaffefbeaf",
+      "width": 1200,
+      "height": 1600,
+      "size": 696691,
+      "uploadedDate": "2020-11-16T20:46:06.132Z"
+    }
+  ],
+  "creationDate": "2020-05-08T16:38:26.403+00:00",
+  "lastModifiedDate": "2021-08-11T15:00:10.319+00:00",
+  "developer": "Kalypso Media Group GmbH",
+  "developerId": "o-37ss7wypkskvyj58j9s7hhltxtujac",
+  "applicationId": null
+}

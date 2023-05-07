@@ -1,0 +1,13 @@
+{
+  "id": "5e4352b3f26543c9ba0572aa742d335a",
+  "title": "Fortnite Samsung Audience",
+  "description": "Access entitlement given to users playing on Samsung devices",
+  "namespace": "fn",
+  "categories": "accesscontrol",
+  "keyImages": [],
+  "creationDate": "2018-07-25T14:46:21.522+00:00",
+  "lastModifiedDate": "2018-07-25T14:46:59.883+00:00",
+  "developer": "Epic Games",
+  "developerId": "o-aa83a0a9bc45e98c80c1b1c9d92e9e",
+  "applicationId": null
+}

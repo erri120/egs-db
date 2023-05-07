@@ -1,0 +1,32 @@
+{
+  "id": "18509583d4f94f169e9b8f7a12939ebb",
+  "title": "PeacockTrialAudience",
+  "description": "PeacockTrialAudience",
+  "namespace": "7f498fbf0a4e43239d58eee6615ae806",
+  "categories": "",
+  "keyImages": [
+    {
+      "type": "ESRB",
+      "url": "https://cdn1.epicgames.com/7f498fbf0a4e43239d58eee6615ae806/item/ESRB_ReadySet-842x404-7f94c3fc84835f24b6e7728427b999b0.jpg",
+      "md5": "7f94c3fc84835f24b6e7728427b999b0",
+      "width": 842,
+      "height": 404,
+      "size": 91499,
+      "uploadedDate": "2019-08-14T15:43:19.289Z"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/7f498fbf0a4e43239d58eee6615ae806/item/ReadySet_Portrait-1280x1440-9df2f919bd1ed25706afe37e6d97d3ad.jpg",
+      "md5": "9df2f919bd1ed25706afe37e6d97d3ad",
+      "width": 1280,
+      "height": 1440,
+      "size": 1003230,
+      "uploadedDate": "2019-10-22T09:41:44.79Z"
+    }
+  ],
+  "creationDate": "2019-11-25T22:24:59.328+00:00",
+  "lastModifiedDate": "2019-12-19T15:57:54.501+00:00",
+  "developer": "Sony Interactive Entertainment",
+  "developerId": "o-sby9x4c2zlm5mb2z5r9ajue9pcqfs5",
+  "applicationId": null
+}

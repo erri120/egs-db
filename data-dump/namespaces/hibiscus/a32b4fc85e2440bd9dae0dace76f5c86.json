@@ -1,0 +1,41 @@
+{
+  "id": "a32b4fc85e2440bd9dae0dace76f5c86",
+  "title": "Oxenfree",
+  "description": "Oxenfree",
+  "namespace": "hibiscus",
+  "categories": "",
+  "keyImages": [
+    {
+      "type": "DieselGameBoxLogo",
+      "url": "https://cdn1.epicgames.com/hibiscus/item/Oxenfree_Logo_White-2580x304-2007aac63544628ae4217365e606c000.png",
+      "md5": "2007aac63544628ae4217365e606c000",
+      "width": 2580,
+      "height": 304,
+      "size": 32017,
+      "uploadedDate": "2019-03-04T18:46:48.186Z"
+    },
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/hibiscus/item/Oxenfree_GamePagePromo_2580x1450-2580x1450-67e364067e5e51125d7d3343ff65e042.jpg",
+      "md5": "67e364067e5e51125d7d3343ff65e042",
+      "width": 2580,
+      "height": 1450,
+      "size": 146944,
+      "uploadedDate": "2019-03-04T18:46:18.182Z"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/hibiscus/item/Oxenfree_PortraitPromo_1280x1420-1280x1420-65a3d43d6c6a0c31280ee641bffd5ca6.jpg",
+      "md5": "65a3d43d6c6a0c31280ee641bffd5ca6",
+      "width": 1280,
+      "height": 1420,
+      "size": 107179,
+      "uploadedDate": "2019-10-22T09:41:44.79Z"
+    }
+  ],
+  "creationDate": "2019-01-29T20:33:44.463+00:00",
+  "lastModifiedDate": "2019-11-19T17:03:23.422+00:00",
+  "developer": "Night School Studio, LLC",
+  "developerId": "o-8bhctnyt9qetgnjd4nssqse58c2589",
+  "applicationId": null
+}

@@ -1,0 +1,32 @@
+{
+  "id": "6edaf97cd546441281d04a185a529524",
+  "title": "Deponia The Complete Journey",
+  "description": "Deponia The Complete Journey",
+  "namespace": "e5decf71f325458b92653616ee98682a",
+  "categories": "public/games/applications",
+  "keyImages": [
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/e5decf71f325458b92653616ee98682a/item/EGS_DeponiaTheCompleteJourney_DaedalicEntertainment_S4-1200x1600-f8cfe09916adfed9f6cf129febd48a6f.jpg",
+      "md5": "f8cfe09916adfed9f6cf129febd48a6f",
+      "width": 1200,
+      "height": 1600,
+      "size": 515505,
+      "uploadedDate": "2021-04-14T02:20:18.966Z"
+    },
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/e5decf71f325458b92653616ee98682a/item/EGS_DeponiaTheCompleteJourney_DaedalicEntertainment_S3-2560x1440-df5c473a8d8af12e7f863ee0427c0548.jpg",
+      "md5": "df5c473a8d8af12e7f863ee0427c0548",
+      "width": 2560,
+      "height": 1440,
+      "size": 796443,
+      "uploadedDate": "2021-04-14T02:20:31.494Z"
+    }
+  ],
+  "creationDate": "2021-03-10T03:59:54.03+00:00",
+  "lastModifiedDate": "2021-04-15T20:09:07.238+00:00",
+  "developer": "Daedalic Entertainment",
+  "developerId": "o-d2ygr9bjcjfebgt8842wvvbmswympz",
+  "applicationId": null
+}

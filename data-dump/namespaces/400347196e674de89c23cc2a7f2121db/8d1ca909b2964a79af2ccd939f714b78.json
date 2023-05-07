@@ -1,0 +1,32 @@
+{
+  "id": "8d1ca909b2964a79af2ccd939f714b78",
+  "title": "Assassin\u0027s Creed: Valhalla",
+  "description": "Assassin\u0027s Creed: Valhalla",
+  "namespace": "400347196e674de89c23cc2a7f2121db",
+  "categories": "public/games/applications",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/400347196e674de89c23cc2a7f2121db/item/AC KINGDOM PREORDER_STANDARD EDITION_EPIC_Key_Art_Wide_3840x2160-3840x2160-485fe17203671386c71bde8110886c7d.jpg",
+      "md5": "485fe17203671386c71bde8110886c7d",
+      "width": 3840,
+      "height": 2160,
+      "size": 480507,
+      "uploadedDate": "2020-04-29T22:23:48.595Z"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/400347196e674de89c23cc2a7f2121db/item/AC KINGDOM PREORDER_STANDARD EDITION_EPIC_Key_Art_Portrait_640x854-640x854-288120c5573756cb988b6c1968cebd86.png",
+      "md5": "288120c5573756cb988b6c1968cebd86",
+      "width": 640,
+      "height": 854,
+      "size": 981676,
+      "uploadedDate": "2020-04-29T22:24:08.704Z"
+    }
+  ],
+  "creationDate": "2020-04-28T17:48:55.687+00:00",
+  "lastModifiedDate": "2022-11-15T15:53:48.231+00:00",
+  "developer": "Ubisoft Entertainment",
+  "developerId": "o-3efjudxdtgsqnulml4bkeq3v9nec38",
+  "applicationId": ""
+}

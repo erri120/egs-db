@@ -1,0 +1,23 @@
+{
+  "id": "87c76558defd414492cd5ed98db6db60",
+  "title": "NewtFoundersPack1",
+  "description": "NewtFoundersPack1",
+  "namespace": "newt",
+  "categories": "bundles",
+  "keyImages": [
+    {
+      "type": "ESRB",
+      "url": "https://cdn1.epicgames.com/newt/item/ESRB_Spellbreak-842x404-fce4fa7233ed80170a8e36079d1e1bde.png",
+      "md5": "fce4fa7233ed80170a8e36079d1e1bde",
+      "width": 842,
+      "height": 404,
+      "size": 51194,
+      "uploadedDate": "2019-04-23T19:21:20.351Z"
+    }
+  ],
+  "creationDate": "2019-02-01T20:29:13.01+00:00",
+  "lastModifiedDate": "2020-08-05T15:36:45.029+00:00",
+  "developer": "Proletariat, Inc.",
+  "developerId": "o-umuuzpzyfsw8wvcn4xpyh7ksmyhflg",
+  "applicationId": null
+}

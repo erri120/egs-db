@@ -1,0 +1,32 @@
+{
+  "id": "8cf2931625ac41cead9f0baf2c3fdfde",
+  "title": "Star Wars Squadrons",
+  "description": "Star Wars Squadrons",
+  "namespace": "bc2b0372eaa448469cb9a769f27acea1",
+  "categories": "public/games/applications",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/bc2b0372eaa448469cb9a769f27acea1/item/MAV_EPIC_LANDSCAPE-Product-Image_2560x1440-2560x1440-f09b204b4eb17f85e997a247901b8d81-2560x1440-f09b204b4eb17f85e997a247901b8d81.jpg",
+      "md5": "f09b204b4eb17f85e997a247901b8d81",
+      "width": 2560,
+      "height": 1440,
+      "size": 2265899,
+      "uploadedDate": "2020-09-21T16:40:26.491Z"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/bc2b0372eaa448469cb9a769f27acea1/item/MAV_EPIC_PORTRAIT-Product-Image_1200x1600-1200x1600-6a837e2b6a5b216a2d994b4ad6661a33-1200x1600-6a837e2b6a5b216a2d994b4ad6661a33.jpg",
+      "md5": "6a837e2b6a5b216a2d994b4ad6661a33",
+      "width": 1200,
+      "height": 1600,
+      "size": 1642764,
+      "uploadedDate": "2020-09-21T16:40:36.915Z"
+    }
+  ],
+  "creationDate": "2020-04-16T20:33:06.704+00:00",
+  "lastModifiedDate": "2021-01-21T15:58:08.405+00:00",
+  "developer": "Electronic Arts",
+  "developerId": "o-vtqh9b4lk8n4jpadfv6cphqs9hsly9",
+  "applicationId": null
+}

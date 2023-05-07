@@ -1,0 +1,23 @@
+{
+  "id": "3ac22a6a0414406b939ce6f248512ffd",
+  "title": "OpalGeneralAudience",
+  "description": "OpalGeneralAudience",
+  "namespace": "5645a537b6a44f6f82d122729f3253ed",
+  "categories": "",
+  "keyImages": [
+    {
+      "type": "ESRB",
+      "url": "https://cdn1.epicgames.com/5645a537b6a44f6f82d122729f3253ed/item/EGS_Mutazione_DieGuteFabrik_RA1-406x193-762356ba79715ea525bd7965ebdcc8b5.png",
+      "md5": "762356ba79715ea525bd7965ebdcc8b5",
+      "width": 406,
+      "height": 193,
+      "size": 23933,
+      "uploadedDate": "2020-03-04T19:02:03.05Z"
+    }
+  ],
+  "creationDate": "2020-02-27T23:30:59.302+00:00",
+  "lastModifiedDate": "2020-03-12T14:28:38.441+00:00",
+  "developer": "Akupara Games",
+  "developerId": "o-vzv8n7jse99sluj4vaa8522rh45cvg",
+  "applicationId": null
+}

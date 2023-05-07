@@ -1,0 +1,50 @@
+{
+  "id": "babd819da5f540c59eb188a25d4beabb",
+  "title": "Ashen",
+  "description": "Ashen",
+  "namespace": "wren",
+  "categories": "",
+  "keyImages": [
+    {
+      "type": "DieselGameBoxLogo",
+      "url": "https://cdn1.epicgames.com/wren/item/AshenLog_1024x269-1024x269-8e32ab9392f4144ecbaf2595baa64849.png",
+      "md5": "8e32ab9392f4144ecbaf2595baa64849",
+      "width": 1024,
+      "height": 269,
+      "size": 20025,
+      "uploadedDate": "2018-12-05T20:04:49.54Z"
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/wren/item/ashen_PortraitPromo_1288x1450-1288x1450-a1fbd8413573ff7712913594c67d80ba.png",
+      "md5": "a1fbd8413573ff7712913594c67d80ba",
+      "width": 1288,
+      "height": 1450,
+      "size": 502211,
+      "uploadedDate": "2018-12-05T20:05:00.032Z"
+    },
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/wren/item/EPIC_Store_PDPPromo_2580x1450-2580x1450-6dec56493dce61dd88c7e80052294667-2580x1450-6dec56493dce61dd88c7e80052294667-2580x1450-8bb212f8736486f6e5e0fc056920c042.jpg",
+      "md5": "8bb212f8736486f6e5e0fc056920c042",
+      "width": 2580,
+      "height": 1450,
+      "size": 152165,
+      "uploadedDate": "2018-12-13T20:04:02.915Z"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/wren/item/ashen_PortraitPromo_1288x1450-1288x1450-a1fbd8413573ff7712913594c67d80ba-1288x1450-ce82217f72fb3ed06188d98dd7563f89.jpg",
+      "md5": "ce82217f72fb3ed06188d98dd7563f89",
+      "width": 1288,
+      "height": 1450,
+      "size": 102738,
+      "uploadedDate": "2019-10-22T09:41:44.79Z"
+    }
+  ],
+  "creationDate": "2018-11-28T19:08:28.555+00:00",
+  "lastModifiedDate": "2019-11-19T17:02:15.945+00:00",
+  "developer": "Annapurna Interactive",
+  "developerId": "o-bmeb3ztlbxkjc8vvpydava38yvmxlm",
+  "applicationId": null
+}

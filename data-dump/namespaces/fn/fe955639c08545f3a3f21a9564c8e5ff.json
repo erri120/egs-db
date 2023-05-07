@@ -1,0 +1,23 @@
+{
+  "id": "fe955639c08545f3a3f21a9564c8e5ff",
+  "title": "Public_Carousel_3",
+  "description": "Visit our Blog",
+  "namespace": "fn",
+  "categories": "applications/prod/applications/prod/content/applications",
+  "keyImages": [
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/fn/item/Horde-Fortnite-Launcher-1000x290-31564beb20c39a9a6d126a582e883fe6.png",
+      "md5": "cc31f4494d137e1f7c1e3ecc26fc8179",
+      "width": 1000,
+      "height": 290,
+      "size": 530650,
+      "uploadedDate": "2017-01-26T20:12:19.319Z"
+    }
+  ],
+  "creationDate": "2015-10-12T18:42:37.809+00:00",
+  "lastModifiedDate": "2017-01-26T20:13:14.883+00:00",
+  "developer": "Epic Games",
+  "developerId": "o-aa83a0a9bc45e98c80c1b1c9d92e9e",
+  "applicationId": null
+}

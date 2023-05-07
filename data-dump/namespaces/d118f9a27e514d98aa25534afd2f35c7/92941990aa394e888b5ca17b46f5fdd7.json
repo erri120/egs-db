@@ -1,0 +1,23 @@
+{
+  "id": "92941990aa394e888b5ca17b46f5fdd7",
+  "title": "AlexandriteGeneralAudience",
+  "description": "AlexandriteGeneralAudience",
+  "namespace": "d118f9a27e514d98aa25534afd2f35c7",
+  "categories": "",
+  "keyImages": [
+    {
+      "type": "ESRB",
+      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_SonicColorsUltimate_BlindSquirrelEntertainment_RA1_345x200-fb5ed93434eb73652501772ac1db607c",
+      "md5": "fb5ed93434eb73652501772ac1db607c",
+      "width": 345,
+      "height": 200,
+      "size": 10368,
+      "uploadedDate": "2021-05-26T18:44:51.289Z"
+    }
+  ],
+  "creationDate": "2020-06-30T02:31:24.203+00:00",
+  "lastModifiedDate": "2021-09-07T17:53:16.378+00:00",
+  "developer": "Sega of America",
+  "developerId": "o-5gbgsfvsrt9wlx9gu868mrxmhq6dlv",
+  "applicationId": ""
+}

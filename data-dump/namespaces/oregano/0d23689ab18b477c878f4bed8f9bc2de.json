@@ -1,0 +1,32 @@
+{
+  "id": "0d23689ab18b477c878f4bed8f9bc2de",
+  "title": "Anno 1800",
+  "description": "Anno 1800",
+  "namespace": "oregano",
+  "categories": "",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/ANNO_Store_Landscape_1920x1080_1920x1080-cea85f12443da424bef2a30a20be060b",
+      "md5": "cea85f12443da424bef2a30a20be060b",
+      "width": 1920,
+      "height": 1080,
+      "size": 4501409,
+      "uploadedDate": "2021-09-13T17:04:46.108Z"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/AN18_Store_Portrait_1200x1600 (1)_1200x1600-fe7774bb1563f584b97142f0b202d209",
+      "md5": "fe7774bb1563f584b97142f0b202d209",
+      "width": 1200,
+      "height": 1600,
+      "size": 865324,
+      "uploadedDate": "2021-09-13T17:05:45.143Z"
+    }
+  ],
+  "creationDate": "2019-03-29T14:46:24.783+00:00",
+  "lastModifiedDate": "2023-01-09T16:20:14.016+00:00",
+  "developer": "Ubisoft Entertainment",
+  "developerId": "o-3efjudxdtgsqnulml4bkeq3v9nec38",
+  "applicationId": ""
+}

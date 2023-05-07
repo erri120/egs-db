@@ -1,0 +1,32 @@
+{
+  "id": "9b9be8717867427c8f9b2e2f691549af",
+  "title": "Predator Hunting Grounds",
+  "description": "Predator Hunting Grounds",
+  "namespace": "5a82d5954a1943d79dc6b49cde2fe972",
+  "categories": "public/games/applications",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/5a82d5954a1943d79dc6b49cde2fe972/item/CRE1089_Predator_PSStore_STD_Banner_Art_1920x1080_001_TH-1920x1080-d2921f9b50dad7960d2b9fad22ae8d84.png",
+      "md5": "d2921f9b50dad7960d2b9fad22ae8d84",
+      "width": 1920,
+      "height": 1080,
+      "size": 2488692,
+      "uploadedDate": "2019-12-09T18:52:33.529Z"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/5a82d5954a1943d79dc6b49cde2fe972/item/Predator_Portrait-1280x1440-21060c43debce23ca17d694f67298b03.jpg",
+      "md5": "21060c43debce23ca17d694f67298b03",
+      "width": 1280,
+      "height": 1440,
+      "size": 483818,
+      "uploadedDate": "2019-12-09T18:52:47.487Z"
+    }
+  ],
+  "creationDate": "2019-11-12T21:56:02.629+00:00",
+  "lastModifiedDate": "2022-12-14T18:16:34.194+00:00",
+  "developer": "Sony Interactive Entertainment",
+  "developerId": "o-sby9x4c2zlm5mb2z5r9ajue9pcqfs5",
+  "applicationId": null
+}

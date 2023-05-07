@@ -1,0 +1,32 @@
+{
+  "id": "1fb6c44c29e84dd2a2e2c877d406f857",
+  "title": "CastleStorm 2",
+  "description": "CastleStorm 2",
+  "namespace": "ed355406eacb4633a648f682ddb492b8",
+  "categories": "public/games/applications",
+  "keyImages": [
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/ed355406eacb4633a648f682ddb492b8/item/CS_Tall-860x1148-213900280aebee003c51430ec685c436.jpg",
+      "md5": "213900280aebee003c51430ec685c436",
+      "width": 860,
+      "height": 1148,
+      "size": 397706,
+      "uploadedDate": "2020-09-23T13:59:43.481Z"
+    },
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/ed355406eacb4633a648f682ddb492b8/item/CS_Wide-2560x1440-d4f530905cc10785c1a6d2b459fe77c0.jpg",
+      "md5": "d4f530905cc10785c1a6d2b459fe77c0",
+      "width": 2560,
+      "height": 1440,
+      "size": 419520,
+      "uploadedDate": "2020-09-23T14:00:00.792Z"
+    }
+  ],
+  "creationDate": "2019-06-03T18:28:26.803+00:00",
+  "lastModifiedDate": "2020-10-28T14:54:59.987+00:00",
+  "developer": "Zen Studios",
+  "developerId": "o-r7rf64mtq3yr8uhhvdf8sba3hpqbj2",
+  "applicationId": null
+}

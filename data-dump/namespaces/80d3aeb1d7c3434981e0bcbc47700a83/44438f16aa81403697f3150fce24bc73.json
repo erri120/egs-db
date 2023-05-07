@@ -1,0 +1,32 @@
+{
+  "id": "44438f16aa81403697f3150fce24bc73",
+  "title": "Europa Universalis IV: Ultimate Unit Pack",
+  "description": "Europa Universalis IV: Ultimate Unit Pack",
+  "namespace": "80d3aeb1d7c3434981e0bcbc47700a83",
+  "categories": "public/games/applications",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_EuropaUniversalisIVUltimateUnitPack_ParadoxDevelopmentStudio_DLC_S1_2560x1440-b5b3d1b4e0d597df4732177f138e7412_2560x1440-b5b3d1b4e0d597df4732177f138e7412",
+      "md5": "b5b3d1b4e0d597df4732177f138e7412",
+      "width": 2560,
+      "height": 1440,
+      "size": 1041571,
+      "uploadedDate": "2021-09-29T21:17:39.331Z"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_EuropaUniversalisIVUltimateUnitPack_ParadoxDevelopmentStudio_DLC_S2_1200x1600-74e2f985a8ba850686aa987cdc06e5fd_1200x1600-74e2f985a8ba850686aa987cdc06e5fd",
+      "md5": "74e2f985a8ba850686aa987cdc06e5fd",
+      "width": 1200,
+      "height": 1600,
+      "size": 1006382,
+      "uploadedDate": "2021-09-29T21:17:35.057Z"
+    }
+  ],
+  "creationDate": "2020-12-09T23:17:30.533+00:00",
+  "lastModifiedDate": "2021-09-29T21:25:13.737+00:00",
+  "developer": "Paradox Interactive",
+  "developerId": "o-tjvfg6rejs6h86qa7k9aa64rrgbxxb",
+  "applicationId": ""
+}

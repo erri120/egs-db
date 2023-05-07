@@ -1,0 +1,32 @@
+{
+  "id": "0571f1a7ff6e45e780aa0900fff42482",
+  "title": "RavenStaging",
+  "description": "RavenStaging",
+  "namespace": "c0783fd957634390af33808d1a1f56dd",
+  "categories": "public/games/applications",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/c0783fd957634390af33808d1a1f56dd/item/NSRKeyArt1-602x338-fda3b865ae59a174c116afc3d172ea97.jpg",
+      "md5": "fda3b865ae59a174c116afc3d172ea97",
+      "width": 602,
+      "height": 338,
+      "size": 217630,
+      "uploadedDate": "2019-08-29T13:01:43.594Z"
+    },
+    {
+      "type": "DieselGameBoxLogo",
+      "url": "https://cdn1.epicgames.com/c0783fd957634390af33808d1a1f56dd/item/NSR LOGO_GAME-1454x896-4d48ff1aa309a74adc30a7cbea007032.png",
+      "md5": "4d48ff1aa309a74adc30a7cbea007032",
+      "width": 1454,
+      "height": 896,
+      "size": 91113,
+      "uploadedDate": "2019-08-29T13:01:51.159Z"
+    }
+  ],
+  "creationDate": "2019-08-27T21:10:02.151+00:00",
+  "lastModifiedDate": "2019-08-29T13:27:33.753+00:00",
+  "developer": "Sold-Out Software",
+  "developerId": "o-gcm88kddcs2t3gtypyq9tvlx64bzyw",
+  "applicationId": null
+}

@@ -1,0 +1,23 @@
+{
+  "id": "d67ca3851cc444918cd4bf92bf7717bc",
+  "title": "MOD Conan Exiles Dev Kit",
+  "description": "MOD Conan Exiles Dev  Kit",
+  "namespace": "conanexiles",
+  "categories": "layoutcontent",
+  "keyImages": [
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/conanexiles/item/main_header-1400x400-dfbc8cbb9f2e311c455c9142ef236748.png",
+      "md5": "dfbc8cbb9f2e311c455c9142ef236748",
+      "width": 1400,
+      "height": 400,
+      "size": 714563,
+      "uploadedDate": "2017-01-16T19:44:09.017Z"
+    }
+  ],
+  "creationDate": "2017-01-16T19:44:22.717+00:00",
+  "lastModifiedDate": "2020-06-25T14:28:27.423+00:00",
+  "developer": "Funcom",
+  "developerId": "o-fyyejcaw8f65b74sfwudhays6t3cuz",
+  "applicationId": null
+}

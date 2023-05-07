@@ -1,0 +1,32 @@
+{
+  "id": "2fe2d78958c847a6ba1b6db5e00ed5bf",
+  "title": "Famous Last Words",
+  "description": "Famous Last Words",
+  "namespace": "213259527d2f41baa90cbe0ae5555271",
+  "categories": "",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/213259527d2f41baa90cbe0ae5555271/item/EGS_FamousLastWords_RealmforgeStudios_DLC_S1-2560x1440-e72cc587df055aa1f9476d3f17768e4e.jpg",
+      "md5": "e72cc587df055aa1f9476d3f17768e4e",
+      "width": 2560,
+      "height": 1440,
+      "size": 938010,
+      "uploadedDate": "2020-10-01T17:52:01.445Z"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/213259527d2f41baa90cbe0ae5555271/item/EGS_FamousLastWords_RealmforgeStudios_DLC_S2-1200x1600-4727f1431348f1eea326711907e5b2bc.jpg",
+      "md5": "4727f1431348f1eea326711907e5b2bc",
+      "width": 1200,
+      "height": 1600,
+      "size": 751720,
+      "uploadedDate": "2020-10-01T17:52:11.684Z"
+    }
+  ],
+  "creationDate": "2020-05-08T15:34:46.301+00:00",
+  "lastModifiedDate": "2020-11-04T21:19:40.844+00:00",
+  "developer": "Kalypso Media Group GmbH",
+  "developerId": "o-37ss7wypkskvyj58j9s7hhltxtujac",
+  "applicationId": null
+}

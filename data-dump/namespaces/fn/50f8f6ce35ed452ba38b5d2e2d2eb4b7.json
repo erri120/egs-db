@@ -1,0 +1,32 @@
+{
+  "id": "50f8f6ce35ed452ba38b5d2e2d2eb4b7",
+  "title": "FortniteTestingCN - Deprecated",
+  "description": "Deprecated item for CN testers.  Going forward use Internal and External team variants.",
+  "namespace": "fn",
+  "categories": "accesscontrol",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/fn/item/Fortnite_llamacorn_bg-430x250-ba52f51868240271251851bc83010ec8.png",
+      "md5": "ba52f51868240271251851bc83010ec8",
+      "width": 430,
+      "height": 250,
+      "size": 90716,
+      "uploadedDate": "2018-11-06T21:49:52.75Z"
+    },
+    {
+      "type": "DieselGameBoxLogo",
+      "url": "https://cdn1.epicgames.com/fn/item/blank_logo-1x1-1b95550641d28d4e076bc9111ce9f533.png",
+      "md5": "1b95550641d28d4e076bc9111ce9f533",
+      "width": 1,
+      "height": 1,
+      "size": 928,
+      "uploadedDate": "2018-11-06T21:50:00.472Z"
+    }
+  ],
+  "creationDate": "2018-04-21T14:30:16.606+00:00",
+  "lastModifiedDate": "2019-05-16T21:22:18.119+00:00",
+  "developer": "Epic Games",
+  "developerId": "o-aa83a0a9bc45e98c80c1b1c9d92e9e",
+  "applicationId": null
+}

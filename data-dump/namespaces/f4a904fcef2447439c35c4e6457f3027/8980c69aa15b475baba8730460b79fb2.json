@@ -1,0 +1,23 @@
+{
+  "id": "8980c69aa15b475baba8730460b79fb2",
+  "title": "Death Stranding Content Audience",
+  "description": "Death Stranding Content Audience",
+  "namespace": "f4a904fcef2447439c35c4e6457f3027",
+  "categories": "",
+  "keyImages": [
+    {
+      "type": "ESRB",
+      "url": "https://cdn1.epicgames.com/f4a904fcef2447439c35c4e6457f3027/item/Boga-842x404-e25740f35341fe9c4da2f6d8fc4aa9e6.png",
+      "md5": "e25740f35341fe9c4da2f6d8fc4aa9e6",
+      "width": 842,
+      "height": 404,
+      "size": 66425,
+      "uploadedDate": "2019-11-06T19:15:05.412Z"
+    }
+  ],
+  "creationDate": "2020-04-09T23:14:46.88+00:00",
+  "lastModifiedDate": "2022-03-30T14:25:05.668+00:00",
+  "developer": "505 Games",
+  "developerId": "o-cul2z53mrw3bxltv63v68rgd4b3w52",
+  "applicationId": null
+}

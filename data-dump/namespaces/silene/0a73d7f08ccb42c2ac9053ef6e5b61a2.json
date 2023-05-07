@@ -1,0 +1,32 @@
+{
+  "id": "0a73d7f08ccb42c2ac9053ef6e5b61a2",
+  "title": "Close to the Sun",
+  "description": "Close to the Sun",
+  "namespace": "silene",
+  "categories": "",
+  "keyImages": [
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/silene/item/CTTS_keyart_Portrait-1280x1420-bb3fa978410a243939f19bcb8c0d4806.jpg",
+      "md5": "bb3fa978410a243939f19bcb8c0d4806",
+      "width": 1280,
+      "height": 1420,
+      "size": 1518658,
+      "uploadedDate": "2020-04-09T15:12:37.985Z"
+    },
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/silene/item/CTTS_keyart_1080p-1920x1080-8c8a438ac89caec5ae1b4ab1bc1e57f6.jpg",
+      "md5": "8c8a438ac89caec5ae1b4ab1bc1e57f6",
+      "width": 1920,
+      "height": 1080,
+      "size": 2032265,
+      "uploadedDate": "2020-04-09T15:13:03.021Z"
+    }
+  ],
+  "creationDate": "2019-02-14T21:30:22.79+00:00",
+  "lastModifiedDate": "2020-04-09T15:13:08.19+00:00",
+  "developer": "Wired Productions",
+  "developerId": "o-r83qbqhwd8y5y5r6e9x62vtrsd9mqm",
+  "applicationId": null
+}

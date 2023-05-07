@@ -1,0 +1,23 @@
+{
+  "id": "c1a409637c8541d5a60e29597f90b82d",
+  "title": "Call_To_Action_02",
+  "description": "GET THE GAME ON STEAM\n\u003Cinverted-tiny-body\u003EDOWNLOAD NOW\u003C/\u003E",
+  "namespace": "mars2030",
+  "categories": "layoutcontent",
+  "keyImages": [
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/mars2030/item/mars2030_2-960x483-95445f21d4e545dd1f1c68b179e2f371.png",
+      "md5": "95445f21d4e545dd1f1c68b179e2f371",
+      "width": 960,
+      "height": 483,
+      "size": 611747,
+      "uploadedDate": "2018-02-08T16:51:11.093Z"
+    }
+  ],
+  "creationDate": "2018-02-08T16:20:09.879+00:00",
+  "lastModifiedDate": "2018-02-27T14:29:46.559+00:00",
+  "developer": "Epic Games",
+  "developerId": "o-aa83a0a9bc45e98c80c1b1c9d92e9e",
+  "applicationId": null
+}

@@ -1,0 +1,32 @@
+{
+  "id": "6e563a2c0f5f46e3b4e88b5f4ed50cca",
+  "title": "Grand Theft Auto V",
+  "description": "Grand Theft Auto V",
+  "namespace": "0584d2013f0149a791e7b9bad0eec102",
+  "categories": "public/games/applications",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/0584d2013f0149a791e7b9bad0eec102/item/GTAV_EGS_Artwork_2560x1440_Landscaped Store-2560x1440-79155f950f32c9790073feaccae570fb.jpg",
+      "md5": "79155f950f32c9790073feaccae570fb",
+      "width": 2560,
+      "height": 1440,
+      "size": 941788,
+      "uploadedDate": "2020-05-14T01:10:29.148Z"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/0584d2013f0149a791e7b9bad0eec102/item/GTAV_EGS_Artwork_1200x1600_Portrait Store Banner-1200x1600-382243057711adf80322ed2aeea42191.jpg",
+      "md5": "382243057711adf80322ed2aeea42191",
+      "width": 1200,
+      "height": 1600,
+      "size": 591291,
+      "uploadedDate": "2020-05-14T01:10:42.733Z"
+    }
+  ],
+  "creationDate": "2020-03-20T00:38:55.903+00:00",
+  "lastModifiedDate": "2020-05-14T14:53:47.084+00:00",
+  "developer": "Rockstar Games",
+  "developerId": "o-dhz7kpvrvqngzdpnx5vn3jrljj53ca",
+  "applicationId": null
+}

@@ -1,0 +1,23 @@
+{
+  "id": "12839678edd94bda8603e7f3eb59ba24",
+  "title": "StaticeDevAudience",
+  "description": "StaticeDevAudience",
+  "namespace": "530eeeaffca14275a451d7cff61ee6bb",
+  "categories": "",
+  "keyImages": [
+    {
+      "type": "ESRB",
+      "url": "https://cdn1.epicgames.com/530eeeaffca14275a451d7cff61ee6bb/item/ESRB_TheEndisNigh-842x404-6e774e998227ed16d5c1739097adc770.jpg",
+      "md5": "6e774e998227ed16d5c1739097adc770",
+      "width": 842,
+      "height": 404,
+      "size": 21605,
+      "uploadedDate": "2019-09-05T15:13:58.122Z"
+    }
+  ],
+  "creationDate": "2019-08-24T06:23:20.889+00:00",
+  "lastModifiedDate": "2019-09-06T17:45:28.557+00:00",
+  "developer": "Edmund McMillen, Tyler Glaiel",
+  "developerId": "o-h8c7zcwt24ey84nvxfbgzqpvth9vpz",
+  "applicationId": null
+}

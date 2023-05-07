@@ -1,0 +1,32 @@
+{
+  "id": "16ee021788384598a679195a23c86892",
+  "title": "Borderlands 3: Designer\u0027s Cut",
+  "description": "Borderlands 3: Designer\u0027s Cut",
+  "namespace": "catnip",
+  "categories": "",
+  "keyImages": [
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/catnip/item/2KGMKT_BL3_DLC5_DESIGNERSCUT_EPIC_1200X1600-1200x1600-39934de17bb201a8e1922ef8e2495233.jpg",
+      "md5": "39934de17bb201a8e1922ef8e2495233",
+      "width": 1200,
+      "height": 1600,
+      "size": 946101,
+      "uploadedDate": "2020-11-05T21:03:15.565Z"
+    },
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/catnip/item/2KGMKT_BL3_DLC5_DESIGNERSCUT_2560x1440-2560x1440-ed4793c55b4a00970c1c751dbc8ecb25.jpg",
+      "md5": "ed4793c55b4a00970c1c751dbc8ecb25",
+      "width": 2560,
+      "height": 1440,
+      "size": 848807,
+      "uploadedDate": "2020-11-05T21:03:25.915Z"
+    }
+  ],
+  "creationDate": "2020-06-08T03:18:24.697+00:00",
+  "lastModifiedDate": "2020-11-19T16:20:28.575+00:00",
+  "developer": "2K Games, Inc.",
+  "developerId": "o-37m6jbj5wcvrcvm4wusv7nazdfvbjk",
+  "applicationId": null
+}

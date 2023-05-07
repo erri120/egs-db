@@ -1,0 +1,32 @@
+{
+  "id": "8c0bd96a32fb4e1e8955a62a414c84d5",
+  "title": "Torchlight",
+  "description": "Torchlight",
+  "namespace": "d0230ef21b1f4ef29aec0d49946912fc",
+  "categories": "public/games/applications",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/item/d0230ef21b1f4ef29aec0d49946912fc/TL1_PDP_Banner_1440_2560x1440-bf1e4c7ccea4b1f48cba1c014d8a85e8",
+      "md5": "bf1e4c7ccea4b1f48cba1c014d8a85e8",
+      "width": 2560,
+      "height": 1440,
+      "size": 6129116,
+      "uploadedDate": "2023-02-21T18:11:07.011Z"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/item/d0230ef21b1f4ef29aec0d49946912fc/TL1_PDP_Banner_1200x1600_1200x1600-f8147c005d12251321b8d3a1074fd8af",
+      "md5": "f8147c005d12251321b8d3a1074fd8af",
+      "width": 1200,
+      "height": 1600,
+      "size": 3505737,
+      "uploadedDate": "2023-02-21T18:11:10.32Z"
+    }
+  ],
+  "creationDate": "2019-05-08T15:55:29.46+00:00",
+  "lastModifiedDate": "2023-02-21T18:11:17.359+00:00",
+  "developer": "Gearbox Publishing San Francisco",
+  "developerId": "o-9nw6gkw2c9xlz6dk6z8vt7h5nbgm5w",
+  "applicationId": ""
+}

@@ -1,0 +1,32 @@
+{
+  "id": "c8c882cbb80346e5a025bf11f1f314e6",
+  "title": "Moonglow Bay",
+  "description": "Moonglow Bay",
+  "namespace": "0610384879594dd0b42c73e2d8af88ae",
+  "categories": "public/games/applications",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/item/0610384879594dd0b42c73e2d8af88ae/EGS_MoonglowBay_Bunnyhug_S3_2560x1440-16ea663bb04251ca791e2236a3257af0",
+      "md5": "16ea663bb04251ca791e2236a3257af0",
+      "width": 2560,
+      "height": 1440,
+      "size": 1014788,
+      "uploadedDate": "2021-11-10T19:56:54.604Z"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/item/0610384879594dd0b42c73e2d8af88ae/EGS_MoonglowBay_Bunnyhug_S2_1200x1600-5dee944c8789c29cc85084438ad895db",
+      "md5": "5dee944c8789c29cc85084438ad895db",
+      "width": 1200,
+      "height": 1600,
+      "size": 613783,
+      "uploadedDate": "2021-11-10T19:57:08.19Z"
+    }
+  ],
+  "creationDate": "2020-11-11T16:26:21.431+00:00",
+  "lastModifiedDate": "2021-11-11T16:23:39.562+00:00",
+  "developer": "Coatsink",
+  "developerId": "o-bhd3mh54edbkdtbzehl9wz6jnfeyea",
+  "applicationId": ""
+}

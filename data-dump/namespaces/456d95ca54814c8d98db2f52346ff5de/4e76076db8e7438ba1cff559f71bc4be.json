@@ -1,0 +1,32 @@
+{
+  "id": "4e76076db8e7438ba1cff559f71bc4be",
+  "title": "The Dungeon Of Naheulbeuk: The Amulet Of Chaos",
+  "description": "The Dungeon Of Naheulbeuk: The Amulet Of Chaos",
+  "namespace": "456d95ca54814c8d98db2f52346ff5de",
+  "categories": "public/games/applications",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/456d95ca54814c8d98db2f52346ff5de/item/EGS_TheDungeonOfNaheulbeukTheAmuletOfChaos_ArtefactsStudio_S1-2560x1440-b9f0201b134b1a6a57fe46bc43fdf859.jpg",
+      "md5": "b9f0201b134b1a6a57fe46bc43fdf859",
+      "width": 2560,
+      "height": 1440,
+      "size": 976796,
+      "uploadedDate": "2020-06-29T19:54:36.803Z"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/456d95ca54814c8d98db2f52346ff5de/item/EGS_TheDungeonOfNaheulbeukTheAmuletOfChaos_ArtefactsStudio_S2-1200x1600-c6e41542f7fd54417e77bc9ed7eee0e1.jpg",
+      "md5": "c6e41542f7fd54417e77bc9ed7eee0e1",
+      "width": 1200,
+      "height": 1600,
+      "size": 872674,
+      "uploadedDate": "2020-06-29T19:54:50.8Z"
+    }
+  ],
+  "creationDate": "2020-06-29T16:24:16.515+00:00",
+  "lastModifiedDate": "2022-05-31T14:19:08.056+00:00",
+  "developer": "Plug In Digital SAS",
+  "developerId": "o-yw5ga5z854qs64ld82qey3dz2d7z32",
+  "applicationId": "fghi456750xgC3MDwDRX4uD5QZxWj0wK"
+}

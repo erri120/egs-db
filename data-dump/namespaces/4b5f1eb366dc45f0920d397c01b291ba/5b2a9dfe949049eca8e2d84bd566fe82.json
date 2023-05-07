@@ -1,0 +1,23 @@
+{
+  "id": "5b2a9dfe949049eca8e2d84bd566fe82",
+  "title": "Soundtrack Audience",
+  "description": "Soundtrack Audience",
+  "namespace": "4b5f1eb366dc45f0920d397c01b291ba",
+  "categories": "",
+  "keyImages": [
+    {
+      "type": "ESRB",
+      "url": "https://cdn1.epicgames.com/4b5f1eb366dc45f0920d397c01b291ba/item/ESRB_Q.U.B.E.2-842x404-5058e49857149fad2c513a3222e10d51.jpg",
+      "md5": "5058e49857149fad2c513a3222e10d51",
+      "width": 842,
+      "height": 404,
+      "size": 57827,
+      "uploadedDate": "2019-10-16T23:32:32.081Z"
+    }
+  ],
+  "creationDate": "2019-10-19T01:31:08.46+00:00",
+  "lastModifiedDate": "2019-10-24T15:00:13.152+00:00",
+  "developer": "Epic Dev Test Account",
+  "developerId": "o-ufmrk5furrrxgsp5tdngefzt5rxdcn",
+  "applicationId": null
+}

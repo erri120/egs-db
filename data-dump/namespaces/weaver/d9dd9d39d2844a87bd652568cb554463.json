@@ -1,0 +1,23 @@
+{
+  "id": "d9dd9d39d2844a87bd652568cb554463",
+  "title": "Rebel Galaxy General Audience",
+  "description": "Rebel Galaxy General Audience",
+  "namespace": "weaver",
+  "categories": "",
+  "keyImages": [
+    {
+      "type": "ESRB",
+      "url": "https://cdn1.epicgames.com/weaver/item/ESRB_RebelGalaxyOriginal_T-842x404-fe40e1c9679d6d0d0d3136a0f05e9aca.jpg",
+      "md5": "fe40e1c9679d6d0d0d3136a0f05e9aca",
+      "width": 842,
+      "height": 404,
+      "size": 58336,
+      "uploadedDate": "2019-06-19T18:34:51.692Z"
+    }
+  ],
+  "creationDate": "2019-02-14T03:52:36.48+00:00",
+  "lastModifiedDate": "2019-06-20T14:58:02.385+00:00",
+  "developer": "Double Damage Games, Inc",
+  "developerId": "o-7kk95dlwa9mep5kfkubrgmp9qkwbt4",
+  "applicationId": null
+}

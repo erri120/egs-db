@@ -1,0 +1,23 @@
+{
+  "id": "ca046be203794c8681dd3c1ee0b591c1",
+  "title": "MangoGeneralAudience",
+  "description": "MangoGeneralAudience",
+  "namespace": "94a50905f377470c84c8e4b7c38f9cdd",
+  "categories": "",
+  "keyImages": [
+    {
+      "type": "ESRB",
+      "url": "https://cdn1.epicgames.com/94a50905f377470c84c8e4b7c38f9cdd/item/ESRB_DragonQuestXI-842x404-f718d3a7b7b4e54dbb776c149dfd7b4b.png",
+      "md5": "f718d3a7b7b4e54dbb776c149dfd7b4b",
+      "width": 842,
+      "height": 404,
+      "size": 61411,
+      "uploadedDate": "2020-09-08T23:40:50.472Z"
+    }
+  ],
+  "creationDate": "2020-08-12T19:10:19.544+00:00",
+  "lastModifiedDate": "2020-12-04T16:59:19.482+00:00",
+  "developer": "Square Enix Japan",
+  "developerId": "o-xbmhhs32ajtuszar863dprgnwtvedk",
+  "applicationId": null
+}

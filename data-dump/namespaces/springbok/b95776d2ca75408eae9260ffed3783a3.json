@@ -1,0 +1,23 @@
+{
+  "id": "b95776d2ca75408eae9260ffed3783a3",
+  "title": "Darksiders III Layout",
+  "description": "Darksiders III",
+  "namespace": "springbok",
+  "categories": "layout",
+  "keyImages": [
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/springbok/item/d3_leglaunch-2580x1456-e8fad303b8f093a0dd41912f37a6fc52.png",
+      "md5": "e8fad303b8f093a0dd41912f37a6fc52",
+      "width": 2580,
+      "height": 1456,
+      "size": 6304815,
+      "uploadedDate": "2018-12-14T15:58:04.846Z"
+    }
+  ],
+  "creationDate": "2018-12-14T15:58:32.956+00:00",
+  "lastModifiedDate": "2019-07-16T16:56:47.035+00:00",
+  "developer": "THQ Nordic GmbH",
+  "developerId": "o-jywxgemg3dagnv6fymcngq3g29mc4j",
+  "applicationId": null
+}

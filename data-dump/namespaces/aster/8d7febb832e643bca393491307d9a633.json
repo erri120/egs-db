@@ -1,0 +1,50 @@
+{
+  "id": "8d7febb832e643bca393491307d9a633",
+  "title": "Heavy Rain Pre-Purchase",
+  "description": "Heavy Rain Pre-Purchase",
+  "namespace": "aster",
+  "categories": "",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/aster/item/001_HEAVYRAIN_PRIMARYPROMOIMAGE-2580x1450-db16cce61af8f1e3daa73ce3ba6b002b.jpg",
+      "md5": "db16cce61af8f1e3daa73ce3ba6b002b",
+      "width": 2580,
+      "height": 1450,
+      "size": 137730,
+      "uploadedDate": "2019-03-20T12:31:25.232Z"
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/aster/item/001_HEAVYRAIN_ICON-400x400-d6532494c9e1c90d07f2fcabf20e00b3.png",
+      "md5": "d6532494c9e1c90d07f2fcabf20e00b3",
+      "width": 400,
+      "height": 400,
+      "size": 102366,
+      "uploadedDate": "2019-03-20T12:32:28.172Z"
+    },
+    {
+      "type": "DieselGameBoxLogo",
+      "url": "https://cdn1.epicgames.com/aster/item/HeavyRain_Logo_EUR-1920x315-0940421774203f1c2a2c31be98945626.png",
+      "md5": "0940421774203f1c2a2c31be98945626",
+      "width": 1920,
+      "height": 315,
+      "size": 101216,
+      "uploadedDate": "2019-03-20T12:38:40.289Z"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/aster/item/001_HEAVYRAIN_STOREPORTRAIT-1280x1420-ebf00856b579e7862182118d30139c8d-1280x1420-ebf00856b579e7862182118d30139c8d.jpg",
+      "md5": "ebf00856b579e7862182118d30139c8d",
+      "width": 1280,
+      "height": 1420,
+      "size": 115360,
+      "uploadedDate": "2019-11-21T14:26:30.764Z"
+    }
+  ],
+  "creationDate": "2019-05-14T20:53:04.529+00:00",
+  "lastModifiedDate": "2019-11-21T14:26:34.97+00:00",
+  "developer": "Quantic Dream",
+  "developerId": "o-m8v47d762atphw94knus7ezawefpcu",
+  "applicationId": null
+}

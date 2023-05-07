@@ -1,0 +1,32 @@
+{
+  "id": "09342951051244918f8d8babd810dee0",
+  "title": "Ghost Recon Breakpoint Demo",
+  "description": "Ghost Recon Breakpoint Demo",
+  "namespace": "2dbd2f64abdc4bbab077424d5c85e01b",
+  "categories": "public/games/applications",
+  "keyImages": [
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/2dbd2f64abdc4bbab077424d5c85e01b/item/CodeRedemptionTCGRB-330x440-70b00886176ffa2e22b86eaa389c7a50-330x440-70b00886176ffa2e22b86eaa389c7a50.png",
+      "md5": "70b00886176ffa2e22b86eaa389c7a50",
+      "width": 330,
+      "height": 440,
+      "size": 325115,
+      "uploadedDate": "2020-04-01T16:01:03.447Z"
+    },
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/2dbd2f64abdc4bbab077424d5c85e01b/item/CAPSULE-Standard-267x150-e2f17b0ea3c75401e8d4be947cbeab18aef7e8f2-267x150-5ab21bd4317595c4650335460350cdd2.jpg",
+      "md5": "5ab21bd4317595c4650335460350cdd2",
+      "width": 267,
+      "height": 150,
+      "size": 22492,
+      "uploadedDate": "2020-04-01T16:01:22.397Z"
+    }
+  ],
+  "creationDate": "2020-03-23T16:03:13.051+00:00",
+  "lastModifiedDate": "2021-02-24T14:14:45.215+00:00",
+  "developer": "Ubisoft Entertainment",
+  "developerId": "o-3efjudxdtgsqnulml4bkeq3v9nec38",
+  "applicationId": null
+}

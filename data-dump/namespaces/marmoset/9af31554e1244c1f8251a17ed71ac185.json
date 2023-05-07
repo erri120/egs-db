@@ -1,0 +1,23 @@
+{
+  "id": "9af31554e1244c1f8251a17ed71ac185",
+  "title": "MarmosetPressAudience",
+  "description": "MarmosetPressAudience",
+  "namespace": "marmoset",
+  "categories": "",
+  "keyImages": [
+    {
+      "type": "ESRB",
+      "url": "https://cdn1.epicgames.com/marmoset/item/RP_FOR_T_M_AO-842x404-e685858d6f01213bedf5b2abec53be94.png",
+      "md5": "e685858d6f01213bedf5b2abec53be94",
+      "width": 842,
+      "height": 404,
+      "size": 55379,
+      "uploadedDate": "2019-04-23T21:42:59.535Z"
+    }
+  ],
+  "creationDate": "2019-07-29T19:01:04.851+00:00",
+  "lastModifiedDate": "2019-07-29T19:02:29.759+00:00",
+  "developer": "Double Damage Games, Inc",
+  "developerId": "o-7kk95dlwa9mep5kfkubrgmp9qkwbt4",
+  "applicationId": null
+}

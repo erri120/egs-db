@@ -1,0 +1,23 @@
+{
+  "id": "ba63d35a8a944b8cb07efa40daa5e364",
+  "title": "Avatars Pack",
+  "description": "Avatars Pack",
+  "namespace": "f9c2aedaff8442b286fbd026948b9f09",
+  "categories": "",
+  "keyImages": [
+    {
+      "type": "ESRB",
+      "url": "https://cdn1.epicgames.com/f9c2aedaff8442b286fbd026948b9f09/item/ESRB_Faeria-842x485-5765e4d7960a6a3da59dfa970b6f5147.jpg",
+      "md5": "5765e4d7960a6a3da59dfa970b6f5147",
+      "width": 842,
+      "height": 485,
+      "size": 87036,
+      "uploadedDate": "2020-02-25T15:53:09.538Z"
+    }
+  ],
+  "creationDate": "2019-09-09T19:54:27.018+00:00",
+  "lastModifiedDate": "2021-03-24T01:03:45.487+00:00",
+  "developer": "Abrakam",
+  "developerId": "o-7e471071ca794f1abc81c7430b7e8f",
+  "applicationId": null
+}

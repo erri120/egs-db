@@ -1,0 +1,32 @@
+{
+  "id": "188c76ba54e64b5f8c8fbc07cdedbf8a",
+  "title": "Old World (pre-flight)",
+  "description": "Old World (pre-flight)",
+  "namespace": "07f4a7dd3c884e5d87e9a209716962ca",
+  "categories": "public/games/applications",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/LandscapeProductLaunchedPREFLIGHT_2560x1440-69944969a65ddb08a37c6a0af761899c",
+      "md5": "69944969a65ddb08a37c6a0af761899c",
+      "width": 2560,
+      "height": 1440,
+      "size": 1944348,
+      "uploadedDate": "2021-07-01T20:46:55.457Z"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/PortraitProductLaunchedPREFLIGHT_1200x1600-c5358a355ee66493b0e1fba72009026d",
+      "md5": "c5358a355ee66493b0e1fba72009026d",
+      "width": 1200,
+      "height": 1600,
+      "size": 1000701,
+      "uploadedDate": "2021-07-01T20:47:00.365Z"
+    }
+  ],
+  "creationDate": "2020-03-27T03:00:53.942+00:00",
+  "lastModifiedDate": "2022-04-26T17:11:54.391+00:00",
+  "developer": "Mohawk Games",
+  "developerId": "o-uw2qbn4nh26vxscergml2f7du26bvk",
+  "applicationId": ""
+}

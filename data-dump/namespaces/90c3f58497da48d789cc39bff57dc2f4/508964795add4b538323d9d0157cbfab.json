@@ -1,0 +1,23 @@
+{
+  "id": "508964795add4b538323d9d0157cbfab",
+  "title": "SandpiperGeneralAudience",
+  "description": "SandpiperGeneralAudience",
+  "namespace": "90c3f58497da48d789cc39bff57dc2f4",
+  "categories": "",
+  "keyImages": [
+    {
+      "type": "ESRB",
+      "url": "https://cdn1.epicgames.com/90c3f58497da48d789cc39bff57dc2f4/item/ESRB_WRC8-842x485-a4de2492c5e27c0262705a42c34204fd.jpg",
+      "md5": "a4de2492c5e27c0262705a42c34204fd",
+      "width": 842,
+      "height": 485,
+      "size": 84586,
+      "uploadedDate": "2020-01-15T22:19:02.228Z"
+    }
+  ],
+  "creationDate": "2019-08-24T05:01:52.116+00:00",
+  "lastModifiedDate": "2021-04-07T02:25:54.169+00:00",
+  "developer": "Bigben Interactive",
+  "developerId": "o-wubu848ps2xcxuwv2m3bhet9gbhdbp",
+  "applicationId": null
+}

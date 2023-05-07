@@ -1,0 +1,23 @@
+{
+  "id": "4759e709c19440999a534affb07d7cbf",
+  "title": "ChivesDevAudience",
+  "description": "ChivesDevAudience",
+  "namespace": "aa5ef9d2f8394731a034504c562e292c",
+  "categories": "",
+  "keyImages": [
+    {
+      "type": "ESRB",
+      "url": "https://cdn1.epicgames.com/aa5ef9d2f8394731a034504c562e292c/item/ESRB_BadNorth-842x404-6b05c70797ccf8293257cc47d4e2d9aa.jpg",
+      "md5": "6b05c70797ccf8293257cc47d4e2d9aa",
+      "width": 842,
+      "height": 404,
+      "size": 16503,
+      "uploadedDate": "2019-11-13T19:09:24.539Z"
+    }
+  ],
+  "creationDate": "2019-10-23T17:42:31.131+00:00",
+  "lastModifiedDate": "2019-11-21T15:48:54.574+00:00",
+  "developer": "Raw Fury",
+  "developerId": "o-fay4ghw9hhamujs53rfhy83ffexb7k",
+  "applicationId": null
+}

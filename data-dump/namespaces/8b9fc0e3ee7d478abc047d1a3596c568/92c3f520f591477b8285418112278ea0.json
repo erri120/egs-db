@@ -1,0 +1,23 @@
+{
+  "id": "92c3f520f591477b8285418112278ea0",
+  "title": "FarCry3BloodDragonGeneralAudience",
+  "description": "FarCry3BloodDragonGeneralAudience",
+  "namespace": "8b9fc0e3ee7d478abc047d1a3596c568",
+  "categories": "",
+  "keyImages": [
+    {
+      "type": "ESRB",
+      "url": "https://cdn1.epicgames.com/8b9fc0e3ee7d478abc047d1a3596c568/item/ESRB_Farcry3-Blood-Dragon-842x404-cc2a11f7ef01caccce75a6dadedfa858.jpg",
+      "md5": "cc2a11f7ef01caccce75a6dadedfa858",
+      "width": 842,
+      "height": 404,
+      "size": 86577,
+      "uploadedDate": "2020-02-18T14:59:10.131Z"
+    }
+  ],
+  "creationDate": "2020-01-24T17:48:52.099+00:00",
+  "lastModifiedDate": "2020-02-18T15:31:20.117+00:00",
+  "developer": "Ubisoft Entertainment",
+  "developerId": "o-3efjudxdtgsqnulml4bkeq3v9nec38",
+  "applicationId": null
+}

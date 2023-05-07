@@ -1,0 +1,32 @@
+{
+  "id": "11a20f9efc0e4cee975b12f7f9c0d523",
+  "title": "Zombi",
+  "description": "Zombi",
+  "namespace": "143474ab55ec49e8b9b9d79931cb2512",
+  "categories": "public/games/applications",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/143474ab55ec49e8b9b9d79931cb2512/item/ZMBU_Store_Landscape_2560x1440-2560x1440-cb04f08d196fe06f7f90721a1f4addc3.jpg",
+      "md5": "cb04f08d196fe06f7f90721a1f4addc3",
+      "width": 2560,
+      "height": 1440,
+      "size": 846181,
+      "uploadedDate": "2020-10-09T14:28:52.975Z"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/143474ab55ec49e8b9b9d79931cb2512/item/ZMBU_Store_Portrait_1200x1600-1200x1600-226b28b636dd94f29f332a5db78c630a.jpg",
+      "md5": "226b28b636dd94f29f332a5db78c630a",
+      "width": 1200,
+      "height": 1600,
+      "size": 852848,
+      "uploadedDate": "2020-10-09T14:28:57.329Z"
+    }
+  ],
+  "creationDate": "2020-08-13T19:26:05.215+00:00",
+  "lastModifiedDate": "2020-10-13T15:16:41.357+00:00",
+  "developer": "Ubisoft Entertainment",
+  "developerId": "o-3efjudxdtgsqnulml4bkeq3v9nec38",
+  "applicationId": null
+}

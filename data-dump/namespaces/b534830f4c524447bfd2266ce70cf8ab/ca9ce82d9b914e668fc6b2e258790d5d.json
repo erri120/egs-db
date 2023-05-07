@@ -1,0 +1,23 @@
+{
+  "id": "ca9ce82d9b914e668fc6b2e258790d5d",
+  "title": "CuckooDevAudience",
+  "description": "CuckooDevAudience",
+  "namespace": "b534830f4c524447bfd2266ce70cf8ab",
+  "categories": "",
+  "keyImages": [
+    {
+      "type": "ESRB",
+      "url": "https://cdn1.epicgames.com/b534830f4c524447bfd2266ce70cf8ab/item/ESRB_WalkingDeadDE-842x404-0ae3fb75831087dd66fcbd2053dff37b.png",
+      "md5": "0ae3fb75831087dd66fcbd2053dff37b",
+      "width": 842,
+      "height": 404,
+      "size": 59326,
+      "uploadedDate": "2019-09-25T13:35:59.419Z"
+    }
+  ],
+  "creationDate": "2019-07-31T20:27:32.248+00:00",
+  "lastModifiedDate": "2023-02-14T22:38:26.123+00:00",
+  "developer": "Skybound Interactive",
+  "developerId": "o-rqvssgn2hhj58wv5bc6eueqswz2un4",
+  "applicationId": null
+}

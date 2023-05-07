@@ -1,0 +1,41 @@
+{
+  "id": "3e3d9fea445042c9bd504afb9b15f184",
+  "title": "Carcassonne",
+  "description": "Carcassonne",
+  "namespace": "0aaf0617ee0d47df87c0dc93509159dd",
+  "categories": "public/games/applications",
+  "keyImages": [
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/0aaf0617ee0d47df87c0dc93509159dd/item/carcassonne_Portrait-image-860x1148_BASEgame-860x1148-396fe55e12e2aedf56a93d2644f269e9.png",
+      "md5": "396fe55e12e2aedf56a93d2644f269e9",
+      "width": 860,
+      "height": 1148,
+      "size": 1436146,
+      "uploadedDate": "2020-01-30T14:11:43.556Z"
+    },
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/0aaf0617ee0d47df87c0dc93509159dd/item/Landscape-Image-2560x1440-2560x1440-1487473e4cfcb5b50ef6bf8e367e842c.jpg",
+      "md5": "1487473e4cfcb5b50ef6bf8e367e842c",
+      "width": 2560,
+      "height": 1440,
+      "size": 152993,
+      "uploadedDate": "2020-01-30T14:11:55.38Z"
+    },
+    {
+      "type": "DieselGameBoxLogo",
+      "url": "https://cdn1.epicgames.com/0aaf0617ee0d47df87c0dc93509159dd/item/Game-Logo-200x200-200x200-12b638fe3a6ff14c48a9551172ca7e78.png",
+      "md5": "12b638fe3a6ff14c48a9551172ca7e78",
+      "width": 200,
+      "height": 200,
+      "size": 21416,
+      "uploadedDate": "2020-01-30T14:12:08.395Z"
+    }
+  ],
+  "creationDate": "2019-08-24T05:55:19.95+00:00",
+  "lastModifiedDate": "2020-05-15T00:09:21.664+00:00",
+  "developer": "Asmodee",
+  "developerId": "o-4x4bpaww55p5g3f6xpyqe2cneqxd5d",
+  "applicationId": null
+}

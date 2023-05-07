@@ -1,0 +1,32 @@
+{
+  "id": "126f328afa7f4a35ab1abef5c0180496",
+  "title": "Monster Jam Steel Titans 2",
+  "description": "Monster Jam Steel Titans 2",
+  "namespace": "e65e11fc4aee4bb28c3bddf0b6d490bd",
+  "categories": "public/games/applications",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/e65e11fc4aee4bb28c3bddf0b6d490bd/item/EGS_MonsterJamSteelTitans2_RainbowStudios_S1-2560x1440-df85ecfe8eb74d7a7689d2890470fc1b.jpg",
+      "md5": "df85ecfe8eb74d7a7689d2890470fc1b",
+      "width": 2560,
+      "height": 1440,
+      "size": 684578,
+      "uploadedDate": "2021-03-02T01:32:03.01Z"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/e65e11fc4aee4bb28c3bddf0b6d490bd/item/EGS_MonsterJamSteelTitans2_RainbowStudios_S2-1200x1600-47003425c734e1f616d48c3bd90a9f31.jpg",
+      "md5": "47003425c734e1f616d48c3bd90a9f31",
+      "width": 1200,
+      "height": 1600,
+      "size": 439594,
+      "uploadedDate": "2021-03-02T01:32:12.695Z"
+    }
+  ],
+  "creationDate": "2021-02-18T19:21:35.649+00:00",
+  "lastModifiedDate": "2021-04-06T14:25:33.969+00:00",
+  "developer": "THQ Nordic GmbH",
+  "developerId": "o-jywxgemg3dagnv6fymcngq3g29mc4j",
+  "applicationId": "fghi4567FUwiNE0tkwrwWEDhkRJIAAZR"
+}

@@ -1,0 +1,32 @@
+{
+  "id": "a956728713ae4972aa98b9e68a1c58f1",
+  "title": "FeverfewStaging",
+  "description": "FeverfewStaging",
+  "namespace": "feverfew",
+  "categories": "",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/feverfew/item/TJBPP1_Game Page Promo-2580x1450-fb1298f68d948feb6c02d9eb2944c8d6.jpg",
+      "md5": "fb1298f68d948feb6c02d9eb2944c8d6",
+      "width": 2580,
+      "height": 1450,
+      "size": 551504,
+      "uploadedDate": "2019-01-22T21:06:31.385Z"
+    },
+    {
+      "type": "DieselGameBoxLogo",
+      "url": "https://cdn1.epicgames.com/feverfew/item/PP1_GameLogo_Colored-2366x1285-53a6638a74ef936167a508218ca47283.png",
+      "md5": "53a6638a74ef936167a508218ca47283",
+      "width": 2366,
+      "height": 1285,
+      "size": 371115,
+      "uploadedDate": "2019-01-22T21:06:47.297Z"
+    }
+  ],
+  "creationDate": "2019-01-15T15:41:58.734+00:00",
+  "lastModifiedDate": "2019-07-23T16:56:54.417+00:00",
+  "developer": "Jackbox Games, Inc.",
+  "developerId": "o-2m9ap45qzvalaepjz6wclpcffeq4aj",
+  "applicationId": null
+}

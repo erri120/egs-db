@@ -1,0 +1,23 @@
+{
+  "id": "020eaf7ae471466c80fc813f9433767e",
+  "title": "PragueGeneralAudience",
+  "description": "PragueGeneralAudience",
+  "namespace": "8149b9c6be654c71aad46431d3d349a6",
+  "categories": "",
+  "keyImages": [
+    {
+      "type": "ESRB",
+      "url": "https://cdn1.epicgames.com/8149b9c6be654c71aad46431d3d349a6/item/EGS_KnightSquad2_ChainsawesomeGames_RA1-396x190-1b91bcada24a1e133d127351df177d4c.png",
+      "md5": "1b91bcada24a1e133d127351df177d4c",
+      "width": 396,
+      "height": 190,
+      "size": 24559,
+      "uploadedDate": "2021-03-15T15:01:32.064Z"
+    }
+  ],
+  "creationDate": "2020-06-11T18:39:01.73+00:00",
+  "lastModifiedDate": "2021-03-24T14:59:39.478+00:00",
+  "developer": "Chainsawesome Games",
+  "developerId": "o-7zc6sl4585ajhuz4m9hbxd32s7hmz8",
+  "applicationId": null
+}

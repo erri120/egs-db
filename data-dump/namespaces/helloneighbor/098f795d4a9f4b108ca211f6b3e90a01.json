@@ -1,0 +1,41 @@
+{
+  "id": "098f795d4a9f4b108ca211f6b3e90a01",
+  "title": "Hello Mod Kit",
+  "description": "Hello Mod Kit",
+  "namespace": "helloneighbor",
+  "categories": "",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/helloneighbor/item/HelloNeighborModkit-430x250-d7b4b12dd9ac208a5f78a208939bdfff.jpg",
+      "md5": "d7b4b12dd9ac208a5f78a208939bdfff",
+      "width": 430,
+      "height": 250,
+      "size": 99488,
+      "uploadedDate": "2018-09-17T20:49:19.364Z"
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/helloneighbor/item/helloN_tal-1288x1450-de625b960d1cd22d56d4ce5d47077ee4.png",
+      "md5": "de625b960d1cd22d56d4ce5d47077ee4",
+      "width": 1288,
+      "height": 1450,
+      "size": 563923,
+      "uploadedDate": "2018-12-06T23:15:26.323Z"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/helloneighbor/item/HelloN_tall-852x960-89d276410d4b9b4d216059c6d1a95055-852x960-89d276410d4b9b4d216059c6d1a95055-852x960-89d276410d4b9b4d216059c6d1a95055.png",
+      "md5": "89d276410d4b9b4d216059c6d1a95055",
+      "width": 852,
+      "height": 960,
+      "size": 261224,
+      "uploadedDate": "2019-11-20T21:11:19.635Z"
+    }
+  ],
+  "creationDate": "2017-09-22T20:54:36.491+00:00",
+  "lastModifiedDate": "2022-04-05T14:12:08.678+00:00",
+  "developer": "tinyBuild Games",
+  "developerId": "o-t682p59y2u8tr9bxcm6cmw9w7mmz5t",
+  "applicationId": ""
+}

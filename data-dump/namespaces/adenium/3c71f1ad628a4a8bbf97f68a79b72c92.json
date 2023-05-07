@@ -1,0 +1,32 @@
+{
+  "id": "3c71f1ad628a4a8bbf97f68a79b72c92",
+  "title": "AdeniumStaging",
+  "description": "AdeniumStaging",
+  "namespace": "adenium",
+  "categories": "",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/adenium/item/EGS_NightSchoolStudio_Afterparty_S2_2580x1450-2580x1450-be4bf4f974e89762d519cc2f2a289d3a.jpg",
+      "md5": "be4bf4f974e89762d519cc2f2a289d3a",
+      "width": 2580,
+      "height": 1450,
+      "size": 278370,
+      "uploadedDate": "2019-03-19T21:04:12.572Z"
+    },
+    {
+      "type": "DieselGameBoxLogo",
+      "url": "https://cdn1.epicgames.com/adenium/item/AfterpartyLogo_wSkull_DarkVersion_RGB-1184x567-c56f496e37c57229fb5649a99b6b323c.png",
+      "md5": "c56f496e37c57229fb5649a99b6b323c",
+      "width": 1184,
+      "height": 567,
+      "size": 117422,
+      "uploadedDate": "2019-05-15T15:09:21.79Z"
+    }
+  ],
+  "creationDate": "2019-03-15T15:38:07.492+00:00",
+  "lastModifiedDate": "2020-02-06T13:25:16.686+00:00",
+  "developer": "Night School Studio, LLC",
+  "developerId": "o-8bhctnyt9qetgnjd4nssqse58c2589",
+  "applicationId": null
+}

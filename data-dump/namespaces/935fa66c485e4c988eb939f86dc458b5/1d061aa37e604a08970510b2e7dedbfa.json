@@ -1,0 +1,32 @@
+{
+  "id": "1d061aa37e604a08970510b2e7dedbfa",
+  "title": "ChiliStaging",
+  "description": "ChiliStaging",
+  "namespace": "935fa66c485e4c988eb939f86dc458b5",
+  "categories": "public/games/applications",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/935fa66c485e4c988eb939f86dc458b5/item/PhantomBr_Post_Image_Primary-1920x1080-a2c55c635c193d4682d5c03066514e5f.jpg",
+      "md5": "a2c55c635c193d4682d5c03066514e5f",
+      "width": 1920,
+      "height": 1080,
+      "size": 243759,
+      "uploadedDate": "2019-06-25T15:36:19.865Z"
+    },
+    {
+      "type": "DieselGameBoxLogo",
+      "url": "https://cdn1.epicgames.com/935fa66c485e4c988eb939f86dc458b5/item/PhantomBr_Logo-1978x780-45a7ac93cd0a0455f68008a62d65009c.png",
+      "md5": "45a7ac93cd0a0455f68008a62d65009c",
+      "width": 1978,
+      "height": 780,
+      "size": 281971,
+      "uploadedDate": "2019-06-25T15:36:27.168Z"
+    }
+  ],
+  "creationDate": "2019-06-08T15:15:16.797+00:00",
+  "lastModifiedDate": "2020-11-16T20:44:14.174+00:00",
+  "developer": "Brace Yourself Games",
+  "developerId": "o-5y95w2k7uu469v8lr4dyzeff447wfm",
+  "applicationId": null
+}

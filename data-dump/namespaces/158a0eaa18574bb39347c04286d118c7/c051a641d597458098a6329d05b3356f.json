@@ -1,0 +1,23 @@
+{
+  "id": "c051a641d597458098a6329d05b3356f",
+  "title": "Morganite Soundtrack Audience",
+  "description": "Morganite Soundtrack Audience",
+  "namespace": "158a0eaa18574bb39347c04286d118c7",
+  "categories": "",
+  "keyImages": [
+    {
+      "type": "ESRB",
+      "url": "https://cdn1.epicgames.com/158a0eaa18574bb39347c04286d118c7/item/EGS_SLUDGELIFE_TerriVellmannDoseone_RA1-424x200-5098125ebc746a5092643f69e05f703d.png",
+      "md5": "5098125ebc746a5092643f69e05f703d",
+      "width": 424,
+      "height": 200,
+      "size": 10702,
+      "uploadedDate": "2020-02-26T15:28:30.13Z"
+    }
+  ],
+  "creationDate": "2020-05-22T19:54:56.016+00:00",
+  "lastModifiedDate": "2020-05-28T13:21:50.745+00:00",
+  "developer": "Devolver Digital, Inc.",
+  "developerId": "o-plnhdz2wfx5etjjeh88szjqy2gx8gw",
+  "applicationId": null
+}

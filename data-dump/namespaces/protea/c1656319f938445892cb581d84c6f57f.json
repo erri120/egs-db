@@ -1,0 +1,32 @@
+{
+  "id": "c1656319f938445892cb581d84c6f57f",
+  "title": "Industries of Titan OST",
+  "description": "Industries of Titan OST",
+  "namespace": "protea",
+  "categories": "",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/item/protea/EGS_IndustriesofTitanOST_BraceYourselfGames_DigitalExtras_S1_2560x1440-714f695ac45c69e4abf86a7c7f74d9fc",
+      "md5": "714f695ac45c69e4abf86a7c7f74d9fc",
+      "width": 2560,
+      "height": 1440,
+      "size": 902163,
+      "uploadedDate": "2023-01-31T21:45:03.073Z"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/item/protea/EGS_IndustriesofTitanOST_BraceYourselfGames_DigitalExtras_S2_1200x1600-c9f94dc0eb719beac64ced7cc8315019",
+      "md5": "c9f94dc0eb719beac64ced7cc8315019",
+      "width": 1200,
+      "height": 1600,
+      "size": 623122,
+      "uploadedDate": "2023-01-31T21:45:06.517Z"
+    }
+  ],
+  "creationDate": "2020-04-13T18:25:12.718+00:00",
+  "lastModifiedDate": "2023-02-06T17:25:20.979+00:00",
+  "developer": "Brace Yourself Games",
+  "developerId": "o-5y95w2k7uu469v8lr4dyzeff447wfm",
+  "applicationId": ""
+}

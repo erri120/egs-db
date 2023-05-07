@@ -1,0 +1,23 @@
+{
+  "id": "cf2c32d844eb4d95882019611bee1425",
+  "title": "HollyDevAudience",
+  "description": "HollyDevAudience",
+  "namespace": "holly",
+  "categories": "",
+  "keyImages": [
+    {
+      "type": "ESRB",
+      "url": "https://cdn1.epicgames.com/holly/item/RP_FOR_E-842x404-fce4fa7233ed80170a8e36079d1e1bde.png",
+      "md5": "fce4fa7233ed80170a8e36079d1e1bde",
+      "width": 842,
+      "height": 404,
+      "size": 51194,
+      "uploadedDate": "2019-05-14T13:27:07.715Z"
+    }
+  ],
+  "creationDate": "2019-02-15T14:50:42.413+00:00",
+  "lastModifiedDate": "2019-05-14T14:07:20.397+00:00",
+  "developer": "Tomorrow Corporation",
+  "developerId": "o-46fvj3lpt7r9n79axbrl8tkgfbe2j8",
+  "applicationId": null
+}

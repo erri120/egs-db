@@ -1,0 +1,23 @@
+{
+  "id": "4d27347322624f05ad867d1d0970d33c",
+  "title": "Shenmue 3 Backer Trial Version",
+  "description": "Shenmue 3 Backer Trial Version",
+  "namespace": "5d582c08e31a43128a61093a2c3ff7f0",
+  "categories": "",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/5d582c08e31a43128a61093a2c3ff7f0/item/S3_Editions_BackersTrial-1152x648-7ba997f7ffb8a8590635af2de58b9864.png",
+      "md5": "7ba997f7ffb8a8590635af2de58b9864",
+      "width": 1152,
+      "height": 648,
+      "size": 341666,
+      "uploadedDate": "2019-09-26T17:34:50.593Z"
+    }
+  ],
+  "creationDate": "2019-08-12T15:54:17.89+00:00",
+  "lastModifiedDate": "2022-09-20T14:52:28.795+00:00",
+  "developer": "Plaion",
+  "developerId": "o-jskfz28ywm2l56px6h9rlxplaysrtl",
+  "applicationId": ""
+}

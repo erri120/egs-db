@@ -1,0 +1,23 @@
+{
+  "id": "347fa0522a9b4adc8cfc8d3d22d980fa",
+  "title": "Slime Rancher General Audience",
+  "description": "Slime Rancher General Audience",
+  "namespace": "corydalis",
+  "categories": "",
+  "keyImages": [
+    {
+      "type": "ESRB",
+      "url": "https://cdn1.epicgames.com/corydalis/item/ESRB_SlimeRancher-842x404-b87a749a0d84064b54f915548c922b5d.jpg",
+      "md5": "b87a749a0d84064b54f915548c922b5d",
+      "width": 842,
+      "height": 404,
+      "size": 70396,
+      "uploadedDate": "2020-01-08T22:32:57.684Z"
+    }
+  ],
+  "creationDate": "2019-02-18T19:39:00.798+00:00",
+  "lastModifiedDate": "2023-02-22T17:41:53.595+00:00",
+  "developer": "Monomi Park",
+  "developerId": "o-zaqwbfdrp3pwhlqsnwvjfsmjdpsj3a",
+  "applicationId": ""
+}

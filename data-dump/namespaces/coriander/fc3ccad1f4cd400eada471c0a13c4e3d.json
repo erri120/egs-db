@@ -1,0 +1,41 @@
+{
+  "id": "fc3ccad1f4cd400eada471c0a13c4e3d",
+  "title": "Far Cry 5",
+  "description": "Far Cry 5",
+  "namespace": "coriander",
+  "categories": "",
+  "keyImages": [
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/coriander/item/FC5_S2-FAR-CRY-5-1280x1440-2ba2f6de8fdd12adb51930b3d22eb1b6.jpg",
+      "md5": "2ba2f6de8fdd12adb51930b3d22eb1b6",
+      "width": 1280,
+      "height": 1440,
+      "size": 244953,
+      "uploadedDate": "2020-02-10T02:25:59.499Z"
+    },
+    {
+      "type": "DieselGameBoxWide",
+      "url": "https://cdn1.epicgames.com/coriander/item/FC5_S1-FAR-CRY-5-2560x1440-3f27eb2a8c8025e27f8618066650522f.jpg",
+      "md5": "3f27eb2a8c8025e27f8618066650522f",
+      "width": 2560,
+      "height": 1440,
+      "size": 539211,
+      "uploadedDate": "2020-02-10T02:26:08.665Z"
+    },
+    {
+      "type": "DieselGameBoxLogo",
+      "url": "https://cdn1.epicgames.com/coriander/item/FC5_Logo_Color_1000x375_STD-1000x375-7b717a09fb72607076d18e3383a74505.png",
+      "md5": "7b717a09fb72607076d18e3383a74505",
+      "width": 1000,
+      "height": 375,
+      "size": 122687,
+      "uploadedDate": "2020-02-10T02:26:27.588Z"
+    }
+  ],
+  "creationDate": "2019-04-02T20:24:10.493+00:00",
+  "lastModifiedDate": "2020-02-18T15:53:15.273+00:00",
+  "developer": "Ubisoft Entertainment",
+  "developerId": "o-3efjudxdtgsqnulml4bkeq3v9nec38",
+  "applicationId": null
+}

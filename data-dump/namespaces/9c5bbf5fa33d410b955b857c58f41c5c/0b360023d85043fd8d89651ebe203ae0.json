@@ -1,0 +1,32 @@
+{
+  "id": "0b360023d85043fd8d89651ebe203ae0",
+  "title": "3 out of 10, EP 2: \u0022Foundation 101\u0022",
+  "description": "3 out of 10, EP 2: \u0022Foundation 101\u0022",
+  "namespace": "9c5bbf5fa33d410b955b857c58f41c5c",
+  "categories": "public/games/applications",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/9c5bbf5fa33d410b955b857c58f41c5c/item/EGS_3outof10EP2Foundation101_TerriblePostureGamesInc_G1C_00-1920x1080-20a9b2d639aad18eab57b7a05692570f.jpg",
+      "md5": "20a9b2d639aad18eab57b7a05692570f",
+      "width": 1920,
+      "height": 1080,
+      "size": 574030,
+      "uploadedDate": "2020-08-11T22:38:41.424Z"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/9c5bbf5fa33d410b955b857c58f41c5c/item/EGS_3outof10EP2Foundation101_TerriblePostureGamesInc_S2-1200x1600-5970e36a8ffd83dc0845613cc55eca2e.jpg",
+      "md5": "5970e36a8ffd83dc0845613cc55eca2e",
+      "width": 1200,
+      "height": 1600,
+      "size": 481329,
+      "uploadedDate": "2020-08-24T14:19:26.504Z"
+    }
+  ],
+  "creationDate": "2020-06-23T02:23:31.3+00:00",
+  "lastModifiedDate": "2020-08-24T14:19:36.756+00:00",
+  "developer": "Terrible Posture Games, Inc.",
+  "developerId": "o-2yllrrr7vufkhal9nk3cswwgug977c",
+  "applicationId": null
+}

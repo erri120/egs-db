@@ -1,0 +1,23 @@
+{
+  "id": "46c78cf106374960a0b04d9dfa34daae",
+  "title": "TheHiddenOnes_DLC_Audience_redeemable",
+  "description": "TheHiddenOnes_DLC_Audience_redeemable",
+  "namespace": "camellia",
+  "categories": "",
+  "keyImages": [
+    {
+      "type": "ESRB",
+      "url": "https://cdn1.epicgames.com/camellia/item/ACORating-842x404-3192940fd03ce42a91bec04ef222e1ec.png",
+      "md5": "3192940fd03ce42a91bec04ef222e1ec",
+      "width": 842,
+      "height": 404,
+      "size": 76578,
+      "uploadedDate": "2019-04-23T21:04:14.71Z"
+    }
+  ],
+  "creationDate": "2019-10-28T15:05:35.451+00:00",
+  "lastModifiedDate": "2019-11-27T15:28:33.806+00:00",
+  "developer": "Epic Dev Test Account",
+  "developerId": "o-ufmrk5furrrxgsp5tdngefzt5rxdcn",
+  "applicationId": null
+}

@@ -1,0 +1,32 @@
+{
+  "id": "16cedcfe002a4859822afd25dbf211b7",
+  "title": "The Walking Dead: A New Frontier",
+  "description": "The Walking Dead: A New Frontier",
+  "namespace": "begonia",
+  "categories": "",
+  "keyImages": [
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/item/begonia/WD301_Portrait_1200x1600_1200x1600-e9dcc54655e4f4274d01ba8682e246e5",
+      "md5": "e9dcc54655e4f4274d01ba8682e246e5",
+      "width": 1200,
+      "height": 1600,
+      "size": 3044908,
+      "uploadedDate": "2023-02-14T21:58:53.447Z"
+    },
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/item/begonia/TWD3_EPIC_Landscape_2560x1440-7d401138937a13dcd9d5e1343b3de284",
+      "md5": "7d401138937a13dcd9d5e1343b3de284",
+      "width": 2560,
+      "height": 1440,
+      "size": 365200,
+      "uploadedDate": "2023-02-14T22:02:08.851Z"
+    }
+  ],
+  "creationDate": "2019-03-08T18:23:23.927+00:00",
+  "lastModifiedDate": "2023-02-14T22:02:20.835+00:00",
+  "developer": "Skybound Interactive",
+  "developerId": "o-rqvssgn2hhj58wv5bc6eueqswz2un4",
+  "applicationId": ""
+}

@@ -1,0 +1,32 @@
+{
+  "id": "bb35ecedfbdc4f5fa2f10d2c6f66d17f",
+  "title": "Joint Venture",
+  "description": "Joint Venture",
+  "namespace": "7015c51a49be4592b5ba3ae2577723c5",
+  "categories": "public/games/applications",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/7015c51a49be4592b5ba3ae2577723c5/item/EGS_JointVenture_HaemimontGames_DLC_S1-2560x1440-3923558d11ad1c7e0a7dbd1f5becaafc.jpg",
+      "md5": "3923558d11ad1c7e0a7dbd1f5becaafc",
+      "width": 2560,
+      "height": 1440,
+      "size": 957560,
+      "uploadedDate": "2020-11-16T18:50:43.694Z"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/7015c51a49be4592b5ba3ae2577723c5/item/EGS_JointVenture_HaemimontGames_DLC_S2-1200x1600-9469ff501bb110f70b20e75da016c22a.jpg",
+      "md5": "9469ff501bb110f70b20e75da016c22a",
+      "width": 1200,
+      "height": 1600,
+      "size": 976726,
+      "uploadedDate": "2020-11-16T18:50:51.193Z"
+    }
+  ],
+  "creationDate": "2020-05-08T17:23:16.547+00:00",
+  "lastModifiedDate": "2020-12-16T18:21:41.17+00:00",
+  "developer": "Kalypso Media Group GmbH",
+  "developerId": "o-37ss7wypkskvyj58j9s7hhltxtujac",
+  "applicationId": null
+}
