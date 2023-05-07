@@ -210,4 +210,60 @@ public class ScraperTests
         var actualMappings = res.AsT0;
         actualMappings.Should().Equal(expectedMappings);
     }
+
+    [Theory, CustomAutoData]
+    public async Task Test_ScrapNamespaces_Update(
+        MockFileSystem fs,
+        ScraperState scraperState,
+        IDictionary<CatalogNamespace, UrlSlug> existingMappings,
+        IDictionary<CatalogNamespace, UrlSlug> newMappings)
+    {
+        var outputPath = fs.Path.Combine(scraperState.OutputFolder, MainScraper.NamespacesFileName);
+
+        var error = await fs.WriteToJsonAsync(existingMappings, outputPath);
+        error.Should().BeNull(error is not null ? error.Value.Value : string.Empty);
+
+        fs.File.Exists(outputPath).Should().BeTrue();
+
+        var delegatesMock = new Mock<IScraperDelegates>(MockBehavior.Strict);
+
+        var json = JsonSerializer.Serialize(newMappings);
+        var sb = new StringBuilder();
+
+        sb.Append("window.__epic_client_state = {");
+        sb.Append("productInstall = {");
+        sb.Append("latestValue = \n");
+        sb.Append(json);
+        sb.Append('}');
+        sb.Append("};");
+
+        delegatesMock
+            .Setup(x => x.RenderHtmlPage(
+                It.IsAny<string>(),
+                It.IsAny<CancellationToken>()))
+            .ReturnsAsync((string _, CancellationToken _) => sb.ToString());
+
+        var scraper = new MainScraper(
+            new NullLogger<MainScraper>(),
+            fs,
+            Mock.Of<HttpMessageHandler>(),
+            delegatesMock.Object,
+            new JsonSerializerOptions(),
+            scraperState
+        );
+
+        await scraper.ScrapNamespaces(default);
+
+        var res = await fs.ReadFromJsonAsync<IDictionary<CatalogNamespace, UrlSlug>>(outputPath);
+        res.IsT0.Should().BeTrue(res.IsT1 ? res.AsT1.Value : string.Empty);
+
+        var actualMappings = res.AsT0;
+
+        foreach (var kv in newMappings)
+        {
+            existingMappings[kv.Key] = kv.Value;
+        }
+
+        actualMappings.Should().Equal(existingMappings);
+    }
 }
