@@ -85,7 +85,7 @@ public class Runner
 
         try
         {
-            await scraper.GetOrRefreshToken(cancellationToken);
+            await scraper.GetOrRefreshToken(cancellationToken).ConfigureAwait(false);
             _logger.LogInformation("OAuth token refreshed");
         }
         catch (Exception)
