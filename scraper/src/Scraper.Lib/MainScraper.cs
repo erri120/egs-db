@@ -1,6 +1,5 @@
 using System;
 using System.Collections.Generic;
-using System.IO;
 using System.IO.Abstractions;
 using System.Net.Http;
 using System.Text.Json;
@@ -15,30 +14,33 @@ using Scraper.Lib.ValueObjects;
 namespace Scraper.Lib;
 
 [PublicAPI]
-public class Scraper
+public class MainScraper
 {
     public const string StateFileName = "scraper.state.json";
     public const string NamespacesFileName = "namespaces.json";
 
-    private readonly ILogger<Scraper> _logger;
+    private readonly ILogger<MainScraper> _logger;
     private readonly IFileSystem _fileSystem;
     private readonly HttpMessageHandler _httpMessageHandler;
     private readonly IScraperDelegates _scraperDelegates;
+    private readonly JsonSerializerOptions _jsonSerializerOptions;
     private readonly OAuthHelper _oAuthHelper;
 
     private ScraperState _scraperState;
 
-    public Scraper(
-        ILogger<Scraper> logger,
+    public MainScraper(
+        ILogger<MainScraper> logger,
         IFileSystem fileSystem,
         HttpMessageHandler httpMessageHandler,
         IScraperDelegates scraperDelegates,
+        JsonSerializerOptions jsonSerializerOptions,
         ScraperState scraperState)
     {
         _logger = logger;
         _fileSystem = fileSystem;
         _httpMessageHandler = httpMessageHandler;
         _scraperDelegates = scraperDelegates;
+        _jsonSerializerOptions = jsonSerializerOptions;
 
         _oAuthHelper = new OAuthHelper(
             httpMessageHandler,
@@ -73,7 +75,7 @@ public class Scraper
         if (_fileSystem.File.Exists(outputPath))
         {
             var existingMappingsResult = await _fileSystem
-                .ReadFromJsonAsync<IDictionary<CatalogNamespace, UrlSlug>>(outputPath, logger: _logger, cancellationToken: cancellationToken)
+                .ReadFromJsonAsync<IDictionary<CatalogNamespace, UrlSlug>>(outputPath, options: _jsonSerializerOptions, logger: _logger, cancellationToken: cancellationToken)
                 .ConfigureAwait(false);
 
             if (!existingMappingsResult.TryPickT0(out var existingMappings, out var genericError))
@@ -91,6 +93,7 @@ public class Scraper
             writeError = await _fileSystem.WriteToJsonAsync(
                     existingMappings,
                     outputPath,
+                    options: _jsonSerializerOptions,
                     logger: _logger,
                     cancellationToken: cancellationToken)
                 .ConfigureAwait(false);
@@ -100,6 +103,7 @@ public class Scraper
             writeError = await _fileSystem.WriteToJsonAsync(
                     mappings,
                     outputPath,
+                    options: _jsonSerializerOptions,
                     logger: _logger,
                     cancellationToken: cancellationToken)
                 .ConfigureAwait(false);
@@ -111,7 +115,7 @@ public class Scraper
         }
     }
 
-    internal async ValueTask<OAuthToken> GetOrRefreshToken(CancellationToken cancellationToken)
+    public async ValueTask<OAuthToken> GetOrRefreshToken(CancellationToken cancellationToken)
     {
         var lastOAuthResponse = _scraperState.LastOAuthResponse;
         if (lastOAuthResponse is null)
@@ -140,13 +144,14 @@ public class Scraper
         }
 
         _scraperState.LastOAuthResponse = oAuthResponse;
-        await ExportState(cancellationToken).ConfigureAwait(false);
+        await ExportState(_logger, _fileSystem, _jsonSerializerOptions, _scraperState, cancellationToken).ConfigureAwait(false);
         return oAuthResponse.AccessToken;
     }
 
     public static async ValueTask<ScraperState?> ImportState(
-        ILogger<Scraper> logger,
+        ILogger<MainScraper> logger,
         IFileSystem fileSystem,
+        JsonSerializerOptions jsonSerializerOptions,
         CancellationToken cancellationToken)
     {
         if (!fileSystem.File.Exists(StateFileName))
@@ -156,7 +161,7 @@ public class Scraper
         }
 
         var res = await fileSystem
-            .ReadFromJsonAsync<ScraperState>(StateFileName, logger: logger, cancellationToken: cancellationToken)
+            .ReadFromJsonAsync<ScraperState>(StateFileName, options: jsonSerializerOptions, logger: logger, cancellationToken: cancellationToken)
             .ConfigureAwait(false);
 
         if (res.TryPickT0(out var state, out var error))
@@ -169,19 +174,24 @@ public class Scraper
         return null;
     }
 
-    public async ValueTask ExportState(CancellationToken cancellationToken)
+    public static async ValueTask ExportState(
+        ILogger<MainScraper> logger,
+        IFileSystem fileSystem,
+        JsonSerializerOptions jsonSerializerOptions,
+        ScraperState scraperState,
+        CancellationToken cancellationToken)
     {
-        var error = await _fileSystem
-            .WriteToJsonAsync(_scraperState, StateFileName, logger: _logger, cancellationToken: cancellationToken)
+        var error = await fileSystem
+            .WriteToJsonAsync(scraperState, StateFileName, options: jsonSerializerOptions, logger: logger, cancellationToken: cancellationToken)
             .ConfigureAwait(false);
 
         if (error is null)
         {
-            _logger.LogInformation("Exported state to file \"{FileName}\"", StateFileName);
+            logger.LogInformation("Exported state to file \"{FileName}\"", StateFileName);
         }
         else
         {
-            _logger.LogError("{Error}", error.Value.Value);
+            logger.LogError("{Error}", error.Value.Value);
         }
     }
 }

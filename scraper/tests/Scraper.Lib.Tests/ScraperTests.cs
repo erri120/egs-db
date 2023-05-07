@@ -1,4 +1,3 @@
-using System.IO.Abstractions;
 using System.IO.Abstractions.TestingHelpers;
 using System.Text;
 using System.Text.Json;
@@ -27,11 +26,12 @@ public class ScraperTests
             LastOAuthResponse = lastOAuthResponse,
         };
 
-        await fs.AddJsonFileAsync(expectedState, Scraper.StateFileName);
+        await fs.AddJsonFileAsync(expectedState, MainScraper.StateFileName);
 
-        var actualState = await Scraper.ImportState(
-            new NullLogger<Scraper>(),
+        var actualState = await MainScraper.ImportState(
+            new NullLogger<MainScraper>(),
             fs,
+            new(),
             default
         );
 
@@ -52,21 +52,14 @@ public class ScraperTests
             LastOAuthResponse = lastOAuthResponse,
         };
 
-        var scraper = new Scraper(
-            new NullLogger<Scraper>(),
+        await MainScraper.ExportState(new NullLogger<MainScraper>(), fs, new(), expectedState, default);
+
+        fs.File.Exists(MainScraper.StateFileName).Should().BeTrue();
+
+        var actualState = await MainScraper.ImportState(
+            new NullLogger<MainScraper>(),
             fs,
-            Mock.Of<HttpMessageHandler>(),
-            Mock.Of<IScraperDelegates>(),
-            expectedState
-        );
-
-        await scraper.ExportState(default);
-
-        fs.File.Exists(Scraper.StateFileName).Should().BeTrue();
-
-        var actualState = await Scraper.ImportState(
-            new NullLogger<Scraper>(),
-            fs,
+            new(),
             default
         );
 
@@ -95,11 +88,12 @@ public class ScraperTests
             OAuthClientSecret = clientSecret,
         };
 
-        var scraper = new Scraper(
-            new NullLogger<Scraper>(),
+        var scraper = new MainScraper(
+            new NullLogger<MainScraper>(),
             fs,
             httpMessageHandlerMock.Object,
             Mock.Of<IScraperDelegates>(),
+            new JsonSerializerOptions(),
             startState
         );
 
@@ -143,11 +137,12 @@ public class ScraperTests
             OAuthClientSecret = clientSecret,
         };
 
-        var scraper = new Scraper(
-            new NullLogger<Scraper>(),
+        var scraper = new MainScraper(
+            new NullLogger<MainScraper>(),
             fs,
             httpMessageHandlerMock.Object,
             Mock.Of<IScraperDelegates>(),
+            new JsonSerializerOptions(),
             startState
         );
 
@@ -161,9 +156,10 @@ public class ScraperTests
             OAuthClientSecret = clientSecret,
         };
 
-        var actualState = await Scraper.ImportState(
-            new NullLogger<Scraper>(),
+        var actualState = await MainScraper.ImportState(
+            new NullLogger<MainScraper>(),
             fs,
+            new(),
             default
         );
 
@@ -194,17 +190,18 @@ public class ScraperTests
                 It.IsAny<CancellationToken>()))
             .ReturnsAsync((string _, CancellationToken _) => sb.ToString());
 
-        var scraper = new Scraper(
-            new NullLogger<Scraper>(),
+        var scraper = new MainScraper(
+            new NullLogger<MainScraper>(),
             fs,
             Mock.Of<HttpMessageHandler>(),
             delegatesMock.Object,
+            new JsonSerializerOptions(),
             scraperState
         );
 
         await scraper.ScrapNamespaces(default);
 
-        var outputPath = fs.Path.Combine(scraperState.OutputFolder, Scraper.NamespacesFileName);
+        var outputPath = fs.Path.Combine(scraperState.OutputFolder, MainScraper.NamespacesFileName);
         fs.File.Exists(outputPath).Should().BeTrue();
 
         var res = await fs.ReadFromJsonAsync<IDictionary<CatalogNamespace, UrlSlug>>(outputPath);
