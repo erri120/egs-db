@@ -37,7 +37,7 @@ public class ApiWrapperTests
 
         var httpMessageHandler = new Mock<HttpMessageHandler>(MockBehavior.Strict);
         httpMessageHandler
-            .SetupRequest(HttpMethod.Get, url)
+            .SetupRequest(HttpMethod.Get, $"{url}?start=0&count={expectedElements.Count}&country=US&locale=en-US&includeDLCDetails=true&includeMainGameDetails=true")
             .ReturnsJsonResponse(HttpStatusCode.OK, expectedResult);
 
         var wrapper = new ApiWrapper(
@@ -94,26 +94,10 @@ public class ApiWrapperTests
             return res;
         }
 
-        Func<HttpRequestMessage, Task<bool>> MatchRequestWithStart(int expectedStart)
-        {
-            return async request =>
-            {
-                if (request.Content is not FormUrlEncodedContent formUrlEncodedContent) return false;
-                var queryString = await formUrlEncodedContent.ReadAsStringAsync().ConfigureAwait(false);
-                var query = HttpUtility.ParseQueryString(queryString);
-
-                var sStart = query["start"];
-                if (!int.TryParse(sStart, CultureInfo.InvariantCulture, out var start))
-                    return false;
-
-                return start == expectedStart;
-            };
-        }
-
         for (var i = 0; i < totalElements; i += itemsPerPage)
         {
             httpMessageHandler
-                .SetupRequest(HttpMethod.Get, url, MatchRequestWithStart(i))
+                .SetupRequest(HttpMethod.Get, $"{url}?start={i}&count={itemsPerPage}&country=US&locale=en-US&includeDLCDetails=true&includeMainGameDetails=true")
                 .ReturnsJsonResponse(CreateResult(i));
         }
 

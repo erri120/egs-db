@@ -41,7 +41,7 @@ public class ApiWrapper
     public async IAsyncEnumerable<OneOf<CatalogNamespaceEnumerationResult.Element, ApiError>> EnumerateCatalogNamespaceAsync(
         OAuthToken oAuthToken,
         CatalogNamespace catalogNamespace,
-        int itemsPerPage = 50,
+        int itemsPerPage = 500,
         string countryCode = "US",
         string locale = "en-US",
         bool includeDLCDetails = true,
@@ -113,18 +113,18 @@ public class ApiWrapper
 
         try
         {
-            using var requestMessage = new HttpRequestMessage(HttpMethod.Get, url);
-            requestMessage.Headers.Authorization = new AuthenticationHeaderValue("bearer", oAuthToken.Value);
-
-            requestMessage.Content = new FormUrlEncodedContent(new[]
+            var requestUri = QueryString.CreateUriWithQuery(url, new KeyValuePair<string, string?>[]
             {
-                new KeyValuePair<string, string>("start", start.ToString(CultureInfo.InvariantCulture)),
-                new KeyValuePair<string, string>("count", count.ToString(CultureInfo.InvariantCulture)),
-                new KeyValuePair<string, string>("country", countryCode),
-                new KeyValuePair<string, string>("locale", locale),
-                new KeyValuePair<string, string>("includeDLCDetails", includeDLCDetails ? "true" : "false"),
-                new KeyValuePair<string, string>("includeMainGameDetails", includeMainGameDetails ? "true" : "false"),
+                new("start", start.ToString(CultureInfo.InvariantCulture)),
+                new("count", count.ToString(CultureInfo.InvariantCulture)),
+                new("country", countryCode),
+                new("locale", locale),
+                new("includeDLCDetails", includeDLCDetails ? "true" : "false"),
+                new("includeMainGameDetails", includeMainGameDetails ? "true" : "false"),
             });
+
+            using var requestMessage = new HttpRequestMessage(HttpMethod.Get, requestUri);
+            requestMessage.Headers.Authorization = new AuthenticationHeaderValue("bearer", oAuthToken.Value);
 
             using var responseMessage = await _client
                 .SendAsync(requestMessage, cancellationToken)

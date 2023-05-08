@@ -1,6 +1,7 @@
 using System;
 using System.Collections.Generic;
 using System.IO.Abstractions;
+using System.Linq;
 using System.Net.Http;
 using System.Text.Json;
 using System.Threading;
@@ -18,11 +19,13 @@ public class MainScraper
 {
     public const string StateFileName = "scraper.state.json";
     public const string NamespacesFileName = "namespaces.json";
+    public const string NamespacesDirectory = "namespaces";
 
     private readonly ILogger<MainScraper> _logger;
     private readonly IFileSystem _fileSystem;
     private readonly HttpMessageHandler _httpMessageHandler;
     private readonly IScraperDelegates _scraperDelegates;
+    private readonly ApiWrapper _apiWrapper;
     private readonly JsonSerializerOptions _jsonSerializerOptions;
     private readonly OAuthHelper _oAuthHelper;
 
@@ -33,6 +36,7 @@ public class MainScraper
         IFileSystem fileSystem,
         HttpMessageHandler httpMessageHandler,
         IScraperDelegates scraperDelegates,
+        ApiWrapper apiWrapper,
         JsonSerializerOptions jsonSerializerOptions,
         ScraperState scraperState)
     {
@@ -40,6 +44,7 @@ public class MainScraper
         _fileSystem = fileSystem;
         _httpMessageHandler = httpMessageHandler;
         _scraperDelegates = scraperDelegates;
+        _apiWrapper = apiWrapper;
         _jsonSerializerOptions = jsonSerializerOptions;
 
         _oAuthHelper = new OAuthHelper(
@@ -117,6 +122,96 @@ public class MainScraper
         {
             _logger.LogInformation("Saved namespaces to \"{Path}\"", outputPath);
         }
+    }
+
+    public async Task ScrapApi(CancellationToken cancellationToken)
+    {
+        var namespacesFile = _fileSystem.Path.Combine(_scraperState.OutputFolder, NamespacesFileName);
+        if (!_fileSystem.File.Exists(namespacesFile))
+        {
+            _logger.LogError("File \"{Path}\" does not exist!", namespacesFile);
+            return;
+        }
+
+        var res = await _fileSystem
+            .ReadFromJsonAsync<IReadOnlyDictionary<CatalogNamespace, UrlSlug>>(
+                namespacesFile,
+                options: _jsonSerializerOptions,
+                logger: _logger,
+                cancellationToken: cancellationToken)
+            .ConfigureAwait(false);
+
+        if (!res.TryPickT0(out var namespacesDictionary, out var error))
+        {
+            _logger.LogError("{Error}", error);
+            return;
+        }
+
+        var namespaces = namespacesDictionary.Keys.ToArray();
+
+        _logger.LogInformation("Loaded {Count} namespaces", namespaces.Length);
+
+        var namespacesOutputFolder = _fileSystem.Path.Combine(_scraperState.OutputFolder, NamespacesDirectory);
+        _fileSystem.Directory.CreateDirectory(namespacesOutputFolder);
+
+        foreach (var catalogNamespace in namespaces)
+        {
+            await ScrapSingleNamespaceWithApi(catalogNamespace, cancellationToken).ConfigureAwait(false);
+        }
+
+        // await Parallel.ForEachAsync(namespaces, new ParallelOptions
+        // {
+        //     CancellationToken = cancellationToken,
+        //     MaxDegreeOfParallelism = Environment.ProcessorCount,
+        // }, ScrapSingleNamespaceWithApi).ConfigureAwait(false);
+    }
+
+    public async ValueTask ScrapSingleNamespaceWithApi(CatalogNamespace catalogNamespace, CancellationToken cancellationToken)
+    {
+        var outputFolder = _fileSystem.Path.Combine(_scraperState.OutputFolder, NamespacesDirectory, $"{catalogNamespace.Value}");
+        if (_fileSystem.Directory.Exists(outputFolder))
+        {
+            return;
+        }
+
+        var tmpFolder = outputFolder + "-tmp";
+        if (_fileSystem.Directory.Exists(tmpFolder))
+        {
+            _logger.LogWarning("Deleting temporary folder \"{Path}\" from previous run", tmpFolder);
+            _fileSystem.Directory.Delete(tmpFolder, recursive: true);
+        }
+
+        _fileSystem.Directory.CreateDirectory(tmpFolder);
+
+        var token = await GetOrRefreshToken(cancellationToken).ConfigureAwait(false);
+
+        var asyncEnumerable = _apiWrapper.EnumerateCatalogNamespaceAsync(token, catalogNamespace, cancellationToken: cancellationToken);
+        await foreach (var elementRes in asyncEnumerable.ConfigureAwait(false).WithCancellation(cancellationToken))
+        {
+            if (!elementRes.TryPickT0(out var element, out var apiError))
+            {
+                _logger.LogError("Api error for namespace \"{Namespace}\": {Error}", catalogNamespace.Value, apiError.Value);
+                return;
+            }
+
+            var outputPath = _fileSystem.Path.Combine(tmpFolder, $"{element.CatalogId.Value}.json");
+            var error = await _fileSystem.WriteToJsonAsync(
+                element,
+                outputPath,
+                options: _jsonSerializerOptions,
+                logger: _logger,
+                cancellationToken: cancellationToken
+            ).ConfigureAwait(false);
+
+            if (error is not null)
+            {
+                _logger.LogError("Error writing element \"{Element}\" of namespace \"{Namespace}\" to file \"{Path}\": {Error}", element.CatalogId.Value, catalogNamespace.Value, outputPath, error.Value.Value);
+                return;
+            }
+        }
+
+        _fileSystem.Directory.Move(tmpFolder, outputFolder);
+        _logger.LogInformation("Finished scraping namespace \"{Namespace}\"", catalogNamespace.Value);
     }
 
     public async ValueTask<OAuthToken> GetOrRefreshToken(CancellationToken cancellationToken)

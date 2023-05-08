@@ -1,6 +1,7 @@
 using System.IO.Abstractions.TestingHelpers;
 using System.Text;
 using System.Text.Json;
+using System.Threading.RateLimiting;
 using Microsoft.Extensions.Logging.Abstractions;
 using Moq.Contrib.HttpClient;
 using Scraper.Lib.Models;
@@ -93,6 +94,7 @@ public class ScraperTests
             fs,
             httpMessageHandlerMock.Object,
             Mock.Of<IScraperDelegates>(),
+            new ApiWrapper(new NullLogger<ApiWrapper>(), Mock.Of<HttpMessageHandler>(), Mock.Of<RateLimiter>()),
             new JsonSerializerOptions(),
             startState
         );
@@ -142,6 +144,7 @@ public class ScraperTests
             fs,
             httpMessageHandlerMock.Object,
             Mock.Of<IScraperDelegates>(),
+            new ApiWrapper(new NullLogger<ApiWrapper>(), Mock.Of<HttpMessageHandler>(), Mock.Of<RateLimiter>()),
             new JsonSerializerOptions(),
             startState
         );
@@ -195,6 +198,7 @@ public class ScraperTests
             fs,
             Mock.Of<HttpMessageHandler>(),
             delegatesMock.Object,
+            new ApiWrapper(new NullLogger<ApiWrapper>(), Mock.Of<HttpMessageHandler>(), Mock.Of<RateLimiter>()),
             new JsonSerializerOptions(),
             scraperState
         );
@@ -248,6 +252,7 @@ public class ScraperTests
             fs,
             Mock.Of<HttpMessageHandler>(),
             delegatesMock.Object,
+            new ApiWrapper(new NullLogger<ApiWrapper>(), Mock.Of<HttpMessageHandler>(), Mock.Of<RateLimiter>()),
             new JsonSerializerOptions(),
             scraperState
         );

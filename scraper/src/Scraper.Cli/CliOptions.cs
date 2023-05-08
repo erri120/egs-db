@@ -4,7 +4,7 @@ using OneOf;
 using Scraper.Lib.ValueObjects;
 using Vogen;
 
-using ParseResult = OneOf.OneOf<Scraper.Cli.OAuthLoginOptions, Scraper.Cli.ScrapNamespacesOptions, Scraper.Cli.RefreshOAuthTokenOptions, Scraper.Cli.CliOptionsParserError>;
+using ParseResult = OneOf.OneOf<Scraper.Cli.OAuthLoginOptions, Scraper.Cli.ScrapNamespacesOptions, Scraper.Cli.RefreshOAuthTokenOptions, Scraper.Cli.ParseApiOptions, Scraper.Cli.CliOptionsParserError>;
 
 namespace Scraper.Cli;
 
@@ -17,6 +17,8 @@ public record struct OAuthLoginOptions(
 public record struct ScrapNamespacesOptions;
 
 public record struct RefreshOAuthTokenOptions;
+
+public record struct ParseApiOptions;
 
 [ValueObject<string>(conversions: Conversions.None)]
 public readonly partial struct CliOptionsParserError { }
@@ -33,8 +35,16 @@ public static class CliOptionsParser
             "oauth" => ParseDoOAuthLogin(args).Match<ParseResult>(x => x, x => x),
             "refresh" => ParseRefreshOAuthToken(args).Match<ParseResult>(x => x, x => x),
             "namespaces" => ParseScrapNamespaces(args).Match<ParseResult>(x => x, x => x),
+            "api" => ParseApiOptions(args).Match<ParseResult>(x => x, x => x),
             _ => CliOptionsParserError.From("Unknown command"),
         };
+    }
+
+    private static OneOf<ParseApiOptions, CliOptionsParserError> ParseApiOptions(string[] args)
+    {
+        if (args.Length != 1)
+            return CliOptionsParserError.From("Too many arguments!");
+        return new ParseApiOptions();
     }
 
     private static OneOf<OAuthLoginOptions, CliOptionsParserError> ParseDoOAuthLogin(string[] args)

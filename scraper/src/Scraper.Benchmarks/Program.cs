@@ -3,4 +3,5 @@
 using BenchmarkDotNet.Running;
 using Scraper.Benchmarks;
 
-BenchmarkRunner.Run<DictionaryUpdating>();
+// BenchmarkRunner.Run<DictionaryUpdating>();
+BenchmarkRunner.Run<SomethingAboutSpeed>();

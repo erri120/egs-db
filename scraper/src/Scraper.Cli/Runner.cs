@@ -3,8 +3,10 @@ using System.IO.Abstractions;
 using System.Net.Http;
 using System.Text.Json;
 using System.Threading;
+using System.Threading.RateLimiting;
 using System.Threading.Tasks;
 using Microsoft.Extensions.Logging;
+using Microsoft.Extensions.Logging.Abstractions;
 using Scraper.Lib;
 using Scraper.Lib.Models;
 using Scraper.Lib.Services;
@@ -17,6 +19,7 @@ public class Runner
     private readonly ILoggerFactory _loggerFactory;
     private readonly IFileSystem _fileSystem;
     private readonly IScraperDelegates _scraperDelegates;
+    private readonly ApiWrapper _apiWrapper;
     private readonly JsonSerializerOptions _jsonSerializerOptions;
     private readonly HttpMessageHandler _httpMessageHandler;
 
@@ -25,17 +28,17 @@ public class Runner
         ILoggerFactory loggerFactory,
         IFileSystem fileSystem,
         IScraperDelegates scraperDelegates,
+        ApiWrapper apiWrapper,
+        HttpMessageHandler httpMessageHandler,
         JsonSerializerOptions jsonSerializerOptions)
     {
         _logger = logger;
         _loggerFactory = loggerFactory;
         _fileSystem = fileSystem;
         _scraperDelegates = scraperDelegates;
+        _apiWrapper = apiWrapper;
+        _httpMessageHandler = httpMessageHandler;
         _jsonSerializerOptions = jsonSerializerOptions;
-        _httpMessageHandler = new SocketsHttpHandler
-        {
-            ConnectTimeout = TimeSpan.FromMinutes(1),
-        };
     }
 
     public async Task Run(string[] args, CancellationToken cancellationToken)
@@ -45,6 +48,7 @@ public class Runner
             oAuthLoginOptions => DoOAuthLogin(oAuthLoginOptions, cancellationToken),
             scrapNamespacesOptions => ScrapNamespaces(scrapNamespacesOptions, cancellationToken),
             refreshOAuthTokenOptions => RefreshOAuthToken(refreshOAuthTokenOptions, cancellationToken),
+            parseApiOptions => ScrapApi(parseApiOptions, cancellationToken),
             cliOptionsParserError =>
             {
                 _logger.LogError("{Error}", cliOptionsParserError);
@@ -54,7 +58,7 @@ public class Runner
         await task.ConfigureAwait(false);
     }
 
-    private async ValueTask ScrapNamespaces(ScrapNamespacesOptions scrapNamespacesOptions, CancellationToken cancellationToken)
+    private async ValueTask<MainScraper?> CreateScraper(CancellationToken cancellationToken)
     {
         var scraperLogger = _loggerFactory.CreateLogger<MainScraper>();
 
@@ -68,7 +72,7 @@ public class Runner
         if (importedState is null)
         {
             _logger.LogError("Unable to import state!");
-            return;
+            return null;
         }
 
         var scraper = new MainScraper(
@@ -76,36 +80,34 @@ public class Runner
             _fileSystem,
             _httpMessageHandler,
             _scraperDelegates,
+            _apiWrapper,
             _jsonSerializerOptions,
             importedState
         );
+
+        return scraper;
+    }
+
+    private async ValueTask ScrapNamespaces(ScrapNamespacesOptions scrapNamespacesOptions, CancellationToken cancellationToken)
+    {
+        var scraper = await CreateScraper(cancellationToken).ConfigureAwait(false);
+        if (scraper is null) return;
 
         await scraper.ScrapNamespaces(cancellationToken).ConfigureAwait(false);
     }
 
+    private async ValueTask ScrapApi(ParseApiOptions parseApiOptions, CancellationToken cancellationToken)
+    {
+        var scraper = await CreateScraper(cancellationToken).ConfigureAwait(false);
+        if (scraper is null) return;
+
+        await scraper.ScrapApi(cancellationToken).ConfigureAwait(false);
+    }
+
     private async ValueTask RefreshOAuthToken(RefreshOAuthTokenOptions refreshOAuthTokenOptions, CancellationToken cancellationToken)
     {
-        var importedState = await MainScraper.ImportState(
-            _loggerFactory.CreateLogger<MainScraper>(),
-            _fileSystem,
-            _jsonSerializerOptions,
-            cancellationToken
-        ).ConfigureAwait(false);
-
-        if (importedState?.LastOAuthResponse is null)
-        {
-            _logger.LogError("Unable to refresh OAuth token: state is missing");
-            return;
-        }
-
-        var scraper = new MainScraper(
-            _loggerFactory.CreateLogger<MainScraper>(),
-            _fileSystem,
-            _httpMessageHandler,
-            _scraperDelegates,
-            _jsonSerializerOptions,
-            importedState
-        );
+        var scraper = await CreateScraper(cancellationToken).ConfigureAwait(false);
+        if (scraper is null) return;
 
         try
         {
