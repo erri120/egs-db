@@ -3,8 +3,14 @@ name: dotnet test
 on:
   push:
     branches: [ main ]
+    paths:
+      - ".github/workflows/dotnet-test.yaml"
+      - "scraper/**"
   pull_request:
     branches: [ main ]
+    paths:
+      - ".github/workflows/dotnet-test.yaml"
+      - "scraper/**"
 
 env:
   SOLUTION: "scraper/egs-db.sln"
