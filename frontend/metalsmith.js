@@ -56,6 +56,12 @@ function setLayout(files, metalsmith) {
         });
 }
 
+// Renames files
+function renameFiles(files, metalsmith) {
+    files['index.json'] = files['namespaces.json']
+    delete files['namespaces.json']
+}
+
 // Changes the file extension of JSON files to '.html'
 function changeExtensionToHTML(files, metalsmith) {
     metalsmith.match('**/*.json')
@@ -75,8 +81,8 @@ Metalsmith(__dirname)
     .use(removeNonJSON)
     .use(parseJSON)
     .use(mapData)
-    // .use(console.log)
     .use(setLayout)
+    .use(renameFiles)
     .use(changeExtensionToHTML)
     .use(layouts({
         default: false,
