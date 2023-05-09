@@ -1,0 +1,27 @@
+<!doctype html>
+<html lang="en">
+<head>
+    <meta charset="utf-8">
+</head>
+<body>
+{{#with data}}
+    <ul>
+        <li>ID: {{ id }}{{#if applicationId}} ({{ applicationId }}) {{/if}}</li>
+        <li>Namespace: {{ namespace }}</li>
+        <li>Title: {{ title }}</li>
+        <li>Developer: {{ developer }} ({{ developerId }})</li>
+        <li>Description: {{ description }}</li>
+        <li>Categories: {{ categories }}</li>
+        <li>Creation Date: {{ creationDate }}</li>
+        <li>Last Modified Date: {{ lastModifiedDate }}</li>
+    </ul>
+{{#if keyImages}}
+{{#each keyImages}}
+    <img src="{{ url }}" with="{{ width }}" height="{{ height }}" loading="lazy"
+    referrerpolicy="strict-origin" alt="The image type, as returned by the API,
+    is '{{ type }}'.">
+{{/each}}
+{{/if}}
+{{/with}}
+</body>
+</html>

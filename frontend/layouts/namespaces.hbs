@@ -1,0 +1,13 @@
+<!doctype html>
+<html lang="en">
+<head>
+    <meta charset="utf-8">
+</head>
+<body>
+    <ul>
+    {{#each data}}
+        <li><a href="namespaces/{{@key}}/index.html"> {{@key}} ({{ . }})</a></li>
+    {{/each}}
+    </ul>
+</body>
+</html>

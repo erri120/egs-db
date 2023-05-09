@@ -1,0 +1,19 @@
+<!doctype html>
+<html lang="en">
+<head>
+    <meta charset="utf-8">
+</head>
+<body>
+{{#with data}}
+    <ul>
+        <li>URL Slug: {{ urlSlug }}</li>
+    </ul>
+
+    <ul>
+        {{#each items}}
+        <li><a href="{{ . }}.html">{{ . }}</a></li>
+        {{/each}}
+    </ul>
+{{/with}}
+</body>
+</html>
