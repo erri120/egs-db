@@ -17,9 +17,12 @@
     </ul>
 {{#if keyImages}}
 {{#each keyImages}}
-    <img src="{{ url }}" width="{{ width }}" height="{{ height }}" loading="lazy"
-    referrerpolicy="strict-origin" alt="The image type, as returned by the API,
-    is '{{ type }}'.">
+    <img
+        src="{{ url }}"
+        width="{{ width }}"
+        height="{{ height }}"
+        alt="The image type, as returned by the API, is '{{ type }}'."
+        referrerpolicy="strict-origin">
 {{/each}}
 {{/if}}
 {{/with}}
