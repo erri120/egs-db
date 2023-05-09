@@ -31,10 +31,14 @@
 
 # Code files
 *.cs        text diff=csharp
+*.js        text
+*.hbs       text
 
 # Project files
-*.sln       text eol=crlf
-*.csproj    text eol=crlf
+*.sln          text eol=crlf
+*.csproj       text eol=crlf
+package.json   text eol=lf
+pnpm-lock.yaml text eol=lf -diff
 
 *.props     text eol=crlf
 *.targets   text eol=crlf
