@@ -100,41 +100,58 @@ function changeExtensionToHTML(files, metalsmith) {
 
 const __dirname = path.dirname(fileURLToPath(import.meta.url));
 
-const buildT1 = performance.now();
+async function build() {
+    try {
+        const t1 = performance.now();
 
-Metalsmith(__dirname)
-    .source('../data-dump')
-    .destination('./build')
-    .clean(true)
-    .env('NODE_ENV', process.env.NODE_ENV)
-    .env('DEBUG', process.env.DEBUG)
-    .metadata({
-        siteData: {
-            baseURL: process.env.GITHUB_CI
-                ? 'https://erri120.github.io/egs-db'
-                : path.join(__dirname, 'build'),
-        }
-    })
-    .use(timeStep(removeNonJSON))
-    .use(timeStep(parseJSON))
-    .use(timeStep(mapData))
-    .use(timeStep(setLayout))
-    .use(timeStep(renameFiles))
-    .use(timeStep(changeExtensionToHTML))
-    .use(discoverPartials({
-        directory: 'layouts/partials',
-        pattern: /\.(hbs|html)$/,
-    }))
-    .use(layouts({
-        default: false,
-        directory: 'layouts',
-        suppressNoFilesError: false,
-        engineOptions: {  },
-    }))
-    .build((err) => {
-        if (err) throw err;
-        const buildT2 = performance.now();
-        const duration = (buildT2 - buildT1) / 1000;
-        console.log(`Build took ${duration.toFixed(2)}s`);
-    });
+        const ms = Metalsmith(__dirname);
+        const files = ms
+            .source('../data-dump')
+            .destination('./build')
+            .clean(true)
+            .env('NODE_ENV', process.env.NODE_ENV)
+            .env('DEBUG', process.env.DEBUG)
+            .metadata({
+                siteData: {
+                    baseURL: process.env.GITHUB_CI
+                    ? 'https://erri120.github.io/egs-db'
+                    : path.join(__dirname, 'build'),
+                }
+            })
+            .use(timeStep(removeNonJSON))
+            .use(timeStep(parseJSON))
+            .use(timeStep(mapData))
+            .use(timeStep(setLayout))
+            .use(timeStep(renameFiles))
+            .use(timeStep(changeExtensionToHTML))
+            .use(discoverPartials({
+                directory: 'layouts/partials',
+                pattern: /\.(hbs|html)$/,
+            }))
+            .use(layouts({
+                default: false,
+                directory: 'layouts',
+                suppressNoFilesError: false,
+                engineOptions: {  },
+            }))
+            .build((err) => {
+                if (err) throw err;
+                const t2 = performance.now();
+                const buildDuration = (t2 - t1) / 1000;
+                console.log(`Build took ${buildDuration.toFixed(2)}s`);
+            });
 
+        return files;
+    } catch (err) {
+        console.error(err);
+        return err;
+    }
+}
+
+const isMainScript = process.argv[1] === fileURLToPath(import.meta.url);
+
+if (isMainScript) {
+    build();
+} else {
+    module.exports = build;
+}
