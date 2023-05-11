@@ -26,13 +26,23 @@ function mapData(files, metalsmith) {
     Object.entries(namespaces)
         .forEach(([catalogNamespace, urlSlug]) => {
             const items = metalsmith.match('namespaces/'+catalogNamespace+'/*.json')
-                .map(filepath => path.basename(filepath, '.json'));
+                .map(filepath => {
+                    const file = files[filepath];
+                    const id = file['data']['id'];
+                    const title = file['data']['title'];
+                    const categories = file['data']['categories'];
+                    return {
+                        id,
+                        title,
+                        categories,
+                    };
+                });
 
             const filePath = 'namespaces/'+catalogNamespace+'/index.json';
             const data = {
                 id: catalogNamespace,
                 urlSlug: urlSlug,
-                items: items,
+                items,
             }
 
             files[filePath] = {
@@ -72,6 +82,8 @@ function changeExtensionToHTML(files, metalsmith) {
         });
 }
 
+const t1 = performance.now();
+
 Metalsmith(__dirname)
     .source('../data-dump')
     .destination('./build')
@@ -92,6 +104,8 @@ Metalsmith(__dirname)
     }))
     .build((err) => {
         if (err) throw err;
-        console.log('Build success!')
+        const t2 = performance.now();
+        const duration = (t2 - t1) / 1000;
+        console.log(`Build success in ${duration.toFixed(1)}s`);
     });
 
