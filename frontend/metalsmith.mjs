@@ -3,6 +3,11 @@ import * as path from 'path';
 import Metalsmith from 'metalsmith';
 import layouts from '@metalsmith/layouts';
 import discoverPartials from 'metalsmith-discover-partials';
+import when from 'metalsmith-if';
+import htmlMinifier from 'metalsmith-html-minifier';
+
+const isProduction = process.env.NODE_ENV === 'production';
+const isDevelopment = process.env.NODE_ENV === 'development';
 
 function timeStep(step, stepName) {
     stepName = step.name;
@@ -100,22 +105,28 @@ function changeExtensionToHTML(files, metalsmith) {
 
 const __dirname = path.dirname(fileURLToPath(import.meta.url));
 
-async function build() {
+function getBaseURL() {
+    if (process.env.BASE_URL) {
+        return process.env.BASE_URL;
+    }
+
+    return path.join(__dirname, 'build');
+}
+
+export default async function build() {
     try {
         const t1 = performance.now();
 
         const ms = Metalsmith(__dirname);
-        const files = ms
+        await ms
             .source('../data-dump')
             .destination('./build')
-            .clean(true)
+            .clean(isProduction)
             .env('NODE_ENV', process.env.NODE_ENV)
             .env('DEBUG', process.env.DEBUG)
             .metadata({
                 siteData: {
-                    baseURL: process.env.GITHUB_CI
-                    ? 'https://erri120.github.io/egs-db'
-                    : path.join(__dirname, 'build'),
+                    baseURL: getBaseURL()
                 }
             })
             .use(timeStep(removeNonJSON))
@@ -134,17 +145,25 @@ async function build() {
                 suppressNoFilesError: false,
                 engineOptions: {  },
             }))
-            .build((err) => {
-                if (err) throw err;
-                const t2 = performance.now();
-                const buildDuration = (t2 - t1) / 1000;
-                console.log(`Build took ${buildDuration.toFixed(2)}s`);
-            });
+            .use(when(isProduction, htmlMinifier({
+                pattern: '**/*.html',
+                minifierOptions: {
+                    collapseBooleanAttributes: true,
+                    collapseWhitespace: true,
+                    removeAttributeQuotes: true,
+                    removeComments: true,
+                    removeEmptyAttributes: true,
+                    removeRedundantAttributes: true,
+                }
+            })))
+            .build();
 
-        return files;
+        const t2 = performance.now();
+        const duration = (t2 - t1) / 1000;
+        console.log(`Build successful after ${duration.toFixed(2)} seconds`);
     } catch (err) {
+        console.log('Build failed!');
         console.error(err);
-        return err;
     }
 }
 
@@ -152,6 +171,4 @@ const isMainScript = process.argv[1] === fileURLToPath(import.meta.url);
 
 if (isMainScript) {
     build();
-} else {
-    module.exports = build;
 }
