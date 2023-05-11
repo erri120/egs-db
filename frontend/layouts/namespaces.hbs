@@ -6,7 +6,7 @@
 <body>
     <ul>
     {{#each data}}
-        <li><a href="namespaces/{{@key}}/index.html"> {{@key}} ({{ . }})</a></li>
+        <li><a href="{{ ../siteData.baseURL }}/namespaces/{{ @key }}/index.html">{{@key}}</a> ({{ . }})</li>
     {{/each}}
     </ul>
 </body>

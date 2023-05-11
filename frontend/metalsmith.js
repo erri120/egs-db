@@ -106,6 +106,13 @@ Metalsmith(__dirname)
     .clean(true)
     .env('NODE_ENV', process.env.NODE_ENV)
     .env('DEBUG', process.env.DEBUG)
+    .metadata({
+        siteData: {
+            baseURL: process.env.GITHUB_CI
+                ? 'https://erri120.github.io/egs-db'
+                : path.join(__dirname, 'build'),
+        }
+    })
     .use(timeStep(removeNonJSON))
     .use(timeStep(parseJSON))
     .use(timeStep(mapData))
