@@ -1,8 +1,8 @@
-const path = require('path');
-const Metalsmith = require('metalsmith');
-const layouts = require('@metalsmith/layouts');
-const discoverPartials = require('metalsmith-discover-partials');
-const collections = require('@metalsmith/collections');
+import { fileURLToPath } from 'url';
+import * as path from 'path';
+import Metalsmith from 'metalsmith';
+import layouts from '@metalsmith/layouts';
+import discoverPartials from 'metalsmith-discover-partials';
 
 function timeStep(step, stepName) {
     stepName = step.name;
@@ -97,6 +97,8 @@ function changeExtensionToHTML(files, metalsmith) {
             delete files[filepath];
         });
 }
+
+const __dirname = path.dirname(fileURLToPath(import.meta.url));
 
 const buildT1 = performance.now();
 
