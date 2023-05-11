@@ -13,6 +13,9 @@ dependencies:
   metalsmith:
     specifier: ^2.5.1
     version: 2.5.1
+  metalsmith-discover-partials:
+    specifier: ^0.1.2
+    version: 0.1.2
 
 devDependencies:
   cross-env:
@@ -129,6 +132,10 @@ packages:
     resolution: {integrity: sha512-BSHWgDSAiKs50o2Re8ppvp3seVHXSRM44cdSsT9FfNEUUZLOGWVCsiWaRPWM1Znn+mqZ1OfVZ3z3DWEzSp7hRA==}
     dev: false
 
+  /async@0.2.10:
+    resolution: {integrity: sha512-eAkdoKxU6/LkKDBzLpT+t6Ff5EtfSF4wx1WfJiPEEV7WNLnDaRXk0oVysiEPm262roaachGexwUv94WhSgN5TQ==}
+    dev: false
+
   /balanced-match@1.0.2:
     resolution: {integrity: sha512-3oSeUO0TMV67hN1AmbXsK4yaqU7tjiHlbxRDZOpH0KW9+CeX4bRAaX0Anxt0tx2MrpRpWwQaPwIlISEJhYU5Pw==}
 
@@ -221,6 +228,11 @@ packages:
       execa: 5.1.1
       is-wsl: 2.2.0
     dev: true
+
+  /clone@1.0.4:
+    resolution: {integrity: sha512-JQHZ2QMW6l3aH/j6xCqQThY/9OH4D/9ls34cgkUBiEeocRTU04tHfKPBsUK1PqZCUQM7GiA0IIXJSuXHI64Kbg==}
+    engines: {node: '>=0.8'}
+    dev: false
 
   /co@3.1.0:
     resolution: {integrity: sha512-CQsjCRiNObI8AtTsNIBDRMQ4oMR83CzEswHYahClvul7gKk+lDQiOKv+5qh7LQWf5sh6jkZNispz/QlsZxyNgA==}
@@ -328,6 +340,12 @@ packages:
     engines: {node: '>=4.0.0'}
     dev: true
 
+  /defaults@1.0.4:
+    resolution: {integrity: sha512-eFuaLoy/Rxalv2kr+lqMlUnrDWV+3j4pljOIJgLIhI058IQfWJ7vXhyEIHu+HtC738klGALYxOKDO0bQP3tg8A==}
+    dependencies:
+      clone: 1.0.4
+    dev: false
+
   /eastasianwidth@0.2.0:
     resolution: {integrity: sha512-I88TYZWc9XiYHRQ4/3c5rjjfgkjhLyW2luGIheGERbNQ6OY7yTybanSpDXZa8y7VUP9YmDcYa+eyq4ca7iLqWA==}
     dev: true
@@ -383,6 +401,14 @@ packages:
     engines: {node: '>=8'}
     dependencies:
       to-regex-range: 5.0.1
+
+  /fs-tools@0.5.0:
+    resolution: {integrity: sha512-iJG+dKoTlWevEBvsZYkq7Fy1XJVYHMObel+MIKOf+3HbiENQG0JH5bgTlzJYsrdwZvft1vE/yl/P/T4wngAv8A==}
+    deprecated: Use shelljs, glob, mkdirp, rimraf, or other alternatives
+    dependencies:
+      async: 0.2.10
+      lodash: 4.17.21
+    dev: false
 
   /fs.realpath@1.0.0:
     resolution: {integrity: sha512-OO0pH2lK6a0hZnAdau5ItzHPI6pUlvI7jMVnxUQRtw4owF2wk8lOSabtGDCTP4Ggrg2MbGnWO9X8K1t4+fGMDw==}
@@ -585,9 +611,22 @@ packages:
     resolution: {integrity: sha512-z+Uw/vLuy6gQe8cfaFWD7p0wVv8fJl3mbzXh33RS+0oW2wvUqiRXiQ69gLWSLpgB5/6sU+r6BlQR0MBILadqTQ==}
     dev: false
 
+  /lodash@4.17.21:
+    resolution: {integrity: sha512-v2kDEe57lecTulaDIuNTPy3Ry4gLGJ6Z1O3vE1krgXZNrsQ+LFTGHVxVjcXPs17LhbZVGedAJv8XZ1tvj5FvSg==}
+    dev: false
+
   /merge-stream@2.0.0:
     resolution: {integrity: sha512-abv/qOcuPfk3URPfDzmZU1LKmuw8kT+0nIHvKrKgFrwifol/doWcdA4ZqsWQ8ENrFKkd67Mfpo/LovbIUsbt3w==}
     dev: true
+
+  /metalsmith-discover-partials@0.1.2:
+    resolution: {integrity: sha512-rjVOCSnoXJyEQand85o8l8Z9Yevbyis23q+gCA5Q6w5SG2L+H/jMQYGokpj3a5cOl0Fkl+MaXZSHJ9elpKYNFg==}
+    engines: {node: '>=0.12.0'}
+    dependencies:
+      defaults: 1.0.4
+      fs-tools: 0.5.0
+      handlebars: 4.7.7
+    dev: false
 
   /metalsmith@2.5.1:
     resolution: {integrity: sha512-/jpf9JXYAvA16VlJDRlZRktcsjTgMHDwusiNLo1byU7ocUNWm2F7zQukrVtBslNNNi1gWnXbcxTINYdsi5zrAA==}

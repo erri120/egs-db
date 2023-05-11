@@ -5,15 +5,26 @@
 </head>
 <body>
 {{#with data}}
-    <ul>
-        <li>URL Slug: {{ urlSlug }}</li>
-    </ul>
+    <h1>URL Slug: <a href="https://store.epicgames.com/en-US/p/{{ urlSlug }}">{{ urlSlug }}</a></h1>
 
-    <ul>
+    <table>
+        <thead>
+            <tr>
+                <th scope="col">ID</th>
+                <th scope="col">Title</th>
+                <th scope="col">Categories</th>
+            </tr>
+        </thead>
+        <tbody>
         {{#each items}}
-        <li><a href="{{ id }}.html">{{ id }}:</a> {{ title }} ({{categories}})</li>
+            <tr>
+                <td><a href="{{ id }}.html">{{ id }}</a></td>
+                <td>{{ title }}</td>
+                <td>{{ categories }}</td>
+            </tr>
         {{/each}}
-    </ul>
+        </tbody>
+    </table>
 {{/with}}
 </body>
 </html>

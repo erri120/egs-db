@@ -1,7 +1,23 @@
 const path = require('path');
 const Metalsmith = require('metalsmith');
 const layouts = require('@metalsmith/layouts');
+const discoverPartials = require('metalsmith-discover-partials');
 const collections = require('@metalsmith/collections');
+
+function timeStep(step, stepName) {
+    stepName = step.name;
+
+    return function timeStep(files, metalsmith, done) {
+        const t1 = performance.now();
+        step(files, metalsmith);
+        const t2 = performance.now();
+
+        const duration = (t2 - t1) / 1000;
+        console.log(`${stepName}: ${duration.toFixed(3)}s`);
+
+        return done();
+    }
+}
 
 // Removes all non-JSON files from the build
 function removeNonJSON(files, metalsmith) {
@@ -82,7 +98,7 @@ function changeExtensionToHTML(files, metalsmith) {
         });
 }
 
-const t1 = performance.now();
+const buildT1 = performance.now();
 
 Metalsmith(__dirname)
     .source('../data-dump')
@@ -90,22 +106,26 @@ Metalsmith(__dirname)
     .clean(true)
     .env('NODE_ENV', process.env.NODE_ENV)
     .env('DEBUG', process.env.DEBUG)
-    .use(removeNonJSON)
-    .use(parseJSON)
-    .use(mapData)
-    .use(setLayout)
-    .use(renameFiles)
-    .use(changeExtensionToHTML)
+    .use(timeStep(removeNonJSON))
+    .use(timeStep(parseJSON))
+    .use(timeStep(mapData))
+    .use(timeStep(setLayout))
+    .use(timeStep(renameFiles))
+    .use(timeStep(changeExtensionToHTML))
+    .use(discoverPartials({
+        directory: 'layouts/partials',
+        pattern: /\.(hbs|html)$/,
+    }))
     .use(layouts({
         default: false,
         directory: 'layouts',
         suppressNoFilesError: false,
-        engineOptions: {  }
+        engineOptions: {  },
     }))
     .build((err) => {
         if (err) throw err;
-        const t2 = performance.now();
-        const duration = (t2 - t1) / 1000;
-        console.log(`Build success in ${duration.toFixed(1)}s`);
+        const buildT2 = performance.now();
+        const duration = (buildT2 - buildT1) / 1000;
+        console.log(`Build took ${duration.toFixed(2)}s`);
     });
 
