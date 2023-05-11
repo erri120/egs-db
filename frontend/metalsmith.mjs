@@ -103,6 +103,14 @@ function changeExtensionToHTML(files, metalsmith) {
         });
 }
 
+// Creates GitHub specific files
+function createGitHubOutput(files, metalsmith) {
+    files['.nojekyll'] = {
+        contents: Buffer.from(''),
+        mode: '0664',
+    };
+}
+
 const __dirname = path.dirname(fileURLToPath(import.meta.url));
 
 function getBaseURL() {
@@ -135,6 +143,7 @@ export default async function build() {
             .use(timeStep(setLayout))
             .use(timeStep(renameFiles))
             .use(timeStep(changeExtensionToHTML))
+            .use(when(process.env.GITHUB_CI, timeStep(createGitHubOutput)))
             .use(discoverPartials({
                 directory: 'layouts/partials',
                 pattern: /\.(hbs|html)$/,
