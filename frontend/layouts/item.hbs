@@ -1,0 +1,32 @@
+<!doctype html>
+<html lang="en">
+<head>
+    <meta charset="utf-8">
+</head>
+<body>
+<a href="{{ siteData.baseURL }}/namespaces/{{ data.namespace }}/index.html">Back</a>
+{{#with data}}
+    <ul>
+        <li>ID: {{ id }}{{#if applicationId}} ({{ applicationId }}) {{/if}}</li>
+        <li>Namespace: {{ namespace }}</li>
+        <li>Title: {{ title }}</li>
+        <li>Developer: {{ developer }} ({{ developerId }})</li>
+        <li>Description: {{ description }}</li>
+        <li>Categories: {{ categories }}</li>
+        <li>Creation Date: <time datetime="{{ creationDate }}">{{ creationDate }}</time></li>
+        <li>Last Modified Date: <time datetime="{{ creationDate }}">{{ lastModifiedDate }}</time></li>
+    </ul>
+{{#if keyImages}}
+{{#each keyImages}}
+    <img
+        src="{{ url }}"
+        width="{{ width }}"
+        height="{{ height }}"
+        alt="The image type, as returned by the API, is '{{ type }}'."
+        referrerpolicy="strict-origin">
+{{/each}}
+{{/if}}
+{{/with}}
+{{> displayDateScript }}
+</body>
+</html>
