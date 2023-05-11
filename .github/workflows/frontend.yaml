@@ -37,6 +37,10 @@ jobs:
       id: pages
       uses: actions/configure-pages@v3
 
+    - name: Install
+      working-directory: "./frontend"
+      run: pnpm install
+
     - name: Build
       working-directory: "./frontend"
       run: BASE_URL="${{ steps.pages.outputs.base_url }}" pnpm build
