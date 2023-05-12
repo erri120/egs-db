@@ -166,7 +166,9 @@ export default async function build() {
                 default: false,
                 directory: 'layouts',
                 suppressNoFilesError: false,
-                engineOptions: {  },
+                engineOptions: {
+                    strict: true,
+                },
             }))
             .use(addStaticFiles)
             .use(when(isProduction, htmlMinifier({
