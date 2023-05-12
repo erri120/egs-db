@@ -13,8 +13,8 @@
         <li>Developer: {{ developer }} ({{ developerId }})</li>
         <li>Description: {{ description }}</li>
         <li>Categories: {{ categories }}</li>
-        <li>Creation Date: <time datetime="{{ creationDate }}">{{ creationDate }}</time></li>
-        <li>Last Modified Date: <time datetime="{{ creationDate }}">{{ lastModifiedDate }}</time></li>
+        <li>Creation Date: {{> datetime creationDate }}</li>
+        <li>Last Modified Date: {{> datetime lastModifiedDate }}</li>
     </ul>
 {{#if keyImages}}
 {{#each keyImages}}
