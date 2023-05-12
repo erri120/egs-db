@@ -145,6 +145,8 @@ export default async function build() {
             .env('DEBUG', process.env.DEBUG)
             .metadata({
                 siteData: {
+                    isDevelopment,
+                    isProduction,
                     baseURL: getBaseURL(),
                     baseTitle: "Epic Games Store Database",
                     generator: "Metalsmith + Handlebars"
