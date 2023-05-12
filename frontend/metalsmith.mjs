@@ -130,7 +130,8 @@ export default async function build() {
             .env('DEBUG', process.env.DEBUG)
             .metadata({
                 siteData: {
-                    baseURL: getBaseURL()
+                    baseURL: getBaseURL(),
+                    generator: "Metalsmith"
                 }
             })
             .use(timeStep(removeNonJSON))
