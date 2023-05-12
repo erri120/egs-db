@@ -2,6 +2,9 @@
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 
+<!-- Specify the base URL -->
+<base href="{{ siteData.baseURL }}" />
+
 <!-- Allow loading resources from self -->
 <!-- Allow loading images from the Epic Games Store -->
 <!-- Allow unsafe inlined scripts during development (required for browsersync) -->
@@ -11,8 +14,8 @@
 <!-- Send the origin, path, and querystring in Referer when the protocol security level stays the same or improves -->
 <meta name="referrer" content="no-referrer-when-downgrade">
 
-<!-- Assets -->
-<script defer src="{{ site.baseURL }}/assets/displayLocalDateTime.js"></script>
+<!-- Add assets -->
+<script defer src="{{ siteData.baseURL }}/assets/displayLocalDateTime.js"></script>
 
 <!-- Allow search engine crawling and indexing -->
 <meta name="robots" content="all">
