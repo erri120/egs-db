@@ -1,6 +1,5 @@
 function convertToLocalTime() {
     const timeElements = document.getElementsByTagName('time');
-    console.log(timeElements);
 
     for (let timeElement of timeElements) {
         const dateTimeAttribute = timeElement.getAttribute('datetime');
