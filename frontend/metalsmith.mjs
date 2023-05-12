@@ -8,6 +8,7 @@ import htmlMinifier from 'metalsmith-html-minifier';
 
 import * as _ from 'lodash-es';
 
+const __dirname = path.dirname(fileURLToPath(import.meta.url));
 const isProduction = process.env.NODE_ENV === 'production';
 const isDevelopment = process.env.NODE_ENV === 'development';
 
@@ -44,7 +45,12 @@ function parseJSON(files, metalsmith) {
 
 // Maps, combines and correlates existing data
 function mapData(files, metalsmith) {
-    const namespaces = files['namespaces.json']['data'];
+    const namespacesFile = files['namespaces.json'];
+    const namespaces = namespacesFile['data'];
+    namespacesFile['seoData'] = {
+        'title': 'Epic Games Store Database | Namespaces',
+        'description': 'Unofficial database for the Epic Games Store.'
+    }
 
     _.forEach(namespaces, (urlSlug, catalogNamespace) => {
         const pathPrefix = `namespaces/${catalogNamespace}/`;
@@ -52,7 +58,12 @@ function mapData(files, metalsmith) {
         const filteredFilepaths = _.filter(_.keys(files), filepath => filepath.startsWith(pathPrefix));
         const items = _.map(filteredFilepaths, filepath => {
             const file = files[filepath];
-            return file['data'];
+            const fileData = file['data'];
+            file['seoData'] = {
+                'title': `Epic Games Store Database | ${fileData['title']}`,
+                'description': fileData['description'],
+            };
+            return fileData;
         });
 
         const filePath = pathPrefix+'index.json';
@@ -66,6 +77,10 @@ function mapData(files, metalsmith) {
             contents: Buffer.from('tmp'),
             mode: '0664',
             data,
+            seoData: {
+                'title': `Epic Games Store Database | ${catalogNamespace}`,
+                'description': `List of all catalog items in the namespace "${catalogNamespace}" (${urlSlug}).`
+            },
             layout: 'namespace.hbs',
         };
     });
@@ -99,15 +114,15 @@ function changeExtensionToHTML(files, metalsmith) {
         });
 }
 
-// Creates GitHub specific files
-function createGitHubOutput(files, metalsmith) {
-    files['.nojekyll'] = {
-        contents: Buffer.from(''),
-        mode: '0664',
-    };
+// Adds the static files from the 'public' folder to the build
+function addStaticFiles(files, metalsmith, done) {
+    const publicPath = path.join(__dirname, 'public');
+    metalsmith.read(publicPath, (err, staticFiles) => {
+        if (err) return done(err);
+        Object.keys(staticFiles).forEach(filepath => files[filepath] = staticFiles[filepath]);
+        return done();
+    });
 }
-
-const __dirname = path.dirname(fileURLToPath(import.meta.url));
 
 function getBaseURL() {
     if (process.env.BASE_URL) {
@@ -131,16 +146,16 @@ export default async function build() {
             .metadata({
                 siteData: {
                     baseURL: getBaseURL(),
-                    generator: "Metalsmith"
+                    baseTitle: "Epic Games Store Database",
+                    generator: "Metalsmith + Handlebars"
                 }
             })
-            .use(timeStep(removeNonJSON))
-            .use(timeStep(parseJSON))
-            .use(timeStep(mapData))
-            .use(timeStep(setLayout))
-            .use(timeStep(renameFiles))
-            .use(timeStep(changeExtensionToHTML))
-            .use(when(process.env.GITHUB_CI, timeStep(createGitHubOutput)))
+            .use(removeNonJSON)
+            .use(parseJSON)
+            .use(mapData)
+            .use(setLayout)
+            .use(renameFiles)
+            .use(changeExtensionToHTML)
             .use(discoverPartials({
                 directory: 'layouts/partials',
                 pattern: /\.(hbs|html)$/,
@@ -151,6 +166,7 @@ export default async function build() {
                 suppressNoFilesError: false,
                 engineOptions: {  },
             }))
+            .use(addStaticFiles)
             .use(when(isProduction, htmlMinifier({
                 pattern: '**/*.html',
                 minifierOptions: {

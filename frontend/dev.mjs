@@ -5,7 +5,7 @@ import build from './metalsmith.mjs';
 process.env.BASE_URL = 'http://localhost:8000'
 
 chokidar
-    .watch(['layouts'], {
+    .watch(['layouts', 'public'], {
         ignoreInitial: true,
     })
     .on('ready', () => browserSync.init({
@@ -16,6 +16,7 @@ chokidar
         interval: 20000
     }))
     .on('all', async (...args) => {
+        console.log('Building...');
         await build();
         browserSync.reload();
     });

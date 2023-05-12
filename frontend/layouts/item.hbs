@@ -1,7 +1,12 @@
 <!doctype html>
 <html lang="en">
 <head>
-    {{> header }}
+    {{#> header }}
+    <title>{{ data.title }} | {{ siteData.baseTitle }}</title>
+    <meta name="description" content="Information about item '{{ data.id }}' in the namespace '{{ data.namespace }}' by {{ data.developer }}.">
+
+    <link rel="canonical" href="{{ siteData.baseURL }}/namespaces/{{ data.namespace }}/{{ data.id }}.html" />
+    {{/header}}
 </head>
 <body>
 <a href="{{ siteData.baseURL }}/namespaces/{{ data.namespace }}/index.html">Back</a>
@@ -22,12 +27,10 @@
         src="{{ url }}"
         width="{{ width }}"
         height="{{ height }}"
-        alt="The image type, as returned by the API, is '{{ type }}'."
-        referrerpolicy="strict-origin">
+        alt="The image type, as returned by the API, is '{{ type }}'.">
 {{/each}}
 {{/if}}
 {{/with}}
-{{> displayDateScript }}
 {{> footer }}
 </body>
 </html>
