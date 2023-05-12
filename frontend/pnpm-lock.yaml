@@ -10,6 +10,9 @@ dependencies:
   jstransformer-handlebars:
     specifier: ^1.2.0
     version: 1.2.0
+  lodash-es:
+    specifier: ^4.17.21
+    version: 4.17.21
   metalsmith:
     specifier: ^2.5.1
     version: 2.5.1
@@ -894,6 +897,10 @@ packages:
     transitivePeerDependencies:
       - supports-color
     dev: true
+
+  /lodash-es@4.17.21:
+    resolution: {integrity: sha512-mKnC+QJ9pWVzv+C4/U3rRsHapFfHvQFoFB92e52xeyGMcX6/OlIl78je1u8vePzYZSkkogMPJ2yjxxsb89cxyw==}
+    dev: false
 
   /lodash.defaultsdeep@4.6.1:
     resolution: {integrity: sha512-3j8wdDzYuWO3lM3Reg03MuQR957t287Rpcxp1njpEa8oDrikb+FwGdW3n+FELh/A6qib6yPit0j/pv9G/yeAqA==}

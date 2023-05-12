@@ -6,6 +6,8 @@ import discoverPartials from 'metalsmith-discover-partials';
 import when from 'metalsmith-if';
 import htmlMinifier from 'metalsmith-html-minifier';
 
+import * as _ from 'lodash-es';
+
 const isProduction = process.env.NODE_ENV === 'production';
 const isDevelopment = process.env.NODE_ENV === 'development';
 
@@ -44,35 +46,29 @@ function parseJSON(files, metalsmith) {
 function mapData(files, metalsmith) {
     const namespaces = files['namespaces.json']['data'];
 
-    Object.entries(namespaces)
-        .forEach(([catalogNamespace, urlSlug]) => {
-            const items = metalsmith.match('namespaces/'+catalogNamespace+'/*.json')
-                .map(filepath => {
-                    const file = files[filepath];
-                    const id = file['data']['id'];
-                    const title = file['data']['title'];
-                    const categories = file['data']['categories'];
-                    return {
-                        id,
-                        title,
-                        categories,
-                    };
-                });
+    _.forEach(namespaces, (urlSlug, catalogNamespace) => {
+        const pathPrefix = `namespaces/${catalogNamespace}/`;
 
-            const filePath = 'namespaces/'+catalogNamespace+'/index.json';
-            const data = {
-                id: catalogNamespace,
-                urlSlug: urlSlug,
-                items,
-            }
-
-            files[filePath] = {
-                contents: Buffer.from('tmp'),
-                mode: '0664',
-                data: data,
-                layout: 'namespace.hbs',
-            };
+        const filteredFilepaths = _.filter(_.keys(files), filepath => filepath.startsWith(pathPrefix));
+        const items = _.map(filteredFilepaths, filepath => {
+            const file = files[filepath];
+            return file['data'];
         });
+
+        const filePath = pathPrefix+'index.json';
+        const data = {
+            id: catalogNamespace,
+            urlSlug,
+            items,
+        }
+
+        files[filePath] = {
+            contents: Buffer.from('tmp'),
+            mode: '0664',
+            data,
+            layout: 'namespace.hbs',
+        };
+    });
 }
 
 // Sets the 'file.layout' value based on the path
@@ -82,7 +78,7 @@ function setLayout(files, metalsmith) {
     metalsmith.match('namespaces/**/*.json')
         .forEach(filepath => {
             const file = files[filepath];
-            if (file['layout']) return;
+            if ('layout' in file) return;
             file['layout'] = 'item.hbs';
         });
 }
