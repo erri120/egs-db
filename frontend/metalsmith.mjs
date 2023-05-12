@@ -119,6 +119,15 @@ function getBaseURL() {
     return path.join(__dirname, 'build');
 }
 
+function getHost() {
+    if (!process.env.BASE_URL) {
+        return path.join(__dirname, 'build');
+    }
+
+    const url = new URL(process.env.BASE_URL);
+    return `${url.protocol}//${url.host}`;
+}
+
 export default async function build() {
     try {
         const t1 = performance.now();
@@ -134,6 +143,7 @@ export default async function build() {
                 siteData: {
                     isDevelopment,
                     isProduction,
+                    host: getHost(),
                     baseURL: getBaseURL(),
                     baseTitle: "Unofficial Epic Games Store Database",
                     generator: "Metalsmith + Handlebars"

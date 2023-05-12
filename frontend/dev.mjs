@@ -17,8 +17,12 @@ chokidar
     }))
     .on('all', async (...args) => {
         console.log('Building...');
-        await build();
-        browserSync.reload();
+        try {
+            await build();
+            browserSync.reload();
+        } catch (err) {
+            console.error(err);
+        }
     });
 
 (async function() {
