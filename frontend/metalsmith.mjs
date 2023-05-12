@@ -47,10 +47,6 @@ function parseJSON(files, metalsmith) {
 function mapData(files, metalsmith) {
     const namespacesFile = files['namespaces.json'];
     const namespaces = namespacesFile['data'];
-    namespacesFile['seoData'] = {
-        'title': 'Epic Games Store Database | Namespaces',
-        'description': 'Unofficial database for the Epic Games Store.'
-    }
 
     _.forEach(namespaces, (urlSlug, catalogNamespace) => {
         const pathPrefix = `namespaces/${catalogNamespace}/`;
@@ -58,12 +54,7 @@ function mapData(files, metalsmith) {
         const filteredFilepaths = _.filter(_.keys(files), filepath => filepath.startsWith(pathPrefix));
         const items = _.map(filteredFilepaths, filepath => {
             const file = files[filepath];
-            const fileData = file['data'];
-            file['seoData'] = {
-                'title': `Epic Games Store Database | ${fileData['title']}`,
-                'description': fileData['description'],
-            };
-            return fileData;
+            return file['data'];
         });
 
         const filePath = pathPrefix+'index.json';
@@ -77,10 +68,6 @@ function mapData(files, metalsmith) {
             contents: Buffer.from('tmp'),
             mode: '0664',
             data,
-            seoData: {
-                'title': `Epic Games Store Database | ${catalogNamespace}`,
-                'description': `List of all catalog items in the namespace "${catalogNamespace}" (${urlSlug}).`
-            },
             layout: 'namespace.hbs',
         };
     });
@@ -148,7 +135,7 @@ export default async function build() {
                     isDevelopment,
                     isProduction,
                     baseURL: getBaseURL(),
-                    baseTitle: "Epic Games Store Database",
+                    baseTitle: "Unofficial Epic Games Store Database",
                     generator: "Metalsmith + Handlebars"
                 }
             })
