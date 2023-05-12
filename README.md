@@ -1,3 +1,5 @@
+[![Build and Deploy Frontend](https://github.com/erri120/egs-db/actions/workflows/frontend.yaml/badge.svg)](https://github.com/erri120/egs-db/actions/workflows/frontend.yaml)
+
 # Epic Games Store Database
 
 ## Legal Stuff
