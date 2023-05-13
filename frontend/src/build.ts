@@ -103,13 +103,32 @@ function changeExtensionToHTML(files: Metalsmith.Files) {
 }
 
 // Adds page specific metadata like the canonical URL.
-function addPageMetadata(files: Metalsmith.Files) {
+function addPageMetadata(files: Metalsmith.Files, metalsmith: Metalsmith) {
+    const globalMetadata: {[property: string]: any} = metalsmith.metadata();
+    const siteData: {[property: string]: string} = globalMetadata['siteData'];
+
     Object
         .keys(files)
         .forEach(filepath => {
-            files[filepath]['metadata'] = {
+            const file = files[filepath];
+            const data: {[property: string]: string} = file['data'];
+
+            let metadata: {[property: string]: string} = {
                 canonicalURL: `${getBaseURL()}/${filepath}`,
-            };
+            }
+
+            if (filepath === 'index.html') {
+                metadata['title'] = siteData['baseTitle'];
+                metadata['description'] = 'Unofficial database of the Epic Games Store.';
+            } else if (filepath.endsWith('index.html')) {
+                metadata['title'] = `${data['id']} | ${siteData['baseTitle']}`;
+                metadata['description'] = `List of all items in the namespace ${data['id']} (${data['urlSlug']})`;
+            } else {
+                metadata['title'] = `${data['title']} | ${siteData['baseTitle']}`;
+                metadata['description'] = `Information about item "${data['id']}" in the namespace "${data['namespace']}" by ${data['developer']}`;
+            }
+
+            file['metadata'] = metadata;
         });
 }
 

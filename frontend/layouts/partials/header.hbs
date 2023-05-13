@@ -52,4 +52,8 @@
 <!-- Specify the canonical URL of the page -->
 <link rel="canonical" href="{{ metadata.canonicalURL }}" />
 
+<!-- Add page metadata -->
+<title>{{ metadata.title }}</title>
+<meta name="description" content="{{ metadata.description }}">
+
 {{> @partial-block }}
