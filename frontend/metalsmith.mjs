@@ -28,6 +28,31 @@ function timeStep(step, stepName) {
     }
 }
 
+function getNamespacesFile(files, ext) {
+    return files[`namespaces${ext}`];
+}
+
+function getNamespaceFiles(files, ext) {
+    const namespaces = getNamespacesFile(files, ext)['data'];
+    return _.map(namespaces, (urlSlug, catalogNamespace) => {
+        return files[`namespaces/${catalogNamespace}/index${ext}`];
+    });
+}
+
+function getItemFiles(catalogNamespace, files, ext) {
+    const pathPrefix = `namespaces/${catalogNamespace}/`;
+    const filteredFilepaths = _.filter(_.keys(files), filepath => filepath.startsWith(pathPrefix));
+    return _.map(filteredFilepaths, filepath => files[filepath]);
+}
+
+function getAllItemFiles(files, ext) {
+    const index = `index${ext}`;
+    const filteredFilepaths = _.filter(_.keys(files), filepath => {
+        return filepath.startsWith('namespaces/') && !filepath.endsWith(index);
+    });
+    return _.map(filteredFilepaths, filepath => files[filepath]);
+}
+
 // Removes all non-JSON files from the build
 function removeNonJSON(files, metalsmith) {
     Object.keys(files)
@@ -46,17 +71,12 @@ function parseJSON(files, metalsmith) {
 
 // Maps, combines and correlates existing data
 function mapData(files, metalsmith) {
-    const namespacesFile = files['namespaces.json'];
+    const namespacesFile = getNamespacesFile(files, '.json');
     const namespaces = namespacesFile['data'];
 
     _.forEach(namespaces, (urlSlug, catalogNamespace) => {
         const pathPrefix = `namespaces/${catalogNamespace}/`;
-
-        const filteredFilepaths = _.filter(_.keys(files), filepath => filepath.startsWith(pathPrefix));
-        const items = _.map(filteredFilepaths, filepath => {
-            const file = files[filepath];
-            return file['data'];
-        });
+        const items = _.map(getItemFiles(catalogNamespace, files, '.json'), file => file['data']);
 
         const filePath = pathPrefix+'index.json';
         const data = {
@@ -78,12 +98,8 @@ function mapData(files, metalsmith) {
 function setLayout(files, metalsmith) {
     files['namespaces.json']['layout'] = 'namespaces.hbs';
 
-    metalsmith.match('namespaces/**/*.json')
-        .forEach(filepath => {
-            const file = files[filepath];
-            if ('layout' in file) return;
-            file['layout'] = 'item.hbs';
-        });
+    const itemFiles = getAllItemFiles(files, '.json');
+    _.forEach(itemFiles, file => file['layout'] = 'item.hbs');
 }
 
 // Renames files

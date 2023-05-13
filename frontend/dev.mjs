@@ -13,7 +13,8 @@ chokidar
         port: 8000,
         server: './build',
         injectChanges: true, // false = prefer full reload
-        interval: 20000
+        interval: 20000,
+        open: false,
     }))
     .on('all', async (...args) => {
         console.log('Building...');
