@@ -102,6 +102,17 @@ function changeExtensionToHTML(files, metalsmith) {
         });
 }
 
+// Adds page specific metadata
+function addMetadata(files, metalsmith) {
+    metalsmith.match('**/*.html')
+        .forEach(filepath => {
+            const file = files[filepath];
+            file['metadata'] = {
+                canonicalURL: `${metalsmith._metadata.siteData.baseURL}/${filepath}`
+            };
+        });
+}
+
 // Adds a 'robots.txt' file to the build
 function addRobots(files, metalsmith) {
     const file = {
@@ -166,6 +177,7 @@ export default async function build() {
             .use(setLayout)
             .use(renameFiles)
             .use(changeExtensionToHTML)
+            .use(addMetadata)
             .use(discoverPartials({
                 directory: 'layouts/partials',
                 pattern: /\.(hbs|html)$/,
