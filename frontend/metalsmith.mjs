@@ -5,6 +5,7 @@ import layouts from '@metalsmith/layouts';
 import discoverPartials from 'metalsmith-discover-partials';
 import when from 'metalsmith-if';
 import htmlMinifier from 'metalsmith-html-minifier';
+import sitemap from 'metalsmith-sitemap';
 
 import * as _ from 'lodash-es';
 
@@ -101,6 +102,16 @@ function changeExtensionToHTML(files, metalsmith) {
         });
 }
 
+// Adds a 'robots.txt' file to the build
+function addRobots(files, metalsmith) {
+    const file = {
+        contents: Buffer.from(`User-agent: *\nAllow:/\nSitemap: ${metalsmith._metadata.siteData.baseURL}/sitemap.xml`),
+        mode: '0644'
+    };
+
+    files['robots.txt'] = file;
+}
+
 // Adds the static files from the 'public' folder to the build
 function addStaticFiles(files, metalsmith, done) {
     const publicPath = path.join(__dirname, 'public');
@@ -167,6 +178,10 @@ export default async function build() {
                     strict: true,
                 },
             }))
+            .use(sitemap({
+                hostname: getHost()
+            }))
+            .use(addRobots)
             .use(addStaticFiles)
             .use(when(isProduction, htmlMinifier({
                 pattern: '**/*.html',

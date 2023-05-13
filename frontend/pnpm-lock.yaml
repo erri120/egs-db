@@ -25,6 +25,9 @@ dependencies:
   metalsmith-if:
     specifier: ^0.1.1
     version: 0.1.1
+  metalsmith-sitemap:
+    specifier: ^1.2.2
+    version: 1.2.2
 
 devDependencies:
   browser-sync:
@@ -118,14 +121,36 @@ packages:
       sprintf-js: 1.0.3
     dev: false
 
+  /array-differ@1.0.0:
+    resolution: {integrity: sha512-LeZY+DZDRnvP7eMuQ6LHfCzUGxAAIViUBliK24P3hWXL6y4SortgR6Nim6xrkfSLlmH0+k+9NYNwVC2s53ZrYQ==}
+    engines: {node: '>=0.10.0'}
+    dev: false
+
   /array-differ@3.0.0:
     resolution: {integrity: sha512-THtfYS6KtME/yIAhKjZ2ul7XI96lQGHRputJQHO80LAWQnuGP4iCIN8vdMRboGbIEYBwU33q8Tch1os2+X0kMg==}
     engines: {node: '>=8'}
     dev: false
 
+  /array-union@1.0.2:
+    resolution: {integrity: sha512-Dxr6QJj/RdU/hCaBjOfxW+q6lyuVE6JFWIrAUpuOOhoJJoQ99cUn3igRaHVB5P9WrgFVN0FfArM3x0cueOU8ng==}
+    engines: {node: '>=0.10.0'}
+    dependencies:
+      array-uniq: 1.0.3
+    dev: false
+
   /array-union@2.1.0:
     resolution: {integrity: sha512-HGyxoOTYUyCM6stUe6EJgnd4EoewAI7zMdfqO+kGjnlZmBDz/cR5pf8r/cR4Wq60sL/p0IkcjUEEPwS3GFrIyw==}
     engines: {node: '>=8'}
+    dev: false
+
+  /array-uniq@1.0.3:
+    resolution: {integrity: sha512-MNha4BWQ6JbwhFhj03YK552f7cb3AzoE8SzeljgChvL1dl3IcvggXVz1DilzySZkCja+CXuZbdW7yATchWn8/Q==}
+    engines: {node: '>=0.10.0'}
+    dev: false
+
+  /arrify@1.0.1:
+    resolution: {integrity: sha512-3CYzex9M9FGQjCGMGyi6/31c8GJbgb0qGyrx5HWxPd0aCwh4cB2YjMb2Xf9UuoogrMrlO9cTqnB5rI5GHZTcUA==}
+    engines: {node: '>=0.10.0'}
     dev: false
 
   /arrify@2.0.1:
@@ -845,6 +870,10 @@ packages:
     engines: {node: '>=4'}
     dev: true
 
+  /is@3.3.0:
+    resolution: {integrity: sha512-nW24QBoPcFGGHJGUwnfpI7Yc5CdqWNdsyHQszVE/z2pKHXzh7FZ5GWhJqSyaQ9wMkQnsTx+kAI8bHlCX4tKdbg==}
+    dev: false
+
   /isexe@2.0.0:
     resolution: {integrity: sha512-RHxMLp9lnKHGHRng9QFhRCMbYAcVpn69smSGcq3f36xjgVVWThj4qqLbTLlq7Ssj8B+fIQ1EuCEGI2lKsyQeIw==}
 
@@ -902,17 +931,93 @@ packages:
     resolution: {integrity: sha512-mKnC+QJ9pWVzv+C4/U3rRsHapFfHvQFoFB92e52xeyGMcX6/OlIl78je1u8vePzYZSkkogMPJ2yjxxsb89cxyw==}
     dev: false
 
+  /lodash._baseflatten@3.1.4:
+    resolution: {integrity: sha512-fESngZd+X4k+GbTxdMutf8ohQa0s3sJEHIcwtu4/LsIQ2JTDzdRxDCMQjW+ezzwRitLmHnacVVmosCbxifefbw==}
+    dependencies:
+      lodash.isarguments: 3.1.0
+      lodash.isarray: 3.0.4
+    dev: false
+
+  /lodash._basefor@3.0.3:
+    resolution: {integrity: sha512-6bc3b8grkpMgDcVJv9JYZAk/mHgcqMljzm7OsbmcE2FGUMmmLQTPHlh/dFqR8LA0GQ7z4K67JSotVKu5058v1A==}
+    dev: false
+
+  /lodash._baseget@3.7.2:
+    resolution: {integrity: sha512-OgVr3AufoSqlh6eHWOLdLzRdn6TU3LlEGQjtsyLr9XRtPoXUywzquM1uYE+qQAno1kB9CvpI1gsvGwiVwPinog==}
+    dev: false
+
+  /lodash._bindcallback@3.0.1:
+    resolution: {integrity: sha512-2wlI0JRAGX8WEf4Gm1p/mv/SZ+jLijpj0jyaE/AXeuQphzCgD8ZQW4oSpoN8JAopujOFGU3KMuq7qfHBWlGpjQ==}
+    dev: false
+
+  /lodash._pickbyarray@3.0.2:
+    resolution: {integrity: sha512-tHzBIfgugzI7HV0y8MJS1z/ryWDh8NyD6AV+so9vlplRnhD4qBuwoyDt7g241ad3F43YDFghCN+R3iaFd4Azvw==}
+    dev: false
+
+  /lodash._pickbycallback@3.0.0:
+    resolution: {integrity: sha512-DVP27YmN0lB+j/Tgd/+gtxfmW/XihgWpQpHptBuwyp2fD9zEBRwwcnw6Qej16LUV8LRFuTqyoc0i6ON97d/C5w==}
+    dependencies:
+      lodash._basefor: 3.0.3
+      lodash.keysin: 3.0.8
+    dev: false
+
+  /lodash._topath@3.8.1:
+    resolution: {integrity: sha512-QsF5c8A+Biv0oxuSCd05JqhXHPCjvFT0nMXVevfMgU1pp5iEHVSin2cKXi3lQe5+px285p7kAHVtOnbNE79syw==}
+    dependencies:
+      lodash.isarray: 3.0.4
+    dev: false
+
   /lodash.defaultsdeep@4.6.1:
     resolution: {integrity: sha512-3j8wdDzYuWO3lM3Reg03MuQR957t287Rpcxp1njpEa8oDrikb+FwGdW3n+FELh/A6qib6yPit0j/pv9G/yeAqA==}
+    dev: false
+
+  /lodash.get@3.7.0:
+    resolution: {integrity: sha512-7iD0aRHu/B8gcCDNx53lJi33R4TzpbOB3Mfk4XpIN7WFUt+W5rI+6CtHhpJ52B6zhhRvogtuNSDFZc3xgcbClQ==}
+    dependencies:
+      lodash._baseget: 3.7.2
+      lodash._topath: 3.8.1
     dev: false
 
   /lodash.get@4.4.2:
     resolution: {integrity: sha512-z+Uw/vLuy6gQe8cfaFWD7p0wVv8fJl3mbzXh33RS+0oW2wvUqiRXiQ69gLWSLpgB5/6sU+r6BlQR0MBILadqTQ==}
     dev: false
 
+  /lodash.identity@3.0.0:
+    resolution: {integrity: sha512-AupTIzdLQxJS5wIYUQlgGyk2XRTfGXA+MCghDHqZk0pzUNYvd3EESS6dkChNauNYVIutcb0dfHw1ri9Q1yPV8Q==}
+    dev: false
+
+  /lodash.isarguments@3.1.0:
+    resolution: {integrity: sha512-chi4NHZlZqZD18a0imDHnZPrDeBbTtVN7GXMwuGdRH9qotxAjYs3aVLKc7zNOG9eddR5Ksd8rvFEBc9SsggPpg==}
+    dev: false
+
+  /lodash.isarray@3.0.4:
+    resolution: {integrity: sha512-JwObCrNJuT0Nnbuecmqr5DgtuBppuCvGD9lxjFpAzwnVtdGoDQ1zig+5W8k5/6Gcn0gZ3936HDAlGd28i7sOGQ==}
+    dev: false
+
   /lodash.isfinite@3.3.2:
     resolution: {integrity: sha512-7FGG40uhC8Mm633uKW1r58aElFlBlxCrg9JfSi3P6aYiWmfiWF0PgMd86ZUsxE5GwWPdHoS2+48bwTh2VPkIQA==}
     dev: true
+
+  /lodash.keysin@3.0.8:
+    resolution: {integrity: sha512-YDB/5xkL3fBKFMDaC+cfGV00pbiJ6XoJIfRmBhv7aR6wWtbCW6IzkiWnTfkiHTF6ALD7ff83dAtB3OEaSoyQPg==}
+    dependencies:
+      lodash.isarguments: 3.1.0
+      lodash.isarray: 3.0.4
+    dev: false
+
+  /lodash.pick@3.1.0:
+    resolution: {integrity: sha512-Y04wnFghB7l1dkYINfjdMLpeAGM1IYEjlsGFxvjeewCbVQUlD9jw3M20ThuNrsf6yGmuPLwj60PKP+D6gZ+o2w==}
+    dependencies:
+      lodash._baseflatten: 3.1.4
+      lodash._bindcallback: 3.0.1
+      lodash._pickbyarray: 3.0.2
+      lodash._pickbycallback: 3.0.0
+      lodash.restparam: 3.6.1
+    dev: false
+
+  /lodash.restparam@3.6.1:
+    resolution: {integrity: sha512-L4/arjjuq4noiUJpt3yS6KIKDtJwNe2fIYgMqyYYKoeIfV1iEqvPwhCx23o+R9dzouGihDAPN1dTIRWa7zk8tw==}
+    dev: false
 
   /lodash@4.17.21:
     resolution: {integrity: sha512-v2kDEe57lecTulaDIuNTPy3Ry4gLGJ6Z1O3vE1krgXZNrsQ+LFTGHVxVjcXPs17LhbZVGedAJv8XZ1tvj5FvSg==}
@@ -945,6 +1050,17 @@ packages:
       debug: 2.6.9
     transitivePeerDependencies:
       - supports-color
+    dev: false
+
+  /metalsmith-sitemap@1.2.2:
+    resolution: {integrity: sha512-6R1ocHu5MVWG5I6EvKWXG/kwpDiIEd3Ofq2hXB0MLi8n0yFkN7O900GscoQjtLTdcQ18v1+uHeQ/UjJHrPatPg==}
+    dependencies:
+      is: 3.3.0
+      lodash.get: 3.7.0
+      lodash.identity: 3.0.0
+      lodash.pick: 3.1.0
+      multimatch: 2.1.0
+      sitemap: 1.13.0
     dev: false
 
   /metalsmith@2.5.1:
@@ -1008,6 +1124,16 @@ packages:
 
   /ms@2.1.2:
     resolution: {integrity: sha512-sGkPx+VjMtmA6MX27oA4FBFELFCZZ4S4XqeGOXCv68tT+jb3vk/RyaKWP0PTKyWtmLSM0b+adUTEvbs1PEaH2w==}
+
+  /multimatch@2.1.0:
+    resolution: {integrity: sha512-0mzK8ymiWdehTBiJh0vClAzGyQbdtyWqzSVx//EK4N/D+599RFlGfTAsKw2zMSABtDG9C6Ul2+t8f2Lbdjf5mA==}
+    engines: {node: '>=0.10.0'}
+    dependencies:
+      array-differ: 1.0.0
+      array-union: 1.0.2
+      arrify: 1.0.1
+      minimatch: 3.1.2
+    dev: false
 
   /multimatch@4.0.0:
     resolution: {integrity: sha512-lDmx79y1z6i7RNx0ZGCPq1bzJ6ZoDDKbvh7jxr9SJcWLkShMzXrHbYVpTdnhNM5MXpDUxCQ4DgqVttVXlBgiBQ==}
@@ -1275,6 +1401,13 @@ packages:
       object-inspect: 1.12.3
     dev: true
 
+  /sitemap@1.13.0:
+    resolution: {integrity: sha512-++mJIYR1+WpO1m0iqZv9viGmalxkm6r8Zq8OOFcFzx3aLlXU50T0JV3pvr6WHyFkwudlXmt190ZRbtH3yOm3Hg==}
+    dependencies:
+      underscore: 1.13.6
+      url-join: 1.1.0
+    dev: false
+
   /socket.io-adapter@2.5.2:
     resolution: {integrity: sha512-87C3LO/NOMc+eMcpcxUBebGjkpMDkNBS9tf7KJqcDsmL936EChtVva71Dw2q4tQcuVC+hAUy4an2NO/sYXmwRA==}
     dependencies:
@@ -1412,6 +1545,10 @@ packages:
     requiresBuild: true
     dev: false
 
+  /underscore@1.13.6:
+    resolution: {integrity: sha512-+A5Sja4HP1M08MaXya7p5LvjuM7K6q/2EaC0+iovj/wOcMsTzMvDFbasi/oSapiwOlt252IqsKqPjCl7huKS0A==}
+    dev: false
+
   /universalify@0.1.2:
     resolution: {integrity: sha512-rBJeI5CXAlmy1pV+617WB9J63U6XcazHHF2f2dbJix4XzpUF0RS3Zbj0FGIOCAva5P/d/GBOYaACQ1w+0azUkg==}
     engines: {node: '>= 4.0.0'}
@@ -1424,6 +1561,10 @@ packages:
 
   /upper-case@1.1.3:
     resolution: {integrity: sha512-WRbjgmYzgXkCV7zNVpy5YgrHgbBv126rMALQQMrmzOVC4GM2waQ9x7xtm8VU+1yF2kWyPzI9zbZ48n4vSxwfSA==}
+    dev: false
+
+  /url-join@1.1.0:
+    resolution: {integrity: sha512-zz1wZk4Lb5PTVwZ3HWDmm8XnlPvmOof6/fjdDPA5yBrUcbtV64U6bV832Zf1BtU2WkBBWaUT46wCs+l0HP5nhg==}
     dev: false
 
   /utils-merge@1.0.1:

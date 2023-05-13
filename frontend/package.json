@@ -24,6 +24,7 @@
         "metalsmith": "^2.5.1",
         "metalsmith-discover-partials": "^0.1.2",
         "metalsmith-html-minifier": "^4.0.1",
-        "metalsmith-if": "^0.1.1"
+        "metalsmith-if": "^0.1.1",
+        "metalsmith-sitemap": "^1.2.2"
     }
 }
