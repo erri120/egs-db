@@ -2,30 +2,58 @@
 <html lang="en">
 {{> header }}
 <body>
-<a href="{{ siteData.baseURL }}/index.html">Back</a>
+
+<nav>
+    <a href="{{ siteData.baseURL }}/index.html">Back</a>
+</nav>
 
 {{#with data}}
-    <h1>URL Slug: <a href="https://store.epicgames.com/en-US/p/{{ urlSlug }}">{{ urlSlug }}</a></h1>
+    <main>
+        <h1>{{ id }} | <a href="https://store.epicgames.com/en-US/p/{{ urlSlug }}">{{ urlSlug }}</a></h1>
 
-    <table>
-        <thead>
-            <tr>
-                <th scope="col">ID</th>
-                <th scope="col">Title</th>
-                <th scope="col">Categories</th>
-            </tr>
-        </thead>
-        <tbody>
-        {{#each items}}
-            <tr>
-                <td><a href="{{ ../../siteData.baseURL }}/namespaces/{{ ../id }}/{{ id }}.html">{{ id }}</a></td>
-                <td>{{ title }}</td>
-                <td>{{ categories }}</td>
-            </tr>
-        {{/each}}
-        </tbody>
-    </table>
+        <section>
+            <h2>Details</h2>
+
+            <table>
+                <tbody>
+                <tr>
+                    <th scope="col">ID</th>
+                    <td>{{ id }}</td>
+                </tr>
+                <tr>
+                    <th scope="col">URL Slug</th>
+                    <td><a href="https://store.epicgames.com/en-US/p/{{ urlSlug }}">{{ urlSlug }}</a></td>
+                </tr>
+                </tbody>
+            </table>
+        </section>
+
+        <section>
+            <h2>Items</h2>
+
+            <table>
+                <thead>
+                <tr>
+                    <th scope="col">ID</th>
+                    <th scope="col">Title</th>
+                    <th scope="col">Categories</th>
+                </tr>
+                </thead>
+                <tbody>
+                {{#each items}}
+                    <tr>
+                        <td><a href="{{ ../../siteData.baseURL }}/namespaces/{{ ../id }}/{{ id }}.html">{{ id }}</a></td>
+                        <td>{{ title }}</td>
+                        <td>{{ categories }}</td>
+                    </tr>
+                {{/each}}
+                </tbody>
+            </table>
+        </section>
+
+    </main>
 {{/with}}
+
 {{> footer }}
 </body>
 </html>

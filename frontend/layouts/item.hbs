@@ -16,38 +16,38 @@
 
             <table>
                 <tbody>
-                    <tr>
-                        <th scope="row">ID</th>
-                        <td>{{ id }}</td>
-                    </tr>
-                    <tr>
-                        <th scope="row">Application ID</th>
-                        <td>{{ applicationId }}</td>
-                    </tr>
-                    <tr>
-                        <th scope="row">Namespace</th>
-                        <td>{{ namespace }}</td>
-                    </tr>
-                    <tr>
-                        <th scope="row">Developer</th>
-                        <td>{{ developer }} ({{ developerId }})</td>
-                    </tr>
-                    <tr>
-                        <th scope="row">Description</th>
-                        <td>{{ description }}</td>
-                    </tr>
-                    <tr>
-                        <th scope="row">Categories</th>
-                        <td>{{ categories }}</td>
-                    </tr>
-                    <tr>
-                        <th scope="row">Creation Date</th>
-                        <td>{{> datetime creationDate }}</td>
-                    </tr>
-                    <tr>
-                        <th scope="row">Last Modified Date</th>
-                        <td>{{> datetime lastModifiedDate }}</td>
-                    </tr>
+                <tr>
+                    <th scope="row">ID</th>
+                    <td>{{ id }}</td>
+                </tr>
+                <tr>
+                    <th scope="row">Application ID</th>
+                    <td>{{ applicationId }}</td>
+                </tr>
+                <tr>
+                    <th scope="row">Namespace</th>
+                    <td>{{ namespace }}</td>
+                </tr>
+                <tr>
+                    <th scope="row">Developer</th>
+                    <td>{{ developer }} ({{ developerId }})</td>
+                </tr>
+                <tr>
+                    <th scope="row">Description</th>
+                    <td>{{ description }}</td>
+                </tr>
+                <tr>
+                    <th scope="row">Categories</th>
+                    <td>{{ categories }}</td>
+                </tr>
+                <tr>
+                    <th scope="row">Creation Date</th>
+                    <td>{{> datetime creationDate }}</td>
+                </tr>
+                <tr>
+                    <th scope="row">Last Modified Date</th>
+                    <td>{{> datetime lastModifiedDate }}</td>
+                </tr>
                 </tbody>
             </table>
         </section>
@@ -65,6 +65,7 @@
                 {{/each}}
             </section>
         {{/if}}
+
     </main>
 {{/with}}
 

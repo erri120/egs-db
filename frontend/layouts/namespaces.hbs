@@ -2,11 +2,28 @@
 <html lang="en">
 {{> header }}
 <body>
-    <ul>
-    {{#each data}}
-        <li><a href="{{ ../siteData.baseURL }}/namespaces/{{ @key }}/index.html">{{@key}}</a> ({{ . }})</li>
-    {{/each}}
-    </ul>
+
+<main>
+    <h1>Namespaces</h1>
+
+    <table>
+        <thead>
+        <tr>
+            <th scope="col">ID</th>
+            <th scope="col">URL Slug</th>
+        </tr>
+        </thead>
+        <tbody>
+        {{#each data}}
+            <tr>
+                <td><a href="{{ ../siteData.baseURL }}/namespaces/{{ @key }}/index.html">{{ @key }}</a></td>
+                <td><a href="https://store.epicgames.com/en-US/p/{{ . }}">{{ . }}</a></td>
+            </tr>
+        {{/each}}
+        </tbody>
+    </table>
+</main>
+
 {{> footer }}
 </body>
 </html>
