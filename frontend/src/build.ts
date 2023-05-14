@@ -10,6 +10,7 @@ import layouts from "@metalsmith/layouts";
 const cwd = path.dirname(__dirname);
 const isProduction = process.env.NODE_ENV === 'production';
 const isDevelopment = process.env.NODE_ENV === 'development';
+const isSlim = process.env.CONTENT === 'slim';
 
 type CatalogNamespace = string;
 type UrlSlug = string;
@@ -56,6 +57,24 @@ function parseJSON(files: Metalsmith.Files) {
         // @ts-ignore
         file['data'] = JSON.parse(file.contents);
     }
+}
+
+// Produces a "slim" build.
+function slimBuild(files: Metalsmith.Files) {
+    const namespacesFile = files['namespaces.json'];
+    const namespaces = getNamespaces(files);
+
+    Object
+        .keys(namespaces)
+        .slice(5)
+        .forEach(catalogNamespace => {
+            delete namespacesFile['data'][catalogNamespace];
+            const pathPrefix = `namespaces/${catalogNamespace}/`;
+            Object
+                .keys(files)
+                .filter(filepath => filepath.startsWith(pathPrefix))
+                .forEach(filepath => delete files[filepath]);
+        });
 }
 
 // Creates index.json files for every namespace
@@ -187,6 +206,7 @@ export default async function build() {
             })
             .use(removeNonJSON)
             .use(parseJSON)
+            .use(when(isSlim, slimBuild))
             .use(createNamespaceFiles)
             .use(fixNamespacesFile)
             .use(changeExtensionToHTML)

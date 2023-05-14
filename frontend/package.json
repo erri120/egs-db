@@ -9,6 +9,7 @@
   "type": "commonjs",
   "scripts": {
     "start": "tsc && cross-env NODE_ENV=development node ./ts-dist/dev.js",
+    "slim": "tsc && cross-env NODE_ENV=development CONTENT=slim node ./ts-dist/dev.js",
     "build": "tsc && cross-env NODE_ENV=production node ./ts-dist/build.js"
   },
   "engines": {
