@@ -2,28 +2,72 @@
 <html lang="en">
 {{> header }}
 <body>
-<a href="{{ siteData.baseURL }}/namespaces/{{ data.namespace }}/index.html">Back</a>
+
+<nav>
+    <a href="{{ siteData.baseURL }}/namespaces/{{ data.namespace }}/index.html">Back</a>
+</nav>
+
 {{#with data}}
-    <ul>
-        <li>ID: {{ id }}{{#if applicationId}} ({{ applicationId }}) {{/if}}</li>
-        <li>Namespace: {{ namespace }}</li>
-        <li>Title: {{ title }}</li>
-        <li>Developer: {{ developer }} ({{ developerId }})</li>
-        <li>Description: {{ description }}</li>
-        <li>Categories: {{ categories }}</li>
-        <li>Creation Date: {{> datetime creationDate }}</li>
-        <li>Last Modified Date: {{> datetime lastModifiedDate }}</li>
-    </ul>
-{{#if keyImages}}
-{{#each keyImages}}
-    <img
-        src="{{ url }}"
-        width="{{ width }}"
-        height="{{ height }}"
-        alt="The image type, as returned by the API, is '{{ type }}'.">
-{{/each}}
-{{/if}}
+    <main>
+        <h1>{{ title }}</h1>
+
+        <section>
+            <h2>Details</h2>
+
+            <table>
+                <tbody>
+                    <tr>
+                        <th scope="row">ID</th>
+                        <td>{{ id }}</td>
+                    </tr>
+                    <tr>
+                        <th scope="row">Application ID</th>
+                        <td>{{ applicationId }}</td>
+                    </tr>
+                    <tr>
+                        <th scope="row">Namespace</th>
+                        <td>{{ namespace }}</td>
+                    </tr>
+                    <tr>
+                        <th scope="row">Developer</th>
+                        <td>{{ developer }} ({{ developerId }})</td>
+                    </tr>
+                    <tr>
+                        <th scope="row">Description</th>
+                        <td>{{ description }}</td>
+                    </tr>
+                    <tr>
+                        <th scope="row">Categories</th>
+                        <td>{{ categories }}</td>
+                    </tr>
+                    <tr>
+                        <th scope="row">Creation Date</th>
+                        <td>{{> datetime creationDate }}</td>
+                    </tr>
+                    <tr>
+                        <th scope="row">Last Modified Date</th>
+                        <td>{{> datetime lastModifiedDate }}</td>
+                    </tr>
+                </tbody>
+            </table>
+        </section>
+
+        {{#if keyImages}}
+            <section>
+                <h2>Images</h2>
+
+                {{#each keyImages}}
+                    <img
+                            src="{{ url }}"
+                            width="{{ width }}"
+                            height="{{ height }}"
+                            alt="Image type '{{ type }}' for the item '{{ ../title }}'">
+                {{/each}}
+            </section>
+        {{/if}}
+    </main>
 {{/with}}
+
 {{> footer }}
 </body>
 </html>
