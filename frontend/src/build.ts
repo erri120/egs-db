@@ -130,9 +130,9 @@ function addPageMetadata(files: Metalsmith.Files, metalsmith: Metalsmith) {
         .keys(files)
         .forEach(filepath => {
             const file = files[filepath];
-            const data: {[property: string]: string} = file['data'];
+            const data: {[property: string]: any} = file['data'];
 
-            let metadata: {[property: string]: string} = {
+            let metadata: {[property: string]: string | boolean} = {
                 canonicalURL: `${getBaseURL()}/${filepath}`,
             }
 
@@ -145,6 +145,14 @@ function addPageMetadata(files: Metalsmith.Files, metalsmith: Metalsmith) {
             } else {
                 metadata['title'] = `${data['title']} | ${siteData['baseTitle']}`;
                 metadata['description'] = `Information about item "${data['id']}" in the namespace "${data['namespace']}" by ${data['developer']}`;
+
+                const keyImages: Array<{url: string}> = data['keyImages'];
+                if (keyImages !== undefined && keyImages !== null && keyImages.length > 0) {
+                    metadata['mainImage'] = keyImages[0]['url'];
+                }
+
+                metadata['enableOpenGraph'] = true;
+                metadata['enableTwitterCard'] = true;
             }
 
             file['metadata'] = metadata;

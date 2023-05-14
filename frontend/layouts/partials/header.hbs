@@ -1,63 +1,92 @@
-<!-- Enable proper document rendering -->
-<meta charset="utf-8">
-<meta name="viewport" content="width=device-width, initial-scale=1">
+<head prefix="og: https://ogp.me/ns#">
+    <!-- Enable proper document rendering -->
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
 
-<!-- Specify the base URL -->
-<base href="{{ siteData.baseURL }}" />
+    <!-- Specify the base URL -->
+    <base href="{{ siteData.baseURL }}" />
 
-<!-- Allow loading resources from self -->
-<!-- Allow loading images from the CND of the Epic Games Store -->
-<!-- Allow loading scripts from GoatCounter -->
-<!-- Allow unsafe inlined scripts during development (required by browsersync) -->
-<!-- Allow websocket connections during development (required by browsersync) -->
-<meta
-    http-equiv="Content-Security-Policy"
-    content="
+    <!-- Allow loading resources from self -->
+    <!-- Allow loading images from the CND of the Epic Games Store -->
+    <!-- Allow loading scripts from GoatCounter -->
+    <!-- Allow unsafe inlined scripts during development (required by browsersync) -->
+    <!-- Allow websocket connections during development (required by browsersync) -->
+    <meta
+            http-equiv="Content-Security-Policy"
+            content="
         default-src {{ siteData.host }};
         img-src {{ siteData.host }} https://cdn1.epicgames.com;
         script-src {{ siteData.host }} https://gc.zgo.at {{#if siteData.isDevelopment}} 'unsafe-inline' {{/if}};
         {{#if siteData.isDevelopment}}
         connect-src ws: {{ siteData.host }};
         {{/if}}"
->
+    >
 
-<!-- Send the origin, path, and querystring in Referer when the protocol security level stays the same or improves -->
-<meta name="referrer" content="no-referrer-when-downgrade">
+    <!-- Send the origin, path, and querystring in Referer when the protocol security level stays the same or improves -->
+    <meta name="referrer" content="no-referrer-when-downgrade">
 
-<!-- Prefetch DNS records for the CDN -->
-<link rel="dns-prefetch" href="https://cdn1.epicgames.com">
+    <!-- Prefetch DNS records for the CDN -->
+    <link rel="dns-prefetch" href="https://cdn1.epicgames.com">
 
-<!-- Analytics via GoatCounter -->
-<script data-goatcounter="https://erri120.goatcounter.com/count" async src="https://gc.zgo.at/count.js"></script>
+    <!-- Analytics via GoatCounter -->
+    <script data-goatcounter="https://erri120.goatcounter.com/count" async src="https://gc.zgo.at/count.js"></script>
 
-<!-- Site verification -->
-<meta name="google-site-verification" content="c-L5KbBKeVyZ9YNKiotqlpl7zsiDRiGcWJa4ZxVpzAo">
-<meta name="msvalidate.01" content="0E353603CBFC6B4F85D605C4E9F27290" />
+    <!-- Site verification -->
+    <meta name="google-site-verification" content="c-L5KbBKeVyZ9YNKiotqlpl7zsiDRiGcWJa4ZxVpzAo">
+    <meta name="msvalidate.01" content="0E353603CBFC6B4F85D605C4E9F27290" />
 
-<!-- Add assets -->
-<script defer src="{{ siteData.baseURL }}/assets/displayLocalDateTime.js"></script>
+    <!-- Add assets -->
+    <script defer src="{{ siteData.baseURL }}/assets/displayLocalDateTime.js"></script>
 
-<!-- Allow search engine crawling and indexing -->
-<meta name="robots" content="all">
-<meta name="googlebot" content="all">
+    <!-- Allow search engine crawling and indexing -->
+    <meta name="robots" content="all">
+    <meta name="googlebot" content="all">
 
-<!-- Disable sitelinks search boxes on Google -->
-<meta name="google" content="nositelinkssearchbox">
+    <!-- Disable sitelinks search boxes on Google -->
+    <meta name="google" content="nositelinkssearchbox">
 
-<!-- Disable google trying to translate this document -->
-<meta name="google" content="notranslate">
+    <!-- Disable google trying to translate this document -->
+    <meta name="google" content="notranslate">
 
-<!-- Disable automatic detection and formatting of possible phone numbers -->
-<meta name="format-detection" content="telephone=no">
+    <!-- Disable automatic detection and formatting of possible phone numbers -->
+    <meta name="format-detection" content="telephone=no">
 
-<!-- Identify the software used to build the document -->
-<meta name="generator" content="{{ siteData.generator }}">
+    <!-- Identify the software used to build the document -->
+    <meta name="generator" content="{{ siteData.generator }}">
 
-<!-- Specify the canonical URL of the page -->
-<link rel="canonical" href="{{ metadata.canonicalURL }}" />
+    <!-- Specify the canonical URL of the page -->
+    <link rel="canonical" href="{{ metadata.canonicalURL }}" />
 
-<!-- Add page metadata -->
-<title>{{ metadata.title }}</title>
-<meta name="description" content="{{ metadata.description }}">
+    <!-- Add page metadata -->
+    <title>{{ metadata.title }}</title>
+    <meta name="description" content="{{ metadata.description }}">
 
-{{> @partial-block }}
+    {{#if metadata.enableOpenGraph}}
+        <!-- Open Graph -->
+        <meta name="og:site_name" content="{{ siteData.baseTitle }}">
+        <meta name="og:title" content="{{ metadata.title }}">
+        <meta name="og:description" content="{{ metadata.description }}">
+        <meta name="og:url" content="{{ metadata.canonicalURL }}">
+        <meta name="og:type" content="website">
+        <meta name="og:locale" content="en_US">
+
+        {{#if metadata.mainImage }}
+            <meta name="og:image" content="{{ metadata.mainImage }}">
+        {{/if}}
+    {{/if}}
+
+    {{#if metadata.enableTwitterCard}}
+        <!-- Twitter Card -->
+        <meta name="twitter:card" content="{{#if metadata.mainImage}}summary_large_image{{else}}summary{{/if}}">
+        <meta name="twitter:site" content="@erri120">
+        <meta name="twitter:creator" content="@erri120">
+        <meta name="twitter:title" content="{{ metadata.title }}">
+        <meta name="twitter:description" content="{{ metadata.description }}">
+        {{#if metadata.mainImage }}
+            <meta name="twitter:image" content="{{ metadata.mainImage }}">
+        {{/if}}
+    {{/if}}
+
+    {{#> @partial-block }}
+    {{/@partial-block}}
+</head>
