@@ -6,9 +6,10 @@ function convertToLocalTime() {
         if (dateTimeAttribute === null) continue;
 
         const date = Date.parse(dateTimeAttribute);
-        const formattedDate = new Intl.DateTimeFormat('default', { dateStyle: 'long', timeStyle: 'long' }).format(date);
-
-        timeElement.textContent = formattedDate;
+        timeElement.textContent = new Intl.DateTimeFormat('default', {
+            dateStyle: 'long',
+            timeStyle: 'long'
+        }).format(date);
     }
 }
 
