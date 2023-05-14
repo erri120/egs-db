@@ -28,8 +28,10 @@
     <!-- Prefetch DNS records for the CDN -->
     <link rel="dns-prefetch" href="https://cdn1.epicgames.com">
 
-    <!-- Analytics via GoatCounter -->
-    <script data-goatcounter="https://erri120.goatcounter.com/count" async src="https://gc.zgo.at/count.js"></script>
+    {{#if siteData.isProduction}}
+        <!-- Analytics via GoatCounter -->
+        <script data-goatcounter="https://erri120.goatcounter.com/count" async src="https://gc.zgo.at/count.js"></script>
+    {{/if}}
 
     <!-- Site verification -->
     <meta name="google-site-verification" content="c-L5KbBKeVyZ9YNKiotqlpl7zsiDRiGcWJa4ZxVpzAo">
