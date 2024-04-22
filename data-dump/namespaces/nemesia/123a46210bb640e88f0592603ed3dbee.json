@@ -1,7 +1,7 @@
 {
   "id": "123a46210bb640e88f0592603ed3dbee",
-  "title": "Blood Moon Edition Audience",
-  "description": "Blood Moon Edition Audience",
+  "title": "Blood Moon Edition Pre-Purchase Audience",
+  "description": "Blood Moon Edition Pre-Purchase Audience",
   "namespace": "nemesia",
   "categories": "",
   "keyImages": [
@@ -16,8 +16,8 @@
     }
   ],
   "creationDate": "2019-03-15T02:11:51.401+00:00",
-  "lastModifiedDate": "2019-06-14T12:32:00.873+00:00",
+  "lastModifiedDate": "2023-09-04T07:57:42.424+00:00",
   "developer": "Paradox Interactive",
   "developerId": "o-tjvfg6rejs6h86qa7k9aa64rrgbxxb",
-  "applicationId": null
+  "applicationId": ""
 }

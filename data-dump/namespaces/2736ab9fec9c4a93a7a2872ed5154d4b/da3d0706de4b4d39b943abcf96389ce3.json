@@ -1,7 +1,7 @@
 {
   "id": "da3d0706de4b4d39b943abcf96389ce3",
-  "title": "Rage 2",
-  "description": "Rage 2",
+  "title": "RAGE 2",
+  "description": "RAGE 2",
   "namespace": "2736ab9fec9c4a93a7a2872ed5154d4b",
   "categories": "public/games/applications",
   "keyImages": [
@@ -25,7 +25,7 @@
     }
   ],
   "creationDate": "2020-11-04T19:34:42.388+00:00",
-  "lastModifiedDate": "2021-03-01T17:17:32.1+00:00",
+  "lastModifiedDate": "2023-12-20T18:29:21.639+00:00",
   "developer": "Bethesda Softworks LLC",
   "developerId": "o-bthbhn6wd7fzj73v5p4436ucn3k37u",
   "applicationId": "fghi4567DYsX3M0wyNI86jhvBM3YGvQc"

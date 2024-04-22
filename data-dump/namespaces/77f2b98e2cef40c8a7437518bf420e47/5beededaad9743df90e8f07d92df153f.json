@@ -6,6 +6,15 @@
   "categories": "public/games/applications",
   "keyImages": [
     {
+      "type": "DieselGameBoxLogo",
+      "url": "https://cdn1.epicgames.com/item/77f2b98e2cef40c8a7437518bf420e47/EGS_Cyberpunk2077_CDPROJEKTRED_IC1_400x400-24e58442295930689c280c37da538218",
+      "md5": "24e58442295930689c280c37da538218",
+      "width": 400,
+      "height": 400,
+      "size": 24635,
+      "uploadedDate": "2022-01-03T15:59:11.203Z"
+    },
+    {
       "type": "DieselGameBox",
       "url": "https://cdn1.epicgames.com/item/77f2b98e2cef40c8a7437518bf420e47/EN_CDProjektRED_Cyberpunk2077NG_S1_2560x1440_2560x1440-359e77d3cd0a40aebf3bbc130d14c5c7",
       "md5": "359e77d3cd0a40aebf3bbc130d14c5c7",
@@ -25,7 +34,7 @@
     }
   ],
   "creationDate": "2019-06-07T19:03:29.226+00:00",
-  "lastModifiedDate": "2022-09-07T13:49:15.954+00:00",
+  "lastModifiedDate": "2023-12-05T11:01:26.686+00:00",
   "developer": "CD PROJEKT RED",
   "developerId": "o-x2vdjaf7cfakvlsgz8qf2gx8bkplcc",
   "applicationId": "fghi4567ay5jIOq6Vy3yzQe8RNUYiURd"

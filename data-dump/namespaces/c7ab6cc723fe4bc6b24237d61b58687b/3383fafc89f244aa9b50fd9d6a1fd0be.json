@@ -1,13 +1,13 @@
 {
   "id": "3383fafc89f244aa9b50fd9d6a1fd0be",
-  "title": "BluegillGeneralAudience",
-  "description": "BluegillGeneralAudience",
+  "title": "Bluegill prepurchase Audience",
+  "description": "Bluegill prepurchase Audience",
   "namespace": "c7ab6cc723fe4bc6b24237d61b58687b",
   "categories": "",
   "keyImages": null,
   "creationDate": "2020-06-29T16:06:51.272+00:00",
-  "lastModifiedDate": "2021-11-16T15:56:01.301+00:00",
-  "developer": "Riot Games",
+  "lastModifiedDate": "2023-10-23T15:53:30.971+00:00",
+  "developer": "Riot Forge",
   "developerId": "o-ch65axjcvgpsutlhlcyvqkx3fkmk44",
-  "applicationId": null
+  "applicationId": ""
 }

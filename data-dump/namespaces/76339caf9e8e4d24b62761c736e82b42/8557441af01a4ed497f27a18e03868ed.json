@@ -15,17 +15,17 @@
       "uploadedDate": "2019-07-12T18:42:13.972Z"
     },
     {
-      "type": "DieselGameBoxLogo",
-      "url": "https://cdn1.epicgames.com/76339caf9e8e4d24b62761c736e82b42/item/01_EGS_enhance_TetrisEffect_IC1_logoWhite2-3344x2582-ae2e090eb92ccb1d86a111a68a6a96a3.png",
-      "md5": "ae2e090eb92ccb1d86a111a68a6a96a3",
-      "width": 3344,
-      "height": 2582,
-      "size": 214129,
-      "uploadedDate": "2019-07-12T18:42:30.376Z"
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/item/76339caf9e8e4d24b62761c736e82b42/EGS_TetrisEffectConnected_MonstarsincResonairStageGames_S2_1200x1600-198972bf794d088c3cb15e71bac9f0e2_1200x1600-198972bf794d088c3cb15e71bac9f0e2_1200x1600-198972bf794d088c3cb15e71bac9f0e2",
+      "md5": "198972bf794d088c3cb15e71bac9f0e2",
+      "width": 1200,
+      "height": 1600,
+      "size": 406198,
+      "uploadedDate": "2024-04-16T16:59:46.098Z"
     }
   ],
   "creationDate": "2019-07-30T14:14:00.943+00:00",
-  "lastModifiedDate": "2021-06-24T01:59:16.705+00:00",
+  "lastModifiedDate": "2024-04-16T17:00:54.656+00:00",
   "developer": "Enhance, Inc.",
   "developerId": "o-4bn3uqfwdgdmnx9yfdauv57gqcjzqn",
   "applicationId": ""

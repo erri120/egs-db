@@ -7,25 +7,25 @@
   "keyImages": [
     {
       "type": "DieselGameBox",
-      "url": "https://cdn1.epicgames.com/item/933ada2ec45e4184ae840d64c99e0ba9/RoCo_EGS_BaseGame_LandscapeProduct_2560x1440_2560x1440-9f12c620a340dd8b7a84d63135973817",
-      "md5": "9f12c620a340dd8b7a84d63135973817",
-      "width": 2560,
-      "height": 1440,
-      "size": 951419,
-      "uploadedDate": "2023-02-24T12:59:30.615Z"
+      "url": "https://cdn1.epicgames.com/item/933ada2ec45e4184ae840d64c99e0ba9/RoCo_EGS_3_1920x1080-3c7184891bf4c43ad9ea14cc824e6c7d",
+      "md5": "3c7184891bf4c43ad9ea14cc824e6c7d",
+      "width": 1920,
+      "height": 1080,
+      "size": 880873,
+      "uploadedDate": "2023-06-28T13:26:44.59Z"
     },
     {
       "type": "DieselGameBoxTall",
-      "url": "https://cdn1.epicgames.com/item/933ada2ec45e4184ae840d64c99e0ba9/RoCo_EGS_BaseGame_PortraitProduct_1200x1600_1200x1600-886450991cadd15b0e5e08b80f671556",
-      "md5": "886450991cadd15b0e5e08b80f671556",
+      "url": "https://cdn1.epicgames.com/item/933ada2ec45e4184ae840d64c99e0ba9/RoCo_EGS_3_1200x1600-faf06c3f5a5e2af36681a033b96a1746",
+      "md5": "faf06c3f5a5e2af36681a033b96a1746",
       "width": 1200,
       "height": 1600,
-      "size": 477073,
-      "uploadedDate": "2023-02-24T12:59:33.742Z"
+      "size": 661363,
+      "uploadedDate": "2023-06-28T13:26:47.474Z"
     }
   ],
   "creationDate": "2019-08-16T21:22:27.462+00:00",
-  "lastModifiedDate": "2023-02-28T12:00:17.672+00:00",
+  "lastModifiedDate": "2023-07-18T10:54:21.915+00:00",
   "developer": "Hi-Rez Studios",
   "developerId": "o-7aklpapnk74p66sqs6hm5byt29wp66",
   "applicationId": ""

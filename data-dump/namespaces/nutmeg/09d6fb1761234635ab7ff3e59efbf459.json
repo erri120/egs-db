@@ -7,35 +7,26 @@
   "keyImages": [
     {
       "type": "DieselGameBoxTall",
-      "url": "https://cdn1.epicgames.com/nutmeg/item/EGS_DigitalContinue_SuperMash_S2-1280x1440-52eec467a062786ee13603fec2a79246.jpg",
-      "md5": "52eec467a062786ee13603fec2a79246",
-      "width": 1280,
-      "height": 1440,
-      "size": 210232,
-      "uploadedDate": "2019-11-27T14:23:59.443Z"
+      "url": "https://cdn1.epicgames.com/item/nutmeg/Untitled1_1200x1600-2bcd29265270fe864adc5c663891bbf4",
+      "md5": "2bcd29265270fe864adc5c663891bbf4",
+      "width": 1200,
+      "height": 1600,
+      "size": 1832574,
+      "uploadedDate": "2024-01-30T21:11:07.763Z"
     },
     {
       "type": "DieselGameBox",
-      "url": "https://cdn1.epicgames.com/nutmeg/item/EGS_DigitalContinue_SuperMash_S1-2560x1440-b229d19d5e39ddcc7d058cc09ae52d56.jpg",
-      "md5": "b229d19d5e39ddcc7d058cc09ae52d56",
+      "url": "https://cdn1.epicgames.com/item/nutmeg/LandscapeOffer_2560x1440-2560x1440-435a6a2f7e0f4f41bcc58a130b20df7f_2560x1440-435a6a2f7e0f4f41bcc58a130b20df7f",
+      "md5": "435a6a2f7e0f4f41bcc58a130b20df7f",
       "width": 2560,
       "height": 1440,
-      "size": 363227,
-      "uploadedDate": "2019-11-27T14:24:10.483Z"
-    },
-    {
-      "type": "DieselGameBoxLogo",
-      "url": "https://cdn1.epicgames.com/nutmeg/item/EGS_DigitalContinue_SuperMash_IC1-198x69-f0978983d9a616c063d42cd2ebb3630c.png",
-      "md5": "f0978983d9a616c063d42cd2ebb3630c",
-      "width": 198,
-      "height": 69,
-      "size": 31569,
-      "uploadedDate": "2019-11-27T14:24:21.395Z"
+      "size": 2922983,
+      "uploadedDate": "2024-01-30T21:11:34.071Z"
     }
   ],
   "creationDate": "2019-04-01T19:08:14.141+00:00",
-  "lastModifiedDate": "2019-12-10T18:14:36.998+00:00",
+  "lastModifiedDate": "2024-03-21T17:45:31.398+00:00",
   "developer": "Digital Continue",
   "developerId": "o-qb7ry6eblsrnt28hxlcuw8w5j5t7y3",
-  "applicationId": null
+  "applicationId": ""
 }

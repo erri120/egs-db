@@ -1,6 +1,6 @@
 {
   "id": "fcf496d7382341fcaf3c2b583f116e2c",
-  "title": "The Outer Worlds General Audience",
+  "title": "The Outer Worlds",
   "description": "The Outer Worlds General Audience",
   "namespace": "rosemallow",
   "categories": "",
@@ -16,8 +16,8 @@
     }
   ],
   "creationDate": "2019-03-16T06:26:22.226+00:00",
-  "lastModifiedDate": "2020-10-23T14:06:24.573+00:00",
+  "lastModifiedDate": "2023-09-27T17:42:18.753+00:00",
   "developer": "Private Division",
   "developerId": "o-6emrb2lpzacm9ued3z37u42x56wkaz",
-  "applicationId": null
+  "applicationId": ""
 }

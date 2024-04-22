@@ -3,7 +3,7 @@
   "title": "Doors That Go Like This",
   "description": "Doors That Go Like This",
   "namespace": "03f7951c81af45e48a1caf6f8e24dba9",
-  "categories": "public/games/applications",
+  "categories": "public/addons/applications",
   "keyImages": [
     {
       "type": "DieselGameBox",
@@ -24,9 +24,9 @@
       "uploadedDate": "2021-01-27T04:47:45.644Z"
     }
   ],
-  "creationDate": "2021-01-07T20:59:02.398+00:00",
-  "lastModifiedDate": "2021-01-28T16:06:45.957+00:00",
+  "creationDate": "2024-02-16T19:04:10.994+00:00",
+  "lastModifiedDate": "2024-02-16T19:13:36.744+00:00",
   "developer": "Positech Computing Ltd",
   "developerId": "o-hrszwkzbhb269y9we9tpukac2zxb5e",
-  "applicationId": null
+  "applicationId": ""
 }

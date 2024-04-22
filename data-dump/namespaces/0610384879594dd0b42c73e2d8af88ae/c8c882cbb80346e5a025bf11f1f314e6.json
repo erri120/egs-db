@@ -1,7 +1,7 @@
 {
   "id": "c8c882cbb80346e5a025bf11f1f314e6",
   "title": "Moonglow Bay",
-  "description": "Moonglow Bay",
+  "description": "In Moonglow Bay, you play as a rookie angler, working together with friends, family, and neighbours to hone your fishing skills, nourish relationships, and restore a remote town\u2019s fractured community.",
   "namespace": "0610384879594dd0b42c73e2d8af88ae",
   "categories": "public/games/applications",
   "keyImages": [
@@ -24,8 +24,8 @@
       "uploadedDate": "2021-11-10T19:57:08.19Z"
     }
   ],
-  "creationDate": "2020-11-11T16:26:21.431+00:00",
-  "lastModifiedDate": "2021-11-11T16:23:39.562+00:00",
+  "creationDate": "2024-04-10T13:10:24.693+00:00",
+  "lastModifiedDate": "2024-04-15T07:39:00.62+00:00",
   "developer": "Coatsink",
   "developerId": "o-bhd3mh54edbkdtbzehl9wz6jnfeyea",
   "applicationId": ""

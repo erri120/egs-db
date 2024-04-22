@@ -7,12 +7,12 @@
   "keyImages": [
     {
       "type": "DieselGameBox",
-      "url": "https://cdn1.epicgames.com/00b9ec358e1f46daa4f8e1194d5081d8/item/Alan_Wake_PrimaryPromo_2580x1450-2580x1450-50ac27e1221d7f78e8330a88f251b559.jpg",
-      "md5": "50ac27e1221d7f78e8330a88f251b559",
-      "width": 2580,
-      "height": 1450,
-      "size": 289814,
-      "uploadedDate": "2019-07-22T21:42:48.963Z"
+      "url": "https://cdn1.epicgames.com/item/00b9ec358e1f46daa4f8e1194d5081d8/Alan_Wake_LandscapeImage_New_2560x1440-7941107b8ec370d549a4db29e7b74e4b",
+      "md5": "7941107b8ec370d549a4db29e7b74e4b",
+      "width": 2560,
+      "height": 1440,
+      "size": 1897605,
+      "uploadedDate": "2023-12-13T23:34:55.652Z"
     },
     {
       "type": "DieselGameBoxLogo",
@@ -25,17 +25,17 @@
     },
     {
       "type": "DieselGameBoxTall",
-      "url": "https://cdn1.epicgames.com/00b9ec358e1f46daa4f8e1194d5081d8/item/AlanWake_Portrait_Promo_1280x1420-1280x1420-77de69029fd93cdcab3f9af52c550cad.jpg",
-      "md5": "77de69029fd93cdcab3f9af52c550cad",
-      "width": 1280,
-      "height": 1420,
-      "size": 200950,
-      "uploadedDate": "2019-10-22T09:41:44.79Z"
+      "url": "https://cdn1.epicgames.com/item/00b9ec358e1f46daa4f8e1194d5081d8/AlanWake_Portrait_New2_1200x1600-8802099dda040e40a7cbacb3cdba94ed",
+      "md5": "8802099dda040e40a7cbacb3cdba94ed",
+      "width": 1200,
+      "height": 1600,
+      "size": 1237681,
+      "uploadedDate": "2023-12-13T23:35:02.789Z"
     }
   ],
   "creationDate": "2019-07-22T19:13:35.168+00:00",
-  "lastModifiedDate": "2020-05-14T22:01:14.835+00:00",
+  "lastModifiedDate": "2023-12-13T23:35:08.183+00:00",
   "developer": "Remedy Entertainment",
   "developerId": "o-sdmmvl8pftrkwfy86bjp286kuwhnsq",
-  "applicationId": null
+  "applicationId": ""
 }

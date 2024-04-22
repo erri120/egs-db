@@ -7,25 +7,25 @@
   "keyImages": [
     {
       "type": "DieselGameBox",
-      "url": "https://cdn1.epicgames.com/item/4966d5da285c4f2c876937844b0e23ee/EGS_RogueLegacy2_CellarDoorGames_S1_2560x1440-ef7a194aa6599659475289bc2fa9bfd0",
-      "md5": "ef7a194aa6599659475289bc2fa9bfd0",
+      "url": "https://cdn1.epicgames.com/item/4966d5da285c4f2c876937844b0e23ee/RL2wide_2560x1440-c4a1a4bd16f3b4a05e766b81ee4a1232",
+      "md5": "c4a1a4bd16f3b4a05e766b81ee4a1232",
       "width": 2560,
       "height": 1440,
-      "size": 981576,
-      "uploadedDate": "2023-04-27T12:46:36.064Z"
+      "size": 448461,
+      "uploadedDate": "2022-11-29T15:58:42.684Z"
     },
     {
       "type": "DieselGameBoxTall",
-      "url": "https://cdn1.epicgames.com/item/4966d5da285c4f2c876937844b0e23ee/EGS_RogueLegacy2_CellarDoorGames_S2_1200x1600-849995ee49ae434171bf746d71a26415",
-      "md5": "849995ee49ae434171bf746d71a26415",
+      "url": "https://cdn1.epicgames.com/item/4966d5da285c4f2c876937844b0e23ee/RL2tall_1200x1600-7ce135f08c7d29b93e77f6dd853e72ae",
+      "md5": "7ce135f08c7d29b93e77f6dd853e72ae",
       "width": 1200,
       "height": 1600,
-      "size": 979504,
-      "uploadedDate": "2023-04-27T12:46:39.608Z"
+      "size": 275253,
+      "uploadedDate": "2022-11-29T15:58:45.192Z"
     }
   ],
   "creationDate": "2020-06-23T12:42:05.81+00:00",
-  "lastModifiedDate": "2023-04-28T15:48:45.552+00:00",
+  "lastModifiedDate": "2023-05-30T20:38:11.212+00:00",
   "developer": "Cellar Door Games",
   "developerId": "o-aajwdms75r9jlekaktgsnxe6zw2ldj",
   "applicationId": "fghi4567hZtnxOvWAKZ2wqCO6VWberyY"

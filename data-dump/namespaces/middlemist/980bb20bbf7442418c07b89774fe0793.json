@@ -1,0 +1,23 @@
+{
+  "id": "980bb20bbf7442418c07b89774fe0793",
+  "title": "CinnamistGeneralAudience (TEST)",
+  "description": "CinnamistGeneralAudience (TEST)",
+  "namespace": "middlemist",
+  "categories": "",
+  "keyImages": [
+    {
+      "type": "ESRB",
+      "url": "https://cdn1.epicgames.com/middlemist/item/ESRB_NOCOPYWRITTE_M_Long_1080-1-4905x2280-a8003b462a29137e7eb04750a3016905.png",
+      "md5": "a8003b462a29137e7eb04750a3016905",
+      "width": 4905,
+      "height": 2280,
+      "size": 232833,
+      "uploadedDate": "2019-04-29T19:42:24.046Z"
+    }
+  ],
+  "creationDate": "2019-04-19T15:47:39.275+00:00",
+  "lastModifiedDate": "2024-01-22T15:13:05.143+00:00",
+  "developer": "Frogwares",
+  "developerId": "o-rlw9u3sem84g2hc3ur36dqnp7wul3j",
+  "applicationId": null
+}

@@ -1,7 +1,7 @@
 {
   "id": "59641bb78cee488f8b0d616d588212eb",
-  "title": "SnowRunner Beta",
-  "description": "SnowRunner Beta",
+  "title": "DNU SnowRunner Beta",
+  "description": "DNU SnowRunner Beta",
   "namespace": "2744acda6a2e493e9894b389b6564df7",
   "categories": "public/games/applications",
   "keyImages": [
@@ -25,8 +25,8 @@
     }
   ],
   "creationDate": "2019-10-09T20:49:50.533+00:00",
-  "lastModifiedDate": "2021-05-17T23:59:31.791+00:00",
-  "developer": "Focus Home",
+  "lastModifiedDate": "2024-04-18T16:20:55.472+00:00",
+  "developer": "Focus Entertainment Publishing",
   "developerId": "o-wt4zxeetmq6jem7qp4pkssr46aenj5",
-  "applicationId": null
+  "applicationId": ""
 }

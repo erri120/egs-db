@@ -1,0 +1,23 @@
+{
+  "id": "ec30fa9bdb09478d89ff1827025f05f8",
+  "title": "Paranoia Ultraviolet Audience",
+  "description": "Paranoia Ultraviolet Audience",
+  "namespace": "52613245bcd34a8eb99078f423620a4d",
+  "categories": "",
+  "keyImages": [
+    {
+      "type": "ESRB",
+      "url": "https://cdn1.epicgames.com/52613245bcd34a8eb99078f423620a4d/item/ESRB_Paranoia-842x404-f34529daa4c2fc969dde2a74360ec2c2.png",
+      "md5": "f34529daa4c2fc969dde2a74360ec2c2",
+      "width": 842,
+      "height": 404,
+      "size": 13253,
+      "uploadedDate": "2019-09-20T20:03:38.394Z"
+    }
+  ],
+  "creationDate": "2019-09-19T21:27:46.585+00:00",
+  "lastModifiedDate": "2023-08-18T09:53:55.112+00:00",
+  "developer": "Nacon",
+  "developerId": "o-wubu848ps2xcxuwv2m3bhet9gbhdbp",
+  "applicationId": null
+}

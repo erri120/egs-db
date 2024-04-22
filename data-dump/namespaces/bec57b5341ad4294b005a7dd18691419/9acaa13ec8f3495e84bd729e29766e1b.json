@@ -7,25 +7,25 @@
   "keyImages": [
     {
       "type": "DieselGameBox",
-      "url": "https://cdn1.epicgames.com/bec57b5341ad4294b005a7dd18691419/item/Yaga_MainGame_EpicGamesStore_N3_Newsfeed_Primary_ApprovedPublic-2560x1440-7b55beb1f99c3e461380181215242809.jpg",
-      "md5": "7b55beb1f99c3e461380181215242809",
+      "url": "https://cdn1.epicgames.com/item/bec57b5341ad4294b005a7dd18691419/yagas1_2560x1440-1c9f65e55a5c0697d362843eaf996f52",
+      "md5": "1c9f65e55a5c0697d362843eaf996f52",
       "width": 2560,
       "height": 1440,
-      "size": 98059,
-      "uploadedDate": "2019-09-25T19:23:34.572Z"
+      "size": 418403,
+      "uploadedDate": "2023-07-13T13:05:35.198Z"
     },
     {
       "type": "DieselGameBoxTall",
-      "url": "https://cdn1.epicgames.com/bec57b5341ad4294b005a7dd18691419/item/Yaga_S3_Store_Portrait_REF-1280x1440-19d2291a8636b3ce1f246d68045411d8-1280x1440-19d2291a8636b3ce1f246d68045411d8-1280x1440-19d2291a8636b3ce1f246d68045411d8.jpg",
-      "md5": "19d2291a8636b3ce1f246d68045411d8",
-      "width": 1280,
-      "height": 1440,
-      "size": 476971,
-      "uploadedDate": "2019-11-20T21:10:20.473Z"
+      "url": "https://cdn1.epicgames.com/item/bec57b5341ad4294b005a7dd18691419/yagas2_1200x1600-d1ec3f8af1c97a7041bd660c745d21ce",
+      "md5": "d1ec3f8af1c97a7041bd660c745d21ce",
+      "width": 1200,
+      "height": 1600,
+      "size": 350598,
+      "uploadedDate": "2023-07-13T13:05:38.287Z"
     }
   ],
   "creationDate": "2019-06-14T18:13:11.239+00:00",
-  "lastModifiedDate": "2021-11-05T14:57:49.429+00:00",
+  "lastModifiedDate": "2024-04-02T18:52:41.336+00:00",
   "developer": "Versus Evil",
   "developerId": "o-ugw2zblbdkg5xklzadlrt2qe92cdje",
   "applicationId": ""

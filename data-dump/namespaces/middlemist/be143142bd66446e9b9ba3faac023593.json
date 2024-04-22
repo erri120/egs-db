@@ -1,0 +1,23 @@
+{
+  "id": "be143142bd66446e9b9ba3faac023593",
+  "title": "Chicago Organ Grinder Entitlement",
+  "description": "Chicago Organ Grinder Entitlement",
+  "namespace": "middlemist",
+  "categories": "",
+  "keyImages": [
+    {
+      "type": "ESRB",
+      "url": "https://cdn1.epicgames.com/middlemist/item/the-sinking-city_ESRB_M-4905x2280-a6ffeae05a215ef4b08575ac8eb0ef4f.png",
+      "md5": "a6ffeae05a215ef4b08575ac8eb0ef4f",
+      "width": 4905,
+      "height": 2280,
+      "size": 101372,
+      "uploadedDate": "2019-06-26T15:10:29.713Z"
+    }
+  ],
+  "creationDate": "2019-03-19T01:41:47.048+00:00",
+  "lastModifiedDate": "2024-03-29T15:51:26.249+00:00",
+  "developer": "Frogwares",
+  "developerId": "o-rlw9u3sem84g2hc3ur36dqnp7wul3j",
+  "applicationId": ""
+}

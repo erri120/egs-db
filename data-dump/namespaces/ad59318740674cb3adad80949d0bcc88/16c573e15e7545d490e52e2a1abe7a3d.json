@@ -1,0 +1,32 @@
+{
+  "id": "16c573e15e7545d490e52e2a1abe7a3d",
+  "title": "Syberia : The World Before Deluxe Content",
+  "description": "Syberia : The World Before Deluxe Content",
+  "namespace": "ad59318740674cb3adad80949d0bcc88",
+  "categories": "",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/spt-assets/78dfc11ec15f443e8e72800a73de5e4c/syberia-the-world-before-skrf0.jpg",
+      "md5": "35c4da6fd0ec4879480c519468057cc5",
+      "width": 2560,
+      "height": 1440,
+      "size": 998070,
+      "uploadedDate": "2024-04-12T12:40:42.748Z"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/spt-assets/78dfc11ec15f443e8e72800a73de5e4c/syberia-the-world-before-1ica5.jpg",
+      "md5": "73c6f885598cf148eb870b64699de40c",
+      "width": 1200,
+      "height": 1600,
+      "size": 1016759,
+      "uploadedDate": "2024-04-12T12:40:42.589Z"
+    }
+  ],
+  "creationDate": "2024-04-16T08:15:19.273+00:00",
+  "lastModifiedDate": "2024-04-16T08:15:19.273+00:00",
+  "developer": "Microids",
+  "developerId": "o-lyvtyhgthgebq7jdg4wu6km9lyjp2h",
+  "applicationId": ""
+}

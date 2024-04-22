@@ -7,25 +7,25 @@
   "keyImages": [
     {
       "type": "DieselGameBox",
-      "url": "https://cdn1.epicgames.com/item/5fdcc0dc67294af3be740f362bd976fd/EGS_MagicTheGatheringArena_WizardsoftheCoast_S1_2560x1440-2a6dfe8d3d6924a33d29f0c95a83205d",
-      "md5": "2a6dfe8d3d6924a33d29f0c95a83205d",
+      "url": "https://cdn1.epicgames.com/item/5fdcc0dc67294af3be740f362bd976fd/mtg_outlaws_wide_2560x1440-9b96700ebd055b81496de046eb9ad386",
+      "md5": "9b96700ebd055b81496de046eb9ad386",
       "width": 2560,
       "height": 1440,
-      "size": 672180,
-      "uploadedDate": "2023-02-14T12:44:07.803Z"
+      "size": 1017259,
+      "uploadedDate": "2024-04-16T16:05:16.02Z"
     },
     {
       "type": "DieselGameBoxTall",
-      "url": "https://cdn1.epicgames.com/item/5fdcc0dc67294af3be740f362bd976fd/EGS_MagicTheGatheringArena_WizardsoftheCoast_S2_1200x1600-598bab107ae56fa357070c71100cc0be",
-      "md5": "598bab107ae56fa357070c71100cc0be",
+      "url": "https://cdn1.epicgames.com/item/5fdcc0dc67294af3be740f362bd976fd/mtg_outlaws_tall_1200x1600-3082eacb0f04a5e79749d4e585f1ed8d",
+      "md5": "3082eacb0f04a5e79749d4e585f1ed8d",
       "width": 1200,
       "height": 1600,
-      "size": 431474,
-      "uploadedDate": "2023-02-14T12:44:11.002Z"
+      "size": 886780,
+      "uploadedDate": "2024-04-16T16:05:18.892Z"
     }
   ],
   "creationDate": "2019-05-20T18:23:14.55+00:00",
-  "lastModifiedDate": "2023-02-14T20:48:30.206+00:00",
+  "lastModifiedDate": "2024-04-16T16:05:49.552+00:00",
   "developer": "Wizards of the Coast",
   "developerId": "o-xlb74ml56wsa5dcfcgrpvu4ywndlmm",
   "applicationId": ""
