@@ -1,0 +1,32 @@
+{
+  "id": "d99aa0f183854533a7a5bad71b18558d",
+  "title": "Blasphemous 2",
+  "description": "Blasphemous 2",
+  "namespace": "c2890856ddb844f1a7d552fc929838a7",
+  "categories": "",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/item/c2890856ddb844f1a7d552fc929838a7/EGS_Blasphemous2_TheGameKitchen_S1_2560x1440-12672e8bbe1c508efc9a7c6a871421ec",
+      "md5": "12672e8bbe1c508efc9a7c6a871421ec",
+      "width": 2560,
+      "height": 1440,
+      "size": 328020,
+      "uploadedDate": "2023-07-25T08:19:08.418Z"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/item/c2890856ddb844f1a7d552fc929838a7/EGS_Blasphemous2_TheGameKitchen_S2_1200x1600-06855277692f2ef37230f8dbc8cf0df7",
+      "md5": "06855277692f2ef37230f8dbc8cf0df7",
+      "width": 1200,
+      "height": 1600,
+      "size": 253907,
+      "uploadedDate": "2023-07-25T08:19:11.629Z"
+    }
+  ],
+  "creationDate": "2023-07-06T07:39:38.694+00:00",
+  "lastModifiedDate": "2023-09-20T14:00:00.026+00:00",
+  "developer": "Team17 Digital Ltd",
+  "developerId": "o-uvtztrtfjdn3xgrwyhbuwwb5z42mbv",
+  "applicationId": ""
+}

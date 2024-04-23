@@ -1,0 +1,32 @@
+{
+  "id": "13092063f71b4331b488bbe22d0a083e",
+  "title": "Eternights",
+  "description": "Eternights is a dating action game where you try to make the most out of life during the apocalypse. Monday: Go on a date. Tuesday: Clear dungeon. Friday: Freak out! The clock is ticking!!",
+  "namespace": "0bb1bf6df5784815a0c62120f8a82b25",
+  "categories": "",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/spt-assets/63c94a59a4b84942a5ea12a818ad13d0/eternights-offer-11r8i.jpg",
+      "md5": "228d06ee9eda07e53246ee4a2de5d594",
+      "width": 2560,
+      "height": 1440,
+      "size": 987558,
+      "uploadedDate": "2022-05-20T11:05:51.596Z"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/spt-assets/63c94a59a4b84942a5ea12a818ad13d0/download-eternights-offer-12511.jpg",
+      "md5": "94b3f33def985aef1ef1adb53e353c7f",
+      "width": 1200,
+      "height": 1600,
+      "size": 544535,
+      "uploadedDate": "2022-05-20T11:05:51.319Z"
+    }
+  ],
+  "creationDate": "2022-05-19T18:51:27.802+00:00",
+  "lastModifiedDate": "2023-09-27T15:28:25.638+00:00",
+  "developer": "Studio Sai",
+  "developerId": "o-lvb56g8qlk84vsgdalnw26p9pqwmql",
+  "applicationId": ""
+}

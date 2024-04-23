@@ -1,0 +1,41 @@
+{
+  "id": "8e5aad759e454e548ea22090011c770f",
+  "title": "Paranoia Deluxe Content",
+  "description": "Paranoia Deluxe Content",
+  "namespace": "52613245bcd34a8eb99078f423620a4d",
+  "categories": "public/games/applications",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/52613245bcd34a8eb99078f423620a4d/item/EGS_Bigben_Paranoia_G1-2560x1440-f7a40bb05f96207aac8a6d49dc498b94.jpg",
+      "md5": "f7a40bb05f96207aac8a6d49dc498b94",
+      "width": 2560,
+      "height": 1440,
+      "size": 390122,
+      "uploadedDate": "2019-09-24T14:38:27.454Z"
+    },
+    {
+      "type": "DieselGameBoxLogo",
+      "url": "https://cdn1.epicgames.com/52613245bcd34a8eb99078f423620a4d/item/EGS_Bigben_Paranoia_IC1_LogoColor-1850x550-7b17afaebf6fcddbe1b1ed9a7d8ae7f8.png",
+      "md5": "7b17afaebf6fcddbe1b1ed9a7d8ae7f8",
+      "width": 1850,
+      "height": 550,
+      "size": 289900,
+      "uploadedDate": "2019-09-24T14:38:40.93Z"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/52613245bcd34a8eb99078f423620a4d/item/EGS_Bigben_Paranoia_S3-1280x1440-6ab598b6006a9397c610a5e91f599a02.jpg",
+      "md5": "6ab598b6006a9397c610a5e91f599a02",
+      "width": 1280,
+      "height": 1440,
+      "size": 216215,
+      "uploadedDate": "2019-12-05T14:04:17.856Z"
+    }
+  ],
+  "creationDate": "2019-10-08T15:00:13.218+00:00",
+  "lastModifiedDate": "2023-08-18T09:53:55.374+00:00",
+  "developer": "Nacon",
+  "developerId": "o-wubu848ps2xcxuwv2m3bhet9gbhdbp",
+  "applicationId": null
+}

@@ -7,35 +7,26 @@
   "keyImages": [
     {
       "type": "DieselGameBox",
-      "url": "https://cdn1.epicgames.com/f9c2aedaff8442b286fbd026948b9f09/item/Faeria_MainGame_EpicGamesStore_L1_Library_Primary_ApprovedPublic-2560x1440-1b4f63bca1383c9645af8e9c9133db17.jpg",
-      "md5": "1b4f63bca1383c9645af8e9c9133db17",
+      "url": "https://cdn1.epicgames.com/item/f9c2aedaff8442b286fbd026948b9f09/fs1_2560x1440-e7e22dc2b5d69a70cd0a8a436da0094f",
+      "md5": "e7e22dc2b5d69a70cd0a8a436da0094f",
       "width": 2560,
       "height": 1440,
-      "size": 1515357,
-      "uploadedDate": "2020-02-20T13:55:30.565Z"
+      "size": 398177,
+      "uploadedDate": "2023-07-13T13:54:17.326Z"
     },
     {
       "type": "DieselGameBoxTall",
-      "url": "https://cdn1.epicgames.com/f9c2aedaff8442b286fbd026948b9f09/item/Faeria_MainGame_EpicGamesStore_S3_Store_Portrait_ApprovedPublic-1280x1440-2d7d8a3857de45746e2d8e47c90cac5e.jpg",
-      "md5": "2d7d8a3857de45746e2d8e47c90cac5e",
-      "width": 1280,
-      "height": 1440,
-      "size": 853942,
-      "uploadedDate": "2020-02-20T13:55:46.424Z"
-    },
-    {
-      "type": "DieselGameBoxLogo",
-      "url": "https://cdn1.epicgames.com/f9c2aedaff8442b286fbd026948b9f09/item/Faeria_MainGame_EpicGamesStore_IC1_Logo_Color_ApprovedPublic-3731x1958-c0897bee240ecb7592f510b1d01f58c0.png",
-      "md5": "c0897bee240ecb7592f510b1d01f58c0",
-      "width": 3731,
-      "height": 1958,
-      "size": 3540897,
-      "uploadedDate": "2020-02-20T13:56:00.594Z"
+      "url": "https://cdn1.epicgames.com/item/f9c2aedaff8442b286fbd026948b9f09/fs2_1200x1600-1f3479f8cd450dd150e8615eaa4dd775",
+      "md5": "1f3479f8cd450dd150e8615eaa4dd775",
+      "width": 1200,
+      "height": 1600,
+      "size": 455887,
+      "uploadedDate": "2023-07-13T13:54:20.127Z"
     }
   ],
   "creationDate": "2019-06-14T18:16:34.804+00:00",
-  "lastModifiedDate": "2020-02-26T17:27:30.297+00:00",
+  "lastModifiedDate": "2023-07-13T13:54:23.581+00:00",
   "developer": "Abrakam",
   "developerId": "o-7e471071ca794f1abc81c7430b7e8f",
-  "applicationId": null
+  "applicationId": ""
 }

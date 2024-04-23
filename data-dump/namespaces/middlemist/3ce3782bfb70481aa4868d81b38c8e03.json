@@ -1,0 +1,23 @@
+{
+  "id": "3ce3782bfb70481aa4868d81b38c8e03",
+  "title": "Investigator Pack DLC Entitlement",
+  "description": "Investigator Pack DLC Entitlement",
+  "namespace": "middlemist",
+  "categories": "",
+  "keyImages": [
+    {
+      "type": "ESRB",
+      "url": "https://cdn1.epicgames.com/middlemist/item/the-sinking-city_ESRB_M-4905x2280-a6ffeae05a215ef4b08575ac8eb0ef4f.png",
+      "md5": "a6ffeae05a215ef4b08575ac8eb0ef4f",
+      "width": 4905,
+      "height": 2280,
+      "size": 101372,
+      "uploadedDate": "2019-06-26T15:08:24.448Z"
+    }
+  ],
+  "creationDate": "2019-03-19T01:37:19.436+00:00",
+  "lastModifiedDate": "2024-03-29T15:51:26.241+00:00",
+  "developer": "Frogwares",
+  "developerId": "o-rlw9u3sem84g2hc3ur36dqnp7wul3j",
+  "applicationId": ""
+}

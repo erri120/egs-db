@@ -7,26 +7,26 @@
   "keyImages": [
     {
       "type": "DieselGameBox",
-      "url": "https://cdn1.epicgames.com/item/6ff9efdef6dc45ecb40ed20fcd2c4621/DD2-Epic-Offer-Landscape_3_2560x1440-e91e8a3c874d312bc98f7628fc569ffe",
-      "md5": "e91e8a3c874d312bc98f7628fc569ffe",
+      "url": "https://cdn1.epicgames.com/item/6ff9efdef6dc45ecb40ed20fcd2c4621/DD2-EGS-1point0-Offer-Landscape-_2560x1440-349c0e85973bbad79ac49d12a71736f6",
+      "md5": "349c0e85973bbad79ac49d12a71736f6",
       "width": 2560,
       "height": 1440,
-      "size": 1017310,
-      "uploadedDate": "2023-03-30T18:57:20.629Z"
+      "size": 576665,
+      "uploadedDate": "2023-05-09T13:16:26.211Z"
     },
     {
       "type": "DieselGameBoxTall",
-      "url": "https://cdn1.epicgames.com/item/6ff9efdef6dc45ecb40ed20fcd2c4621/DD2-Epic-Offer-Portrait_3_1200x1600-94c48316c0fd366bea387b82cf4aa0a1",
-      "md5": "94c48316c0fd366bea387b82cf4aa0a1",
+      "url": "https://cdn1.epicgames.com/item/6ff9efdef6dc45ecb40ed20fcd2c4621/DD2-EGS-1point0-Offer-Portrait_1200x1600-b6cada1ef4914e7e4fec01262f597690",
+      "md5": "b6cada1ef4914e7e4fec01262f597690",
       "width": 1200,
       "height": 1600,
-      "size": 632802,
-      "uploadedDate": "2023-03-30T18:57:25.77Z"
+      "size": 353617,
+      "uploadedDate": "2023-05-09T13:16:29.331Z"
     }
   ],
   "creationDate": "2019-08-23T21:23:54.176+00:00",
-  "lastModifiedDate": "2023-03-30T18:57:29.523+00:00",
+  "lastModifiedDate": "2024-01-10T17:11:47.579+00:00",
   "developer": "Red Hook Studios",
   "developerId": "o-w5yb6awebxmp362nvut3qd3xb4jmur",
-  "applicationId": ""
+  "applicationId": "fghi45675fyDqHIZMG9omasOxhGRCT2v"
 }

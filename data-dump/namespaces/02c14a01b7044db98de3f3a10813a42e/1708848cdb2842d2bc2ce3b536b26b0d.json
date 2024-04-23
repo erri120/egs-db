@@ -6,26 +6,26 @@
   "categories": "public/games/applications",
   "keyImages": [
     {
-      "type": "DieselGameBoxTall",
-      "url": "https://cdn1.epicgames.com/item/02c14a01b7044db98de3f3a10813a42e/EPIC_Portrait_1200x1600-abbd4295ed02b9eaa72f971121b1ce9b",
-      "md5": "abbd4295ed02b9eaa72f971121b1ce9b",
-      "width": 1200,
-      "height": 1600,
-      "size": 2882899,
-      "uploadedDate": "2022-05-25T17:15:21.605Z"
-    },
-    {
       "type": "DieselGameBox",
-      "url": "https://cdn1.epicgames.com/undefined",
-      "md5": "925116b41333539d3935c8901a6017a6",
+      "url": "https://cdn1.epicgames.com/offer/02c14a01b7044db98de3f3a10813a42e/HK_Landscape_2560x1440-0233eae757a0e921c879b7be3a697d97",
+      "md5": "0233eae757a0e921c879b7be3a697d97",
       "width": 2560,
       "height": 1440,
-      "size": 5557369,
-      "uploadedDate": "2022-05-25T17:15:36.096Z"
+      "size": 358402,
+      "uploadedDate": "2023-05-18T16:08:32.23Z"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/item/02c14a01b7044db98de3f3a10813a42e/newimg_1200x1600-41d8535c87839b2c2d0aeb3e43d00d57",
+      "md5": "41d8535c87839b2c2d0aeb3e43d00d57",
+      "width": 1200,
+      "height": 1600,
+      "size": 519847,
+      "uploadedDate": "2023-05-26T21:18:59.131Z"
     }
   ],
   "creationDate": "2020-09-08T17:30:29.527+00:00",
-  "lastModifiedDate": "2023-04-04T15:24:57.585+00:00",
+  "lastModifiedDate": "2024-01-18T14:56:04.248+00:00",
   "developer": "SEGA of Europe",
   "developerId": "o-q3zwbk8kbbbgar9ql3x7d43rjj8bjl",
   "applicationId": "fghi456749QdWl8Kb50KKN4N4r7XW7qc"

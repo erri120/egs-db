@@ -16,17 +16,17 @@
     },
     {
       "type": "DieselGameBoxTall",
-      "url": "https://cdn1.epicgames.com/8b8fd2fe87a04bbab2eca292e71b5e2c/item/Desperados3-OST-Portrait-1539x1829-ee41eb6d5e981235e1a3022fa846f916.png",
-      "md5": "ee41eb6d5e981235e1a3022fa846f916",
-      "width": 1539,
-      "height": 1829,
-      "size": 3440393,
-      "uploadedDate": "2020-06-10T18:42:33.901Z"
+      "url": "https://cdn1.epicgames.com/item/8b8fd2fe87a04bbab2eca292e71b5e2c/ost_1200x1600-9050d7769a43d54bef83a5a18dd30b23",
+      "md5": "9050d7769a43d54bef83a5a18dd30b23",
+      "width": 1200,
+      "height": 1600,
+      "size": 2982674,
+      "uploadedDate": "2024-01-31T20:33:17.173Z"
     }
   ],
   "creationDate": "2020-06-08T13:29:59.296+00:00",
-  "lastModifiedDate": "2020-06-16T16:47:39.048+00:00",
+  "lastModifiedDate": "2024-01-31T20:33:23.113+00:00",
   "developer": "THQ Nordic GmbH",
   "developerId": "o-jywxgemg3dagnv6fymcngq3g29mc4j",
-  "applicationId": null
+  "applicationId": ""
 }

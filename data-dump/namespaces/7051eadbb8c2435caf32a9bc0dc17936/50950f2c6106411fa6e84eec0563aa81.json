@@ -1,19 +1,10 @@
 {
   "id": "50950f2c6106411fa6e84eec0563aa81",
-  "title": "RimWorld Royalty DLC",
-  "description": "RimWorld Royalty DLC",
+  "title": "RimWorld - Royalty",
+  "description": "RimWorld - Royalty",
   "namespace": "7051eadbb8c2435caf32a9bc0dc17936",
   "categories": "public/games/applications",
   "keyImages": [
-    {
-      "type": "DieselGameBoxTall",
-      "url": "https://cdn1.epicgames.com/7051eadbb8c2435caf32a9bc0dc17936/item/EGS_Royalty_LudeonStudios_DLC_S2-1200x1600-e6e2d5dbcbecf38f58579f10e96550f2.jpg",
-      "md5": "e6e2d5dbcbecf38f58579f10e96550f2",
-      "width": 1200,
-      "height": 1600,
-      "size": 644061,
-      "uploadedDate": "2020-06-08T17:57:51.839Z"
-    },
     {
       "type": "DieselGameBox",
       "url": "https://cdn1.epicgames.com/7051eadbb8c2435caf32a9bc0dc17936/item/EGS_Royalty_LudeonStudios_DLC_S1-2560x1440-c2d988da3d4ae505be7bc9739515a3ed.jpg",
@@ -22,11 +13,20 @@
       "height": 1440,
       "size": 819956,
       "uploadedDate": "2020-06-08T17:58:13.143Z"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/7051eadbb8c2435caf32a9bc0dc17936/item/EGS_Royalty_LudeonStudios_DLC_S2-1200x1600-e6e2d5dbcbecf38f58579f10e96550f2.jpg",
+      "md5": "e6e2d5dbcbecf38f58579f10e96550f2",
+      "width": 1200,
+      "height": 1600,
+      "size": 644061,
+      "uploadedDate": "2020-06-08T17:57:51.839Z"
     }
   ],
   "creationDate": "2020-05-08T00:55:47.067+00:00",
-  "lastModifiedDate": "2020-06-09T16:00:13.927+00:00",
+  "lastModifiedDate": "2024-04-10T15:35:14.243+00:00",
   "developer": "Ludeon Studios",
   "developerId": "o-hsdwarj24e4ntqdnvu83854narhusv",
-  "applicationId": null
+  "applicationId": ""
 }

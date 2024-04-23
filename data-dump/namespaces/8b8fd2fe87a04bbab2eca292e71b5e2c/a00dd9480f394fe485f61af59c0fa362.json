@@ -7,25 +7,25 @@
   "keyImages": [
     {
       "type": "DieselGameBox",
-      "url": "https://cdn1.epicgames.com/8b8fd2fe87a04bbab2eca292e71b5e2c/item/desperados_keyart-10461x5900-9ad6b7f55152fa266112d7de9eebb26f.jpg",
-      "md5": "9ad6b7f55152fa266112d7de9eebb26f",
-      "width": 10461,
-      "height": 5900,
-      "size": 16658663,
-      "uploadedDate": "2020-06-10T18:37:40.696Z"
+      "url": "https://cdn1.epicgames.com/item/8b8fd2fe87a04bbab2eca292e71b5e2c/desperados3wide_2560x1440-6e53daddc388bb7b6fe9c9ac73dea7b9",
+      "md5": "6e53daddc388bb7b6fe9c9ac73dea7b9",
+      "width": 2560,
+      "height": 1440,
+      "size": 5785305,
+      "uploadedDate": "2024-01-31T20:32:34.164Z"
     },
     {
       "type": "DieselGameBoxTall",
-      "url": "https://cdn1.epicgames.com/8b8fd2fe87a04bbab2eca292e71b5e2c/item/Desperados3-Portrait-1539x1829-635d99688e941fb2f8c288600bc0fba2.png",
-      "md5": "635d99688e941fb2f8c288600bc0fba2",
-      "width": 1539,
-      "height": 1829,
-      "size": 4181480,
-      "uploadedDate": "2020-06-10T18:39:32.413Z"
+      "url": "https://cdn1.epicgames.com/item/8b8fd2fe87a04bbab2eca292e71b5e2c/desperados3_1200x1600-0b8ff1c8940b01d1beadbfb627cdf764",
+      "md5": "0b8ff1c8940b01d1beadbfb627cdf764",
+      "width": 1200,
+      "height": 1600,
+      "size": 3159815,
+      "uploadedDate": "2024-01-31T20:32:39.881Z"
     }
   ],
   "creationDate": "2020-05-27T15:11:09.976+00:00",
-  "lastModifiedDate": "2020-09-09T19:41:46.894+00:00",
+  "lastModifiedDate": "2024-01-31T20:32:48.41+00:00",
   "developer": "THQ Nordic GmbH",
   "developerId": "o-jywxgemg3dagnv6fymcngq3g29mc4j",
   "applicationId": "fghi4567ZMglHunyqOafHHW52WKdAAdi"

@@ -1,0 +1,23 @@
+{
+  "id": "ff661588c8f540dbbfafc57e2ef5b884",
+  "title": "The Sinking City Standard Edition Test Audience",
+  "description": "The Sinking City Standard Edition Test Audience",
+  "namespace": "middlemist",
+  "categories": "",
+  "keyImages": [
+    {
+      "type": "ESRB",
+      "url": "https://cdn1.epicgames.com/middlemist/item/ESRB_NOCOPYWRITTE_M_Long_1080-1-4905x2280-a8003b462a29137e7eb04750a3016905.png",
+      "md5": "a8003b462a29137e7eb04750a3016905",
+      "width": 4905,
+      "height": 2280,
+      "size": 232833,
+      "uploadedDate": "2019-04-29T19:41:41.289Z"
+    }
+  ],
+  "creationDate": "2019-03-19T01:43:54.895+00:00",
+  "lastModifiedDate": "2024-01-22T15:13:06.444+00:00",
+  "developer": "Frogwares",
+  "developerId": "o-rlw9u3sem84g2hc3ur36dqnp7wul3j",
+  "applicationId": null
+}

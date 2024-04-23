@@ -3,7 +3,7 @@
   "title": "Design Variety Pack",
   "description": "Design Variety Pack",
   "namespace": "03f7951c81af45e48a1caf6f8e24dba9",
-  "categories": "public/games/applications",
+  "categories": "public/addons/applications",
   "keyImages": [
     {
       "type": "DieselGameBox",
@@ -24,9 +24,9 @@
       "uploadedDate": "2021-01-27T04:49:24.093Z"
     }
   ],
-  "creationDate": "2021-01-07T21:08:42.419+00:00",
-  "lastModifiedDate": "2021-01-28T16:06:45.957+00:00",
+  "creationDate": "2024-02-16T19:04:11+00:00",
+  "lastModifiedDate": "2024-02-16T19:13:36.744+00:00",
   "developer": "Positech Computing Ltd",
   "developerId": "o-hrszwkzbhb269y9we9tpukac2zxb5e",
-  "applicationId": null
+  "applicationId": ""
 }

@@ -6,45 +6,27 @@
   "categories": "",
   "keyImages": [
     {
-      "type": "DieselGameBox",
-      "url": "https://cdn1.epicgames.com/lily/item/Operencia_2580x1450_Promo-2580x1450-da4c78667987fdbb8b4af27c7a895c09.jpg",
-      "md5": "da4c78667987fdbb8b4af27c7a895c09",
-      "width": 2580,
-      "height": 1450,
-      "size": 389239,
-      "uploadedDate": "2019-01-28T19:54:42.892Z"
-    },
-    {
-      "type": "Thumbnail",
-      "url": "https://cdn1.epicgames.com/lily/item/Operencia_GameIcon-400x400-c94586c5240b4f82d5da21be06c80586.png",
-      "md5": "c94586c5240b4f82d5da21be06c80586",
-      "width": 400,
-      "height": 400,
-      "size": 36104,
-      "uploadedDate": "2019-01-28T19:56:23.667Z"
-    },
-    {
-      "type": "DieselGameBoxLogo",
-      "url": "https://cdn1.epicgames.com/lily/item/Operencia_logo_color2-1684x762-61f1e117c7b4f121a6ac67c613a2bda2.png",
-      "md5": "61f1e117c7b4f121a6ac67c613a2bda2",
-      "width": 1684,
-      "height": 762,
-      "size": 172516,
-      "uploadedDate": "2019-03-08T13:26:55.875Z"
-    },
-    {
       "type": "DieselGameBoxTall",
-      "url": "https://cdn1.epicgames.com/lily/item/Operencia_PortraitPromo-1280x1420-c30709602fe7ba6ebc9a89c620bace60.jpg",
-      "md5": "c30709602fe7ba6ebc9a89c620bace60",
-      "width": 1280,
-      "height": 1420,
-      "size": 229438,
-      "uploadedDate": "2019-10-22T09:41:44.79Z"
+      "url": "https://cdn1.epicgames.com/item/lily/Storefront-Image-Portrait_1200x1600_Operencia_1200x1600-5eff84a056972541644ddb437b661c80",
+      "md5": "5eff84a056972541644ddb437b661c80",
+      "width": 1200,
+      "height": 1600,
+      "size": 253395,
+      "uploadedDate": "2023-06-27T20:32:52.167Z"
+    },
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/item/lily/Storefront-Image-Landscape_2560x1440_Operencia_2560x1440-980fcc7052cb10eecf5ae27995daff38",
+      "md5": "980fcc7052cb10eecf5ae27995daff38",
+      "width": 2560,
+      "height": 1440,
+      "size": 467508,
+      "uploadedDate": "2023-06-27T20:32:55.095Z"
     }
   ],
   "creationDate": "2019-01-28T19:59:11.721+00:00",
-  "lastModifiedDate": "2020-10-28T14:54:59.987+00:00",
+  "lastModifiedDate": "2023-06-27T20:33:02.918+00:00",
   "developer": "Zen Studios",
   "developerId": "o-r7rf64mtq3yr8uhhvdf8sba3hpqbj2",
-  "applicationId": null
+  "applicationId": ""
 }

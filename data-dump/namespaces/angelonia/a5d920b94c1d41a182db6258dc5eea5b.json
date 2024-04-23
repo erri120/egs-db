@@ -6,13 +6,22 @@
   "categories": "",
   "keyImages": [
     {
-      "type": "DieselGameBoxLogo",
-      "url": "https://cdn1.epicgames.com/angelonia/item/WatchDogs2_Logo_White-2208x368-af0e8beb8ed46fb18607855cf6a7ba73.png",
-      "md5": "af0e8beb8ed46fb18607855cf6a7ba73",
-      "width": 2208,
-      "height": 368,
-      "size": 128350,
-      "uploadedDate": "2019-03-15T22:26:58.47Z"
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/item/angelonia/WD2-STD-Capsule-1920x1080-2a2ed8c8265ab31156be8ab48a93dc212d5c7095_1920x1080-d464ec388187b042e0f5b6f1528d1f25",
+      "md5": "d464ec388187b042e0f5b6f1528d1f25",
+      "width": 1920,
+      "height": 1080,
+      "size": 339780,
+      "uploadedDate": "2024-04-16T14:19:10.45Z"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/item/angelonia/WDA_StorePortrait_1200x1600_1200x1600-75d21fb44d647ad69967ae1bb0ab0cbc_1200x1600-75d21fb44d647ad69967ae1bb0ab0cbc",
+      "md5": "75d21fb44d647ad69967ae1bb0ab0cbc",
+      "width": 1200,
+      "height": 1600,
+      "size": 821984,
+      "uploadedDate": "2024-04-16T14:19:07.511Z"
     },
     {
       "type": "Thumbnail",
@@ -22,29 +31,11 @@
       "height": 400,
       "size": 31464,
       "uploadedDate": "2019-03-15T22:27:13.761Z"
-    },
-    {
-      "type": "DieselGameBox",
-      "url": "https://cdn1.epicgames.com/angelonia/item/WatchDogs2_PrimaryPromo-2580x1450-56dc48bef79a143cd9dae85dcf79df46.jpg",
-      "md5": "56dc48bef79a143cd9dae85dcf79df46",
-      "width": 2580,
-      "height": 1450,
-      "size": 496429,
-      "uploadedDate": "2019-03-18T23:51:00.557Z"
-    },
-    {
-      "type": "DieselGameBoxTall",
-      "url": "https://cdn1.epicgames.com/angelonia/item/WatchDogs2_PortraitPromo-1280x1420-8ef789a7185a709178f51c0e9d42ee9a.jpg",
-      "md5": "8ef789a7185a709178f51c0e9d42ee9a",
-      "width": 1280,
-      "height": 1420,
-      "size": 295916,
-      "uploadedDate": "2019-10-22T09:41:44.79Z"
     }
   ],
   "creationDate": "2019-02-10T16:57:41.596+00:00",
-  "lastModifiedDate": "2020-01-28T15:56:14.912+00:00",
+  "lastModifiedDate": "2024-04-16T14:19:26.734+00:00",
   "developer": "Ubisoft Entertainment",
   "developerId": "o-3efjudxdtgsqnulml4bkeq3v9nec38",
-  "applicationId": null
+  "applicationId": ""
 }

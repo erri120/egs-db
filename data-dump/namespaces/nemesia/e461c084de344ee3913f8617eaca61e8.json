@@ -1,6 +1,6 @@
 {
   "id": "e461c084de344ee3913f8617eaca61e8",
-  "title": "Vampire: The Masquerade \u2013 Bloodlines 2 General Audience",
+  "title": "Standard General Audience",
   "description": "Vampire: The Masquerade \u2013 Bloodlines 2 General Audience",
   "namespace": "nemesia",
   "categories": "",
@@ -16,8 +16,8 @@
     }
   ],
   "creationDate": "2019-03-13T12:16:08.285+00:00",
-  "lastModifiedDate": "2019-08-06T17:38:45.624+00:00",
+  "lastModifiedDate": "2023-09-04T07:57:42.466+00:00",
   "developer": "Paradox Interactive",
   "developerId": "o-tjvfg6rejs6h86qa7k9aa64rrgbxxb",
-  "applicationId": null
+  "applicationId": ""
 }

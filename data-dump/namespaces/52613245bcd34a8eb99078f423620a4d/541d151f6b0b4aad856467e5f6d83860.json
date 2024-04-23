@@ -1,0 +1,32 @@
+{
+  "id": "541d151f6b0b4aad856467e5f6d83860",
+  "title": "Flamingo Pre-Purchase Audience",
+  "description": "Flamingo Pre-Purchase Audience",
+  "namespace": "52613245bcd34a8eb99078f423620a4d",
+  "categories": "",
+  "keyImages": [
+    {
+      "type": "ESRB",
+      "url": "https://cdn1.epicgames.com/52613245bcd34a8eb99078f423620a4d/item/ESRB_Paranoia-842x404-f34529daa4c2fc969dde2a74360ec2c2.png",
+      "md5": "f34529daa4c2fc969dde2a74360ec2c2",
+      "width": 842,
+      "height": 404,
+      "size": 13253,
+      "uploadedDate": "2019-09-20T20:04:03.251Z"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/52613245bcd34a8eb99078f423620a4d/item/EGS_Bigben_Paranoia_S3-1084x1356-931b0c534dc68a9df8160626655116cf.jpg",
+      "md5": "931b0c534dc68a9df8160626655116cf",
+      "width": 1084,
+      "height": 1356,
+      "size": 305189,
+      "uploadedDate": "2019-10-22T09:41:44.79Z"
+    }
+  ],
+  "creationDate": "2019-09-20T18:32:03.044+00:00",
+  "lastModifiedDate": "2023-08-18T09:53:55.151+00:00",
+  "developer": "Nacon",
+  "developerId": "o-wubu848ps2xcxuwv2m3bhet9gbhdbp",
+  "applicationId": null
+}

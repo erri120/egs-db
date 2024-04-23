@@ -1,7 +1,7 @@
 {
   "id": "1435482705064efc8b3f8453a83ff674",
-  "title": "Unsanctioned Audience",
-  "description": "Unsanctioned Audience",
+  "title": "Unsanctioned Edition Pre-Purchase Audience",
+  "description": "Unsanctioned Edition Pre-Purchase Audience",
   "namespace": "nemesia",
   "categories": "",
   "keyImages": [
@@ -16,8 +16,8 @@
     }
   ],
   "creationDate": "2019-03-15T02:10:26.633+00:00",
-  "lastModifiedDate": "2019-06-14T12:32:00.873+00:00",
+  "lastModifiedDate": "2023-09-04T07:57:42.581+00:00",
   "developer": "Paradox Interactive",
   "developerId": "o-tjvfg6rejs6h86qa7k9aa64rrgbxxb",
-  "applicationId": null
+  "applicationId": ""
 }

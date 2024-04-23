@@ -7,25 +7,25 @@
   "keyImages": [
     {
       "type": "DieselGameBox",
-      "url": "https://cdn1.epicgames.com/item/076207fa2b5c4803a636af606c3c28b7/SMITE-LandscapeImage-10r4-IxChel-2560x1440_2560x1440-b7af2c0a9a71f691f6a815132a49d326",
-      "md5": "b7af2c0a9a71f691f6a815132a49d326",
+      "url": "https://cdn1.epicgames.com/item/076207fa2b5c4803a636af606c3c28b7/SMITE-LandscapeImage-Poseidon-Nut-2560x1440_2560x1440-11be0be37edd729c88b4c8176321da6a",
+      "md5": "11be0be37edd729c88b4c8176321da6a",
       "width": 2560,
       "height": 1440,
-      "size": 660166,
-      "uploadedDate": "2023-04-14T13:27:24.559Z"
+      "size": 695359,
+      "uploadedDate": "2024-04-10T10:11:19.154Z"
     },
     {
       "type": "DieselGameBoxTall",
-      "url": "https://cdn1.epicgames.com/item/076207fa2b5c4803a636af606c3c28b7/SMITE-PortraitImagev2-10r4-IxChel-1200x1600_1200x1600-22e5d16c7048a58e590180071cf989e7",
-      "md5": "22e5d16c7048a58e590180071cf989e7",
+      "url": "https://cdn1.epicgames.com/item/076207fa2b5c4803a636af606c3c28b7/SMITE-PortraitImagev2-Poseidon-Nut-1200x1600_1200x1600-5d6e846c5f260adada516998e3df6fc6",
+      "md5": "5d6e846c5f260adada516998e3df6fc6",
       "width": 1200,
       "height": 1600,
-      "size": 394376,
-      "uploadedDate": "2023-04-14T13:27:36.934Z"
+      "size": 453140,
+      "uploadedDate": "2024-04-10T10:11:23.035Z"
     }
   ],
   "creationDate": "2019-10-18T01:53:04.913+00:00",
-  "lastModifiedDate": "2023-04-24T09:27:33.348+00:00",
+  "lastModifiedDate": "2024-04-16T11:06:07.814+00:00",
   "developer": "Hi-Rez Studios",
   "developerId": "o-7aklpapnk74p66sqs6hm5byt29wp66",
   "applicationId": ""

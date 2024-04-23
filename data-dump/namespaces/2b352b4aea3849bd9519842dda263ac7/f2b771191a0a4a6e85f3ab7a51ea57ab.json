@@ -1,31 +1,31 @@
 {
   "id": "f2b771191a0a4a6e85f3ab7a51ea57ab",
-  "title": "CRSED: F.O.A.D.",
-  "description": "CRSED: F.O.A.D.",
+  "title": "CRSED: Cuisine Royale",
+  "description": "CRSED: Cuisine Royale",
   "namespace": "2b352b4aea3849bd9519842dda263ac7",
   "categories": "public/games/applications",
   "keyImages": [
     {
       "type": "DieselGameBox",
-      "url": "https://cdn1.epicgames.com/item/2b352b4aea3849bd9519842dda263ac7/EGS_CRSEDFOAD_DarkflowSoftware_S3_2560x1440-28ea72186c873c4f3311fdb185be8250",
-      "md5": "28ea72186c873c4f3311fdb185be8250",
+      "url": "https://cdn1.epicgames.com/item/2b352b4aea3849bd9519842dda263ac7/EGS_CRSEDCuisineRoyale_DarkflowSoftware_S1_2560x1440-349f065112214ceb131cce235b69723d",
+      "md5": "349f065112214ceb131cce235b69723d",
       "width": 2560,
       "height": 1440,
-      "size": 278653,
-      "uploadedDate": "2022-10-07T16:06:44.154Z"
+      "size": 354926,
+      "uploadedDate": "2024-03-01T11:37:46.042Z"
     },
     {
       "type": "DieselGameBoxTall",
-      "url": "https://cdn1.epicgames.com/item/2b352b4aea3849bd9519842dda263ac7/EGS_CRSEDFOAD_DarkflowSoftware_S2_1200x1600-ad5e4a07ed56f7706d87128ca081991d",
-      "md5": "ad5e4a07ed56f7706d87128ca081991d",
+      "url": "https://cdn1.epicgames.com/item/2b352b4aea3849bd9519842dda263ac7/EGS_CRSEDCuisineRoyale_DarkflowSoftware_S2_1200x1600-fd0c0a63f4aa52f97c4497e52fe5c596",
+      "md5": "fd0c0a63f4aa52f97c4497e52fe5c596",
       "width": 1200,
       "height": 1600,
-      "size": 337976,
-      "uploadedDate": "2022-10-07T16:06:47.967Z"
+      "size": 309624,
+      "uploadedDate": "2024-03-01T11:37:48.967Z"
     }
   ],
   "creationDate": "2020-06-12T17:14:43.427+00:00",
-  "lastModifiedDate": "2022-10-07T16:06:58.132+00:00",
+  "lastModifiedDate": "2024-03-01T11:38:30.865+00:00",
   "developer": "Gaijin Distribution KFT",
   "developerId": "o-ryelu2twnhbef3b9dncwtqh38emq5n",
   "applicationId": "fghi4567VGYioeFRbECjDBGaTNlFy8Tb"

@@ -1,32 +1,32 @@
 {
   "id": "684e4c88cfb940c2b386ebc87ed47700",
-  "title": "Remnant 2",
-  "description": "Remnant 2",
+  "title": "Remnant II\u00AE",
+  "description": "Remnant II\u00AE",
   "namespace": "aa598567414d42378187b8861da550f7",
   "categories": "",
   "keyImages": [
     {
       "type": "DieselGameBox",
-      "url": "https://cdn1.epicgames.com/item/aa598567414d42378187b8861da550f7/EGS_Remnant2_GunfireGames_S1_2560x1440-60ae649e92ee031e051518ba0c4eac3c",
-      "md5": "60ae649e92ee031e051518ba0c4eac3c",
+      "url": "https://cdn1.epicgames.com/item/aa598567414d42378187b8861da550f7/EGS_RemnantII_GunfireGames_S1_2560x1440-273c0685a5b49c541a62fb63cac93c45",
+      "md5": "273c0685a5b49c541a62fb63cac93c45",
       "width": 2560,
       "height": 1440,
-      "size": 823380,
-      "uploadedDate": "2022-11-29T21:03:08.517Z"
+      "size": 827804,
+      "uploadedDate": "2024-02-23T14:54:29.083Z"
     },
     {
       "type": "DieselGameBoxTall",
-      "url": "https://cdn1.epicgames.com/item/aa598567414d42378187b8861da550f7/EGS_Remnant2_GunfireGames_S2_1200x1600-b0f53d8bfb7471ded53a69c570230c60",
-      "md5": "b0f53d8bfb7471ded53a69c570230c60",
+      "url": "https://cdn1.epicgames.com/item/aa598567414d42378187b8861da550f7/EGS_RemnantII_GunfireGames_S2_1200x1600-3365edad94b9306bc1e275bc7f4dd7d5",
+      "md5": "3365edad94b9306bc1e275bc7f4dd7d5",
       "width": 1200,
       "height": 1600,
-      "size": 632025,
-      "uploadedDate": "2022-11-29T21:03:11.056Z"
+      "size": 601973,
+      "uploadedDate": "2024-02-23T14:54:32.518Z"
     }
   ],
   "creationDate": "2022-11-11T03:19:34.796+00:00",
-  "lastModifiedDate": "2023-02-28T18:32:08.318+00:00",
-  "developer": "Gearbox Publishing San Francisco",
+  "lastModifiedDate": "2024-04-12T06:08:44.761+00:00",
+  "developer": "Arc Games",
   "developerId": "o-9nw6gkw2c9xlz6dk6z8vt7h5nbgm5w",
-  "applicationId": ""
+  "applicationId": "fghi4567iy3SC22KDs1oywg35UdE5Y8x"
 }

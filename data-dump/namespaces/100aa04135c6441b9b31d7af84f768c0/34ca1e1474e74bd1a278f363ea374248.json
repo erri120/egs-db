@@ -3,7 +3,7 @@
   "title": "Marketing \u0026 Malpractice",
   "description": "Marketing \u0026 Malpractice",
   "namespace": "100aa04135c6441b9b31d7af84f768c0",
-  "categories": "public/games/applications",
+  "categories": "public/addons/applications",
   "keyImages": [
     {
       "type": "DieselGameBox",
@@ -24,9 +24,9 @@
       "uploadedDate": "2021-01-27T04:54:36.967Z"
     }
   ],
-  "creationDate": "2021-01-06T16:59:04.373+00:00",
-  "lastModifiedDate": "2021-01-28T16:09:30.75+00:00",
+  "creationDate": "2024-02-16T18:24:25.798+00:00",
+  "lastModifiedDate": "2024-02-16T19:22:14.874+00:00",
   "developer": "Positech Computing Ltd",
   "developerId": "o-hrszwkzbhb269y9we9tpukac2zxb5e",
-  "applicationId": null
+  "applicationId": ""
 }

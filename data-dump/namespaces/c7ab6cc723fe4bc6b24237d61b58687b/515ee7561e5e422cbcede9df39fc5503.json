@@ -7,25 +7,25 @@
   "keyImages": [
     {
       "type": "DieselGameBoxTall",
-      "url": "https://cdn1.epicgames.com/item/c7ab6cc723fe4bc6b24237d61b58687b/SON_Product Portrait Image_1200x1600-ac5db4547eb87ecf127153940f809e66",
-      "md5": "ac5db4547eb87ecf127153940f809e66",
+      "url": "https://cdn1.epicgames.com/item/c7ab6cc723fe4bc6b24237d61b58687b/EN_US_RiotForge_SongofNunu_Product_Portrait_1200x1600_1200x1600-61976ad95d69e80f3fbbb2bed3324bcb",
+      "md5": "61976ad95d69e80f3fbbb2bed3324bcb",
       "width": 1200,
       "height": 1600,
-      "size": 235252,
-      "uploadedDate": "2021-11-16T05:52:53.433Z"
+      "size": 162951,
+      "uploadedDate": "2023-07-28T01:16:21.733Z"
     },
     {
       "type": "DieselGameBox",
-      "url": "https://cdn1.epicgames.com/item/c7ab6cc723fe4bc6b24237d61b58687b/SON_Product Landscape Image_2560x1440-27493a7886ed26b626f362e06d4a6578",
-      "md5": "27493a7886ed26b626f362e06d4a6578",
+      "url": "https://cdn1.epicgames.com/item/c7ab6cc723fe4bc6b24237d61b58687b/EN_US_RiotForge_SongofNunu_Library_Landscape_2560x1440_2560x1440-e0d6fc9311e6633c5223c29d8cf1546e",
+      "md5": "e0d6fc9311e6633c5223c29d8cf1546e",
       "width": 2560,
       "height": 1440,
-      "size": 388357,
-      "uploadedDate": "2021-11-16T05:53:01.072Z"
+      "size": 275554,
+      "uploadedDate": "2023-07-28T01:16:29.234Z"
     }
   ],
   "creationDate": "2020-06-29T16:06:51.399+00:00",
-  "lastModifiedDate": "2021-11-16T15:56:01.333+00:00",
+  "lastModifiedDate": "2023-09-14T14:59:46.752+00:00",
   "developer": "Riot Forge",
   "developerId": "o-ch65axjcvgpsutlhlcyvqkx3fkmk44",
   "applicationId": ""

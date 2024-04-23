@@ -1,0 +1,32 @@
+{
+  "id": "88c44588ec9e48eba3e4066a38cb0284",
+  "title": "MiddlemistStagingTwo",
+  "description": "MiddlemistStagingTwo",
+  "namespace": "middlemist",
+  "categories": "",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/middlemist/item/TheSinkingCity_PrimaryPromo-2560x1440-f716054a8b406fe06b154861a9670e19.jpg",
+      "md5": "f716054a8b406fe06b154861a9670e19",
+      "width": 2560,
+      "height": 1440,
+      "size": 399120,
+      "uploadedDate": "2019-06-11T14:16:22.003Z"
+    },
+    {
+      "type": "DieselGameBoxLogo",
+      "url": "https://cdn1.epicgames.com/middlemist/item/TheSinkingCity_Logo_Black-1920x428-ff25d7b8417c200731a26d002d4c4dcc.png",
+      "md5": "ff25d7b8417c200731a26d002d4c4dcc",
+      "width": 1920,
+      "height": 428,
+      "size": 107982,
+      "uploadedDate": "2019-06-11T14:16:34.988Z"
+    }
+  ],
+  "creationDate": "2019-06-11T14:18:44.887+00:00",
+  "lastModifiedDate": "2024-01-22T15:13:08.316+00:00",
+  "developer": "Frogwares",
+  "developerId": "o-rlw9u3sem84g2hc3ur36dqnp7wul3j",
+  "applicationId": null
+}

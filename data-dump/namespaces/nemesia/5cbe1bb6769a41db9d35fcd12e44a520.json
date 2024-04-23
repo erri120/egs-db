@@ -1,7 +1,7 @@
 {
   "id": "5cbe1bb6769a41db9d35fcd12e44a520",
-  "title": "Vampire: The Masquerade \u2013 Bloodlines 2 Early-Access Audience",
-  "description": "Vampire: The Masquerade \u2013 Bloodlines 2 Early-Access Audience",
+  "title": "Early-Access Audience",
+  "description": "Early-Access Audience",
   "namespace": "nemesia",
   "categories": "",
   "keyImages": [
@@ -16,8 +16,8 @@
     }
   ],
   "creationDate": "2019-03-15T03:19:33.762+00:00",
-  "lastModifiedDate": "2019-06-14T12:32:00.873+00:00",
+  "lastModifiedDate": "2023-09-04T07:57:42.439+00:00",
   "developer": "Paradox Interactive",
   "developerId": "o-tjvfg6rejs6h86qa7k9aa64rrgbxxb",
-  "applicationId": null
+  "applicationId": ""
 }

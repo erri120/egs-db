@@ -1,0 +1,32 @@
+{
+  "id": "6955d87b85a64170860aa6e85c3f5f64",
+  "title": "Rainbow Six Siege Free Trial Week",
+  "description": "Rainbow Six Siege Free Trial Week",
+  "namespace": "carnation",
+  "categories": "",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/item/carnation/EGST_Capsule_1920x1080_1920x1080-05a7f32eaa3b0d87c35adc4a5e1374ee",
+      "md5": "05a7f32eaa3b0d87c35adc4a5e1374ee",
+      "width": 1920,
+      "height": 1080,
+      "size": 1167343,
+      "uploadedDate": "2024-03-06T12:28:32.887Z"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/item/carnation/EGST_Portrait_1200x1600_1200x1600-0bcd3594e838dd0f9294b5ca631fe383",
+      "md5": "0bcd3594e838dd0f9294b5ca631fe383",
+      "width": 1200,
+      "height": 1600,
+      "size": 1225578,
+      "uploadedDate": "2024-03-06T12:28:36.272Z"
+    }
+  ],
+  "creationDate": "2019-08-22T19:24:49.545+00:00",
+  "lastModifiedDate": "2024-03-18T12:21:49.21+00:00",
+  "developer": "Ubisoft Entertainment",
+  "developerId": "o-3efjudxdtgsqnulml4bkeq3v9nec38",
+  "applicationId": ""
+}

@@ -7,35 +7,26 @@
   "keyImages": [
     {
       "type": "DieselGameBox",
-      "url": "https://cdn1.epicgames.com/hyacinth/item/GhostReconWildlands_GamePagePromo-1920x1080-f0e23870dd6468664ad99339e75086c2.jpg",
-      "md5": "f0e23870dd6468664ad99339e75086c2",
+      "url": "https://cdn1.epicgames.com/item/hyacinth/wildlandwide_1920x1080-6403feb1880df59323d1aabfd57cebbe",
+      "md5": "6403feb1880df59323d1aabfd57cebbe",
       "width": 1920,
       "height": 1080,
-      "size": 443304,
-      "uploadedDate": "2019-02-13T14:28:36.972Z"
-    },
-    {
-      "type": "DieselGameBoxLogo",
-      "url": "https://cdn1.epicgames.com/hyacinth/item/GhostReconWildlands_GameLogo-1920x454-8e94e01a4a07a0667705af81313d2f56.png",
-      "md5": "8e94e01a4a07a0667705af81313d2f56",
-      "width": 1920,
-      "height": 454,
-      "size": 1916094,
-      "uploadedDate": "2019-02-13T14:28:45.288Z"
+      "size": 242066,
+      "uploadedDate": "2023-07-20T20:29:30.325Z"
     },
     {
       "type": "DieselGameBoxTall",
-      "url": "https://cdn1.epicgames.com/hyacinth/item/GhostReconWildlands_PortraitPromo-974x1080-a1bf09c22e6c1fbdf69b52bc3e4d05a7.jpg",
-      "md5": "a1bf09c22e6c1fbdf69b52bc3e4d05a7",
-      "width": 974,
-      "height": 1080,
-      "size": 212938,
-      "uploadedDate": "2019-10-22T09:41:44.79Z"
+      "url": "https://cdn1.epicgames.com/item/hyacinth/wildlandtall_1200x1600-78b13dd96e208170ca3ed32b3034fcc2",
+      "md5": "78b13dd96e208170ca3ed32b3034fcc2",
+      "width": 1200,
+      "height": 1600,
+      "size": 863816,
+      "uploadedDate": "2023-07-20T20:29:34.039Z"
     }
   ],
   "creationDate": "2019-02-10T16:31:50.047+00:00",
-  "lastModifiedDate": "2020-12-15T18:10:26.692+00:00",
+  "lastModifiedDate": "2024-03-21T01:31:35.945+00:00",
   "developer": "Ubisoft Entertainment",
   "developerId": "o-3efjudxdtgsqnulml4bkeq3v9nec38",
-  "applicationId": null
+  "applicationId": ""
 }

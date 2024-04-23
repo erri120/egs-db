@@ -7,25 +7,25 @@
   "keyImages": [
     {
       "type": "DieselGameBox",
-      "url": "https://cdn1.epicgames.com/item/crab/U7_Epic_2560x1440_Logo_2560x1440-bbca71b28786d26e91f29f1c3649a781",
-      "md5": "bbca71b28786d26e91f29f1c3649a781",
+      "url": "https://cdn1.epicgames.com/item/crab/Satisfactory_U8_Epic_2560x1440_Logo_2560x1440-7c2149c828336352a3e79541fa5de064",
+      "md5": "7c2149c828336352a3e79541fa5de064",
       "width": 2560,
       "height": 1440,
-      "size": 4529832,
-      "uploadedDate": "2022-11-14T21:07:56.698Z"
+      "size": 5463930,
+      "uploadedDate": "2023-06-13T21:39:04.683Z"
     },
     {
       "type": "DieselGameBoxTall",
-      "url": "https://cdn1.epicgames.com/item/crab/U7_Epic_1200x1600_Logo_1200x1600-ed7f1a9f8a59acbfaba61af7accc0a4b",
-      "md5": "ed7f1a9f8a59acbfaba61af7accc0a4b",
+      "url": "https://cdn1.epicgames.com/item/crab/Satisfactory_U8_Epic_1200x1600_Logo_1200x1600-778e8ef32d757f423acdbed200e8fac6",
+      "md5": "778e8ef32d757f423acdbed200e8fac6",
       "width": 1200,
       "height": 1600,
-      "size": 2207586,
-      "uploadedDate": "2022-11-14T21:08:00.721Z"
+      "size": 2854243,
+      "uploadedDate": "2023-06-13T21:39:10.512Z"
     }
   ],
   "creationDate": "2019-04-03T20:31:28.361+00:00",
-  "lastModifiedDate": "2022-11-15T21:11:51.27+00:00",
+  "lastModifiedDate": "2023-06-13T21:43:49.044+00:00",
   "developer": "Coffee Stain Publishing",
   "developerId": "o-9r9hp69ccnr39qp9f9mgpsznznu4as",
   "applicationId": ""

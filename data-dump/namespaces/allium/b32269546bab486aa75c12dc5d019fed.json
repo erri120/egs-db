@@ -7,12 +7,12 @@
   "keyImages": [
     {
       "type": "DieselGameBox",
-      "url": "https://cdn1.epicgames.com/allium/item/Observation_PrimaryPromo-1920x1080-515772930cdd49854eedd42128215ffc.jpg",
-      "md5": "515772930cdd49854eedd42128215ffc",
-      "width": 1920,
-      "height": 1080,
-      "size": 351193,
-      "uploadedDate": "2019-03-25T20:43:23.495Z"
+      "url": "https://cdn1.epicgames.com/item/allium/Wide_2560x1440-de8aaf4818ac56f530e5fd0450894416",
+      "md5": "de8aaf4818ac56f530e5fd0450894416",
+      "width": 2560,
+      "height": 1440,
+      "size": 719016,
+      "uploadedDate": "2024-04-10T18:55:09.287Z"
     },
     {
       "type": "DieselGameBoxLogo",
@@ -25,17 +25,17 @@
     },
     {
       "type": "DieselGameBoxTall",
-      "url": "https://cdn1.epicgames.com/allium/item/Observation_PortraitPromo-960x1080-ec0f60994d154b3d0bc2c4226427bbeb.jpg",
-      "md5": "ec0f60994d154b3d0bc2c4226427bbeb",
-      "width": 960,
-      "height": 1080,
-      "size": 132970,
-      "uploadedDate": "2019-10-22T09:41:44.79Z"
+      "url": "https://cdn1.epicgames.com/item/allium/Tall_1200x1600-646c78ac0e1fbdfd385bd47e818ade7e",
+      "md5": "646c78ac0e1fbdfd385bd47e818ade7e",
+      "width": 1200,
+      "height": 1600,
+      "size": 311704,
+      "uploadedDate": "2024-04-10T18:54:53.794Z"
     }
   ],
   "creationDate": "2019-03-25T20:35:01.314+00:00",
-  "lastModifiedDate": "2019-11-19T17:03:17.919+00:00",
+  "lastModifiedDate": "2024-04-10T18:55:11.766+00:00",
   "developer": "Devolver Digital, Inc.",
   "developerId": "o-plnhdz2wfx5etjjeh88szjqy2gx8gw",
-  "applicationId": null
+  "applicationId": ""
 }

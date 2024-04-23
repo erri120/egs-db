@@ -1,0 +1,41 @@
+{
+  "id": "43810ab501a244e1a8480d4fa2cdc1bf",
+  "title": "The Sinking City Staging",
+  "description": "The Sinking City Staging",
+  "namespace": "middlemist",
+  "categories": "",
+  "keyImages": [
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/middlemist/item/TheSinkingCity_GameIcon-400x400-43a5f8e91aaf5b1f3745f3b203df2528.png",
+      "md5": "43a5f8e91aaf5b1f3745f3b203df2528",
+      "width": 400,
+      "height": 400,
+      "size": 15428,
+      "uploadedDate": "2019-03-18T16:46:18.039Z"
+    },
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/middlemist/item/TheSinkingCity_PrimaryPromo-2560x1440-f716054a8b406fe06b154861a9670e19.jpg",
+      "md5": "f716054a8b406fe06b154861a9670e19",
+      "width": 2560,
+      "height": 1440,
+      "size": 399120,
+      "uploadedDate": "2019-03-18T16:53:57.62Z"
+    },
+    {
+      "type": "DieselGameBoxLogo",
+      "url": "https://cdn1.epicgames.com/middlemist/item/TheSinkingCity_Logo_Black-1920x428-ff25d7b8417c200731a26d002d4c4dcc.png",
+      "md5": "ff25d7b8417c200731a26d002d4c4dcc",
+      "width": 1920,
+      "height": 428,
+      "size": 107982,
+      "uploadedDate": "2019-03-18T16:54:05.174Z"
+    }
+  ],
+  "creationDate": "2019-03-18T04:31:48.358+00:00",
+  "lastModifiedDate": "2024-02-16T14:57:35.879+00:00",
+  "developer": "Frogwares",
+  "developerId": "o-rlw9u3sem84g2hc3ur36dqnp7wul3j",
+  "applicationId": ""
+}

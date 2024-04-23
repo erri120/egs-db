@@ -1,6 +1,6 @@
 {
   "id": "a9e8b5b1410e4a4c90a910537c9320ed",
-  "title": "Vampire: The Masquerade \u2013 Bloodlines 2 Pre-Purchase Audience",
+  "title": "Standard Pre-Purchase Audience",
   "description": "Vampire: The Masquerade \u2013 Bloodlines 2 Pre-Purchase Audience",
   "namespace": "nemesia",
   "categories": "",
@@ -16,8 +16,8 @@
     }
   ],
   "creationDate": "2019-03-15T03:02:58.208+00:00",
-  "lastModifiedDate": "2019-06-14T12:32:00.873+00:00",
+  "lastModifiedDate": "2023-09-04T07:57:42.45+00:00",
   "developer": "Paradox Interactive",
   "developerId": "o-tjvfg6rejs6h86qa7k9aa64rrgbxxb",
-  "applicationId": null
+  "applicationId": ""
 }

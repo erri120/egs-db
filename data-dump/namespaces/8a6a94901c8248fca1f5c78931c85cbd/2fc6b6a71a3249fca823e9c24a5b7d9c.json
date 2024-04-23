@@ -16,17 +16,17 @@
     },
     {
       "type": "DieselGameBoxTall",
-      "url": "https://cdn1.epicgames.com/8a6a94901c8248fca1f5c78931c85cbd/item/SOMA_portrait-1280x1440-f87e5302e425c7fb4aec8cd79953c779-1280x1440-f87e5302e425c7fb4aec8cd79953c779-1280x1440-f87e5302e425c7fb4aec8cd79953c779.jpg",
-      "md5": "f87e5302e425c7fb4aec8cd79953c779",
-      "width": 1280,
-      "height": 1440,
-      "size": 125843,
-      "uploadedDate": "2019-11-20T21:03:40.333Z"
+      "url": "https://cdn1.epicgames.com/item/8a6a94901c8248fca1f5c78931c85cbd/SOMA_1200x1600-db37622eb525f124d94b79778b697f53",
+      "md5": "db37622eb525f124d94b79778b697f53",
+      "width": 1200,
+      "height": 1600,
+      "size": 1460496,
+      "uploadedDate": "2024-01-24T16:03:08.796Z"
     }
   ],
   "creationDate": "2019-10-01T23:32:54.288+00:00",
-  "lastModifiedDate": "2019-11-20T21:03:44.226+00:00",
+  "lastModifiedDate": "2024-01-24T16:03:25.553+00:00",
   "developer": "Frictional Games",
   "developerId": "o-aclcw9pm582trqsqg66qfkfp9u9nw7",
-  "applicationId": null
+  "applicationId": ""
 }
